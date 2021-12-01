@@ -1,5 +1,7 @@
-通往主阵地的路 → <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts" target="_blank">GitHub原版项目</a>
-<img src="https://i.v2ex.co/wF4Dx0vO.png">
+<div align="center">
+    <img src="https://i.v2ex.co/wF4Dx0vO.png">
+    <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts" target="_blank">GitHub版本</a> | 码云版本
+</div>
 
 ## 设立目的
 
