@@ -64,7 +64,7 @@
   - [Vim Script](https://gitee.com/kon9chunkit/GitHub-Chinese-Top-Charts#vim-script)
   - [Perl](https://gitee.com/kon9chunkit/GitHub-Chinese-Top-Charts#perl)
 
-<br/>
+---
 
 ## All Language
 
