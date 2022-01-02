@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[apache/apisix](https://gitee.com/apache/apisix)|The Cloud-Native API Gateway|8039|2022-01-02|
+|1|[apache/apisix](https://gitee.com/apache/apisix)|The Cloud-Native API Gateway|8040|2022-01-02|
 |2|[orlabs/orange](https://gitee.com/orlabs/orange)|OpenResty/Nginx Gateway for API Monitoring and Management.|2209|2021-12-22|
 |3|[openresty/lua-resty-redis](https://gitee.com/openresty/lua-resty-redis)|Lua redis client driver for the ngx_lua based on the cosocket API|1648|2021-12-17|
-|4|[jerrykuku/luci-app-vssr](https://gitee.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1564|2021-12-16|
+|4|[jerrykuku/luci-app-vssr](https://gitee.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1565|2021-12-16|
 |5|[starwing/lua-protobuf](https://gitee.com/starwing/lua-protobuf)|A Lua module to work with Google protobuf|1228|2021-12-30|
 |6|[wongdean/rime-settings](https://gitee.com/wongdean/rime-settings)|接近原生的鼠须管 Rime 配置|1082|2021-12-14|
 |7|[starjun/openstar](https://gitee.com/starjun/openstar)|lua waf,nginx+lua,openresty,luajit,waf+,cdn,nginx|1022|2021-10-10|
@@ -20,7 +20,7 @@
 |13|[openresty/lua-resty-limit-traffic](https://gitee.com/openresty/lua-resty-limit-traffic)|Lua library for limiting and controlling traffic in OpenResty/ngx_lua|707|2021-12-10|
 |14|[openresty/lua-resty-mysql](https://gitee.com/openresty/lua-resty-mysql)|Nonblocking Lua MySQL driver library for ngx_lua or OpenResty|635|2021-12-10|
 |15|[acecilia/OpenWRTInvasion](https://gitee.com/acecilia/OpenWRTInvasion)|Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...|634|2021-12-16|
-|16|[rsjaffe/MIDI2LR](https://gitee.com/rsjaffe/MIDI2LR)|An application and plugin to remotely control Lightroom with a MIDI controller|528|2021-12-25|
+|16|[rsjaffe/MIDI2LR](https://gitee.com/rsjaffe/MIDI2LR)|An application and plugin to remotely control Lightroom with a MIDI controller|529|2021-12-25|
 |17|[lisaac/luci-app-dockerman](https://gitee.com/lisaac/luci-app-dockerman)|Docker Manager interface for LuCI|493|2021-12-18|
 |18|[EmmyLua/VSCode-EmmyLua](https://gitee.com/EmmyLua/VSCode-EmmyLua)|Lua IDE/Debugger Plugin for VSCode|471|2021-09-27|
 |19|[IgorTimofeev/MineOS](https://gitee.com/IgorTimofeev/MineOS)|Home of MineOS and it's software for OpenComputers mod|451|2022-01-01|
@@ -32,7 +32,7 @@
 |25|[openresty/lua-resty-lrucache](https://gitee.com/openresty/lua-resty-lrucache)|Lua-land LRU Cache based on LuaJIT FFI|373|2021-10-15|
 |26|[apioak/apioak](https://gitee.com/apioak/apioak)|Full Lifecycle Management API Gateway.|362|2021-11-06|
 |27|[cloudwu/stellaris_cn](https://gitee.com/cloudwu/stellaris_cn)|Stellaris 群星 汉化 Mod|361|2021-11-23|
-|28|[ayamir/nvimdots](https://gitee.com/ayamir/nvimdots)|A well configured and structured Neovim.|354|2021-12-30|
+|28|[ayamir/nvimdots](https://gitee.com/ayamir/nvimdots)|A well configured and structured Neovim.|354|2022-01-02|
 |29|[citizenlab/chat-censorship](https://gitee.com/citizenlab/chat-censorship)|Data related to investigation of chat client censorship|348|2021-08-27|
 |30|[ElvUI-WotLK/ElvUI](https://gitee.com/ElvUI-WotLK/ElvUI)|ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a)|278|2021-09-26|
 |31|[cfadmin-cn/cfadmin](https://gitee.com/cfadmin-cn/cfadmin)|A lua web network framework.|248|2022-01-01|
@@ -47,12 +47,12 @@
 |40|[luastar/luastar](https://gitee.com/luastar/luastar)|一个基于openresty的http接口和web开发框架|135|2021-07-14|
 |41|[BlindingDark/rime-easy-en](https://gitee.com/BlindingDark/rime-easy-en)|Rime / Easy English 英文输入法|127|2021-06-08|
 |42|[EsreverWoW/ShestakUI_Classic](https://gitee.com/EsreverWoW/ShestakUI_Classic)|ShestakUI for WoW Classic (1.14.0) and Burning Crusade Classic (2.5.2)|115|2021-11-17|
-|43|[Creckeryop/NOBORU](https://gitee.com/Creckeryop/NOBORU)|Application for PlayStation Vita to read manga or comics|112|2021-10-24|
+|43|[Creckeryop/NOBORU](https://gitee.com/Creckeryop/NOBORU)|Application for PlayStation Vita to read manga or comics|112|2022-01-02|
 |44|[26F-Studio/Techmino](https://gitee.com/26F-Studio/Techmino)|Techmino:方块研究所唯一官方仓库(Github)|103|2022-01-02|
 |45|[HDoujinDownloader/HDoujinDownloader](https://gitee.com/HDoujinDownloader/HDoujinDownloader)|An easy-to-use manga and dōjinshi downloader supporting 800+ different websites|102|2021-12-30|
 |46|[anjia0532/lua-resty-redis-util](https://gitee.com/anjia0532/lua-resty-redis-util)|openresty/lua-resty-redis 封装工具类|102|2021-12-15|
 |47|[Iorest/rime-setting](https://gitee.com/Iorest/rime-setting)|rime 输入法配置|101|2021-10-03|
-|48|[vRP-Official-Developers/dunko_vrp](https://gitee.com/vRP-Official-Developers/dunko_vrp)|Dunko vRP V6.7|101|2021-12-15|
+|48|[vRP-Official-Developers/dunko_vrp](https://gitee.com/vRP-Official-Developers/dunko_vrp)|Dunko vRP V6.7|101|2022-01-02|
 |49|[linkease/istore](https://gitee.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|100|2021-12-21|
 |50|[jerrykuku/luci-app-ttnode](https://gitee.com/jerrykuku/luci-app-ttnode)|一个运行在openwrt下的甜糖星愿自动采集插件。|97|2021-10-24|
 |51|[horan-geeker/nana](https://gitee.com/horan-geeker/nana)|Lua http api framework|96|2021-11-20|
@@ -71,7 +71,7 @@
 |64|[ryohuang/slim-wrt](https://gitee.com/ryohuang/slim-wrt)|Armor for Openwrt|66|2021-11-15|
 |65|[defold/doc](https://gitee.com/defold/doc)|Defold game engine documentation for www.defold.com|66|2021-12-31|
 |66|[fang2hou/ElvUI_WindTools](https://gitee.com/fang2hou/ElvUI_WindTools)|Customizable Enhancement for ElvUI|64|2021-12-05|
-|67|[hunzsig-warcraft3/h-lua](https://gitee.com/hunzsig-warcraft3/h-lua)|H-Lua SDK. This project has been stopped.|62|2021-12-29|
+|67|[hunzsig-warcraft3/h-lua](https://gitee.com/hunzsig-warcraft3/h-lua)|H-Lua SDK. This project has been stopped.|62|2022-01-02|
 |68|[kiccer/logitech-macro-frame](https://gitee.com/kiccer/logitech-macro-frame)|罗技宏框架 - 提炼自 kiccer/Soldier76 项目|60|2021-08-10|
 |69|[tech-microworld/ws-cloud-gateway](https://gitee.com/tech-microworld/ws-cloud-gateway)|基于 openresty + etcd 实现的轻量级网关服务|59|2021-11-23|
 |70|[FrSkyRC/ETHOS-Feedback-Community](https://gitee.com/FrSkyRC/ETHOS-Feedback-Community)|Feedbacks & suggestion are very appreciated on ETHOS of FrSky|56|2021-12-28|

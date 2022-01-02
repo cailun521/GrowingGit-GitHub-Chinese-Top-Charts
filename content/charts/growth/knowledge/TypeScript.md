@@ -5,16 +5,16 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Kaiyiwing/qwerty-learner](https://gitee.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3589|10|2021-12-16|
+|1|[Kaiyiwing/qwerty-learner](https://gitee.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3590|10|2021-12-16|
 |2|[chowa/ejyy](https://gitee.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|515|9|2021-12-30|
-|3|[basarat/typescript-book](https://gitee.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16326|7|2021-10-12|
+|3|[basarat/typescript-book](https://gitee.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16329|7|2021-10-12|
 |4|[antonioru/beautiful-react-hooks](https://gitee.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5249|7|2021-10-18|
 |5|[cuixiaorui/mini-vue](https://gitee.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|3980|7|2021-12-28|
 |6|[any86/any-rule](https://gitee.com/any86/any-rule)|🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台|5763|6|2021-12-21|
-|7|[doodlewind/jshistory-cn](https://gitee.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3699|6|2021-11-25|
-|8|[xcatliu/typescript-tutorial](https://gitee.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8437|4|2021-12-09|
+|7|[doodlewind/jshistory-cn](https://gitee.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3700|6|2021-11-25|
+|8|[xcatliu/typescript-tutorial](https://gitee.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8438|4|2021-12-09|
 |9|[jkchao/typescript-book-chinese](https://gitee.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5061|4|2021-11-11|
-|10|[crimx/ext-saladict](https://gitee.com/crimx/ext-saladict)|🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.|8465|4|2021-12-26|
+|10|[crimx/ext-saladict](https://gitee.com/crimx/ext-saladict)|🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.|8468|4|2021-12-26|
 |11|[phodal/ledge](https://gitee.com/phodal/ledge)|Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。|1771|3|2021-10-26|
 |12|[alibaba/pipcook](https://gitee.com/alibaba/pipcook)|Machine learning platform for Web developers|2194|3|2022-01-02|
 |13|[sorrycc/weekly](https://gitee.com/sorrycc/weekly)|前端周刊，每周一发布。|769|3|2021-12-27|
@@ -23,14 +23,14 @@
 |16|[soroushchehresa/awesome-coronavirus](https://gitee.com/soroushchehresa/awesome-coronavirus)|🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)|1462|2|2022-01-01|
 |17|[zhongsp/TypeScript](https://gitee.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5433|2|2021-11-20|
 |18|[bytedance/guide](https://gitee.com/bytedance/guide)|A new feature guide component by react 🧭|466|2|2021-08-07|
-|19|[lint-md/lint-md](https://gitee.com/lint-md/lint-md)|:books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。支持 API 调用！|783|1|2021-12-28|
+|19|[lint-md/lint-md](https://gitee.com/lint-md/lint-md)|:books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。支持 API 调用！|784|1|2021-12-28|
 |20|[alanhzw/WarblerHomepage](https://gitee.com/alanhzw/WarblerHomepage)|流莺书签|127|1|2021-12-14|
 |21|[dzzzzzy/Nestjs-Learning](https://gitee.com/dzzzzzy/Nestjs-Learning)|nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:|763|1|2021-10-18|
-|22|[purocean/yn](https://gitee.com/purocean/yn)|A Hackable Markdown Note Application for Programmers. Documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.|771|1|2022-01-01|
+|22|[purocean/yn](https://gitee.com/purocean/yn)|A Hackable Markdown Note Application for Programmers. Documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.|776|1|2022-01-02|
 |23|[hylerrix/deno-tutorial](https://gitee.com/hylerrix/deno-tutorial)|:sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发|714|1|2021-07-22|
-|24|[tiddly-gittly/TidGi-Desktop](https://gitee.com/tiddly-gittly/TidGi-Desktop)|TidGi is an auto-git-backup, privatcy-in-mind, freely-deployed Tiddlywiki knowledgement Desktop app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能自动用Git备份、保护隐私内容、部署为博客，且可通过RESTAPI与Anki等 ...|370|1|2021-12-28|
+|24|[tiddly-gittly/TidGi-Desktop](https://gitee.com/tiddly-gittly/TidGi-Desktop)|TidGi is an auto-git-backup, privatcy-in-mind, freely-deployed Tiddlywiki knowledgement Desktop app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能自动用Git备份、保护隐私内容、部署为博客，且可通过RESTAPI与Anki等 ...|370|1|2022-01-02|
 |25|[zenghongtu/react-use-chinese](https://gitee.com/zenghongtu/react-use-chinese)|中文文档@react-use|826|1|2021-12-06|
-|26|[loomnetwork/cryptozombie-lessons](https://gitee.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|793|1|2021-12-28|
+|26|[loomnetwork/cryptozombie-lessons](https://gitee.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|793|1|2022-01-02|
 |27|[RxJS-CN/learn-rxjs-operators](https://gitee.com/RxJS-CN/learn-rxjs-operators)|Learn RxJS 中文版 (通过清晰的示例来学习 RxJS 5 操作符)|854|1|2021-07-08|
 |28|[alibaba/kiwi](https://gitee.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|1923|1|2021-12-17|
 |29|[loiane/javascript-datastructures-algorithms](https://gitee.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3243|1|2021-10-01|

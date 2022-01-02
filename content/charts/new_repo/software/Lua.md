@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ayamir/nvimdots](https://gitee.com/ayamir/nvimdots)|A well configured and structured Neovim.|354|2021-12-30|2021-06-19|
+|1|[ayamir/nvimdots](https://gitee.com/ayamir/nvimdots)|A well configured and structured Neovim.|354|2022-01-02|2021-06-19|
 |2|[linkease/istore](https://gitee.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|100|2021-12-21|2021-08-24|
 |3|[ryohuang/slim-wrt](https://gitee.com/ryohuang/slim-wrt)|Armor for Openwrt|66|2021-11-15|2021-02-20|
 |4|[FrSkyRC/ETHOS-Feedback-Community](https://gitee.com/FrSkyRC/ETHOS-Feedback-Community)|Feedbacks & suggestion are very appreciated on ETHOS of FrSky|56|2021-12-28|2021-03-09|
@@ -14,7 +14,7 @@
 |7|[iDvel/rime-settings](https://gitee.com/iDvel/rime-settings)|自用 Rime 配置|33|2022-01-01|2021-01-29|
 |8|[nybdech/skynet-qp-server](https://gitee.com/nybdech/skynet-qp-server)|一个基于skynet的棋牌游戏服务端，也可以作为其他类型的游戏服务端|25|2021-09-23|2021-09-15|
 |9|[h-hg/fcitx.nvim](https://gitee.com/h-hg/fcitx.nvim)|A Neovim plugin writing in Lua to switch and restore fcitx state for each buffer.|18|2021-12-11|2021-09-19|
-|10|[zhang-changwei/Automation-scripts-for-Aegisub](https://gitee.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|17|2022-01-01|2021-02-09|
+|10|[zhang-changwei/Automation-scripts-for-Aegisub](https://gitee.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|18|2022-01-01|2021-02-09|
 |11|[njcx/nginx_dump](https://gitee.com/njcx/nginx_dump)|该工具用于把Openresty(Nginx+Lua) 请求参数和响应 dump出来，用于旁路HTTP流量分析、风控、资产识别、API数据泄露等等|16|2021-07-08|2021-06-18|
 |12|[EtherProject/EtherWorkCollection](https://gitee.com/EtherProject/EtherWorkCollection)|EtherEngine 作品集|16|2021-09-04|2021-02-01|
 |13|[HahahaVal/easy_game](https://gitee.com/HahahaVal/easy_game)|一个基于skynet的简单服务器框架|13|2021-11-12|2021-01-07|
@@ -28,7 +28,7 @@
 |21|[sg552/banana-waf](https://gitee.com/sg552/banana-waf)|非常简单好用的waf|8|2021-10-26|2021-10-26|
 |22|[k8scat/lua-resty-weauth](https://gitee.com/k8scat/lua-resty-weauth)|适用于 OpenResty / ngx_lua 的基于企业微信组织架构的登录认证|8|2021-11-24|2021-08-08|
 |23|[forleoshare/auto_use_treasure_map](https://gitee.com/forleoshare/auto_use_treasure_map)|梦幻西游自动挖宝，触动精灵开源脚本，适用设备1920x1080，需要root|8|2021-07-08|2021-07-05|
-|24|[N0zza/MappaMundi](https://gitee.com/N0zza/MappaMundi)|-|7|2021-12-31|2021-02-18|
+|24|[N0zza/MappaMundi](https://gitee.com/N0zza/MappaMundi)|-|7|2022-01-02|2021-02-18|
 |25|[copy0401/irime-bopomo-config](https://gitee.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|6|2021-12-22|2021-09-20|
 |26|[ZAA03/lua_action](https://gitee.com/ZAA03/lua_action)|一键签到，葫芦侠3楼，芥子空间|6|2021-08-27|2021-07-09|
 |27|[DreamAfar/Rime-IME-for-iOS-iRime](https://gitee.com/DreamAfar/Rime-IME-for-iOS-iRime)|这是个人的使用的iRime仓库，主要用于记录： iRime輸入法-   基于Rime输入法框架开发的iOS端Rime输入法|6|2021-07-05|2021-07-02|

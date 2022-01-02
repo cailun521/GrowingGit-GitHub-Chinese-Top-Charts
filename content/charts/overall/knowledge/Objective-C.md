@@ -6,12 +6,12 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[pujiaxin33/JXCategoryView](https://gitee.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5575|2021-10-25|
-|2|[ripperhe/Bob](https://gitee.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4660|2022-01-02|
+|2|[ripperhe/Bob](https://gitee.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4661|2022-01-02|
 |3|[skyming/iOS-Performance-Optimization](https://gitee.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4345|2021-08-09|
 |4|[liberalisman/iOS-InterviewQuestion-collection](https://gitee.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。|2927|2021-06-09|
 |5|[pujiaxin33/JXPagingView](https://gitee.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2328|2021-12-16|
-|6|[objccn/articles](https://gitee.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2086|2021-11-02|
-|7|[inverse-inc/sogo](https://gitee.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1193|2021-12-28|
+|6|[objccn/articles](https://gitee.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2087|2021-11-02|
+|7|[inverse-inc/sogo](https://gitee.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1194|2021-12-28|
 |8|[SunshineBrother/JHBlog](https://gitee.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1189|2021-07-29|
 |9|[GGGHub/Reader](https://gitee.com/GGGHub/Reader)|iOS基于CoreText实现的电子书阅读器，支持txt，epub格式|1115|2021-08-28|
 |10|[HeathWang/HWPanModal](https://gitee.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|874|2021-11-30|
@@ -37,7 +37,7 @@
 |30|[HansenCCC/QMKKXProduct](https://gitee.com/HansenCCC/QMKKXProduct)|iOS技术分享（APP图标制作、苹果内购支付、仿微信朋友圈、仿微信图片查看器、防新浪@人、仿支付宝密码弹框、仿发圈、黑科技-无限刷简书知乎流量、标签、js交互+wk、加载网页、自适应cell高度、TableView嵌入播放器防卡顿、定制好看弹框、选择地址、选择时间、选择颜色、导航自定义控制、轮播图、二维码扫描、人脸追踪、自定义相机、身份证拍照、ios播放器、AVPlayer封装、下拉选项弹框、贪吃 ...|43|2021-10-20|
 |31|[yungfan/iOS-continuous-learning](https://gitee.com/yungfan/iOS-continuous-learning)|不断学习中写的案例|37|2021-12-15|
 |32|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://gitee.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|2021-10-11|
-|33|[H2OB/FFPage](https://gitee.com/H2OB/FFPage)|类似微博个人主页、抖音个人主页、简书个人主页的控件，支持刷新放大，可悬浮组件|33|2021-12-31|
+|33|[H2OB/FFPage](https://gitee.com/H2OB/FFPage)|类似微博个人主页、抖音个人主页、简书个人主页的控件，支持刷新放大，可悬浮组件|33|2022-01-02|
 |34|[xiaoxinbo118/react-native-sns-share](https://gitee.com/xiaoxinbo118/react-native-sns-share)|RN集成微信、微博、QQ及支付宝SDK。实现分享、授权登陆、支付功能|31|2021-09-21|
 |35|[yangKJ/KJEmitterView](https://gitee.com/yangKJ/KJEmitterView)|开发加速库，LeetCode算法，Opencv图片算法，正则算法，粒子效果，数组字典高级用法，线程处理，多语言等 🚗   ..|29|2021-12-22|
 |36|[onezens/WeChatBot](https://gitee.com/onezens/WeChatBot)|Tweak 工程创建、配置教程 & 实现logos语法自动补全|28|2021-09-24|
@@ -56,8 +56,8 @@
 |49|[DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo](https://gitee.com/DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo)|A demo help you learn how to use DJI Mobile SDK to access the media resources in the SD card of the aircraft's camera to preview photos, play videos, download or delete files.|10|2021-10-11|
 |50|[GardenerYun/iOS--Note](https://gitee.com/GardenerYun/iOS--Note)|iOS研究笔记|9|2021-12-23|
 |51|[crazypoo/PTools](https://gitee.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|9|2021-12-01|
-|52|[orilme/OCSummary](https://gitee.com/orilme/OCSummary)|OC知识和常用的一些小Demo|8|2021-07-17|
-|53|[zdrjson/note](https://gitee.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|8|2021-12-23|
+|52|[zdrjson/note](https://gitee.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|9|2021-12-23|
+|53|[orilme/OCSummary](https://gitee.com/orilme/OCSummary)|OC知识和常用的一些小Demo|8|2021-07-17|
 |54|[kuiZhang98/ZkDemo](https://gitee.com/kuiZhang98/ZkDemo)|分享快乐|7|2021-06-22|
 |55|[Lin-Bing/SampleCode](https://gitee.com/Lin-Bing/SampleCode)|博客相关代码示例|7|2021-09-22|
 |56|[DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions](https://gitee.com/DJI-Mobile-SDK-Tutorials/iOS-Phantom4Missions)|This demo shows you how to use the new TapFly and ActiveTrack Missions for Mavic Pro using DJI iOS SDK.|7|2021-10-12|

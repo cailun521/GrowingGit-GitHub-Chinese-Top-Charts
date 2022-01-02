@@ -5,9 +5,9 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[apache/apisix](https://gitee.com/apache/apisix)|The Cloud-Native API Gateway|8039|8|2022-01-02|
-|2|[jerrykuku/luci-app-vssr](https://gitee.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1564|2|2021-12-16|
-|3|[ayamir/nvimdots](https://gitee.com/ayamir/nvimdots)|A well configured and structured Neovim.|354|2|2021-12-30|
+|1|[apache/apisix](https://gitee.com/apache/apisix)|The Cloud-Native API Gateway|8040|8|2022-01-02|
+|2|[jerrykuku/luci-app-vssr](https://gitee.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1565|2|2021-12-16|
+|3|[ayamir/nvimdots](https://gitee.com/ayamir/nvimdots)|A well configured and structured Neovim.|354|2|2022-01-02|
 |4|[Tencent/LuaPanda](https://gitee.com/Tencent/LuaPanda)|lua debug and code tools for VS Code|916|1|2021-11-12|
 |5|[starwing/lua-protobuf](https://gitee.com/starwing/lua-protobuf)|A Lua module to work with Google protobuf|1228|1|2021-12-30|
 |6|[liuhaopen/UnityMMO](https://gitee.com/liuhaopen/UnityMMO)|an unity mmo demo, base on ecs(game play), xlua(ui)|976|1|2021-07-01|
@@ -33,7 +33,7 @@
 |26|[luastar/luastar](https://gitee.com/luastar/luastar)|一个基于openresty的http接口和web开发框架|135|0|2021-07-14|
 |27|[wofsauge/External-Item-Descriptions](https://gitee.com/wofsauge/External-Item-Descriptions)|A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!|67|0|2022-01-01|
 |28|[loaden/rime](https://gitee.com/loaden/rime)|中州韵输入法|22|0|2021-09-10|
-|29|[zhang-changwei/Automation-scripts-for-Aegisub](https://gitee.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|17|0|2022-01-01|
+|29|[zhang-changwei/Automation-scripts-for-Aegisub](https://gitee.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|18|0|2022-01-01|
 |30|[BlindingDark/rime-easy-en](https://gitee.com/BlindingDark/rime-easy-en)|Rime / Easy English 英文输入法|127|0|2021-06-08|
 |31|[shengnoah/blues](https://gitee.com/shengnoah/blues)|Blues是一个基于Openresty + LUA的WEB演示框架|16|0|2021-10-29|
 |32|[DeadlyBossMods/DBM-Retail](https://gitee.com/DeadlyBossMods/DBM-Retail)|The ultimate encounter helper (for Retail) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|153|0|2021-12-28|
@@ -58,7 +58,7 @@
 |51|[CNMan/rime-data](https://gitee.com/CNMan/rime-data)|新世纪五笔字型 for Rime|8|0|2021-12-13|
 |52|[oniondelta/Onion_Trime_Files](https://gitee.com/oniondelta/Onion_Trime_Files)|手機同文輸入法 Trime 洋蔥方案（注音、雙拼、形碼） |3|0|2021-12-30|
 |53|[qyh214/wow_addons_private_use](https://gitee.com/qyh214/wow_addons_private_use)|World Of Warcraft Addons private use 魔兽世界自用插件|4|0|2021-11-17|
-|54|[ck2plus/CleanSlate](https://gitee.com/ck2plus/CleanSlate)|A community resource, clean base from which to begin mods for CrusaderKings 2|16|0|2022-01-01|
+|54|[ck2plus/CleanSlate](https://gitee.com/ck2plus/CleanSlate)|A community resource, clean base from which to begin mods for CrusaderKings 2|16|0|2022-01-02|
 |55|[sniper00/BallGame](https://gitee.com/sniper00/BallGame)|moon game server的一个使用示例，搭建简单的服务器框架|49|0|2021-12-22|
 |56|[WolvenKit/BraindanceProtocol](https://gitee.com/WolvenKit/BraindanceProtocol)|A GUI to modify your Cyberpunk 2077 experience|83|0|2021-09-12|
 |57|[HDoujinDownloader/HDoujinDownloader](https://gitee.com/HDoujinDownloader/HDoujinDownloader)|An easy-to-use manga and dōjinshi downloader supporting 800+ different websites|102|0|2021-12-30|

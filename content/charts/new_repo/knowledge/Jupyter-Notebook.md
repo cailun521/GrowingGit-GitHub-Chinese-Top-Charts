@@ -5,12 +5,12 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Fafa-DL/Lhy_Machine_Learning](https://gitee.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1403|2021-12-20|2021-02-28|
+|1|[Fafa-DL/Lhy_Machine_Learning](https://gitee.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1404|2021-12-20|2021-02-28|
 |2|[Charmve/computer-vision-in-action](https://gitee.com/Charmve/computer-vision-in-action)|《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1262|2021-12-14|2021-04-29|
-|3|[fengdu78/WZU-machine-learning-course](https://gitee.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|813|2021-12-10|2021-03-21|
-|4|[openvinotoolkit/openvino_notebooks](https://gitee.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|490|2021-12-31|2021-03-11|
+|3|[fengdu78/WZU-machine-learning-course](https://gitee.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|814|2021-12-10|2021-03-21|
+|4|[openvinotoolkit/openvino_notebooks](https://gitee.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|491|2022-01-02|2021-03-11|
 |5|[ga642381/ML2021-Spring](https://gitee.com/ga642381/ML2021-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2021 Spring|420|2021-06-18|2021-03-01|
-|6|[wolfparticle/machineLearningDeepLearning](https://gitee.com/wolfparticle/machineLearningDeepLearning)|李宏毅2021机器学习深度学习笔记PPT作业|342|2021-06-14|2021-03-02|
+|6|[wolfparticle/machineLearningDeepLearning](https://gitee.com/wolfparticle/machineLearningDeepLearning)|李宏毅2021机器学习深度学习笔记PPT作业|341|2021-06-14|2021-03-02|
 |7|[d2l-ai/courses-zh-v2](https://gitee.com/d2l-ai/courses-zh-v2)|中文版 v2 课程|228|2021-09-14|2021-01-26|
 |8|[datamonday/Time-Series-Analysis-Tutorial](https://gitee.com/datamonday/Time-Series-Analysis-Tutorial)|时间序列分析教程|198|2021-06-01|2021-04-03|
 |9|[xinychen/latex-cookbook](https://gitee.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|191|2022-01-02|2021-03-29|
@@ -29,7 +29,7 @@
 |22|[PolarisRisingWar/cs224w-2021-winter-colab](https://gitee.com/PolarisRisingWar/cs224w-2021-winter-colab)|cs224w（图机器学习）2021冬季课程的colab|42|2021-07-09|2021-05-02|
 |23|[fly51fly/Principle_of_Web_Search_2021](https://gitee.com/fly51fly/Principle_of_Web_Search_2021)|北邮《网络搜索引擎原理》课程(2021)|39|2021-11-05|2021-09-17|
 |24|[xiaoyusmd/PythonDataScience](https://gitee.com/xiaoyusmd/PythonDataScience)|Python数据科学系专栏（pandas、Numpy、SKlearn、Matplotlib）、实战项目（代码、讲解、数据集）|39|2022-01-01|2021-01-17|
-|25|[LaoGong-zp/Transformer](https://gitee.com/LaoGong-zp/Transformer)| Learning materials of Transformer, including my code, XMind, PDF and so on|36|2021-09-28|2021-09-24|
+|25|[LaoGong-zp/Transformer](https://gitee.com/LaoGong-zp/Transformer)| Learning materials of Transformer, including my code, XMind, PDF and so on|37|2021-09-28|2021-09-24|
 |26|[johnnychen94/Julia_and_its_applications](https://gitee.com/johnnychen94/Julia_and_its_applications)|2021 年《Julia 语言及其应用》系列讲座的材料|35|2021-12-05|2021-10-16|
 |27|[jcchan23/CoMPT](https://gitee.com/jcchan23/CoMPT)|Code of our IJCAI2021 paper: "Learning Attributed Graph Representation with Communicative Message Passing Transformer"|33|2021-09-08|2021-02-03|
 |28|[xieliaing/Data_Science_Industrial_Practice](https://gitee.com/xieliaing/Data_Science_Industrial_Practice)|《数据科学工程实践》一书的Jupyter Notebook库，以及交流园地。|31|2021-06-18|2021-04-08|

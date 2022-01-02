@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[liupan1890/aliyunpan](https://gitee.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4627|2021-12-13|2021-04-22|
+|1|[liupan1890/aliyunpan](https://gitee.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4631|2022-01-02|2021-04-22|
 |2|[bytedance/flutter_ume](https://gitee.com/bytedance/flutter_ume)|UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance|1423|2021-12-10|2021-07-16|
-|3|[LianjiaTech/bruno](https://gitee.com/LianjiaTech/bruno)|Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.|950|2022-01-01|2021-12-07|
-|4|[biyidev/biyi_app](https://gitee.com/biyidev/biyi_app)|Biyi (比译) is a convenient translation and dictionary app written in Flutter. |526|2022-01-01|2021-03-06|
+|3|[LianjiaTech/bruno](https://gitee.com/LianjiaTech/bruno)|Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.|951|2022-01-01|2021-12-07|
+|4|[biyidev/biyi_app](https://gitee.com/biyidev/biyi_app)|Biyi (比译) is a convenient translation and dictionary app written in Flutter. |527|2022-01-01|2021-03-06|
 |5|[LianjiaTech/keframe](https://gitee.com/LianjiaTech/keframe)|Components that optimize Flutter fluency.（Flutter 流畅度优化的通用方案，轻松解决卡顿问题）|505|2021-11-25|2021-06-30|
 |6|[Waytoon/chimera_flutter_code_push](https://gitee.com/Waytoon/chimera_flutter_code_push)|Official Git of flutter code-push made by Chimera inc. If you want to get more info or seek for biz corporation, you can contact flupush@gmail.com. |489|2021-10-17|2021-03-01|
 |7|[Tencent/mxflutter](https://gitee.com/Tencent/mxflutter)|使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。|467|2021-07-29|2021-03-22|
-|8|[niuhuan/pikapika](https://gitee.com/niuhuan/pikapika)|美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS，并上传了APK和IPA。类似哔咔漫画。|461|2022-01-01|2021-07-27|
+|8|[niuhuan/pikapika](https://gitee.com/niuhuan/pikapika)|美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS，并上传了APK和IPA。类似哔咔漫画。|462|2022-01-01|2021-07-27|
 |9|[flutter-thrio/flutter_thrio](https://gitee.com/flutter-thrio/flutter_thrio)|flutter_thrio makes it easy and fast to add flutter to existing mobile applications, and provide a simple and consistent navigator APIs.|222|2021-10-12|2021-02-20|
 |10|[ducafecat/flutter_ducafecat_news_getx](https://gitee.com/ducafecat/flutter_ducafecat_news_getx)|flutter2 + dio4 + getx4|192|2021-11-23|2021-05-31|
 |11|[DingMouRen/flutter_tiktok](https://gitee.com/DingMouRen/flutter_tiktok)|Flutter Tiktok 抖音实战  🍰🍓🍖🍟🍕🍔|175|2021-09-18|2021-04-08|
@@ -32,13 +32,13 @@
 |25|[abcd498936590/fijkplayer_skin](https://gitee.com/abcd498936590/fijkplayer_skin)|fijkplayer的一款基础皮肤，美化播放UI，增加顶部返回菜单、标题，透明渐变皮肤。支持手势快进进退|62|2021-10-29|2021-02-02|
 |26|[xiao-cao-x/pixiv_func_android](https://gitee.com/xiao-cao-x/pixiv_func_android)|功能齐全的Pixiv第三方客户端 支持免代理 支持查看动图|58|2022-01-01|2021-05-16|
 |27|[xxxDeveloper/flutter-adapter](https://gitee.com/xxxDeveloper/flutter-adapter)|📱基于flutter的屏幕适配方案 / screen adaptation scheme based on flutter|52|2021-10-10|2021-06-30|
-|28|[YangChengxxyy/cloudreve_flutter](https://gitee.com/YangChengxxyy/cloudreve_flutter)|使用Flutter编写的移动端|44|2021-12-31|2021-07-29|
+|28|[YangChengxxyy/cloudreve_flutter](https://gitee.com/YangChengxxyy/cloudreve_flutter)|使用Flutter编写的移动端|45|2021-12-31|2021-07-29|
 |29|[tencentyun/TencentIMFlutterDemo](https://gitee.com/tencentyun/TencentIMFlutterDemo)|腾讯云即时通信IMdemo|40|2021-12-01|2021-01-05|
 |30|[liujiakuoyx/leak_detector](https://gitee.com/liujiakuoyx/leak_detector)|flutter memory leak detector.|34|2021-06-23|2021-05-15|
 |31|[nightmare-space/vscode_for_android](https://gitee.com/nightmare-space/vscode_for_android)|安卓本地使用vs code编辑器实现方案|33|2021-12-24|2021-09-04|
 |32|[LuckyLi706/flutter_mobile_command_tools](https://gitee.com/LuckyLi706/flutter_mobile_command_tools)|flutter写的桌面可视化操作android和ios的简单命令|33|2021-12-09|2021-06-24|
 |33|[CxmyDev/screen_autosize](https://gitee.com/CxmyDev/screen_autosize)|🔥 A low-cost Flutter screen adaptation solution (类似今日头条屏幕适配方案，一个极低成本的 Flutter 屏幕适配方案)。|31|2021-06-20|2021-06-12|
-|34|[RPMTW/RPMLauncher](https://gitee.com/RPMTW/RPMLauncher)|A better Minecraft Launcher that supports multiple platforms and many functionalities for you to explore!|31|2021-12-27|2021-05-22|
+|34|[RPMTW/RPMLauncher](https://gitee.com/RPMTW/RPMLauncher)|A better Minecraft Launcher that supports multiple platforms and many functionalities for you to explore!|31|2022-01-02|2021-05-22|
 |35|[Termare/termare_app](https://gitee.com/Termare/termare_app)|使用Flutter开发的多平台终端模拟器，Termare 类似于 Termux ，在安卓端有独立的源，但支持多个平台，还在大量的开发与测试中~|31|2021-12-14|2021-04-10|
 |36|[LianjiaTech/flutter_fdb_package](https://gitee.com/LianjiaTech/flutter_fdb_package)|Flutter应用的调试工具，协助采集性能优化、设计走查、QA测试等数据问题 ，提供UI拾取、UI标尺、取色器、内存信息、FPS检测和展示页面代码等功能。|29|2021-12-15|2021-11-30|
 |37|[mdddj/simple_shop_v2](https://gitee.com/mdddj/simple_shop_v2)|flutter 商城|24|2021-12-13|2021-04-05|

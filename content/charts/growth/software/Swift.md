@@ -5,12 +5,12 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ReactiveX/RxSwift](https://gitee.com/ReactiveX/RxSwift)|Reactive Programming in Swift|21206|9|2021-12-30|
-|2|[JohnCoates/Aerial](https://gitee.com/JohnCoates/Aerial)|Apple TV Aerial Screensaver for Mac|19679|9|2021-12-16|
-|3|[onevcat/Kingfisher](https://gitee.com/onevcat/Kingfisher)|A lightweight, pure-Swift library for downloading and caching images from the web.|19554|8|2021-12-29|
-|4|[Juanpe/About-SwiftUI](https://gitee.com/Juanpe/About-SwiftUI)|Gathering all info published, both by Apple and by others, about new framework SwiftUI. |5961|6|2021-11-28|
+|1|[ReactiveX/RxSwift](https://gitee.com/ReactiveX/RxSwift)|Reactive Programming in Swift|21205|9|2021-12-30|
+|2|[JohnCoates/Aerial](https://gitee.com/JohnCoates/Aerial)|Apple TV Aerial Screensaver for Mac|19682|9|2021-12-16|
+|3|[onevcat/Kingfisher](https://gitee.com/onevcat/Kingfisher)|A lightweight, pure-Swift library for downloading and caching images from the web.|19555|8|2021-12-29|
+|4|[Juanpe/About-SwiftUI](https://gitee.com/Juanpe/About-SwiftUI)|Gathering all info published, both by Apple and by others, about new framework SwiftUI. |5962|6|2021-11-28|
 |5|[PerfectlySoft/Perfect](https://gitee.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|13894|6|2021-07-24|
-|6|[realm/SwiftLint](https://gitee.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15552|6|2021-12-28|
+|6|[realm/SwiftLint](https://gitee.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15553|6|2022-01-02|
 |7|[xmartlabs/Eureka](https://gitee.com/xmartlabs/Eureka)|Elegant iOS form builder in Swift|11347|5|2021-12-19|
 |8|[ochococo/Design-Patterns-In-Swift](https://gitee.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13163|5|2021-08-05|
 |9|[Moya/Moya](https://gitee.com/Moya/Moya)|Network abstraction layer written in Swift.|13629|5|2021-12-25|
@@ -27,9 +27,9 @@
 |20|[OpenIntelWireless/HeliPort](https://gitee.com/OpenIntelWireless/HeliPort)|Intel Wi-Fi Client for itlwm|881|2|2021-11-17|
 |21|[aahung/Unshaky](https://gitee.com/aahung/Unshaky)|A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]|2720|2|2021-06-21|
 |22|[mhdhejazi/CoronaTracker](https://gitee.com/mhdhejazi/CoronaTracker)|Coronavirus tracker app for iOS & macOS with maps & charts|1446|2|2021-06-25|
-|23|[tatsuz0u/EhPanda](https://gitee.com/tatsuz0u/EhPanda)|An unofficial E-Hentai App for iOS built with SwiftUI.|863|2|2022-01-02|
+|23|[tatsuz0u/EhPanda](https://gitee.com/tatsuz0u/EhPanda)|An unofficial E-Hentai App for iOS built with SwiftUI.|864|2|2022-01-02|
 |24|[Danie1s/Tiercel](https://gitee.com/Danie1s/Tiercel)|简单易用、功能丰富的纯 Swift 下载框架|2247|2|2021-12-31|
-|25|[lukakerr/Pine](https://gitee.com/lukakerr/Pine)|A modern, native macOS markdown editor|2848|2|2021-12-07|
+|25|[lukakerr/Pine](https://gitee.com/lukakerr/Pine)|A modern, native macOS markdown editor|2850|2|2021-12-07|
 |26|[longitachi/ZLPhotoBrowser](https://gitee.com/longitachi/ZLPhotoBrowser)|Wechat-like image picker. Support select normal photos, videos, gif and livePhoto. Support edit image and crop video. 微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能; |3971|2|2021-12-28|
 |27|[alibaba/HandyJSON](https://gitee.com/alibaba/HandyJSON)|A handy swift json-object serialization/deserialization library|3922|2|2021-12-17|
 |28|[WeTransfer/WeScan](https://gitee.com/WeTransfer/WeScan)|Document Scanning Made Easy for iOS|2440|2|2021-11-15|
@@ -40,17 +40,17 @@
 |33|[xjbeta/iina-plus](https://gitee.com/xjbeta/iina-plus)|Extra danmaku support for iina. (iina 弹幕支持|667|1|2021-12-26|
 |34|[Masayuki-JP/Health-Habit-Assistant](https://gitee.com/Masayuki-JP/Health-Habit-Assistant)|A simple health assistant app built in Swift5 for iPhone 📱 |319|1|2021-06-29|
 |35|[soulverteam/SoulverCore](https://gitee.com/soulverteam/SoulverCore)|A powerful Swift framework for evaluating mathematical expressions|398|1|2021-12-29|
-|36|[dks333/Tiktok-Clone](https://gitee.com/dks333/Tiktok-Clone)|An iOS Tiktok Clone built with Swift(Frontend) and Firebase(Backend)|236|1|2021-11-15|
+|36|[dks333/Tiktok-Clone](https://gitee.com/dks333/Tiktok-Clone)|An iOS Tiktok Clone built with Swift(Frontend) and Firebase(Backend)|237|1|2021-11-15|
 |37|[BrikerMan/BMPlayer](https://gitee.com/BrikerMan/BMPlayer)|A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles. |1742|1|2021-12-05|
 |38|[nixzhu/MonkeyKing](https://gitee.com/nixzhu/MonkeyKing)|MonkeyKing helps you to post messages to Chinese Social Networks.|2704|1|2021-09-08|
 |39|[Cay-Zhang/RSSBud](https://gitee.com/Cay-Zhang/RSSBud)|RSSHub 的辅助 iOS App，和 RSSHub Radar 类似，他可以帮助你快速发现和订阅网站的 RSS。现已在 App Store 上架。|478|1|2021-12-31|
 |40|[netyouli/WHC_ConfuseSoftware](https://gitee.com/netyouli/WHC_ConfuseSoftware)|iOS代码混淆工具，iOS代码混淆助手，过机器审核，过4.3审核，过other审核，u3d、cocos2dx、flutter、自动代码翻新(WHC_ConfuseSoftware)是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift、U3D、Flutter、Cocos2dx项目代码的自动翻新(混淆)、支持文件夹名称、文件名、修改资源文件hash值、类名、方法名、属性名、添加混淆 ...|1199|1|2021-12-26|
 |41|[Coder-TanJX/JXBanner](https://gitee.com/Coder-TanJX/JXBanner)|🚀🚀🚀 A super - custom multifunctional framework for banner unlimited rollover diagrams  [一个超自定义多功能无限轮播图框架]|470|1|2021-09-22|
 |42|[cmushroom/redis-pro](https://gitee.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|409|1|2021-12-31|
-|43|[onevcat/APNGKit](https://gitee.com/onevcat/APNGKit)|High performance and delightful way to play with APNG format in iOS.|1935|1|2021-12-15|
-|44|[VideoFlint/Cabbage](https://gitee.com/VideoFlint/Cabbage)|A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.|1274|1|2021-12-29|
-|45|[cx-org/CombineX](https://gitee.com/cx-org/CombineX)|Open source implementation of Apple's Combine|583|1|2021-07-12|
-|46|[lixiang1994/AttributedString](https://gitee.com/lixiang1994/AttributedString)|基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.|484|1|2021-12-17|
+|43|[onevcat/APNGKit](https://gitee.com/onevcat/APNGKit)|High performance and delightful way to play with APNG format in iOS.|1936|1|2021-12-15|
+|44|[VideoFlint/Cabbage](https://gitee.com/VideoFlint/Cabbage)|A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.|1275|1|2021-12-29|
+|45|[cx-org/CombineX](https://gitee.com/cx-org/CombineX)|Open source implementation of Apple's Combine|584|1|2021-07-12|
+|46|[lixiang1994/AttributedString](https://gitee.com/lixiang1994/AttributedString)|基于Swift插值方式优雅的构建富文本, 支持点击长按事件, 支持不同类型过滤, 支持自定义视图等.|485|1|2021-12-17|
 |47|[fcbox/Lantern](https://gitee.com/fcbox/Lantern)|基于Swift的高可用视图框架|384|1|2021-12-27|
 |48|[simon9211/privacyInsight](https://gitee.com/simon9211/privacyInsight)|读取app「记录App活动」文件，展示app访问权限及网络记录|43|1|2021-10-28|
 |49|[ts1/BLEUnlock](https://gitee.com/ts1/BLEUnlock)|Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices|709|1|2021-12-24|
@@ -59,13 +59,13 @@
 |52|[MxABC/swiftScan](https://gitee.com/MxABC/swiftScan)|A barcode and qr code scanner( 二维码 各种码识别，生成，界面效果)|1435|1|2021-12-07|
 |53|[kingsic/SGPagingView](https://gitee.com/kingsic/SGPagingView)|A powerful and easy to use segment view 【QQ、淘宝、微博、腾讯、网易新闻、今日头条等标题滚动视图】|1506|1|2021-12-17|
 |54|[JiongXing/PhotoBrowser](https://gitee.com/JiongXing/PhotoBrowser)| Elegant photo browser in Swift. 图片与视频浏览器。|1089|1|2021-09-20|
-|55|[LeoMobileDeveloper/ios-developer-tools](https://gitee.com/LeoMobileDeveloper/ios-developer-tools)|Tools that every iOS developer should know.|1201|1|2021-11-29|
+|55|[LeoMobileDeveloper/ios-developer-tools](https://gitee.com/LeoMobileDeveloper/ios-developer-tools)|Tools that every iOS developer should know.|1200|1|2021-11-29|
 |56|[AnyImageKit/AnyImageKit](https://gitee.com/AnyImageKit/AnyImageKit)|A toolbox for pick/edit/capture photo or video. Written in Swift. |445|1|2022-01-02|
 |57|[gltwy/LTScrollView](https://gitee.com/gltwy/LTScrollView)|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案， 支持OC / Swift（持续更新中...）实现原理：http://blog.csdn.net/glt_code/article/details/78576628|979|1|2021-11-20|
 |58|[Lision/WKWebViewJavascriptBridge](https://gitee.com/Lision/WKWebViewJavascriptBridge)|🌉 A Bridge for Sending Messages between Swift and JavaScript in WKWebViews.|981|1|2021-12-24|
 |59|[Tliens/SpeedySwift](https://gitee.com/Tliens/SpeedySwift)|这是一个app开发的加速库。This is an accelerated library for app development|405|1|2021-11-09|
 |60|[3lvis/Networking](https://gitee.com/3lvis/Networking)|Easy HTTP Networking in Swift a NSURLSession wrapper with image caching support|1305|1|2021-11-23|
-|61|[igorkulman/iOSLocalizationEditor](https://gitee.com/igorkulman/iOSLocalizationEditor)|Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side|1210|1|2021-12-14|
+|61|[igorkulman/iOSLocalizationEditor](https://gitee.com/igorkulman/iOSLocalizationEditor)|Simple macOS editor app to help you manage iOS and macOS app localizations by allowing you to edit all the translations side by side|1211|1|2021-12-14|
 |62|[william0wang/MagicCamera](https://gitee.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|92|1|2021-11-08|
 |63|[100mango/zen](https://gitee.com/100mango/zen)|iOS, macOS, Swift, Objective-C 心得|2849|1|2021-09-10|
 |64|[wxxsw/SwiftTheme](https://gitee.com/wxxsw/SwiftTheme)|🎨 Powerful theme/skin manager for iOS 9+ 主题/换肤, 暗色模式|2269|1|2021-12-13|

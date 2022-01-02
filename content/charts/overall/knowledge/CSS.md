@@ -5,18 +5,18 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[FreeCodeCampChina/freecodecamp.cn](https://gitee.com/FreeCodeCampChina/freecodecamp.cn)|FCC China open source codebase and curriculum. Learn to code and help nonprofits.|36559|2021-08-02|
+|1|[FreeCodeCampChina/freecodecamp.cn](https://gitee.com/FreeCodeCampChina/freecodecamp.cn)|FCC China open source codebase and curriculum. Learn to code and help nonprofits.|36560|2021-08-02|
 |2|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://gitee.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20383|2021-12-13|
 |3|[codeguy/php-the-right-way](https://gitee.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8345|2021-12-12|
-|4|[eastlakeside/interpy-zh](https://gitee.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5976|2021-12-20|
+|4|[eastlakeside/interpy-zh](https://gitee.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5978|2021-12-20|
 |5|[apachecn/sklearn-doc-zh](https://gitee.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4531|2021-10-14|
 |6|[cssanimation/css-animation-101](https://gitee.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4235|2021-07-29|
-|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://gitee.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3762|2021-12-30|
-|8|[hehonghui/the-economist-ebooks](https://gitee.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3648|2022-01-02|
+|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://gitee.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3763|2021-12-30|
+|8|[hehonghui/the-economist-ebooks](https://gitee.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3651|2022-01-02|
 |9|[apachecn/hands-on-ml-zh](https://gitee.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3615|2021-08-09|
 |10|[billie66/TLCL](https://gitee.com/billie66/TLCL)|《快乐的 Linux 命令行》|2908|2021-12-02|
 |11|[beeth0ven/RxSwift-Chinese-Documentation](https://gitee.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1216|2021-10-25|
-|12|[leopardpan/leopardpan.github.io](https://gitee.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1161|2021-10-17|
+|12|[leopardpan/leopardpan.github.io](https://gitee.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1162|2021-10-17|
 |13|[kaeyleo/jekyll-theme-H2O](https://gitee.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|905|2021-10-28|
 |14|[ahangchen/Chromium_doc_zh](https://gitee.com/ahangchen/Chromium_doc_zh)|Chromium中文文档，学习google家的架构|633|2021-07-02|
 |15|[ldqk/Masuit.MyBlogs](https://gitee.com/ldqk/Masuit.MyBlogs)|ldqk.xyz个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|620|2021-12-29|
@@ -52,15 +52,15 @@
 |45|[askeing/rust-book](https://gitee.com/askeing/rust-book)|Rust 程式語言 正體中文版 (The Rust Programming Language, Traditional Chinese)|74|2021-07-19|
 |46|[CodeIgniter-Chinese/codeigniter4-user-guide](https://gitee.com/CodeIgniter-Chinese/codeigniter4-user-guide)|CodeIgniter 4 Chinese User Guide - CodeIgniter 4 简体中文手册|73|2021-07-27|
 |47|[yitd/wxkp](https://gitee.com/yitd/wxkp)|微信卡片分享链接在线制作工具|71|2021-12-11|
-|48|[beaudar/beaudar](https://gitee.com/beaudar/beaudar)|基于 GitHub issue 的轻量评论插件，Utterances 的中文版本|71|2022-01-01|
+|48|[beaudar/beaudar](https://gitee.com/beaudar/beaudar)|基于 GitHub issue 的轻量评论插件，Utterances 的中文版本|71|2022-01-02|
 |49|[jtpio/p5-notebook](https://gitee.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite|70|2021-10-14|
 |50|[spring2go/spring-petclinic-msa](https://gitee.com/spring2go/spring-petclinic-msa)|微服务版spring-petlinic，课程《Kubernetes微服务实践》|65|2021-08-24|
 |51|[Adventech/sabbath-school-lessons](https://gitee.com/Adventech/sabbath-school-lessons)|📖 The Lessons for every language|65|2021-12-24|
 |52|[DuYi-Edu/DuYi-React](https://gitee.com/DuYi-Edu/DuYi-React)|React课程资料与代码|59|2021-10-06|
 |53|[ChenYFan-Tester/IPFS_PHOTO_SHARE](https://gitee.com/ChenYFan-Tester/IPFS_PHOTO_SHARE)|💰用甚嚒服务器，ServerLess搭建一个图片分享站点！  基于CloudFlareWorker无服务器函数和IPFS去中心化存储的图片分享网站|58|2021-06-18|
 |54|[apachecn/geeksforgeeks-dsal-zh](https://gitee.com/apachecn/geeksforgeeks-dsal-zh)|:book: [译] GeeksForGeeks 翻译计划|56|2021-11-25|
-|55|[Gamuxorg/AppImage-CN](https://gitee.com/Gamuxorg/AppImage-CN)|AppImage中文文档，源自官方英文文档。|54|2021-07-12|
-|56|[leach-chen/blogdemo](https://gitee.com/leach-chen/blogdemo)|一款简约舒适，兼容网站及移动端，功能齐全的个人网站博客模板|53|2021-08-25|
+|55|[leach-chen/blogdemo](https://gitee.com/leach-chen/blogdemo)|一款简约舒适，兼容网站及移动端，功能齐全的个人网站博客模板|54|2021-08-25|
+|56|[Gamuxorg/AppImage-CN](https://gitee.com/Gamuxorg/AppImage-CN)|AppImage中文文档，源自官方英文文档。|54|2021-07-12|
 |57|[cody1991/cody1991.github.io](https://gitee.com/cody1991/cody1991.github.io)|个人博客（也是自己构建的一个简单Jekyll开源主题模板）|53|2021-08-05|
 |58|[xiaolongzuo/personal-blog-webapp](https://gitee.com/xiaolongzuo/personal-blog-webapp)|一个简单的个人博客源码。|53|2021-08-23|
 |59|[L-M-Sherlock/supermemo.guru-cn](https://gitee.com/L-M-Sherlock/supermemo.guru-cn)|supermemo.guru 翻译计划|52|2021-12-20|
@@ -85,7 +85,7 @@
 |78|[yu120/lemon-guide](https://gitee.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|26|2021-11-06|
 |79|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://gitee.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|25|2021-12-15|
 |80|[omnilingo/omnilingo](https://gitee.com/omnilingo/omnilingo)|Listening-based language learning|24|2021-09-16|
-|81|[lululuting/tgbk](https://gitee.com/lululuting/tgbk)|挺哥博客|23|2021-12-09|
+|81|[lululuting/tgbk](https://gitee.com/lululuting/tgbk)|挺哥博客|24|2021-12-09|
 |82|[teedoc/teedoc](https://gitee.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|22|2021-12-09|
 |83|[jinqilin721/halo-theme-xinac-fantastic](https://gitee.com/jinqilin721/halo-theme-xinac-fantastic)|Halo博客系统，Fantastic主题修改版。|22|2021-07-18|
 |84|[selierlin/TenSquare](https://gitee.com/selierlin/TenSquare)|十次方社交平台源码及笔记|22|2021-08-11|

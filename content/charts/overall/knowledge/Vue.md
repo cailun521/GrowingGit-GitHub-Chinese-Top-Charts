@@ -6,9 +6,9 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[crmeb/CRMEB](https://gitee.com/crmeb/CRMEB)|🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议|3461|2021-12-17|
-|2|[shfshanyue/Daily-Question](https://gitee.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|2986|2021-12-22|
-|3|[biaochenxuying/blog-vue-typescript](https://gitee.com/biaochenxuying/blog-vue-typescript)|Vue3 + TypeScript + Vite2 + Vuex4 + Vue-Router4 + element-plus 支持 markdown 渲染的博客前台展示|1878|2021-08-29|
-|4|[xugaoyi/vuepress-theme-vdoing](https://gitee.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1646|2021-12-31|
+|2|[shfshanyue/Daily-Question](https://gitee.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|2986|2022-01-02|
+|3|[biaochenxuying/blog-vue-typescript](https://gitee.com/biaochenxuying/blog-vue-typescript)|Vue3 + TypeScript + Vite2 + Vuex4 + Vue-Router4 + element-plus 支持 markdown 渲染的博客前台展示|1879|2021-08-29|
+|4|[xugaoyi/vuepress-theme-vdoing](https://gitee.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1649|2021-12-31|
 |5|[inoutcode/ethereum_book](https://gitee.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1577|2021-09-19|
 |6|[GitHub-Laziji/VBlog](https://gitee.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1424|2021-11-29|
 |7|[eshengsky/iBlog](https://gitee.com/eshengsky/iBlog)|基于 Node.js 的开源个人博客系统，采用 Nuxt + Vue + TypeScript 技术栈。|1115|2021-08-11|
@@ -64,8 +64,8 @@
 |57|[xhl592576605/cnblog_vue](https://gitee.com/xhl592576605/cnblog_vue)|vue版的WebApp博客园移动端|80|2021-10-05|
 |58|[ezshine/uniapp-unicloud-dnms](https://gitee.com/ezshine/uniapp-unicloud-dnms)|一个基于uniapp和unicloud开发的以书会友小程序|77|2021-08-27|
 |59|[roncoo/roncoo-education-admin](https://gitee.com/roncoo/roncoo-education-admin)|《领课教育》的后台管理系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。|77|2021-10-06|
-|60|[konglingwen94/vue-bytedanceJob](https://gitee.com/konglingwen94/vue-bytedanceJob)|Vue仿写字节跳动招聘网站的单页面应用，仅作为学习使用。|72|2021-07-02|
-|61|[vuepress-aurora/vuepress-theme-aurora](https://gitee.com/vuepress-aurora/vuepress-theme-aurora)|🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。|71|2021-12-28|
+|60|[vuepress-aurora/vuepress-theme-aurora](https://gitee.com/vuepress-aurora/vuepress-theme-aurora)|🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。|72|2021-12-28|
+|61|[konglingwen94/vue-bytedanceJob](https://gitee.com/konglingwen94/vue-bytedanceJob)|Vue仿写字节跳动招聘网站的单页面应用，仅作为学习使用。|72|2021-07-02|
 |62|[weipxiu/Vue-Router](https://gitee.com/weipxiu/Vue-Router)|世上最完整的vue-router配置demo，包含了有关vue-router所有相关核心知识点，一个需求多种解决方式的体现，据说配置出了一朵花儿，不服来战！|71|2021-09-18|
 |63|[OBKoro1/stop-mess-around](https://gitee.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|65|2021-12-23|
 |64|[zxuqian/vuejs-examples](https://gitee.com/zxuqian/vuejs-examples)|Vue.js 示例项目合集|65|2021-09-06|

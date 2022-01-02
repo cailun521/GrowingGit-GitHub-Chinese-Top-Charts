@@ -5,16 +5,16 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[lib-pku/libpku](https://gitee.com/lib-pku/libpku)|贵校课程资料民间整理|25124|2021-12-27|
-|2|[soulmachine/leetcode](https://gitee.com/soulmachine/leetcode)|LeetCode题解，151道题完整版|10310|2021-06-05|
+|1|[lib-pku/libpku](https://gitee.com/lib-pku/libpku)|贵校课程资料民间整理|25122|2021-12-27|
+|2|[soulmachine/leetcode](https://gitee.com/soulmachine/leetcode)|LeetCode题解，151道题完整版|10312|2021-06-05|
 |3|[liuxinyu95/AlgoXY](https://gitee.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5012|2021-12-30|
 |4|[zhanwen/MathModel](https://gitee.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3852|2021-12-10|
 |5|[horance-liu/tensorflow-internals](https://gitee.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2683|2021-11-13|
 |6|[sjtug/SJTUThesis](https://gitee.com/sjtug/SJTUThesis)|上海交通大学 XeLaTeX 学位论文及课程论文模板   Shanghai Jiao Tong University XeLaTeX Thesis Template|2396|2021-12-28|
 |7|[NiuTrans/MTBook](https://gitee.com/NiuTrans/MTBook)|《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models|2314|2021-11-25|
 |8|[liuxinyu95/unplugged](https://gitee.com/liuxinyu95/unplugged)|Open book about math and programming.|2313|2022-01-02|
-|9|[foxsen/archbase](https://gitee.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1798|2021-12-31|
-|10|[jankapunkt/latexcv](https://gitee.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1451|2021-11-22|
+|9|[foxsen/archbase](https://gitee.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1800|2021-12-31|
+|10|[jankapunkt/latexcv](https://gitee.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1452|2021-11-22|
 |11|[thunlp/KRLPapers](https://gitee.com/thunlp/KRLPapers)|Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)|1434|2021-08-29|
 |12|[wuzhouhui/awk](https://gitee.com/wuzhouhui/awk)|The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版|975|2021-11-21|
 |13|[dustincys/hithesis](https://gitee.com/dustincys/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|906|2021-12-09|
@@ -25,16 +25,16 @@
 |18|[xcfcode/Summarization-Papers](https://gitee.com/xcfcode/Summarization-Papers)|Summarization Papers|569|2022-01-01|
 |19|[optimass/continual_learning_papers](https://gitee.com/optimass/continual_learning_papers)|Relevant papers in Continual Learning|470|2021-12-09|
 |20|[latexstudio/CUMCMThesis](https://gitee.com/latexstudio/CUMCMThesis)|全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2020 年格式|462|2021-07-13|
-|21|[fcampelo/EC-Bestiary](https://gitee.com/fcampelo/EC-Bestiary)|A bestiary of evolutionary, swarm and other metaphor-based algorithms|394|2021-12-05|
+|21|[fcampelo/EC-Bestiary](https://gitee.com/fcampelo/EC-Bestiary)|A bestiary of evolutionary, swarm and other metaphor-based algorithms|395|2021-12-05|
 |22|[moesoha/debian-media-box](https://gitee.com/moesoha/debian-media-box)|“Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。|380|2021-08-15|
-|23|[whutug/whu-thesis](https://gitee.com/whutug/whu-thesis)|:memo: 武汉大学毕业论文 LaTeX 模版 2021|369|2021-06-18|
+|23|[whutug/whu-thesis](https://gitee.com/whutug/whu-thesis)|:memo: 武汉大学毕业论文 LaTeX 模版 2021|371|2021-06-18|
 |24|[SamZhangQingChuan/Editorials](https://gitee.com/SamZhangQingChuan/Editorials)|算法题解& 教程|280|2021-07-11|
 |25|[CheckBoxStudio/BUAAThesis](https://gitee.com/CheckBoxStudio/BUAAThesis)|北航研究生学位论文模板（Word+LaTeX）.|249|2021-10-13|
 |26|[njuHan/njuthesis-nju-thesis-template](https://gitee.com/njuHan/njuthesis-nju-thesis-template)|南京大学学位论文(本科/硕士/博士)，毕业论文LaTeX模板|231|2021-12-21|
 |27|[LearningOS/os-lectures](https://gitee.com/LearningOS/os-lectures)|http://os.cs.tsinghua.edu.cn/oscourse/OS2021spring|208|2021-12-02|
 |28|[nuaatug/nuaathesis](https://gitee.com/nuaatug/nuaathesis)|LaTeX document class for NUAA, supporting bachelor/master/PH.D thesis in Chinese/English/Japanese. 南航本科、硕士、博士学位论文 LaTeX 模板|181|2021-11-04|
 |29|[nanmu42/CQUThesis](https://gitee.com/nanmu42/CQUThesis)|:pencil: 重庆大学毕业论文LaTeX模板---LaTeX Thesis Template for Chongqing University|164|2021-12-30|
-|30|[xiaoweiChen/Learn-LLVM-12](https://gitee.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|157|2021-12-29|
+|30|[xiaoweiChen/Learn-LLVM-12](https://gitee.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|158|2021-12-29|
 |31|[note286/xdupgthesis](https://gitee.com/note286/xdupgthesis)|西安电子科技大学研究生学位论文XeLaTeX模板|148|2021-12-30|
 |32|[annProg/PanBook](https://gitee.com/annProg/PanBook)|Pandoc LaTeX，Epub模板，用于生成书籍，幻灯片(beamer)，简历，论文等（cv, thesis, ebook,beamer)|146|2021-09-15|
 |33|[nju-lug/NJUThesis](https://gitee.com/nju-lug/NJUThesis)|南京大学学位论文 LaTeX 模板|121|2021-12-23|
@@ -84,11 +84,11 @@
 |77|[Nick-Hopps/gdutart](https://gitee.com/Nick-Hopps/gdutart)|广东工业大学毕业设计/论文LaTeX模板|23|2021-11-18|
 |78|[xiaoweiChen/Data-Paralle-Cpp](https://gitee.com/xiaoweiChen/Data-Paralle-Cpp)|个人翻译《Data Parallel C++》|22|2021-07-08|
 |79|[OChicken/SCUT-Bachelor-Thesis-Template](https://gitee.com/OChicken/SCUT-Bachelor-Thesis-Template)|Latex template for the bachelor graduation thesis of South China University of Technology (SCUT)  华南理工大学 本科毕业论文LaTeX模板|22|2021-06-19|
-|80|[fangcun010/VkGPUDrivenCNGuide](https://gitee.com/fangcun010/VkGPUDrivenCNGuide)|基于Vulkan的GPU Driven Rendering教程|19|2021-11-03|
-|81|[obster-y/NCEPU-thesis](https://gitee.com/obster-y/NCEPU-thesis)|An unofficial LaTeX template based on NCEPU degree thesis requirement 一个非官方的华北电力大学学士学位论文LaTeX模板|19|2021-11-20|
-|82|[ECNU-ICA/ECNU_graduation_thesis_template](https://gitee.com/ECNU-ICA/ECNU_graduation_thesis_template)|华东师范大学研究生毕业论文 Latex 模板|18|2021-11-17|
-|83|[wenweili/Modulform](https://gitee.com/wenweili/Modulform)|Introduction to Modular Forms: A Chinese textbook about modular forms|18|2021-06-17|
-|84|[ElunDai/gdutthesis](https://gitee.com/ElunDai/gdutthesis)|广东工业大学LaTeX论文模板项目(非官方)|18|2021-06-15|
+|80|[ECNU-ICA/ECNU_graduation_thesis_template](https://gitee.com/ECNU-ICA/ECNU_graduation_thesis_template)|华东师范大学研究生毕业论文 Latex 模板|19|2021-11-17|
+|81|[fangcun010/VkGPUDrivenCNGuide](https://gitee.com/fangcun010/VkGPUDrivenCNGuide)|基于Vulkan的GPU Driven Rendering教程|19|2021-11-03|
+|82|[obster-y/NCEPU-thesis](https://gitee.com/obster-y/NCEPU-thesis)|An unofficial LaTeX template based on NCEPU degree thesis requirement 一个非官方的华北电力大学学士学位论文LaTeX模板|19|2021-11-20|
+|83|[ElunDai/gdutthesis](https://gitee.com/ElunDai/gdutthesis)|广东工业大学LaTeX论文模板项目(非官方)|19|2021-06-15|
+|84|[wenweili/Modulform](https://gitee.com/wenweili/Modulform)|Introduction to Modular Forms: A Chinese textbook about modular forms|18|2021-06-17|
 |85|[yzbrlan/fudan-thesis-latex-template](https://gitee.com/yzbrlan/fudan-thesis-latex-template)|复旦论文latex模版，包括毕业论文模版，普通课程论文模版(带封皮)|17|2021-10-21|
 |86|[c834606877/ECNU-Paper-Template](https://gitee.com/c834606877/ECNU-Paper-Template)|华东师范大学(ECNU)  硕士 研究生 毕业论文 LaTeX模板|17|2021-12-05|
 |87|[obster-y/XJTU-thesis](https://gitee.com/obster-y/XJTU-thesis)|西安交通大学学位论文模板（LaTeX）（适用硕士、博士学位）An official LaTeX template for Xi'an Jiaotong University degree thesis (Chinese and English)|16|2021-12-04|

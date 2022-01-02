@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[foxsen/archbase](https://gitee.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1798|2021-12-31|2021-10-27|
-|2|[xiaoweiChen/Learn-LLVM-12](https://gitee.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|157|2021-12-29|2021-08-15|
+|1|[foxsen/archbase](https://gitee.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1800|2021-12-31|2021-10-27|
+|2|[xiaoweiChen/Learn-LLVM-12](https://gitee.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|158|2021-12-29|2021-08-15|
 |3|[note286/xdupgthesis](https://gitee.com/note286/xdupgthesis)|西安电子科技大学研究生学位论文XeLaTeX模板|148|2021-12-30|2021-10-15|
 |4|[nju-lug/NJUThesis](https://gitee.com/nju-lug/NJUThesis)|南京大学学位论文 LaTeX 模板|121|2021-12-23|2021-05-20|
 |5|[kanition/pbrtbook](https://gitee.com/kanition/pbrtbook)|pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation|84|2021-12-23|2021-03-03|
@@ -17,8 +17,8 @@
 |10|[xiaoweiChen/CPP-Move-Semantics](https://gitee.com/xiaoweiChen/CPP-Move-Semantics)|《C++ Move Semantics》的非专业个人翻译|29|2021-07-25|2021-06-20|
 |11|[SUSTech-CRA/sustech-master-thesis](https://gitee.com/SUSTech-CRA/sustech-master-thesis)|南方科技大学研究生学位论文LaTeX模板|26|2021-12-21|2021-02-22|
 |12|[xiaoweiChen/Data-Paralle-Cpp](https://gitee.com/xiaoweiChen/Data-Paralle-Cpp)|个人翻译《Data Parallel C++》|22|2021-07-08|2021-04-07|
-|13|[fangcun010/VkGPUDrivenCNGuide](https://gitee.com/fangcun010/VkGPUDrivenCNGuide)|基于Vulkan的GPU Driven Rendering教程|19|2021-11-03|2021-11-03|
-|14|[ECNU-ICA/ECNU_graduation_thesis_template](https://gitee.com/ECNU-ICA/ECNU_graduation_thesis_template)|华东师范大学研究生毕业论文 Latex 模板|18|2021-11-17|2021-11-17|
+|13|[ECNU-ICA/ECNU_graduation_thesis_template](https://gitee.com/ECNU-ICA/ECNU_graduation_thesis_template)|华东师范大学研究生毕业论文 Latex 模板|19|2021-11-17|2021-11-17|
+|14|[fangcun010/VkGPUDrivenCNGuide](https://gitee.com/fangcun010/VkGPUDrivenCNGuide)|基于Vulkan的GPU Driven Rendering教程|19|2021-11-03|2021-11-03|
 |15|[obster-y/XJTU-thesis](https://gitee.com/obster-y/XJTU-thesis)|西安交通大学学位论文模板（LaTeX）（适用硕士、博士学位）An official LaTeX template for Xi'an Jiaotong University degree thesis (Chinese and English)|16|2021-12-04|2021-06-01|
 |16|[FreeBSD-Ask/FreeBSD-Ask](https://gitee.com/FreeBSD-Ask/FreeBSD-Ask)|开源书籍——FreeBSD 从入门到跑路。|15|2022-01-02|2021-11-19|
 |17|[iotang/linux_tutorials_for_brand_new_oiers](https://gitee.com/iotang/linux_tutorials_for_brand_new_oiers)|Linux Tutorials for Brand New Oiers   给信息组学弟学妹的 Linux 入门手把手教程|15|2021-07-18|2021-07-18|

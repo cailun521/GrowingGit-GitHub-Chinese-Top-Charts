@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kezong/fat-aar-android](https://gitee.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2100|2|2021-11-16|
+|1|[kezong/fat-aar-android](https://gitee.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2101|2|2021-11-16|
 |2|[HujiangTechnology/gradle_plugin_android_aspectjx](https://gitee.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3588|2|2021-09-15|
 |3|[pengxurui/EasyPrivacy](https://gitee.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|70|1|2021-12-27|
 |4|[CodingGay/BlackObfuscator-ASPlugin](https://gitee.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|1|2021-12-18|

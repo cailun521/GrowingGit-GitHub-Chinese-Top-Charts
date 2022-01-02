@@ -5,15 +5,15 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[FreeCodeCampChina/freecodecamp.cn](https://gitee.com/FreeCodeCampChina/freecodecamp.cn)|FCC China open source codebase and curriculum. Learn to code and help nonprofits.|36559|19|2021-08-02|
+|1|[FreeCodeCampChina/freecodecamp.cn](https://gitee.com/FreeCodeCampChina/freecodecamp.cn)|FCC China open source codebase and curriculum. Learn to code and help nonprofits.|36560|19|2021-08-02|
 |2|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://gitee.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20383|7|2021-12-13|
-|3|[hehonghui/the-economist-ebooks](https://gitee.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3648|5|2022-01-02|
+|3|[hehonghui/the-economist-ebooks](https://gitee.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3651|5|2022-01-02|
 |4|[cssanimation/css-animation-101](https://gitee.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4235|4|2021-07-29|
-|5|[eastlakeside/interpy-zh](https://gitee.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5976|3|2021-12-20|
+|5|[eastlakeside/interpy-zh](https://gitee.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5978|3|2021-12-20|
 |6|[apachecn/sklearn-doc-zh](https://gitee.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4531|3|2021-10-14|
 |7|[apachecn/hands-on-ml-zh](https://gitee.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3615|3|2021-08-09|
 |8|[Lihaogx/graph-note-of-greek-myth](https://gitee.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|484|3|2021-12-13|
-|9|[LearnOpenGL-CN/LearnOpenGL-CN](https://gitee.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3762|2|2021-12-30|
+|9|[LearnOpenGL-CN/LearnOpenGL-CN](https://gitee.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3763|2|2021-12-30|
 |10|[codeguy/php-the-right-way](https://gitee.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8345|2|2021-12-12|
 |11|[kaeyleo/jekyll-theme-H2O](https://gitee.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|905|1|2021-10-28|
 |12|[billie66/TLCL](https://gitee.com/billie66/TLCL)|《快乐的 Linux 命令行》|2908|1|2021-12-02|
@@ -24,10 +24,10 @@
 |17|[disclose/research-threats](https://gitee.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|1|2021-10-26|
 |18|[HanryYu/typora-blubook-theme](https://gitee.com/HanryYu/typora-blubook-theme)|Blubook, a flat typora theme.|357|1|2021-07-26|
 |19|[arect/onedrive_blog](https://gitee.com/arect/onedrive_blog)|OneDrive/Blog 以OneDrive为储存的博客“引擎”|15|1|2021-12-28|
-|20|[leopardpan/leopardpan.github.io](https://gitee.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1161|1|2021-10-17|
+|20|[leopardpan/leopardpan.github.io](https://gitee.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1162|1|2021-10-17|
 |21|[beeth0ven/RxSwift-Chinese-Documentation](https://gitee.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1216|1|2021-10-25|
 |22|[rawchen/blog-ssm](https://gitee.com/rawchen/blog-ssm)|一个简单漂亮的SSM博客系统。|348|1|2021-12-05|
-|23|[Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://gitee.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus)|思源笔记的一款暗黑主题(A dark theme of SiYuan Note)|9|1|2022-01-02|
+|23|[Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://gitee.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus)|思源笔记的一款暗黑主题(A dark theme of SiYuan Note)|10|1|2022-01-02|
 |24|[zjp-CN/mdbook-theme](https://gitee.com/zjp-CN/mdbook-theme)|A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.|9|0|2021-07-08|
 |25|[ls870061011/cesium_training](https://gitee.com/ls870061011/cesium_training)|Cesium开发：入门篇-1、基础篇-2、工具篇-3、高级篇-4所有课程代码|13|0|2021-11-06|
 |26|[henson/blog](https://gitee.com/henson/blog)|个人博客，专注于Golang、Python、树莓派Raspberry Pi的开发和应用。|6|0|2021-10-26|

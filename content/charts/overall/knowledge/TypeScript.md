@@ -5,16 +5,16 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[basarat/typescript-book](https://gitee.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16326|2021-10-12|
-|2|[crimx/ext-saladict](https://gitee.com/crimx/ext-saladict)|🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.|8465|2021-12-26|
-|3|[xcatliu/typescript-tutorial](https://gitee.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8437|2021-12-09|
+|1|[basarat/typescript-book](https://gitee.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16329|2021-10-12|
+|2|[crimx/ext-saladict](https://gitee.com/crimx/ext-saladict)|🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.|8468|2021-12-26|
+|3|[xcatliu/typescript-tutorial](https://gitee.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8438|2021-12-09|
 |4|[any86/any-rule](https://gitee.com/any86/any-rule)|🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台|5763|2021-12-21|
 |5|[zhongsp/TypeScript](https://gitee.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5433|2021-11-20|
 |6|[antonioru/beautiful-react-hooks](https://gitee.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5249|2021-10-18|
 |7|[jkchao/typescript-book-chinese](https://gitee.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5061|2021-11-11|
 |8|[cuixiaorui/mini-vue](https://gitee.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|3980|2021-12-28|
-|9|[doodlewind/jshistory-cn](https://gitee.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3699|2021-11-25|
-|10|[Kaiyiwing/qwerty-learner](https://gitee.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3589|2021-12-16|
+|9|[doodlewind/jshistory-cn](https://gitee.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3700|2021-11-25|
+|10|[Kaiyiwing/qwerty-learner](https://gitee.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3590|2021-12-16|
 |11|[btroncone/learn-rxjs](https://gitee.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3478|2021-10-22|
 |12|[loiane/javascript-datastructures-algorithms](https://gitee.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3243|2021-10-01|
 |13|[alibaba/pipcook](https://gitee.com/alibaba/pipcook)|Machine learning platform for Web developers|2194|2022-01-02|
@@ -26,9 +26,9 @@
 |19|[tal-tech/electron-playground](https://gitee.com/tal-tech/electron-playground)|This is a project to quickly experiment and learn electron related APIs|1187|2021-07-13|
 |20|[RxJS-CN/learn-rxjs-operators](https://gitee.com/RxJS-CN/learn-rxjs-operators)|Learn RxJS 中文版 (通过清晰的示例来学习 RxJS 5 操作符)|854|2021-07-08|
 |21|[zenghongtu/react-use-chinese](https://gitee.com/zenghongtu/react-use-chinese)|中文文档@react-use|826|2021-12-06|
-|22|[loomnetwork/cryptozombie-lessons](https://gitee.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|793|2021-12-28|
-|23|[lint-md/lint-md](https://gitee.com/lint-md/lint-md)|:books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。支持 API 调用！|783|2021-12-28|
-|24|[purocean/yn](https://gitee.com/purocean/yn)|A Hackable Markdown Note Application for Programmers. Documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.|771|2022-01-01|
+|22|[loomnetwork/cryptozombie-lessons](https://gitee.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|793|2022-01-02|
+|23|[lint-md/lint-md](https://gitee.com/lint-md/lint-md)|:books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。支持 API 调用！|784|2021-12-28|
+|24|[purocean/yn](https://gitee.com/purocean/yn)|A Hackable Markdown Note Application for Programmers. Documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.|776|2022-01-02|
 |25|[sorrycc/weekly](https://gitee.com/sorrycc/weekly)|前端周刊，每周一发布。|769|2021-12-27|
 |26|[dzzzzzy/Nestjs-Learning](https://gitee.com/dzzzzzy/Nestjs-Learning)|nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:|763|2021-10-18|
 |27|[MoeFE/GoogleTranslate](https://gitee.com/MoeFE/GoogleTranslate)|🌐 Google 翻译 Mac 客户端|734|2021-07-26|
@@ -40,7 +40,7 @@
 |33|[Javen205/TNWX](https://gitee.com/Javen205/TNWX)|TNWX: TypeScript + Node.js + WeiXin 微信系开发脚手架，支持微信公众号、微信支付、微信小游戏、微信小程序、企业微信/企业号。最最最重要的是能快速的集成至任何 Node.js 框架(Express、Nest、Egg、Koa 等)|423|2021-12-21|
 |34|[wistingcn/WiLearning](https://gitee.com/wistingcn/WiLearning)|Multiparty meeting&e-learning  using mediasoup, webrtc ,angular and ionic with powerful whiteboard support|403|2021-10-28|
 |35|[chuyun/taro-plugin-canvas](https://gitee.com/chuyun/taro-plugin-canvas)|基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用的操作，通过配置的方式生成分享图片|401|2021-10-05|
-|36|[tiddly-gittly/TidGi-Desktop](https://gitee.com/tiddly-gittly/TidGi-Desktop)|TidGi is an auto-git-backup, privatcy-in-mind, freely-deployed Tiddlywiki knowledgement Desktop app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能自动用Git备份、保护隐私内容、部署为博客，且可通过RESTAPI与Anki等 ...|370|2021-12-28|
+|36|[tiddly-gittly/TidGi-Desktop](https://gitee.com/tiddly-gittly/TidGi-Desktop)|TidGi is an auto-git-backup, privatcy-in-mind, freely-deployed Tiddlywiki knowledgement Desktop app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能自动用Git备份、保护隐私内容、部署为博客，且可通过RESTAPI与Anki等 ...|370|2022-01-02|
 |37|[yanlele/node-index](https://gitee.com/yanlele/node-index)|学习笔记、博文、简书、工作日常踩坑记录以及一些独立作品的汇总目录|324|2021-12-21|
 |38|[fxy5869571/blog-react](https://gitee.com/fxy5869571/blog-react)|基于typescript koa2 react的个人博客|320|2021-09-21|
 |39|[shidenggui/bloghub](https://gitee.com/shidenggui/bloghub)|一群自由而有趣的灵魂，终将在此相遇   独立个人博客推荐导航|319|2021-12-09|

@@ -19,7 +19,7 @@
 |12|[helixcn/spaa](https://gitee.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|0|2021-08-12|
 |13|[pzhaonet/pinyin](https://gitee.com/pzhaonet/pinyin)|an R package for converting Chineses characters into pinyin|40|0|2021-08-22|
 |14|[leileibama/leoDDcalculator](https://gitee.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|0|2021-11-08|
-|15|[Detlew/PowerTOST](https://gitee.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|9|0|2021-09-25|
+|15|[Detlew/PowerTOST](https://gitee.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|0|2021-09-25|
 |16|[mountainMath/tongfen](https://gitee.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|24|0|2021-11-19|
 |17|[YongxinLiu/EasyMicrobiome](https://gitee.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|26|0|2021-12-27|
 |18|[eco-hydro/phenofit](https://gitee.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|43|0|2021-12-19|
@@ -58,7 +58,7 @@
 |51|[ShichenXie/scorecard](https://gitee.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|131|0|2021-11-28|
 |52|[justinchuntingho/songotsti](https://gitee.com/justinchuntingho/songotsti)|A Package for Cantonese Tokenisation|13|0|2021-06-17|
 |53|[rOpenStats/COVID19analyticsBak2109](https://gitee.com/rOpenStats/COVID19analyticsBak2109)|-|32|0|2021-10-03|
-|54|[quanteda/readtext](https://gitee.com/quanteda/readtext)|an R package for reading text files|98|0|2021-07-13|
+|54|[quanteda/readtext](https://gitee.com/quanteda/readtext)|an R package for reading text files|99|0|2021-07-13|
 |55|[massimoaria/dimensionsR](https://gitee.com/massimoaria/dimensionsR)|Gathering metadata about publications, patents, grants, clinical trials and policy documents from DS Dimensions using DSL API|12|0|2021-06-07|
 |56|[Merck/r2rtf](https://gitee.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|35|0|2021-12-17|
 |57|[ShixiangWang/tinyscholar](https://gitee.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|6|0|2021-10-26|

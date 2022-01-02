@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://gitee.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52248|2021-12-10|
+|1|[chrislgarry/Apollo-11](https://gitee.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52252|2021-12-10|
 |2|[leachim6/hello-world](https://gitee.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7665|2022-01-02|
 |3|[TG9541/stm8ef](https://gitee.com/TG9541/stm8ef)|STM8 eForth: a user-friendly Forth for cheap µCs with docs|259|2021-11-30|
 |4|[leomil72/LM80C](https://gitee.com/leomil72/LM80C)|A Z80-based homebrew computer withTMS9918, AY-3-8910, Z80 CTC, Z80 PIO, and Z80 SIO|64|2021-12-12|
@@ -15,7 +15,7 @@
 |8|[Dfinitski/ATU-10-10W-QRP-antenna-tuner](https://gitee.com/Dfinitski/ATU-10-10W-QRP-antenna-tuner)|-|23|2021-12-09|
 |9|[bereal/AdventOfCode2020](https://gitee.com/bereal/AdventOfCode2020)|Solving Advent of Code 2020, each day in a different language|22|2021-07-28|
 |10|[tsg-ut/tsgctf2020](https://gitee.com/tsg-ut/tsgctf2020)|Everything about TSG CTF 2020|22|2021-07-02|
-|11|[Panda381/ATX80](https://gitee.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|17|2021-12-15|
+|11|[Panda381/ATX80](https://gitee.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|18|2021-12-15|
 |12|[pleasewhy/startos](https://gitee.com/pleasewhy/startos)|rewrite subset of linux 2.6 by OOP, C++ advanced topics|10|2021-07-22|
 |13|[lmafia/WeatherClock](https://gitee.com/lmafia/WeatherClock)|☀️物联网-天气闹钟☁️|9|2021-07-16|
 |14|[uraninite/win32-stuxnet](https://gitee.com/uraninite/win32-stuxnet)|Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs bu ...|8|2021-09-01|

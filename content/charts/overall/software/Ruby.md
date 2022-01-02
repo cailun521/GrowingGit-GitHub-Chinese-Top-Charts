@@ -5,17 +5,17 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[gitlabhq/gitlabhq](https://gitee.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22801|2022-01-01|
+|1|[gitlabhq/gitlabhq](https://gitee.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22802|2022-01-01|
 |2|[lewagon/setup](https://gitee.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11514|2021-11-10|
 |3|[ankane/searchkick](https://gitee.com/ankane/searchkick)|Intelligent search made easy|5765|2021-12-27|
 |4|[nomad/shenzhen](https://gitee.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4668|2021-06-20|
 |5|[ruby-china/homeland](https://gitee.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3516|2021-12-31|
-|6|[peatio/peatio](https://gitee.com/peatio/peatio)|An open-source assets exchange.|3506|2021-12-08|
+|6|[peatio/peatio](https://gitee.com/peatio/peatio)|An open-source assets exchange.|3507|2021-12-08|
 |7|[sketchplugins/plugin-directory](https://gitee.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3411|2022-01-02|
 |8|[rpush/rpush](https://gitee.com/rpush/rpush)|The push notification service for Ruby.|1889|2021-12-27|
 |9|[pluosi/app-host](https://gitee.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1801|2021-11-04|
 |10|[publify/publify](https://gitee.com/publify/publify)|A self hosted Web publishing platform on Rails.|1776|2021-12-27|
-|11|[w181496/Web-CTF-Cheatsheet](https://gitee.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1737|2021-12-29|
+|11|[w181496/Web-CTF-Cheatsheet](https://gitee.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1737|2022-01-02|
 |12|[thredded/thredded](https://gitee.com/thredded/thredded)|The best Rails forums engine ever.|1309|2021-10-24|
 |13|[Eric-Guo/wechat](https://gitee.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1267|2021-12-21|
 |14|[michelson/lazy_high_charts](https://gitee.com/michelson/lazy_high_charts)|Make highcharts a la ruby , works in rails 5.X / 4.X / 3.X, and other ruby web frameworks|1044|2021-12-21|
@@ -33,7 +33,7 @@
 |26|[janx/ruby-pinyin](https://gitee.com/janx/ruby-pinyin)|中文汉字转拼音,　支持中英文符号混合词语。Pinyin is a romanization system (phonemic notation) of Chinese characters, this gem helps you to convert Chinese characters into pinyin form.|526|2021-08-21|
 |27|[kaich/codeobscure](https://gitee.com/kaich/codeobscure)|code obscure for object-c project.  方便强大的OC工程代码自动混淆工具|523|2021-07-02|
 |28|[bridgetownrb/bridgetown](https://gitee.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|516|2021-12-25|
-|29|[tryzealot/zealot](https://gitee.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|459|2021-12-30|
+|29|[tryzealot/zealot](https://gitee.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|460|2021-12-30|
 |30|[lanrion/weixin_rails_middleware](https://gitee.com/lanrion/weixin_rails_middleware)|微信集成 ruby weixin_rails_middleware for integration weixin. |414|2021-09-27|
 |31|[darkbitio/aws-recon](https://gitee.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|389|2021-12-02|
 |32|[oott123/alfred-clipboard-ocr](https://gitee.com/oott123/alfred-clipboard-ocr)|Use Baidu OCR API to covert your clipboard image to text.|383|2021-10-20|

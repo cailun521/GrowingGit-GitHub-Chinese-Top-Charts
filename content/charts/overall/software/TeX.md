@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[billryan/resume](https://gitee.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4953|2021-12-15|
+|1|[billryan/resume](https://gitee.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4955|2021-12-15|
 |2|[tuna/thuthesis](https://gitee.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3295|2021-12-04|
-|3|[mohuangrui/ucasthesis](https://gitee.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2467|2021-10-29|
+|3|[mohuangrui/ucasthesis](https://gitee.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2468|2021-10-29|
 |4|[THUNLP-MT/MT-Reading-List](https://gitee.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2171|2021-11-20|
 |5|[OWASP/owasp-masvs](https://gitee.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1281|2022-01-02|
 |6|[ethereum/yellowpaper](https://gitee.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1217|2021-12-27|
 |7|[TheNetAdmin/zjuthesis](https://gitee.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1076|2021-12-31|
-|8|[CTeX-org/lshort-zh-cn](https://gitee.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1003|2021-12-08|
+|8|[CTeX-org/lshort-zh-cn](https://gitee.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1005|2021-12-08|
 |9|[ustctug/ustcthesis](https://gitee.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|906|2021-12-19|
 |10|[CTeX-org/ctex-kit](https://gitee.com/CTeX-org/ctex-kit)|Macro Packages and Scripts for Chinese TeX users|781|2021-12-14|
 |11|[zepinglee/gbt7714-bibtex-style](https://gitee.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|613|2021-12-12|
@@ -41,7 +41,7 @@
 |34|[redleafnew/Zotero_introduction](https://gitee.com/redleafnew/Zotero_introduction)|A Short Chinese Introduction to Zotero|58|2021-12-28|
 |35|[mathedu4all/bhcexam](https://gitee.com/mathedu4all/bhcexam)|The BHCexam document class attempts to make it easy for even a LaTeX novice to prepare exams.|58|2021-08-30|
 |36|[LogCreative/SJTUBeamermin](https://gitee.com/LogCreative/SJTUBeamermin)|上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集|57|2021-11-05|
-|37|[MacroUniverse/PhysWiki-log](https://gitee.com/MacroUniverse/PhysWiki-log)|小时百科|50|2022-01-01|
+|37|[MacroUniverse/PhysWiki-log](https://gitee.com/MacroUniverse/PhysWiki-log)|小时百科|50|2022-01-02|
 |38|[wengan-li/ncku-thesis-template-latex](https://gitee.com/wengan-li/ncku-thesis-template-latex)|NCKU Thesis/Dissertation Template in Latex   台灣國立成功大學碩博士用畢業論文LaTex模板|50|2021-06-14|
 |39|[TomHeaven/nudtproposal](https://gitee.com/TomHeaven/nudtproposal)|NUDT硕士博士研究生开题报告latex模板|49|2021-09-01|
 |40|[seisman/cv](https://gitee.com/seisman/cv)|My academic CV powered by LaTeX|48|2022-01-01|
@@ -82,16 +82,16 @@
 |75|[WoodyBryant/Report_Template](https://gitee.com/WoodyBryant/Report_Template)|Report_Template|9|2021-11-05|
 |76|[freedomtan/coreml_to_ane_hwx](https://gitee.com/freedomtan/coreml_to_ane_hwx)|a quick and dirty little program to convert Apple CoreML model to ANE hwx file|9|2021-07-19|
 |77|[syvshc/HITBeamer](https://gitee.com/syvshc/HITBeamer)|基于 THU-Beamer-Theme (https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:|9|2021-11-17|
-|78|[HIT-UOI-SR/hithesis-template](https://gitee.com/HIT-UOI-SR/hithesis-template)|配置整理好的 hithesis 使用模板|9|2021-06-17|
-|79|[RuixiZhang42/newxeCJK](https://gitee.com/RuixiZhang42/newxeCJK)|New implementation of xeCJK|9|2021-10-15|
-|80|[imtsuki/resume](https://gitee.com/imtsuki/resume)|📝 This  is my résumé / 这是我的简历|9|2021-12-02|
-|81|[sikouhjw/Engineering-mathematics-sunflower-treasure-book](https://gitee.com/sikouhjw/Engineering-mathematics-sunflower-treasure-book)|-|9|2021-06-30|
-|82|[yuzhengcuhk/NortheasternUniversityLatexTemplate](https://gitee.com/yuzhengcuhk/NortheasternUniversityLatexTemplate)|东北大学本科毕业设计模板|9|2021-08-17|
-|83|[iamxiatian/course_ds](https://gitee.com/iamxiatian/course_ds)|数据结构|9|2021-11-09|
-|84|[ericuni/note](https://gitee.com/ericuni/note)|my notes|9|2021-12-27|
-|85|[wenddymacro/AppliedEconometrics](https://gitee.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|8|2021-10-28|
-|86|[Jinwen-XU/minimalist](https://gitee.com/Jinwen-XU/minimalist)|-|8|2021-12-16|
-|87|[qtli/Papers-on-Dialogue-System](https://gitee.com/qtli/Papers-on-Dialogue-System)|A Survey of Neural Dialogue Systems|8|2021-12-31|
+|78|[qtli/Papers-on-Dialogue-System](https://gitee.com/qtli/Papers-on-Dialogue-System)|A Survey of Neural Dialogue Systems|9|2021-12-31|
+|79|[HIT-UOI-SR/hithesis-template](https://gitee.com/HIT-UOI-SR/hithesis-template)|配置整理好的 hithesis 使用模板|9|2021-06-17|
+|80|[RuixiZhang42/newxeCJK](https://gitee.com/RuixiZhang42/newxeCJK)|New implementation of xeCJK|9|2021-10-15|
+|81|[imtsuki/resume](https://gitee.com/imtsuki/resume)|📝 This  is my résumé / 这是我的简历|9|2021-12-02|
+|82|[sikouhjw/Engineering-mathematics-sunflower-treasure-book](https://gitee.com/sikouhjw/Engineering-mathematics-sunflower-treasure-book)|-|9|2021-06-30|
+|83|[yuzhengcuhk/NortheasternUniversityLatexTemplate](https://gitee.com/yuzhengcuhk/NortheasternUniversityLatexTemplate)|东北大学本科毕业设计模板|9|2021-08-17|
+|84|[iamxiatian/course_ds](https://gitee.com/iamxiatian/course_ds)|数据结构|9|2021-11-09|
+|85|[ericuni/note](https://gitee.com/ericuni/note)|my notes|9|2021-12-27|
+|86|[wenddymacro/AppliedEconometrics](https://gitee.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|8|2021-10-28|
+|87|[Jinwen-XU/minimalist](https://gitee.com/Jinwen-XU/minimalist)|-|8|2021-12-16|
 |88|[mountain/the-book](https://gitee.com/mountain/the-book)|异星杂谭|8|2021-09-03|
 |89|[zhliuworks/SJTU-Report-mini](https://gitee.com/zhliuworks/SJTU-Report-mini)|:memo:  SJTU 中文简约 LaTeX 报告模板|7|2021-06-07|
 |90|[Jinwen-XU/colorist](https://gitee.com/Jinwen-XU/colorist)|-|7|2021-12-17|

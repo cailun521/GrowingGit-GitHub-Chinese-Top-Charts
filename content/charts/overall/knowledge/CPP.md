@@ -5,44 +5,44 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[huihut/interview](https://gitee.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|21752|2021-10-06|
-|2|[Light-City/CPlusPlusThings](https://gitee.com/Light-City/CPlusPlusThings)|C++那些事|17638|2021-12-18|
-|3|[changkun/modern-cpp-tutorial](https://gitee.com/changkun/modern-cpp-tutorial)|📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly   https://changkun.de/modern-cpp/|16088|2021-12-26|
+|1|[huihut/interview](https://gitee.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|21755|2021-10-06|
+|2|[Light-City/CPlusPlusThings](https://gitee.com/Light-City/CPlusPlusThings)|C++那些事|17643|2021-12-18|
+|3|[changkun/modern-cpp-tutorial](https://gitee.com/changkun/modern-cpp-tutorial)|📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly   https://changkun.de/modern-cpp/|16091|2021-12-26|
 |4|[ChenYilong/iOSInterviewQuestions](https://gitee.com/ChenYilong/iOSInterviewQuestions)|iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21|8886|2021-12-06|
-|5|[wuye9036/CppTemplateTutorial](https://gitee.com/wuye9036/CppTemplateTutorial)|中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)|5739|2021-12-28|
+|5|[wuye9036/CppTemplateTutorial](https://gitee.com/wuye9036/CppTemplateTutorial)|中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)|5744|2021-12-28|
 |6|[xtaci/algorithms](https://gitee.com/xtaci/algorithms)|Algorithms & Data structures in C++.|4323|2021-10-11|
 |7|[forhappy/Cplusplus-Concurrency-In-Practice](https://gitee.com/forhappy/Cplusplus-Concurrency-In-Practice)|A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》|3812|2021-07-25|
-|8|[applenob/Cpp_Primer_Practice](https://gitee.com/applenob/Cpp_Primer_Practice)|搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。|3361|2021-11-28|
+|8|[applenob/Cpp_Primer_Practice](https://gitee.com/applenob/Cpp_Primer_Practice)|搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。|3362|2021-11-28|
 |9|[huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms](https://gitee.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)|《算法导论》第三版中算法的C++实现|2595|2021-06-17|
-|10|[gaoxiang12/slambook2](https://gitee.com/gaoxiang12/slambook2)|edition 2 of the slambook|2425|2021-12-21|
+|10|[gaoxiang12/slambook2](https://gitee.com/gaoxiang12/slambook2)|edition 2 of the slambook|2426|2021-12-21|
 |11|[ffffffff0x/1earn](https://gitee.com/ffffffff0x/1earn)|ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|2415|2021-12-15|
 |12|[liuyubobobo/Play-Leetcode](https://gitee.com/liuyubobobo/Play-Leetcode)|My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言 ...|2221|2022-01-02|
 |13|[km1994/nlp_paper_study](https://gitee.com/km1994/nlp_paper_study)|研读顶会论文，复现论文相关代码|1953|2021-12-24|
-|14|[19PDP/Bilibili-plus](https://gitee.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1933|2021-11-30|
+|14|[19PDP/Bilibili-plus](https://gitee.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1934|2021-11-30|
 |15|[Simple-XX/SimpleKernel](https://gitee.com/Simple-XX/SimpleKernel)|Simple kernel for learning operating systems. 用于学习操作系统的简单内核|1875|2021-11-24|
-|16|[CodePanda66/CSPostgraduate-408](https://gitee.com/CodePanda66/CSPostgraduate-408)|💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源～✍🏻 更新中～欢迎Star！⭐️|1805|2021-09-15|
-|17|[callmePicacho/Data-Structres](https://gitee.com/callmePicacho/Data-Structres)|浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解|1628|2021-08-17|
+|16|[CodePanda66/CSPostgraduate-408](https://gitee.com/CodePanda66/CSPostgraduate-408)|💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源～✍🏻 更新中～欢迎Star！⭐️|1809|2021-09-15|
+|17|[callmePicacho/Data-Structres](https://gitee.com/callmePicacho/Data-Structres)|浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解|1629|2021-08-17|
 |18|[FISCO-BCOS/FISCO-BCOS](https://gitee.com/FISCO-BCOS/FISCO-BCOS)|FISCO BCOS是由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台。 单链配置下，性能TPS可达万级。提供群组架构、并行计算、分布式存储、可插拔的共识机制、隐私保护算法、支持全链路国密算法等诸多特性。 经过多个机构、多个应用，长时间在生产环境中的实践检验，具备金融级的高性能、高可用性及高安全性。FISCO BCOS is a secure and reliable  ...|1547|2022-01-02|
 |19|[githubhaohao/NDK_OpenGLES_3_0](https://gitee.com/githubhaohao/NDK_OpenGLES_3_0)|Android OpenGL ES 3.0 从入门到精通系统性学习教程|1517|2021-11-17|
-|20|[lightvector/KataGo](https://gitee.com/lightvector/KataGo)|GTP engine and self-play learning in Go|1481|2021-12-29|
+|20|[lightvector/KataGo](https://gitee.com/lightvector/KataGo)|GTP engine and self-play learning in Go|1482|2022-01-02|
 |21|[scarsty/kys-cpp](https://gitee.com/scarsty/kys-cpp)|《金庸群侠传》c++复刻版，已完工|1411|2021-12-05|
 |22|[Tencent/UnLua](https://gitee.com/Tencent/UnLua)|A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.|1232|2021-12-31|
 |23|[HarleysZhang/2021_algorithm_intern_information](https://gitee.com/HarleysZhang/2021_algorithm_intern_information)|2021年的算法实习岗位/校招公司信息表，和常见深度学习基础、计算机视觉知识笔记、算法岗面试题答案，及暑期计算机视觉实习面经和总结。|1226|2021-10-23|
-|24|[0voice/cpp_new_features](https://gitee.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1203|2021-10-21|
+|24|[0voice/cpp_new_features](https://gitee.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1212|2021-10-21|
 |25|[SFUMECJF/cmake-examples-Chinese](https://gitee.com/SFUMECJF/cmake-examples-Chinese)|快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/|1164|2022-01-01|
 |26|[netwarm007/GameEngineFromScratch](https://gitee.com/netwarm007/GameEngineFromScratch)|配合我的知乎专栏写的项目|1143|2021-11-29|
 |27|[Chuyu-Team/VC-LTL](https://gitee.com/Chuyu-Team/VC-LTL)|Shared to msvcrt.dll and optimize the C/C++ application file size.|964|2021-12-08|
-|28|[zufuliu/notepad2](https://gitee.com/zufuliu/notepad2)|Notepad2 is a light-weight Scintilla-based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents, bundled with file  ...|957|2022-01-02|
+|28|[zufuliu/notepad2](https://gitee.com/zufuliu/notepad2)|Notepad2 is a light-weight Scintilla-based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents, bundled with file  ...|959|2022-01-02|
 |29|[xmuli/QtExamples](https://gitee.com/xmuli/QtExamples)|Qt 的 GUI 控件使用和网络；DTK 重绘控件方式的框架架构解析；Qt 原理/运行机制理解；QtCrator 使用和一些小技巧；系列文章教程|954|2021-10-09|
 |30|[nwpuhq/AwesomeCpp](https://gitee.com/nwpuhq/AwesomeCpp)|---AWESOME--- C++学习笔记和常见面试知识点，C++11特性，包括智能指针、四种强制转换、function和bind、移动语义、完美转发、tuple、多态原理、虚表、友元函数、符号重载、函数指针、深浅拷贝、struct内存对齐、volatile以及union\static等各种关键字的用法等等，还新添了其他算法和计算机基础的难点，力求简洁清晰|913|2021-06-26|
 |31|[Captain1986/CaptainBlackboard](https://gitee.com/Captain1986/CaptainBlackboard)|船长关于机器学习、计算机视觉和工程技术的总结和分享|868|2021-06-15|
-|32|[MKXJun/DirectX11-With-Windows-SDK](https://gitee.com/MKXJun/DirectX11-With-Windows-SDK)|现代DX11系列教程：使用Windows SDK(C++)开发Direct3D 11.x|801|2021-11-09|
+|32|[MKXJun/DirectX11-With-Windows-SDK](https://gitee.com/MKXJun/DirectX11-With-Windows-SDK)|现代DX11系列教程：使用Windows SDK(C++)开发Direct3D 11.x|802|2021-11-09|
 |33|[acm-clan/algorithm-stone](https://gitee.com/acm-clan/algorithm-stone)|ACM/LeetCode算法竞赛路线图，最全的算法学习地图！|800|2021-12-28|
 |34|[IronsDu/brynet](https://gitee.com/IronsDu/brynet)|A Header-Only cross-platform  C++ TCP network library . Can use vcpkg(https://github.com/Microsoft/vcpkg/tree/master/ports/brynet) install |789|2021-11-13|
-|35|[parallel101/course](https://gitee.com/parallel101/course)|高性能并行编程与优化 - 课件|781|2022-01-01|
-|36|[downdemo/Cpp-Templates-2ed](https://gitee.com/downdemo/Cpp-Templates-2ed)|C++ Templates 2ed 笔记：C++11/14/17 模板，剖析 C++ 最复杂艰深的高级技术，揭秘基础设施库不可或缺的泛型编程|774|2021-12-27|
+|35|[parallel101/course](https://gitee.com/parallel101/course)|高性能并行编程与优化 - 课件|785|2022-01-01|
+|36|[downdemo/Cpp-Templates-2ed](https://gitee.com/downdemo/Cpp-Templates-2ed)|C++ Templates 2ed 笔记：C++11/14/17 模板，剖析 C++ 最复杂艰深的高级技术，揭秘基础设施库不可或缺的泛型编程|775|2021-12-27|
 |37|[o0o0o0o0o0o0o/image-processing-from-scratch](https://gitee.com/o0o0o0o0o0o0o/image-processing-from-scratch)|This project contains some interesting image processing algorithms that were wrote in python and c++ from scratch.|669|2021-07-23|
-|38|[AngelMonica126/GraphicAlgorithm](https://gitee.com/AngelMonica126/GraphicAlgorithm)|:octopus: :octopus:图形学论文实现|646|2021-08-24|
+|38|[AngelMonica126/GraphicAlgorithm](https://gitee.com/AngelMonica126/GraphicAlgorithm)|:octopus: :octopus:图形学论文实现|648|2021-08-24|
 |39|[czs108/Cpp-Primer-5th-Notes-CN](https://gitee.com/czs108/Cpp-Primer-5th-Notes-CN)|📚 《C++ Primer中文版（第5版）》笔记|611|2021-12-26|
 |40|[githubhaohao/LearnFFmpeg](https://gitee.com/githubhaohao/LearnFFmpeg)|Android FFmpeg 音视频开发教程|606|2021-12-29|
 |41|[sukhoeing/aoapc-bac2nd-keys](https://gitee.com/sukhoeing/aoapc-bac2nd-keys)|算法竞赛入门经典第2版-习题选解|467|2021-09-08|
@@ -55,8 +55,8 @@
 |48|[LiveStockShapeAnalysis/Point-Cloud-Processing-example](https://gitee.com/LiveStockShapeAnalysis/Point-Cloud-Processing-example)|点云库PCL从入门到精通 书中配套案例|356|2021-09-04|
 |49|[anbingxu666/WangDao-DataStructure](https://gitee.com/anbingxu666/WangDao-DataStructure)|《数据结构》经典算法代码|326|2021-07-16|
 |50|[chengciming/wechatPc](https://gitee.com/chengciming/wechatPc)|PC微信hook源码，PC微信注入，逆向编程，可以制作微信机器人玩玩，仅供学习，请不要用于商业、违法途径，本人不对此源码造成的违法负责！|296|2021-07-08|
-|51|[limbo018/DREAMPlace](https://gitee.com/limbo018/DREAMPlace)|Deep learning toolkit-enabled VLSI placement|295|2021-12-28|
-|52|[0voice/introduce_c-cpp_manual](https://gitee.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|287|2021-12-15|
+|51|[limbo018/DREAMPlace](https://gitee.com/limbo018/DREAMPlace)|Deep learning toolkit-enabled VLSI placement|296|2021-12-28|
+|52|[0voice/introduce_c-cpp_manual](https://gitee.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|289|2021-12-15|
 |53|[TJ-CSCCG/TJCS-Course](https://gitee.com/TJ-CSCCG/TJCS-Course)|:bulb: 同济大学计算机科学与技术、信息安全专业课程资源共享仓库。含部分科目介绍、报告模板、实验工具等内容。期待更多课程加入……|287|2022-01-01|
 |54|[iUIShop/LibUIDK](https://gitee.com/iUIShop/LibUIDK)|mfc skin ui，not directui。视频教程：https://v.youku.com/v_show/id_XNTczMzg5MDky.html  简单来说，LibUIDK是用来开发QQ、360安全卫士那样的漂亮软件界面的。 LibUIDK原来是商业界面库，2019年9月8号开源。是专业开发Windows平台下图形用户界面的开发包，该开发包基于Microsoft的MFC库。使用此开发工 ...|287|2021-08-19|
 |55|[AZE98/CQUPT-Study-Data](https://gitee.com/AZE98/CQUPT-Study-Data)|在重邮本科阶段积累的实验报告、PPT等课程资料及课外学习资料。|283|2021-08-15|
@@ -75,10 +75,10 @@
 |68|[AgoraIO/API-Examples](https://gitee.com/AgoraIO/API-Examples)|Play with AgoraSDK and have fun! Everything you need to start learning Agora.|155|2021-12-31|
 |69|[GoatGirl98/Walkthrough-of-ACCoding-in-BUAA](https://gitee.com/GoatGirl98/Walkthrough-of-ACCoding-in-BUAA)|北航OJ通关攻略，包括北航软件学院的在线评测网站（OJ）——AC编程（accoding.cn）开放课程的全部题解|147|2021-11-23|
 |70|[keyou/chromium_demo](https://gitee.com/keyou/chromium_demo)|A series of demos to show how chromium is constructed.|145|2021-09-23|
-|71|[rongweihe/CPPNotes](https://gitee.com/rongweihe/CPPNotes)|【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。|144|2021-12-26|
-|72|[yuesong-feng/30dayMakeCppServer](https://gitee.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|135|2022-01-01|
+|71|[rongweihe/CPPNotes](https://gitee.com/rongweihe/CPPNotes)|【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。|144|2022-01-02|
+|72|[yuesong-feng/30dayMakeCppServer](https://gitee.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|142|2022-01-02|
 |73|[metaphysis/Code](https://gitee.com/metaphysis/Code)|Solutions for UVa Online Judge and Programming Challeges. Sample code in my Book.|135|2021-12-29|
-|74|[gongluck/AnalysisAVP](https://gitee.com/gongluck/AnalysisAVP)|音视频学习，相关文件格式/协议分析，框架学习等。yuv h264 aac flv mp4 rtmp；libyuv x264 openh264 faac faad2 fdk-aac librtmp ffmpeg sdl2 webrtc；android ios capture videotoolbox；|132|2021-12-31|
+|74|[gongluck/AnalysisAVP](https://gitee.com/gongluck/AnalysisAVP)|音视频学习，相关文件格式/协议分析，框架学习等。yuv h264 aac flv mp4 rtmp；libyuv x264 openh264 faac faad2 fdk-aac librtmp ffmpeg sdl2 webrtc；android ios capture videotoolbox；|133|2021-12-31|
 |75|[Lartu/ldpl](https://gitee.com/Lartu/ldpl)|Compiled programming language for Unix systems, inspired by COBOL and designed to be expressive, fast, readable and easy to learn.|123|2021-12-10|
 |76|[jiangzc/CuteTranslation](https://gitee.com/jiangzc/CuteTranslation)|Linux屏幕取词翻译软件|121|2021-09-11|
 |77|[gzc/leetcode](https://gitee.com/gzc/leetcode)|LeetCode solutions.|116|2021-12-26|
@@ -93,8 +93,8 @@
 |86|[Chuyu-Team/VC-LTL5](https://gitee.com/Chuyu-Team/VC-LTL5)|Shared to msvcrt.dll or ucrtbase.dll and optimize the C/C++ application file size.|93|2021-12-29|
 |87|[GavinKG/ILearnVulkanFromScratch-CN](https://gitee.com/GavinKG/ILearnVulkanFromScratch-CN)|Gitbook repo hosting|91|2021-12-30|
 |88|[juhuaguai/duilib](https://gitee.com/juhuaguai/duilib)|由官方的duilib( https://github.com/duilib/duilib ) 复制过来的，仅为了个人学习使用。可以使用vs2008打开，新增一些学习测试用的demo，代码也会同步官方的后续修改。Q群：594312689。欢迎交流学习。|89|2021-12-29|
-|89|[yanglr/leetcode-ac](https://gitee.com/yanglr/leetcode-ac)|:octocat: leetcode-ac   LeetCode AC solutions   LeetCode+剑指offer+程序员面试金典careerup(cc189)|88|2021-11-28|
-|90|[heyhu/AndroidReverseStudy](https://gitee.com/heyhu/AndroidReverseStudy)|安卓逆向学习|86|2021-12-30|
+|89|[heyhu/AndroidReverseStudy](https://gitee.com/heyhu/AndroidReverseStudy)|安卓逆向学习|88|2021-12-30|
+|90|[yanglr/leetcode-ac](https://gitee.com/yanglr/leetcode-ac)|:octocat: leetcode-ac   LeetCode AC solutions   LeetCode+剑指offer+程序员面试金典careerup(cc189)|88|2021-11-28|
 |91|[upupming/algorithm](https://gitee.com/upupming/algorithm)|acwing, leetcode, kickstart, 算法模板, PAT 等等|83|2022-01-02|
 |92|[jwzh222/epoll](https://gitee.com/jwzh222/epoll)|基于epoll机制的高并发聊天室，c语言实现，代码源于网络仅供学习|80|2021-09-01|
 |93|[Vincentqyw/LineSegmentsDetection](https://gitee.com/Vincentqyw/LineSegmentsDetection)|:monkey:A collection of line segments detection algorithms. |73|2021-09-08|

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[jlord/git-it-electron](https://gitee.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3933|2|2021-12-19|
+|1|[jlord/git-it-electron](https://gitee.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3935|2|2021-12-19|
 |2|[bollwarm/SecToolSet](https://gitee.com/bollwarm/SecToolSet)|The security tool(project) Set from github。github安全项目工具集合 |1005|1|2021-11-04|
 |3|[StefanSchroeder/Golang-Regex-Tutorial](https://gitee.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1061|0|2021-10-15|
 |4|[mizu-bai/yinglish-perl](https://gitee.com/mizu-bai/yinglish-perl)|【yinglish】淫语翻译机！现以 Perl 版呈现！|8|0|2021-12-13|

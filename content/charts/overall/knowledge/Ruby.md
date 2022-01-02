@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[freeCodeCamp/how-to-contribute-to-open-source](https://gitee.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5982|2021-12-22|
+|1|[freeCodeCamp/how-to-contribute-to-open-source](https://gitee.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5980|2021-12-22|
 |2|[airbnb/ruby](https://gitee.com/airbnb/ruby)|Ruby Style Guide|3368|2021-12-28|
 |3|[guipdutra/awesome-geek-podcasts](https://gitee.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1604|2021-07-15|
 |4|[ifmeorg/ifme](https://gitee.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1244|2021-12-29|

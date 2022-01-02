@@ -26,9 +26,9 @@
 |19|[KelvinQQ/SpiderCard](https://gitee.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|23|2021-08-23|2021-07-28|
 |20|[aaaaa893215155/SwiftCommandLineTool](https://gitee.com/aaaaa893215155/SwiftCommandLineTool)|Swift写的一个自动打包ipa，并上传蒲公英|23|2021-06-08|2021-06-08|
 |21|[swiftdo/design-patterns](https://gitee.com/swiftdo/design-patterns)|设计模式，经典样例|23|2021-06-08|2021-03-24|
-|22|[creepymonster/GlucoseDirectApp](https://gitee.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|22|2022-01-01|2021-07-18|
-|23|[Cantoboard/Cantoboard](https://gitee.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |22|2021-12-24|2021-03-19|
-|24|[ShenJieSuzhou/PurchaseX](https://gitee.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|21|2021-10-28|2021-07-20|
+|22|[Cantoboard/Cantoboard](https://gitee.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |22|2021-12-24|2021-03-19|
+|23|[ShenJieSuzhou/PurchaseX](https://gitee.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|21|2021-10-28|2021-07-20|
+|24|[creepymonster/GlucoseDirectApp](https://gitee.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-02|2021-07-18|
 |25|[JerryFans/JFPopup](https://gitee.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|20|2021-10-22|2021-10-11|
 |26|[lihaoyun6/DimQQ](https://gitee.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|19|2021-11-28|2021-11-23|
 |27|[treehollow/treehollow-v3-ios](https://gitee.com/treehollow/treehollow-v3-ios)|树洞 iOS / macOS 客户端，使用 SwiftUI 开发。|14|2021-12-11|2021-01-13|

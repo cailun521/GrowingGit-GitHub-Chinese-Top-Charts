@@ -10,28 +10,28 @@
 |3|[NolanHzy/nvjdcdocker](https://gitee.com/NolanHzy/nvjdcdocker)|-|516|10|2021-12-30|
 |4|[Ed1s0nZ/cool](https://gitee.com/Ed1s0nZ/cool)|Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。|444|8|2021-11-25|
 |5|[timb-machine/linux-malware](https://gitee.com/timb-machine/linux-malware)|Tracking interesting Linux (and UNIX) malware. Send PRs|800|5|2021-12-30|
-|6|[goproxy/goproxy.cn](https://gitee.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|5556|5|2021-10-25|
-|7|[hamukazu/lets-get-arrested](https://gitee.com/hamukazu/lets-get-arrested)|This project is intended to protest against the police in Japan|3805|4|2021-09-16|
-|8|[Sakura-gh/ML-notes](https://gitee.com/Sakura-gh/ML-notes)|notes about machine learning|3203|4|2021-11-22|
+|6|[goproxy/goproxy.cn](https://gitee.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|5557|5|2021-10-25|
+|7|[hamukazu/lets-get-arrested](https://gitee.com/hamukazu/lets-get-arrested)|This project is intended to protest against the police in Japan|3806|4|2021-09-16|
+|8|[Sakura-gh/ML-notes](https://gitee.com/Sakura-gh/ML-notes)|notes about machine learning|3204|4|2021-11-22|
 |9|[AirtestProject/Airtest](https://gitee.com/AirtestProject/Airtest)|UI Automation Framework for Games and Apps|5778|4|2021-12-13|
-|10|[kenzok8/openwrt-packages](https://gitee.com/kenzok8/openwrt-packages)|openwrt常用软件包|2477|4|2022-01-01|
-|11|[electron/electron-api-demos](https://gitee.com/electron/electron-api-demos)|Explore the Electron APIs|9962|4|2021-10-20|
+|10|[kenzok8/openwrt-packages](https://gitee.com/kenzok8/openwrt-packages)|openwrt常用软件包|2478|4|2022-01-01|
+|11|[electron/electron-api-demos](https://gitee.com/electron/electron-api-demos)|Explore the Electron APIs|9961|4|2021-10-20|
 |12|[momo0853/kkndme](https://gitee.com/momo0853/kkndme)|kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。|414|4|2021-12-24|
 |13|[gh0stkey/Web-Fuzzing-Box](https://gitee.com/gh0stkey/Web-Fuzzing-Box)|Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1|1142|3|2021-10-22|
 |14|[qkqpttgf/OneManager-php](https://gitee.com/qkqpttgf/OneManager-php)|An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.|2436|3|2022-01-01|
 |15|[plazum/find-keke](https://gitee.com/plazum/find-keke)|寻找唐可可|125|3|2021-12-30|
 |16|[yiqia/student_system](https://gitee.com/yiqia/student_system)|基于thinkphp6.0+mysql+bootstrap4的疫情防控系统毕业设计|75|3|2021-12-04|
-|17|[CaiJimmy/hugo-theme-stack](https://gitee.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|1365|3|2021-12-29|
-|18|[mmistakes/minimal-mistakes](https://gitee.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|9063|3|2022-01-01|
+|17|[CaiJimmy/hugo-theme-stack](https://gitee.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|1368|3|2021-12-29|
+|18|[mmistakes/minimal-mistakes](https://gitee.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|9068|3|2022-01-02|
 |19|[all-contributors/all-contributors](https://gitee.com/all-contributors/all-contributors)|✨ Recognize all contributors, not just the ones who push code ✨|5922|3|2021-12-17|
 |20|[TurboWay/big_screen](https://gitee.com/TurboWay/big_screen)|数据大屏可视化|1076|2|2021-06-04|
-|21|[zfaka-plus/zfaka](https://gitee.com/zfaka-plus/zfaka)|免费、安全、稳定、高效的发卡系统，值得拥有!|2951|2|2021-12-08|
+|21|[zfaka-plus/zfaka](https://gitee.com/zfaka-plus/zfaka)|免费、安全、稳定、高效的发卡系统，值得拥有!|2952|2|2021-12-08|
 |22|[evmn/Paul-Graham](https://gitee.com/evmn/Paul-Graham)|Paul Graham's Essays, Kindle version, set several sections for easy navigation|132|2|2021-12-11|
 |23|[cloudfavorites/favorites-web](https://gitee.com/cloudfavorites/favorites-web)|云收藏 Spring Boot 2.X 开源项目|4490|2|2021-08-23|
-|24|[yangzongzhuan/RuoYi](https://gitee.com/yangzongzhuan/RuoYi)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|1615|2|2022-01-02|
+|24|[yangzongzhuan/RuoYi](https://gitee.com/yangzongzhuan/RuoYi)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|1616|2|2022-01-02|
 |25|[MKorostoff/1-pixel-wealth](https://gitee.com/MKorostoff/1-pixel-wealth)|-|1253|2|2021-12-02|
 |26|[shengyp/doing_the_PhD](https://gitee.com/shengyp/doing_the_PhD)|-|1002|2|2022-01-02|
-|27|[Chuyu-Team/Dism-Multi-language](https://gitee.com/Chuyu-Team/Dism-Multi-language)|Dism++ Multi-language Support & BUG Report|3404|2|2022-01-01|
+|27|[Chuyu-Team/Dism-Multi-language](https://gitee.com/Chuyu-Team/Dism-Multi-language)|Dism++ Multi-language Support & BUG Report|3407|2|2022-01-01|
 |28|[xiaolai/apple-computer-literacy](https://gitee.com/xiaolai/apple-computer-literacy)|个人电脑使用（以苹果产品为例）|148|2|2021-12-26|
 |29|[Huxpro/huxpro.github.io](https://gitee.com/Huxpro/huxpro.github.io)|My Blog / Jekyll Themes / PWA|6044|2|2021-11-14|
 |30|[BaizeSec/bylibrary](https://gitee.com/BaizeSec/bylibrary)|白阁文库是白泽Sec安全团队维护的一个漏洞POC和EXP公开项目|734|2|2021-10-11|
@@ -39,7 +39,7 @@
 |32|[easychen/not-only-fans](https://gitee.com/easychen/not-only-fans)|an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment|252|2|2021-08-28|
 |33|[CaoCaoMiner/CC-Miner-Tax-Proxy](https://gitee.com/CaoCaoMiner/CC-Miner-Tax-Proxy)|操哥抽水器 - 最稳定的ETH/ETC抽水&中转程序|69|2|2021-12-30|
 |34|[didi/ChineseNLP](https://gitee.com/didi/ChineseNLP)|Datasets, SOTA results of every fields of Chinese NLP|1459|2|2021-07-21|
-|35|[BlueSkyXN/AdGuardHomeRules](https://gitee.com/BlueSkyXN/AdGuardHomeRules)|高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集|299|1|2021-11-19|
+|35|[BlueSkyXN/AdGuardHomeRules](https://gitee.com/BlueSkyXN/AdGuardHomeRules)|高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集|300|1|2021-11-19|
 |36|[tangxiaofeng7/SecExample](https://gitee.com/tangxiaofeng7/SecExample)|JAVA 漏洞靶场 (Vulnerability Environment For Java)|177|1|2021-07-15|
 |37|[BlueSkyXN/TencentCloud-Order](https://gitee.com/BlueSkyXN/TencentCloud-Order)|腾讯云产品-自定义参数购买一键单页，免额外抓包，直接输入参数提交自动跳转对应订单页面|142|1|2021-07-12|
 |38|[wx-chevalier/Database-Series](https://gitee.com/wx-chevalier/Database-Series)|📚深入浅出数据库存储：数据库理论、关系型数据库、文档型数据库、键值型数据库、New SQL、搜索引擎、数据仓库与 OLAP、大数据与数据中台|602|1|2021-11-06|
@@ -68,9 +68,9 @@
 |61|[HollowMan6/LZU-Auto-COVID-Health-Report](https://gitee.com/HollowMan6/LZU-Auto-COVID-Health-Report)|LZU Auto COVID Health Report.(兰州大学疫情期间自动定时健康打卡)|290|1|2021-11-22|
 |62|[r00tSe7en/Flash-Pop](https://gitee.com/r00tSe7en/Flash-Pop)|Flash钓鱼弹窗优化版|396|1|2021-12-11|
 |63|[kingcos/JueJueZiGenerator](https://gitee.com/kingcos/JueJueZiGenerator)|绝绝子生成器，YYDS！仅供娱乐，切勿当真～|152|1|2021-08-24|
-|64|[firemakergk/aquar-home](https://gitee.com/firemakergk/aquar-home)|-|34|1|2021-12-13|
-|65|[hugo-toha/toha](https://gitee.com/hugo-toha/toha)|A Hugo theme for personal portfolio|437|1|2021-12-28|
-|66|[ropensci/skimr](https://gitee.com/ropensci/skimr)|A frictionless, pipeable approach to dealing with summary statistics|974|1|2022-01-01|
+|64|[firemakergk/aquar-home](https://gitee.com/firemakergk/aquar-home)|-|34|1|2022-01-02|
+|65|[hugo-toha/toha](https://gitee.com/hugo-toha/toha)|A Hugo theme for personal portfolio|438|1|2021-12-28|
+|66|[ropensci/skimr](https://gitee.com/ropensci/skimr)|A frictionless, pipeable approach to dealing with summary statistics|974|1|2022-01-02|
 |67|[ecnice/flow](https://gitee.com/ecnice/flow)|企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3&Antd，Vben）|262|1|2021-12-28|
 |68|[kaityo256/github](https://gitee.com/kaityo256/github)|GitHub演習|258|1|2021-11-17|
 |69|[wangchucheng/hugo-eureka](https://gitee.com/wangchucheng/hugo-eureka)|Eureka is a feature-rich and highly customizable Hugo theme.|527|1|2021-12-15|
@@ -79,7 +79,7 @@
 |72|[ffffffff0x/AboutSecurity](https://gitee.com/ffffffff0x/AboutSecurity)|Everything for pentest.   用于渗透测试的 payload 和 bypass 字典.|456|1|2021-12-23|
 |73|[SaltyLeo/i-book.in_Archive](https://gitee.com/SaltyLeo/i-book.in_Archive)|-|652|1|2021-08-03|
 |74|[TransparentLC/WechatMomentScreenshot](https://gitee.com/TransparentLC/WechatMomentScreenshot)|朋友圈转发截图生成工具|1374|1|2021-12-20|
-|75|[NLPIR-team/NLPIR](https://gitee.com/NLPIR-team/NLPIR)|-|3084|1|2021-12-27|
+|75|[NLPIR-team/NLPIR](https://gitee.com/NLPIR-team/NLPIR)|-|3086|1|2021-12-27|
 |76|[xianmin/hugo-theme-jane](https://gitee.com/xianmin/hugo-theme-jane)|A readable & concise theme for Hugo|721|1|2021-06-23|
 |77|[JackieTseng/conference_call_for_paper](https://gitee.com/JackieTseng/conference_call_for_paper)|2021-2022 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics|858|1|2021-10-07|
 |78|[TZG-official/Jvav](https://gitee.com/TZG-official/Jvav)|J v a v 与 您|481|1|2021-10-09|
@@ -95,7 +95,7 @@
 |88|[onlinemad/5000-lottery](https://gitee.com/onlinemad/5000-lottery)|振興五倍券加碼券速查|61|1|2021-11-05|
 |89|[leizongmin/js-xss](https://gitee.com/leizongmin/js-xss)|Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist|4356|1|2021-12-31|
 |90|[L-M-Sherlock/sm18-lazy-package](https://gitee.com/L-M-Sherlock/sm18-lazy-package)|SuperMemo 18 中文懒人包|29|1|2021-12-11|
-|91|[kubernetes/website](https://gitee.com/kubernetes/website)|Kubernetes website and documentation repo: |2941|1|2022-01-02|
+|91|[kubernetes/website](https://gitee.com/kubernetes/website)|Kubernetes website and documentation repo: |2942|1|2022-01-02|
 |92|[6mb/Microsoft-365-Admin](https://gitee.com/6mb/Microsoft-365-Admin)|基于微软 API 的 office 365 用户管理（支持多账户切换）|302|1|2021-07-15|
 |93|[tengshe789/SpringCloud-miaosha](https://gitee.com/tengshe789/SpringCloud-miaosha)|一个基于spring cloud Greenwich的简单秒杀电子商城项目，适合新人阅读。A simple spring cloud based seckill shopping mall project, suitable for young people to read. It can be used as a paper material for academic defense.|193|0|2021-10-06|
 |94|[wx-chevalier/Spring-Series](https://gitee.com/wx-chevalier/Spring-Series)|Spring & Spring Boot & Spring Cloud & Alibaba Cloud 微服务与云原生实战|18|0|2021-11-28|

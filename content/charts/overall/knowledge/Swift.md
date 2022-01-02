@@ -7,15 +7,15 @@
 |:-|:-|:-|:-|:-|
 |1|[matteocrippa/awesome-swift](https://gitee.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21474|2021-12-29|
 |2|[pock/pock](https://gitee.com/pock/pock)|Widgets manager for MacBook Touch Bar|9589|2021-09-30|
-|3|[Jinxiansen/SwiftUI](https://gitee.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4006|2021-09-14|
+|3|[Jinxiansen/SwiftUI](https://gitee.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4007|2021-09-14|
 |4|[pujiaxin33/JXSegmentedView](https://gitee.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1922|2021-08-18|
 |5|[KwaiAppTeam/SwiftPamphletApp](https://gitee.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1096|2022-01-01|
 |6|[dengzemiao/DZMeBookRead](https://gitee.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1042|2021-12-28|
-|7|[TortugaPower/BookPlayer](https://gitee.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|751|2021-12-29|
-|8|[jacklandrin/OnlySwitch](https://gitee.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |596|2021-12-29|
+|7|[TortugaPower/BookPlayer](https://gitee.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|752|2021-12-29|
+|8|[jacklandrin/OnlySwitch](https://gitee.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|597|2022-01-02|
 |9|[merlos/iOS-Open-GPX-Tracker](https://gitee.com/merlos/iOS-Open-GPX-Tracker)|GPS Tracker app for iOS + WatchOS. Log your tracks without limits and share them; Open source GPX tracker app written in Swift|412|2021-08-30|
 |10|[pro648/BasicDemos-iOS](https://gitee.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|358|2021-10-14|
-|11|[Liaoworking/Advanced-Swift](https://gitee.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|311|2021-12-30|
+|11|[Liaoworking/Advanced-Swift](https://gitee.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|312|2021-12-30|
 |12|[ZamzamInc/ZamzamKit](https://gitee.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|249|2021-12-22|
 |13|[Light413/dctt](https://gitee.com/Light413/dctt)|xx头条【完整项目持续迭代中】(一款本地生活信息发布APP，分享新鲜事、找人找对象等生活服务)。已App Store上架，这里仅供学习交流|247|2021-09-22|
 |14|[Code-T/salon-resources](https://gitee.com/Code-T/salon-resources)|你可以在这里获取相关的资料。|221|2021-07-21|

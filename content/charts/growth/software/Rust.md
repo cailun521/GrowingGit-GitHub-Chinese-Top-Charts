@@ -5,31 +5,31 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bytedance/monoio](https://gitee.com/bytedance/monoio)|Rust async runtime based on io-uring.|1634|48|2021-12-30|
-|2|[rustdesk/rustdesk](https://gitee.com/rustdesk/rustdesk)|Yet another remote desktop software|14239|31|2022-01-02|
-|3|[meilisearch/MeiliSearch](https://gitee.com/meilisearch/MeiliSearch)|Powerful, fast, and an easy to use search engine|20451|15|2021-12-22|
+|1|[bytedance/monoio](https://gitee.com/bytedance/monoio)|Rust async runtime based on io-uring.|1637|48|2021-12-30|
+|2|[rustdesk/rustdesk](https://gitee.com/rustdesk/rustdesk)|Yet another remote desktop software|14241|31|2022-01-02|
+|3|[meilisearch/MeiliSearch](https://gitee.com/meilisearch/MeiliSearch)|Powerful, fast, and an easy to use search engine|20452|15|2022-01-02|
 |4|[0x192/universal-android-debloater](https://gitee.com/0x192/universal-android-debloater)|Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.|1201|14|2021-12-25|
-|5|[BurntSushi/ripgrep](https://gitee.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|28732|14|2022-01-02|
-|6|[yewstack/yew](https://gitee.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18446|12|2022-01-02|
-|7|[valeriansaliou/sonic](https://gitee.com/valeriansaliou/sonic)|🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.|12408|12|2021-12-01|
-|8|[sharkdp/fd](https://gitee.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|20009|12|2022-01-01|
+|5|[BurntSushi/ripgrep](https://gitee.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|28735|14|2022-01-02|
+|6|[yewstack/yew](https://gitee.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18452|12|2022-01-02|
+|7|[valeriansaliou/sonic](https://gitee.com/valeriansaliou/sonic)|🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.|12409|12|2021-12-01|
+|8|[sharkdp/fd](https://gitee.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|20016|12|2022-01-01|
 |9|[editso/fuso](https://gitee.com/editso/fuso)|一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy,  ...|474|12|2021-12-19|
 |10|[ihciah/clean-dns-bpf](https://gitee.com/ihciah/clean-dns-bpf)|基于 Rust + eBPF 丢弃 GFW DNS 污染包|928|10|2021-12-05|
 |11|[messense/aliyundrive-webdav](https://gitee.com/messense/aliyundrive-webdav)|阿里云盘 WebDAV 服务|1441|10|2022-01-02|
 |12|[hora-search/hora](https://gitee.com/hora-search/hora)|🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |2125|9|2021-10-23|
 |13|[bnjbvr/rouille](https://gitee.com/bnjbvr/rouille)|Rust programming, in French.|756|7|2021-12-30|
-|14|[sharkdp/hyperfine](https://gitee.com/sharkdp/hyperfine)|A command-line benchmarking tool|9873|7|2022-01-01|
-|15|[pretzelhammer/rust-blog](https://gitee.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|3945|6|2021-12-31|
-|16|[wubx/rust-in-databend](https://gitee.com/wubx/rust-in-databend)|Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend|575|6|2021-12-29|
+|14|[sharkdp/hyperfine](https://gitee.com/sharkdp/hyperfine)|A command-line benchmarking tool|9877|7|2022-01-01|
+|15|[pretzelhammer/rust-blog](https://gitee.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|3947|6|2021-12-31|
+|16|[wubx/rust-in-databend](https://gitee.com/wubx/rust-in-databend)|Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend|576|6|2021-12-29|
 |17|[LGUG2Z/komorebi](https://gitee.com/LGUG2Z/komorebi)|A tiling window manager for Windows|437|3|2022-01-01|
 |18|[BurntSushi/xsv](https://gitee.com/BurntSushi/xsv)|A fast CSV command line toolkit written in Rust.|7854|3|2021-08-24|
-|19|[async-graphql/async-graphql](https://gitee.com/async-graphql/async-graphql)|A GraphQL server library implemented in Rust|2023|3|2021-12-30|
-|20|[quickwit-inc/tantivy](https://gitee.com/quickwit-inc/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|5726|3|2022-01-01|
-|21|[rcore-os/rCore](https://gitee.com/rcore-os/rCore)|Rust version of THU uCore OS. Linux compatible.|2197|2|2021-09-23|
-|22|[XAMPPRocky/tokei](https://gitee.com/XAMPPRocky/tokei)|Count your code, quickly.|5988|2|2022-01-01|
+|19|[async-graphql/async-graphql](https://gitee.com/async-graphql/async-graphql)|A GraphQL server library implemented in Rust|2024|3|2021-12-30|
+|20|[quickwit-inc/tantivy](https://gitee.com/quickwit-inc/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|5727|3|2022-01-01|
+|21|[rcore-os/rCore](https://gitee.com/rcore-os/rCore)|Rust version of THU uCore OS. Linux compatible.|2198|2|2021-09-23|
+|22|[XAMPPRocky/tokei](https://gitee.com/XAMPPRocky/tokei)|Count your code, quickly.|5992|2|2022-01-01|
 |23|[rcore-os/zCore](https://gitee.com/rcore-os/zCore)|Reimplement Zircon microkernel in Rust.|1183|2|2021-12-30|
-|24|[Enter-tainer/cxx2flow](https://gitee.com/Enter-tainer/cxx2flow)|将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart|325|2|2022-01-02|
-|25|[wormtql/yas](https://gitee.com/wormtql/yas)|Superfast Genshin Impact artifacts scanner|191|2|2021-12-11|
+|24|[Enter-tainer/cxx2flow](https://gitee.com/Enter-tainer/cxx2flow)|将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart|327|2|2022-01-02|
+|25|[wormtql/yas](https://gitee.com/wormtql/yas)|Superfast Genshin Impact artifacts scanner|193|2|2021-12-11|
 |26|[zu1k/good-mitm](https://gitee.com/zu1k/good-mitm)|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|180|2|2022-01-01|
 |27|[knownsec/ct](https://gitee.com/knownsec/ct)|简单易用的域名爆破工具|54|2|2021-12-22|
 |28|[Tencent/tat-agent](https://gitee.com/Tencent/tat-agent)|TAT agent is an agent written in Rust, which run in CVM, Lighthouse or CPM 2.0 instances. Its role is to run commands remotely without ssh login, invoked from TencentCloud Console/API. Commands includ ...|68|2|2021-12-24|
@@ -40,7 +40,7 @@
 |33|[p4gefau1t/trojan-r](https://gitee.com/p4gefau1t/trojan-r)|轻量高效的 Trojan 代理，使用 Rust 实现|248|1|2021-07-10|
 |34|[WilliamVenner/gmpublisher](https://gitee.com/WilliamVenner/gmpublisher)|⚙️ Workshop Publishing Utility for Garry's Mod, written in Rust & Svelte and powered by Tauri|213|1|2021-12-09|
 |35|[tock/tock](https://gitee.com/tock/tock)|A secure embedded operating system for microcontrollers|3280|1|2021-12-31|
-|36|[rustsbi/rustsbi](https://gitee.com/rustsbi/rustsbi)|RISC-V Supervisor Binary Interface (RISC-V SBI) implementation in Rust; runs on M-mode; good support for embedded Rust ecosystem|338|1|2021-12-30|
+|36|[rustsbi/rustsbi](https://gitee.com/rustsbi/rustsbi)|RISC-V Supervisor Binary Interface (RISC-V SBI) implementation in Rust; runs on M-mode; good support for embedded Rust ecosystem|339|1|2021-12-30|
 |37|[arloor/nftables-nat-rust](https://gitee.com/arloor/nftables-nat-rust)|nftables nat rule generator——nftables nat规则生成器|385|1|2021-09-20|
 |38|[zu1k/ldap-log](https://gitee.com/zu1k/ldap-log)|一个LDAP请求监听器，摆脱dnslog平台和java|23|1|2021-12-15|
 |39|[iovxw/rssbot](https://gitee.com/iovxw/rssbot)|Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人|1128|1|2021-12-27|
@@ -57,17 +57,17 @@
 |50|[chyyuu/os_kernel_lab](https://gitee.com/chyyuu/os_kernel_lab)|OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32|3348|1|2021-11-20|
 |51|[datanymizer/datanymizer](https://gitee.com/datanymizer/datanymizer)|Powerful database anonymizer with flexible rules. Written in Rust.|311|1|2021-12-05|
 |52|[thirtythreeforty/neolink](https://gitee.com/thirtythreeforty/neolink)|An RTSP bridge to Reolink IP cameras|440|1|2021-12-12|
-|53|[Byron/dua-cli](https://gitee.com/Byron/dua-cli)|View disk space usage and delete unwanted data, fast.|1207|1|2021-12-27|
-|54|[gmg137/netease-cloud-music-gtk](https://gitee.com/gmg137/netease-cloud-music-gtk)|Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器|828|1|2021-10-12|
-|55|[geph-official/geph4](https://gitee.com/geph-official/geph4)|Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering. |369|1|2021-12-28|
+|53|[Byron/dua-cli](https://gitee.com/Byron/dua-cli)|View disk space usage and delete unwanted data, fast.|1208|1|2021-12-27|
+|54|[gmg137/netease-cloud-music-gtk](https://gitee.com/gmg137/netease-cloud-music-gtk)|Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器|829|1|2021-10-12|
+|55|[geph-official/geph4](https://gitee.com/geph-official/geph4)|Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering. |370|1|2021-12-28|
 |56|[lz1998/rs-qq](https://gitee.com/lz1998/rs-qq)|Rust 模拟QQ客户端协议 已完成 扫码登录/密码登录/获取好友列表/获取群列表/发送群消息/接受群消息。运行src/bin的password_login.rs或qrcode_login.rs体验。重构中（正在努力减少unwrap）|47|1|2021-12-29|
 |57|[auula/falsework](https://gitee.com/auula/falsework)|A tool crate to quickly build rust command line application.|107|1|2021-08-25|
 |58|[guillaume-be/rust-bert](https://gitee.com/guillaume-be/rust-bert)|Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)|807|1|2021-12-29|
 |59|[citahub/cita](https://gitee.com/citahub/cita)|A high performance blockchain kernel for enterprise users.|1233|1|2021-08-10|
 |60|[pemistahl/lingua-rs](https://gitee.com/pemistahl/lingua-rs)|👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike|381|1|2021-11-27|
 |61|[harlanc/xiu](https://gitee.com/harlanc/xiu)|A simple and secure live media server by pure rust (rtmp/httpflv/hls/relay).🦀|284|1|2021-12-24|
-|62|[PersiaML/PERSIA](https://gitee.com/PersiaML/PERSIA)|High performance distributed framework for training deep learning recommendation models based on PyTorch.|237|1|2021-12-31|
-|63|[Brooooooklyn/canvas](https://gitee.com/Brooooooklyn/canvas)|High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.|606|1|2022-01-01|
+|62|[PersiaML/PERSIA](https://gitee.com/PersiaML/PERSIA)|High performance distributed framework for training deep learning recommendation models based on PyTorch.|237|1|2022-01-02|
+|63|[Brooooooklyn/canvas](https://gitee.com/Brooooooklyn/canvas)|High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.|608|1|2022-01-01|
 |64|[HUST-OS/tornado-os](https://gitee.com/HUST-OS/tornado-os)|异步内核就像风一样快！|251|1|2021-08-18|
 |65|[hsivonen/chardetng](https://gitee.com/hsivonen/chardetng)|A character encoding detector for legacy Web content.|43|0|2021-12-23|
 |66|[yescallop/areacodes](https://gitee.com/yescallop/areacodes)|中华人民共和国县级以上历史行政区划代码及新旧代码对应关系|25|0|2021-12-18|
@@ -91,7 +91,7 @@
 |84|[supabase-community/postgrest-rs](https://gitee.com/supabase-community/postgrest-rs)|Rust client for PostgREST|113|0|2021-10-27|
 |85|[inherd/unflow](https://gitee.com/inherd/unflow)|unflow 是一个低代码、无代码设计语言。unFlow is a Design as Code implementation, a DSL for UX & backend modeling. DSL to Sketch file, Sketch to DSL, DSL to code. |61|0|2021-06-30|
 |86|[justjavac/dvm](https://gitee.com/justjavac/dvm)|Deno Version Manager - Easy way to manage multiple active deno versions.|352|0|2021-12-24|
-|87|[messense/jieba-rs](https://gitee.com/messense/jieba-rs)|The Jieba Chinese Word Segmentation Implemented in Rust|357|0|2021-12-21|
+|87|[messense/jieba-rs](https://gitee.com/messense/jieba-rs)|The Jieba Chinese Word Segmentation Implemented in Rust|358|0|2021-12-21|
 |88|[Joylei/anim-rs](https://gitee.com/Joylei/anim-rs)|:hourglass: A framework independent animation library for rust, works nicely with Iced and the others|30|0|2022-01-01|
 |89|[inherd/forming](https://gitee.com/inherd/forming)|Forming, is a lightweight architecture as code language. 轻量级架构即代码语言|18|0|2021-11-10|
 |90|[itytophile/rab](https://gitee.com/itytophile/rab)|Rusty Armor Builds - Monster Hunter Rise Armor Set Creation Tool|23|0|2021-06-20|

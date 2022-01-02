@@ -19,7 +19,7 @@
 |12|[ShichenXie/scorecard](https://gitee.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|131|2021-11-28|
 |13|[benmarwick/ctv-archaeology](https://gitee.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|111|2021-12-30|
 |14|[quanteda/stopwords](https://gitee.com/quanteda/stopwords)|Multilingual Stopword Lists in R|101|2021-10-28|
-|15|[quanteda/readtext](https://gitee.com/quanteda/readtext)|an R package for reading text files|98|2021-07-13|
+|15|[quanteda/readtext](https://gitee.com/quanteda/readtext)|an R package for reading text files|99|2021-07-13|
 |16|[ShixiangWang/sigminer](https://gitee.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|91|2021-12-15|
 |17|[psychbruce/ChineseNames](https://gitee.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|80|2021-11-29|
 |18|[psychbruce/bruceR](https://gitee.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|78|2021-12-26|
@@ -76,9 +76,9 @@
 |69|[jirotubuyaki/CRPClustering](https://gitee.com/jirotubuyaki/CRPClustering)|CRPClustering: An R Package for Bayesian Nonparametric Chinese Restaurant Process Clustering with Entropy|12|2021-07-02|
 |70|[davidycliao/redguards](https://gitee.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|2021-12-06|
 |71|[reconhub/epicontacts](https://gitee.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|2021-11-23|
-|72|[helixcn/spaa](https://gitee.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|2021-08-12|
-|73|[l-ramirez-lopez/resemble](https://gitee.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|10|2021-11-26|
-|74|[Detlew/PowerTOST](https://gitee.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|9|2021-09-25|
+|72|[Detlew/PowerTOST](https://gitee.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|2021-09-25|
+|73|[helixcn/spaa](https://gitee.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|2021-08-12|
+|74|[l-ramirez-lopez/resemble](https://gitee.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|10|2021-11-26|
 |75|[majianthu/aps2020](https://gitee.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2021-12-31|
 |76|[DongqiangZeng0808/Blasso](https://gitee.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|8|2021-10-26|
 |77|[esowc/UNSEEN-open](https://gitee.com/esowc/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|8|2021-09-14|

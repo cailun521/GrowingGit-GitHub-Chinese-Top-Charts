@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Kaiyiwing/qwerty-learner](https://gitee.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3589|2021-12-16|2021-01-21|
+|1|[Kaiyiwing/qwerty-learner](https://gitee.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3590|2021-12-16|2021-01-21|
 |2|[sorrycc/weekly](https://gitee.com/sorrycc/weekly)|前端周刊，每周一发布。|769|2021-12-27|2021-05-06|
 |3|[chowa/ejyy](https://gitee.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|515|2021-12-30|2021-11-08|
 |4|[bytedance/guide](https://gitee.com/bytedance/guide)|A new feature guide component by react 🧭|466|2021-08-07|2021-04-29|

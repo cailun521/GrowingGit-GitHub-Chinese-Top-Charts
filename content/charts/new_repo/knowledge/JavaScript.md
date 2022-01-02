@@ -5,16 +5,16 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[KieSun/all-of-frontend](https://gitee.com/KieSun/all-of-frontend)|你想知道的前端内容都在这|4107|2021-10-20|2021-02-24|
-|2|[shufflewzc/faker2](https://gitee.com/shufflewzc/faker2)|不知名大佬备份|2666|2022-01-02|2021-06-10|
-|3|[liyupi/code-nav](https://gitee.com/liyupi/code-nav)|💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！|1457|2021-12-24|2021-01-09|
-|4|[aykutkardas/regexlearn.com](https://gitee.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1319|2022-01-01|2021-08-28|
+|1|[KieSun/all-of-frontend](https://gitee.com/KieSun/all-of-frontend)|你想知道的前端内容都在这|4108|2021-10-20|2021-02-24|
+|2|[shufflewzc/faker2](https://gitee.com/shufflewzc/faker2)|不知名大佬备份|2667|2022-01-02|2021-06-10|
+|3|[liyupi/code-nav](https://gitee.com/liyupi/code-nav)|💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！|1458|2021-12-24|2021-01-09|
+|4|[aykutkardas/regexlearn.com](https://gitee.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1321|2022-01-01|2021-08-28|
 |5|[huaize2020/awesome-nodejs](https://gitee.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|779|2021-12-30|2021-04-13|
-|6|[TechXueXi/techxuexi-js](https://gitee.com/TechXueXi/techxuexi-js)|油猴等插件的 学习强国 js 代码 45分/天|754|2021-12-23|2021-10-11|
+|6|[TechXueXi/techxuexi-js](https://gitee.com/TechXueXi/techxuexi-js)|油猴等插件的 学习强国 js 代码 45分/天|753|2021-12-23|2021-10-11|
 |7|[RustMagazine/rust_magazine_2021](https://gitee.com/RustMagazine/rust_magazine_2021)|RustMagazine 2021 期刊|686|2021-12-31|2021-01-21|
 |8|[JackonYang/money-maker-apps](https://gitee.com/JackonYang/money-maker-apps)|我认为有赚钱能力的开源小程序、个人网站|548|2022-01-01|2021-01-28|
-|9|[lukesyy/jd_yun](https://gitee.com/lukesyy/jd_yun)|京东合集-----腾讯云函数|492|2021-12-31|2021-06-11|
-|10|[feeddd/feeds](https://gitee.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|467|2022-01-01|2021-08-17|
+|9|[lukesyy/jd_yun](https://gitee.com/lukesyy/jd_yun)|京东合集-----腾讯云函数|493|2021-12-31|2021-06-11|
+|10|[feeddd/feeds](https://gitee.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|468|2022-01-01|2021-08-17|
 |11|[Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://gitee.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)|Rust 编码规范 中文版 （非官方）|430|2021-12-16|2021-04-02|
 |12|[Tsukasa007/my_script](https://gitee.com/Tsukasa007/my_script)|學習自動化|324|2021-12-30|2021-06-28|
 |13|[dundunnp/hamibot-auto_xuexiqiangguo](https://gitee.com/dundunnp/hamibot-auto_xuexiqiangguo)|每日拿63分(满63分)！所有模块均可自动完成，包括订阅与发表言论，免root，四人赛双人对战秒答，基于Hamibot的安卓端学习强国自动化脚本|317|2022-01-02|2021-11-24|

@@ -5,39 +5,39 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bytedance/btrace](https://gitee.com/bytedance/btrace)|🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more nati ...|676|40|2021-12-31|
-|2|[coil-kt/coil](https://gitee.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7541|9|2022-01-02|
-|3|[mamoe/mirai](https://gitee.com/mamoe/mirai)|高效率 QQ 机器人支持库|8207|9|2022-01-02|
-|4|[gedoor/legado](https://gitee.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|5874|6|2022-01-02|
+|1|[bytedance/btrace](https://gitee.com/bytedance/btrace)|🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more nati ...|678|40|2021-12-31|
+|2|[coil-kt/coil](https://gitee.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7543|9|2022-01-02|
+|3|[mamoe/mirai](https://gitee.com/mamoe/mirai)|高效率 QQ 机器人支持库|8209|9|2022-01-02|
+|4|[gedoor/legado](https://gitee.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|5877|6|2022-01-02|
 |5|[ByteLegend/ByteLegend](https://gitee.com/ByteLegend/ByteLegend)|Enjoy programming while playing a game.|1353|4|2021-12-31|
 |6|[AppIntro/AppIntro](https://gitee.com/AppIntro/AppIntro)|Make a cool intro for your Android app.|10003|4|2021-12-26|
-|7|[didi/booster](https://gitee.com/didi/booster)|🚀Optimizer for mobile applications|3773|4|2021-12-21|
+|7|[didi/booster](https://gitee.com/didi/booster)|🚀Optimizer for mobile applications|3774|4|2021-12-21|
 |8|[allenymt/PrivacySentry](https://gitee.com/allenymt/PrivacySentry)|Android隐私合规检测，支持Runtime-hook和Asm修改字节码的检测方案|178|4|2021-12-30|
-|9|[yujincheng08/BiliRoaming](https://gitee.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|2643|4|2021-12-28|
+|9|[yujincheng08/BiliRoaming](https://gitee.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|2647|4|2021-12-28|
 |10|[guolindev/PermissionX](https://gitee.com/guolindev/PermissionX)|An open source Android library that makes handling runtime permissions extremely easy.|2235|3|2021-12-24|
 |11|[huannan/XArch](https://gitee.com/huannan/XArch)|🔥🔥🔥Android架构最佳实践 - 手把手带你搭建一个优秀的Android项目架构|411|3|2021-12-28|
 |12|[liujingxing/rxhttp](https://gitee.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3179|3|2021-12-18|
-|13|[mockk/mockk](https://gitee.com/mockk/mockk)|mocking library for Kotlin|4226|3|2021-12-30|
-|14|[trycatchx/RocketXPlugin](https://gitee.com/trycatchx/RocketXPlugin)|android 端编译加速插件🚀|213|3|2021-12-28|
-|15|[princekin-f/EasyFloat](https://gitee.com/princekin-f/EasyFloat)|🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|2229|3|2021-12-01|
+|13|[mockk/mockk](https://gitee.com/mockk/mockk)|mocking library for Kotlin|4225|3|2021-12-30|
+|14|[trycatchx/RocketXPlugin](https://gitee.com/trycatchx/RocketXPlugin)|android 端编译加速插件🚀|213|3|2022-01-02|
+|15|[princekin-f/EasyFloat](https://gitee.com/princekin-f/EasyFloat)|🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|2230|3|2021-12-01|
 |16|[KwaiAppTeam/AkDanmaku](https://gitee.com/KwaiAppTeam/AkDanmaku)|一款利用游戏引擎理念打造的原生弹幕库|279|3|2021-12-30|
-|17|[hegaojian/JetpackMvvm](https://gitee.com/hegaojian/JetpackMvvm)|:chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目|1895|3|2021-10-21|
-|18|[running-libo/Tiktok](https://gitee.com/running-libo/Tiktok)|高仿抖音APP|1702|3|2021-11-07|
+|17|[hegaojian/JetpackMvvm](https://gitee.com/hegaojian/JetpackMvvm)|:chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目|1896|3|2021-10-21|
+|18|[running-libo/Tiktok](https://gitee.com/running-libo/Tiktok)|高仿抖音APP|1703|3|2021-11-07|
 |19|[svga/SVGAPlayer-Android](https://gitee.com/svga/SVGAPlayer-Android)|Similar to Lottie. Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。|2763|2|2021-08-30|
-|20|[idisfkj/android-startup](https://gitee.com/idisfkj/android-startup)|🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. Both library developers and app developers can use Android Startup to strea ...|929|2|2021-12-29|
+|20|[idisfkj/android-startup](https://gitee.com/idisfkj/android-startup)|🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. Both library developers and app developers can use Android Startup to strea ...|930|2|2021-12-29|
 |21|[wuyr/intellij-media-player](https://gitee.com/wuyr/intellij-media-player)|【🐟摸鱼专用】上班偷偷看视频📺而不会被老板打🔨的IDE插件，适配JetBrains全家桶|484|2|2021-09-01|
 |22|[ssseasonnn/RxDownload](https://gitee.com/ssseasonnn/RxDownload)|A multi-threaded download tool written with RxJava and Kotlin|4036|2|2021-10-28|
-|23|[Szaki/XiaomiADBFastbootTools](https://gitee.com/Szaki/XiaomiADBFastbootTools)|A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot|2848|2|2021-12-27|
+|23|[Szaki/XiaomiADBFastbootTools](https://gitee.com/Szaki/XiaomiADBFastbootTools)|A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot|2851|2|2021-12-27|
 |24|[wuseal/JsonToKotlinClass](https://gitee.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|2448|2|2021-11-01|
 |25|[zskingking/Jetpack-Mvvm](https://gitee.com/zskingking/Jetpack-Mvvm)|使用Jetpack全家桶+Kotlin实现的Android社区App加音乐播放器。不写晦涩难懂的代码，尽量标清每一行注释，严格遵守六大基本原则，大量运用设计模式，此项目可快速帮你入手Kotlin、Jetpack。如果觉得对你有帮助，右上角点个star，事先谢过🍉🍉🍉|993|2|2021-08-11|
 |26|[VIPyinzhiwei/Eyepetizer](https://gitee.com/VIPyinzhiwei/Eyepetizer)|🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。|1362|2|2021-11-19|
 |27|[hi-dhl/AndroidX-Jetpack-Practice](https://gitee.com/hi-dhl/AndroidX-Jetpack-Practice)|本仓库致力于建立最全、最新的的 AndroidX Jetpack 相关组件的实践项目 以及组件对应的分析文章（持续更新中）如果对你有帮助，请在右上角 star 一下，感谢|1059|2|2021-08-16|
 |28|[Tencent/bk-ci](https://gitee.com/Tencent/bk-ci)|蓝鲸CI平台(BlueKing CI) |1776|2|2022-01-01|
-|29|[bennyhuo/Kotlin-Tutorials](https://gitee.com/bennyhuo/Kotlin-Tutorials)|【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程|4009|2|2021-11-27|
+|29|[bennyhuo/Kotlin-Tutorials](https://gitee.com/bennyhuo/Kotlin-Tutorials)|【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程|4010|2|2021-11-27|
 |30|[izhangzhihao/intellij-rainbow-brackets](https://gitee.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio|3665|2|2021-12-21|
 |31|[edxposedd/wework](https://gitee.com/edxposedd/wework)|【Xposed Hook 企业微信 微信】企业微信机器人 微信机器人 自动抢回复 会话 自动通过 好友列表 群管理 SDK|525|1|2021-06-30|
-|32|[rosuH/EasyWatermark](https://gitee.com/rosuH/EasyWatermark)|🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用|791|1|2021-12-16|
-|33|[DylanCaiCoding/ViewBindingKTX](https://gitee.com/DylanCaiCoding/ViewBindingKTX)|The most comprehensive utils of ViewBinding. (最全面的 ViewBinding 工具，支持 Kotlin 和 Java 用法，支持 BRVAH，支持封装到基类，支持 DataBinding，支持选择是否使用反射)|397|1|2021-12-30|
+|32|[rosuH/EasyWatermark](https://gitee.com/rosuH/EasyWatermark)|🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用|791|1|2022-01-02|
+|33|[DylanCaiCoding/ViewBindingKTX](https://gitee.com/DylanCaiCoding/ViewBindingKTX)|The most comprehensive utils of ViewBinding. (最全面的 ViewBinding 工具，支持 Kotlin 和 Java 用法，支持 BRVAH，支持封装到基类，支持 DataBinding，支持选择是否使用反射)|397|1|2022-01-02|
 |34|[liangjingkanji/BRV](https://gitee.com/liangjingkanji/BRV)|🌽 Android 最强大的RecyclerView库, 比BRVAH更强大, 开发效率提升601.458%|657|1|2021-12-23|
 |35|[fabricezhang/lcg](https://gitee.com/fabricezhang/lcg)|吾爱破解第三方安卓应用|544|1|2021-12-28|
 |36|[xdd666t/getx_template](https://gitee.com/xdd666t/getx_template)|Used to generate the template code of GetX framework   Flutter GetX模板代码生成（一个有用的IDEA插件）|174|1|2021-12-08|
@@ -50,19 +50,19 @@
 |43|[javakam/FileOperator](https://gitee.com/javakam/FileOperator)|🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。|550|1|2021-12-14|
 |44|[WizzXu/FastStartup](https://gitee.com/WizzXu/FastStartup)|FastStartup 有向无环图启动框架|13|1|2021-12-31|
 |45|[Ccixyj/JBusDriver](https://gitee.com/Ccixyj/JBusDriver)|这是去幼儿园的班车(滑稽|2064|1|2021-07-03|
-|46|[mamoe/mirai-console](https://gitee.com/mamoe/mirai-console)|mirai 的高效率 QQ 机器人控制台|1003|1|2021-12-15|
+|46|[mamoe/mirai-console](https://gitee.com/mamoe/mirai-console)|mirai 的高效率 QQ 机器人控制台|1004|1|2021-12-15|
 |47|[qingmei2/MVVM-Architecture](https://gitee.com/qingmei2/MVVM-Architecture)|The practice of MVVM + Jetpack architecture in Android.|1637|1|2021-06-21|
 |48|[shenzhen2017/ComposeDouban](https://gitee.com/shenzhen2017/ComposeDouban)|Compose仿豆瓣榜单页面|93|1|2021-08-26|
 |49|[Leifzhang/AndroidAutoTrack](https://gitee.com/Leifzhang/AndroidAutoTrack)|Android Asm 插桩 教学|650|1|2021-10-06|
 |50|[shenzhen2017/compose-refreshlayout](https://gitee.com/shenzhen2017/compose-refreshlayout)|Compose版SmartRefreshLayout|55|1|2021-12-21|
-|51|[tuchg/ChinesePinyin-CodeCompletionHelper](https://gitee.com/tuchg/ChinesePinyin-CodeCompletionHelper)|让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,DevEco等 )支持中文标识符以拼音输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案|673|1|2021-10-10|
+|51|[tuchg/ChinesePinyin-CodeCompletionHelper](https://gitee.com/tuchg/ChinesePinyin-CodeCompletionHelper)|让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,DevEco等 )支持中文标识符以拼音输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案|674|1|2021-10-10|
 |52|[shenzhen2017/wanandroid-compose](https://gitee.com/shenzhen2017/wanandroid-compose)|Compose+MVI+Navigation实现wanAndroid客户端|82|1|2021-11-25|
 |53|[Quyunshuo/AndroidBaseFrameMVVM](https://gitee.com/Quyunshuo/AndroidBaseFrameMVVM)|Android 组件化 MVVM 框架 基于 Jetpack + Kotlin|473|1|2021-09-26|
 |54|[gdutxiaoxu/AnchorTask](https://gitee.com/gdutxiaoxu/AnchorTask)|锚点任务，可以用来解决多线程加载任务依赖的问题。常见的，比如 Android 启动优化，通常会进行多线程异步加载|272|1|2021-09-15|
 |55|[KitsunePie/QQCleaner](https://gitee.com/KitsunePie/QQCleaner)|瘦身模块|357|1|2022-01-02|
 |56|[loperSeven/DateTimePicker](https://gitee.com/loperSeven/DateTimePicker)|:star::tada:一个高颜值日期时间选择器；极简API，内置弹窗，可动态配置样式及主题，选择器支持完全自定义UI。|606|1|2021-12-31|
 |57|[xdtianyu/CallerInfo](https://gitee.com/xdtianyu/CallerInfo)|来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用|1261|1|2021-08-16|
-|58|[Petterpx/FloatingX](https://gitee.com/Petterpx/FloatingX)|Android免权限悬浮窗，支持全局、局部悬浮，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。Android without permission suspension window, support global, local suspension, support edge adsorption, rebound, custom animation, position s ...|147|1|2021-12-24|
+|58|[Petterpx/FloatingX](https://gitee.com/Petterpx/FloatingX)|Android免权限悬浮窗，支持全局、局部悬浮，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。Android without permission suspension window, support global, local suspension, support edge adsorption, rebound, custom animation, position s ...|148|1|2021-12-24|
 |59|[fuusy/component-jetpack-mvvm](https://gitee.com/fuusy/component-jetpack-mvvm)|💖组件化+Jetpack+Kotlin+MVVM项目实战，涉及Jetpack相关组件，Kotlin相关技术，协程+Retrofit，Paging3+Room等。|369|1|2021-12-18|
 |60|[liqvip/EasyView](https://gitee.com/liqvip/EasyView)|🔥🔥🔥一个小巧美观，支持圆角，描边，阴影的 Android 控件库，极度轻量，支持代码动态修改圆角、描边！|25|1|2021-12-28|
 |61|[liangjingkanji/Net](https://gitee.com/liangjingkanji/Net)|🍉 Android 最强大的创新式协程并发网络请求, 开发效率提升603% |712|1|2021-12-17|
@@ -72,7 +72,7 @@
 |65|[rumboalla/apkupdater](https://gitee.com/rumboalla/apkupdater)|APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.|1252|1|2021-09-05|
 |66|[hi-dhl/KtKit](https://gitee.com/hi-dhl/KtKit)|KtKit 小巧而实用，用 Kotlin 语言编写的工具库（长期更新中）|89|1|2021-09-28|
 |67|[rosuH/AndroidFilePicker](https://gitee.com/rosuH/AndroidFilePicker)|FilePicker is a small and fast file selector library that is constantly evolving with the goal of rapid integration, high customization, and configurability~|663|1|2021-12-14|
-|68|[hegaojian/MvvmHelper](https://gitee.com/hegaojian/MvvmHelper)|:chicken::basketball:这是一个快速开发的项目壳，Kotlin语言开发，MVVM+Jetpack架构，封装了公共头部、界面状态管理、ViewModel、LiveData、DataBinding、头部刷新、加载更多、沉浸式、全局通知、丰富好用的拓展函数、RxHttp网络请求等等一系列工具|220|1|2021-12-02|
+|68|[hegaojian/MvvmHelper](https://gitee.com/hegaojian/MvvmHelper)|:chicken::basketball:这是一个快速开发的项目壳，Kotlin语言开发，MVVM+Jetpack架构，封装了公共头部、界面状态管理、ViewModel、LiveData、DataBinding、头部刷新、加载更多、沉浸式、全局通知、丰富好用的拓展函数、RxHttp网络请求等等一系列工具|221|1|2021-12-02|
 |69|[LaoLittle/AutoGroup](https://gitee.com/LaoLittle/AutoGroup)|折磨群友之利器，基于Mirai-Console|15|1|2021-12-29|
 |70|[teprinciple/UpdateAppUtils](https://gitee.com/teprinciple/UpdateAppUtils)|一行代码快速实现app版本更新|966|1|2021-07-07|
 |71|[izhangzhihao/intellij-rainbow-fart](https://gitee.com/izhangzhihao/intellij-rainbow-fart)|🌈一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired by vscode-rainbow-fart|447|1|2021-09-16|
@@ -81,7 +81,7 @@
 |74|[hi-dhl/Binding](https://gitee.com/hi-dhl/Binding)|Simple API implement DataBinding and ViewBinding.  简单的 API 实现 DataBinding 和 ViewBinding，欢迎 star|322|1|2021-06-22|
 |75|[Xigong93/ExpandableRecyclerView](https://gitee.com/Xigong93/ExpandableRecyclerView)|ExpandableRecyclerView with smoothly animation.|284|1|2021-12-17|
 |76|[Rabtman/AcgClub](https://gitee.com/Rabtman/AcgClub)|一款纯粹的ACG聚合类App|824|1|2021-07-21|
-|77|[behring/8x-flow-diagram](https://gitee.com/behring/8x-flow-diagram)|通过Kotlin DSL创建8x Flow建模图|69|1|2021-12-18|
+|77|[behring/8x-flow-diagram](https://gitee.com/behring/8x-flow-diagram)|通过Kotlin DSL创建8x Flow建模图|70|1|2021-12-18|
 |78|[zhujiang521/PlayAndroid](https://gitee.com/zhujiang521/PlayAndroid)|🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！|815|1|2021-12-20|
 |79|[vitaviva/fragivity](https://gitee.com/vitaviva/fragivity)|Use Fragment like Activity|243|1|2021-12-11|
 |80|[zhanghai/MaterialFiles](https://gitee.com/zhanghai/MaterialFiles)|Material Design file manager for Android|1725|1|2021-12-25|

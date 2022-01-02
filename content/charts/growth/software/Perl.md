@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[Oreomeow/checkinpanel](https://gitee.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|623|5|2021-12-19|
-|2|[alecthw/mmdb_china_ip_list](https://gitee.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|603|1|2021-12-30|
+|2|[alecthw/mmdb_china_ip_list](https://gitee.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|604|1|2022-01-02|
 |3|[Yanstory/tpZHCNex](https://gitee.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|15|0|2021-12-26|
 |4|[leobbs/leobbs](https://gitee.com/leobbs/leobbs)|雷傲论坛, demo地址https://leobbs.org|4|0|2021-11-29|
 |5|[g0v/magic-mirror](https://gitee.com/g0v/magic-mirror)|定時 mirror *.gov.tw 上有時效性的資料到 git repository.|10|0|2021-08-03|
@@ -45,7 +45,7 @@
 |38|[lulzlabs/AirChat](https://gitee.com/lulzlabs/AirChat)|Free Communications For Everyone.|1026|0|2021-12-09|
 |39|[k1d0ne/cobaltstrike_plugin](https://gitee.com/k1d0ne/cobaltstrike_plugin)|陆续补充一些自己写的cobaltstrike插件|37|0|2021-11-05|
 |40|[tp7309/tt7zcrack](https://gitee.com/tp7309/tt7zcrack)|7z辅助破解工具 Fast 7zip crack assistant tool which support GPU/CPU, written in Python.|12|0|2021-10-07|
-|41|[hcymysql/mysql_monitor](https://gitee.com/hcymysql/mysql_monitor)|MySQL Monitor面向研发人员图形可视化监控工具|114|0|2021-12-29|
+|41|[hcymysql/mysql_monitor](https://gitee.com/hcymysql/mysql_monitor)|MySQL Monitor面向研发人员图形可视化监控工具|114|0|2022-01-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

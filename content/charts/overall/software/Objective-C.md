@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[MustangYM/WeChatExtension-ForMac](https://gitee.com/MustangYM/WeChatExtension-ForMac)|Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)|18879|2021-11-26|
-|2|[Instagram/IGListKit](https://gitee.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12208|2021-12-20|
+|2|[Instagram/IGListKit](https://gitee.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12209|2021-12-20|
 |3|[CoderMJLee/MJExtension](https://gitee.com/CoderMJLee/MJExtension)|A fast, convenient and nonintrusive conversion framework between JSON and model. Your model class doesn't need to extend any base class. You don't need to modify any model file.|8457|2021-12-31|
 |4|[banchichen/TZImagePickerController](https://gitee.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。  A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+|7753|2021-12-27|
 |5|[renzifeng/ZFPlayer](https://gitee.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|6699|2021-11-04|
@@ -17,10 +17,10 @@
 |10|[Tencent/MLeaksFinder](https://gitee.com/Tencent/MLeaksFinder)|Find memory leaks in your iOS app at develop time.|5185|2021-11-09|
 |11|[AAChartModel/AAChartKit](https://gitee.com/AAChartModel/AAChartKit)|📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, ...|4370|2021-12-02|
 |12|[youngsoft/MyLinearLayout](https://gitee.com/youngsoft/MyLinearLayout)|MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use L ...|4152|2021-07-26|
-|13|[brunophilipe/Cakebrew](https://gitee.com/brunophilipe/Cakebrew)|Manage your Homebrew formulas with style using Cakebrew.|4056|2021-07-02|
+|13|[brunophilipe/Cakebrew](https://gitee.com/brunophilipe/Cakebrew)|Manage your Homebrew formulas with style using Cakebrew.|4057|2021-07-02|
 |14|[alibaba/coobjc](https://gitee.com/alibaba/coobjc)|coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foun ...|3921|2021-09-26|
 |15|[JackJiang2011/MobileIMSDK](https://gitee.com/JackJiang2011/MobileIMSDK)|一个原创移动端IM通信层框架，轻量级、高度提炼，历经8年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持iOS、Android、Java、H5，服务端基于Netty。|3880|2021-12-16|
-|16|[MoZhouqi/KMNavigationBarTransition](https://gitee.com/MoZhouqi/KMNavigationBarTransition)|A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for  ...|3277|2021-10-20|
+|16|[MoZhouqi/KMNavigationBarTransition](https://gitee.com/MoZhouqi/KMNavigationBarTransition)|A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for  ...|3276|2021-10-20|
 |17|[zhengwenming/WMPlayer](https://gitee.com/zhengwenming/WMPlayer)|WMPlayer-AVPlayer的封装，继承UIView，支持pods，手势快进、快退，全面适配全面屏，同时支持网络和本地视频的播放|3205|2021-08-02|
 |18|[rime/squirrel](https://gitee.com/rime/squirrel)|【鼠鬚管】Rime for macOS|3081|2021-12-14|
 |19|[ChatSecure/ChatSecure-iOS](https://gitee.com/ChatSecure/ChatSecure-iOS)|ChatSecure is a free and open source encrypted chat client for iOS that supports OTR and OMEMO encryption over XMPP.|3048|2021-08-13|
@@ -39,10 +39,10 @@
 |32|[nacker/LZEasemob3](https://gitee.com/nacker/LZEasemob3)|酷信   高仿微信  WeChat   高仿朋友圈   moments  Github上最牛逼的高仿微信项目没有之一|1892|2021-08-30|
 |33|[headkaze/Hackintool](https://gitee.com/headkaze/Hackintool)|The Swiss army knife of vanilla Hackintoshing|1836|2021-12-23|
 |34|[shaojiankui/SmartPush](https://gitee.com/shaojiankui/SmartPush)|SmartPush,一款iOS苹果远程推送测试程序,Mac OS下的APNS工具APP,iOS Push Notification Debug App|1791|2021-09-17|
-|35|[ibireme/YYImage](https://gitee.com/ibireme/YYImage)|Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.|1704|2021-12-29|
+|35|[ibireme/YYImage](https://gitee.com/ibireme/YYImage)|Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.|1705|2021-12-29|
 |36|[wendux/DSBridge-IOS](https://gitee.com/wendux/DSBridge-IOS)|:earth_asia: A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and native.|1680|2021-12-23|
 |37|[zekunyan/TTGTagCollectionView](https://gitee.com/zekunyan/TTGTagCollectionView)|Useful for showing text or custom view tags in a vertical or horizontal scrollable view and support Autolayout at the same time. It is highly customizable that most features of the text tag can be con ...|1632|2021-08-11|
-|38|[huanxsd/LinkMap](https://gitee.com/huanxsd/LinkMap)|检查每个类占用空间大小工具|1626|2021-07-29|
+|38|[huanxsd/LinkMap](https://gitee.com/huanxsd/LinkMap)|检查每个类占用空间大小工具|1627|2021-07-29|
 |39|[Lision/LSAnimator](https://gitee.com/Lision/LSAnimator)|⛓ Easy to Read and Write Multi-chain Animations Lib in Objective-C and Swift.|1580|2021-08-12|
 |40|[zhenglibao/FlexLib](https://gitee.com/zhenglibao/FlexLib)|FlexLib是一个基于flexbox模型，使用xml文件进行界面布局的框架，融合了web快速布局的能力，让iOS界面开发像写网页一样简单快速|1573|2021-12-23|
 |41|[kingsic/SGQRCode](https://gitee.com/kingsic/SGQRCode)|The easy to use bar code and QR code scan library for iOS【支持二维码生成、从相册中读取二维码、条形码和二维码扫描】|1571|2021-09-19|
@@ -53,8 +53,8 @@
 |46|[sinaweibosdk/weibo_ios_sdk](https://gitee.com/sinaweibosdk/weibo_ios_sdk)|新浪微博 IOS SDK|1427|2021-10-12|
 |47|[jezzmemo/JJException](https://gitee.com/jezzmemo/JJException)|Protect the objective-c application(保护App不闪退)|1408|2021-09-28|
 |48|[netease-kit/NIM_iOS_UIKit](https://gitee.com/netease-kit/NIM_iOS_UIKit)|网易云信 iOS UI 组件，提供聊天界面，文本消息，图片消息，语音消息，视频消息，地理位置消息，自定义消息（阅后即焚）等消息示例。#推荐客户得比特币/京东卡，现在推荐使用网易云信，最低得0.02BTC或3000元京东卡/单，点击参与：https://yunxin.163.com/promotion/recommend|1365|2021-11-15|
-|49|[rugarciap/Turbo-Boost-Switcher](https://gitee.com/rugarciap/Turbo-Boost-Switcher)|Turbo Boost disabler / enable app for Mac OS X|1290|2021-10-29|
-|50|[meitu/MTHawkeye](https://gitee.com/meitu/MTHawkeye)|Profiling / Debugging assist tools for iOS. (Memory Leak, OOM, ANR, Hard Stalling, Network, OpenGL, Time Profile ...)|1276|2021-12-31|
+|49|[rugarciap/Turbo-Boost-Switcher](https://gitee.com/rugarciap/Turbo-Boost-Switcher)|Turbo Boost disabler / enable app for Mac OS X|1291|2021-10-29|
+|50|[meitu/MTHawkeye](https://gitee.com/meitu/MTHawkeye)|Profiling / Debugging assist tools for iOS. (Memory Leak, OOM, ANR, Hard Stalling, Network, OpenGL, Time Profile ...)|1277|2021-12-31|
 |51|[jpush/jpush-react-native](https://gitee.com/jpush/jpush-react-native)|JPush's officially supported React Native plugin (Android & iOS). 极光推送官方支持的 React Native 插件（Android & iOS）。|1257|2021-11-25|
 |52|[QuintGao/GKPageScrollView](https://gitee.com/QuintGao/GKPageScrollView)|iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果|1241|2021-12-07|
 |53|[DKJone/DKWechatHelper](https://gitee.com/DKJone/DKWechatHelper)|不止于抢红包，功能丰富的微信插件。|1216|2021-09-18|
@@ -100,7 +100,7 @@
 |93|[OpenFlutter/tobias](https://gitee.com/OpenFlutter/tobias)|AliPay For Flutter.支付宝Flutter插件|529|2021-11-10|
 |94|[sensorsdata/sa-sdk-ios](https://gitee.com/sensorsdata/sa-sdk-ios)|神策数据官方 iOS 埋点 SDK，是一款轻量级用于 iOS 端的数据采集埋点 SDK。神策分析 iOS SDK 不仅有代码埋点功能，还通过使用运行时机制（Runtime）中的相关技术实现 iOS 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）、点击图、可视化全埋点。|517|2021-12-31|
 |95|[2621532542/iOS_NQConfuseTool](https://gitee.com/2621532542/iOS_NQConfuseTool)|iOS代码混淆(iOS_NQConfuseTool)是一款运行在MACOS平台的App、完美支持OC和Swift项目代码的自动混淆、支持、文件名、修改资源文件、类名、方法名、属性名、添加混淆函数方法体、添加混淆属性、自动调用生成的混淆代码，功能强大而稳定，全局自动化，安全加固。马甲包混淆工具，最重要的是完全免费。（随机单词拼接）|515|2021-12-11|
-|96|[dji-sdk/Mobile-SDK-iOS](https://gitee.com/dji-sdk/Mobile-SDK-iOS)|DJI Mobile SDK for iOS: http://developer.dji.com/mobile-sdk/|511|2021-12-07|
+|96|[dji-sdk/Mobile-SDK-iOS](https://gitee.com/dji-sdk/Mobile-SDK-iOS)|DJI Mobile SDK for iOS: http://developer.dji.com/mobile-sdk/|512|2021-12-07|
 |97|[g0v/moedict-webkit](https://gitee.com/g0v/moedict-webkit)|萌典網站|504|2021-10-05|
 |98|[adjust/ios_sdk](https://gitee.com/adjust/ios_sdk)|This is the iOS SDK of|481|2021-12-09|
 |99|[MxABC/DevDataTool](https://gitee.com/MxABC/DevDataTool)|编码转换、摘要(hash)、加解密（MD5、SHA1、SHA256、SHA3、SM3、HMAC、DES、3DES、AES、SM4）|470|2021-07-13|

@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://gitee.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17603|10|2022-01-02|
+|1|[SpaceVim/SpaceVim](https://gitee.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17606|10|2022-01-02|
 |2|[mhinz/vim-galore](https://gitee.com/mhinz/vim-galore)|:mortar_board: All things Vim!|12668|6|2021-11-17|
-|3|[vimwiki/vimwiki](https://gitee.com/vimwiki/vimwiki)|Personal Wiki for Vim|7004|2|2021-12-19|
-|4|[derekhe/msfs2020-google-map](https://gitee.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|234|2|2021-12-26|
+|3|[vimwiki/vimwiki](https://gitee.com/vimwiki/vimwiki)|Personal Wiki for Vim|7005|2|2021-12-19|
+|4|[derekhe/msfs2020-google-map](https://gitee.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|237|2|2021-12-26|
 |5|[wklken/k-vim](https://gitee.com/wklken/k-vim)|vim配置|4840|2|2021-08-16|
 |6|[mashirozx/Pixiv-Nginx](https://gitee.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1319|1|2021-12-25|
 |7|[mattn/emmet-vim](https://gitee.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5807|1|2021-12-04|

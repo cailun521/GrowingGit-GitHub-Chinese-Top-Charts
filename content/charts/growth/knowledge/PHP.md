@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kuaifan/dootask](https://gitee.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1194|9|2021-12-31|
+|1|[kuaifan/dootask](https://gitee.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1198|9|2021-12-31|
 |2|[maccmspro/maccms10](https://gitee.com/maccmspro/maccms10)|苹果cms-v10,maccms-v10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|599|3|2021-12-19|
 |3|[Qsnh/meedu](https://gitee.com/Qsnh/meedu)|知识付费、企业线上培训解决方案。|2747|2|2021-12-19|
-|4|[mashirozx/sakura](https://gitee.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2440|2|2021-11-13|
+|4|[mashirozx/sakura](https://gitee.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2441|2|2021-11-13|
 |5|[splitline/How-to-Hack-Websites](https://gitee.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|89|2|2021-11-09|
 |6|[summerblue/laravel-shop](https://gitee.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2344|2|2021-10-05|
 |7|[bettershop/LaikeTui](https://gitee.com/bettershop/LaikeTui)|来客电商，微信小程序商城 + APP商城 + 公众号商城 + PC商城系统 + 支付宝小程序商城 + 抖音小程序商城 + 百度小程序电商系统（前后端代码全部开源） 注重界面美感与用户体验，打造独特电商系统生态圈|559|1|2021-12-30|
@@ -22,19 +22,19 @@
 |15|[dnomd343/Encryption365](https://gitee.com/dnomd343/Encryption365)|Encryption365免费IP证书命令行工具|73|1|2021-10-24|
 |16|[xiebruce/PicUploader](https://gitee.com/xiebruce/PicUploader)|一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。|949|1|2021-09-30|
 |17|[helloxz/onenav](https://gitee.com/helloxz/onenav)|使用PHP开发的简约导航/书签管理系统。|487|1|2021-09-10|
-|18|[wususu/effective-resourses](https://gitee.com/wususu/effective-resourses)| :book:学习资源整合|1865|1|2021-06-10|
+|18|[wususu/effective-resourses](https://gitee.com/wususu/effective-resourses)| :book:学习资源整合|1866|1|2021-06-10|
 |19|[iqiqiya/iqiqiya-API](https://gitee.com/iqiqiya/iqiqiya-API)|API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封 ...|1076|1|2021-08-26|
 |20|[xiaochong0302/course-tencent-cloud](https://gitee.com/xiaochong0302/course-tencent-cloud)|网课系统，网校系统，知识付费系统，在线教育系统，基于高性能 C 扩展框架 Phalcon ，可免费商用。|489|1|2021-12-31|
 |21|[Fanli2012/nbnbk](https://gitee.com/Fanli2012/nbnbk)|基于thinkphp5的cms管理系统，B2C电商开源php商城系统平台，tp5开源cms，thinkphp企业网站源码，适合博客、中小企业建站二次开发。|65|0|2021-10-14|
 |22|[lcp0578/cheat-sheets](https://gitee.com/lcp0578/cheat-sheets)|:elephant: :elephant: my cheat sheets :memo: , Symfony, Go, Python, MySQL, Twig, Doctrine, Nginx, ElasticSearch, TiDB, Linux etc.|44|0|2021-12-31|
-|23|[kasuganosoras/Pigeon](https://gitee.com/kasuganosoras/Pigeon)|💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？|315|0|2021-10-25|
+|23|[kasuganosoras/Pigeon](https://gitee.com/kasuganosoras/Pigeon)|💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？|316|0|2021-10-25|
 |24|[zdhxiong/Material-Design-Chinese](https://gitee.com/zdhxiong/Material-Design-Chinese)|Material Design 指南的中文翻译|550|0|2021-11-09|
 |25|[maccmspro/maccms8](https://gitee.com/maccmspro/maccms8)|苹果cms-v8,maccms-v8,麦克cms,开源cms,视频分享程序,文章程序,专题程序,免费程序|53|0|2021-07-29|
 |26|[aliliin/LeetCode-Algorithms](https://gitee.com/aliliin/LeetCode-Algorithms)| LeetCode Algorithms PHP 算法   leetcode php|68|0|2021-12-24|
 |27|[longwenjunjie/jiangqie_theme](https://gitee.com/longwenjunjie/jiangqie_theme)|酱茄Free主题由酱茄（ www.jiangqie.com ）开发的一款免费开源的WordPress主题，主题专为WordPress博客、资讯、自媒体网站而设计。|71|0|2021-11-02|
 |28|[LychApe/DreamCat](https://gitee.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|138|0|2021-10-04|
 |29|[magicblack/maccms8](https://gitee.com/magicblack/maccms8)|苹果cms官方,苹果cmsv8,maccmsv8,麦克cms,开源cms,视频分享程序,文章程序,专题程序,免费程序|59|0|2021-09-28|
-|30|[opensource-socialnetwork/opensource-socialnetwork](https://gitee.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|825|0|2022-01-02|
+|30|[opensource-socialnetwork/opensource-socialnetwork](https://gitee.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|826|0|2022-01-02|
 |31|[learnku/learnku](https://gitee.com/learnku/learnku)|learnku.net 网站使用 laravel5.5 重新架构|156|0|2021-10-05|
 |32|[summerblue/weibo](https://gitee.com/summerblue/weibo)|Laravel 中文新手课程《L01 Laravel 教程 - Web 开发实战入门》的源代码 |87|0|2021-10-27|
 |33|[guanguans/notify](https://gitee.com/guanguans/notify)|多平台推送通知 SDK(Bark、Chanify、钉钉群机器人、邮件、飞书群机器人、Gitter、Google Chat、Logger、Mattermost、Rocket Chat、Server 酱、企业微信群机器人、息知、Zulip)。|76|0|2021-12-13|

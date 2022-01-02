@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[foxsen/archbase](https://gitee.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1798|26|2021-12-31|
-|2|[lib-pku/libpku](https://gitee.com/lib-pku/libpku)|贵校课程资料民间整理|25124|22|2021-12-27|
+|1|[foxsen/archbase](https://gitee.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1800|26|2021-12-31|
+|2|[lib-pku/libpku](https://gitee.com/lib-pku/libpku)|贵校课程资料民间整理|25122|22|2021-12-27|
 |3|[NiuTrans/MTBook](https://gitee.com/NiuTrans/MTBook)|《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models|2314|4|2021-11-25|
 |4|[zhanwen/MathModel](https://gitee.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3852|3|2021-12-10|
-|5|[soulmachine/leetcode](https://gitee.com/soulmachine/leetcode)|LeetCode题解，151道题完整版|10310|3|2021-06-05|
+|5|[soulmachine/leetcode](https://gitee.com/soulmachine/leetcode)|LeetCode题解，151道题完整版|10312|3|2021-06-05|
 |6|[horance-liu/tensorflow-internals](https://gitee.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2683|2|2021-11-13|
 |7|[note286/xdupgthesis](https://gitee.com/note286/xdupgthesis)|西安电子科技大学研究生学位论文XeLaTeX模板|148|2|2021-12-30|
 |8|[sjtug/SJTUThesis](https://gitee.com/sjtug/SJTUThesis)|上海交通大学 XeLaTeX 学位论文及课程论文模板   Shanghai Jiao Tong University XeLaTeX Thesis Template|2396|1|2021-12-28|
@@ -21,8 +21,8 @@
 |14|[liuxinyu95/AlgoXY](https://gitee.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5012|1|2021-12-30|
 |15|[Duan-JM/awesome-papers-fewshot](https://gitee.com/Duan-JM/awesome-papers-fewshot)|Collection for Few-shot Learning|678|1|2021-11-10|
 |16|[thunlp/KRLPapers](https://gitee.com/thunlp/KRLPapers)|Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)|1434|1|2021-08-29|
-|17|[xiaoweiChen/Learn-LLVM-12](https://gitee.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|157|1|2021-12-29|
-|18|[jankapunkt/latexcv](https://gitee.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1451|1|2021-11-22|
+|17|[xiaoweiChen/Learn-LLVM-12](https://gitee.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|158|1|2021-12-29|
+|18|[jankapunkt/latexcv](https://gitee.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1452|1|2021-11-22|
 |19|[optimass/continual_learning_papers](https://gitee.com/optimass/continual_learning_papers)|Relevant papers in Continual Learning|470|1|2021-12-09|
 |20|[note286/xdupgtp](https://gitee.com/note286/xdupgtp)|西安电子科技大学研究生学位论文开题报告表XeLaTeX模板|3|1|2022-01-02|
 |21|[loaden/linux-notes](https://gitee.com/loaden/linux-notes)|Linux技术笔记：拥抱开源，专注 Linux 技术分享与交流，共同解决 Linux 系统办公娱乐遇到的各种问题。欢迎加群19346666、111601117交流维护。|2|0|2021-11-01|
@@ -31,7 +31,7 @@
 |24|[wangxdouc/ouc-java-course](https://gitee.com/wangxdouc/ouc-java-course)|Java course slides and materials (CS, Ocean University of China)|43|0|2021-06-04|
 |25|[latexstudio/CUMCMThesis](https://gitee.com/latexstudio/CUMCMThesis)|全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2020 年格式|462|0|2021-07-13|
 |26|[circlelq/PKU_COE_Thss](https://gitee.com/circlelq/PKU_COE_Thss)|北京大学工学院本科毕业论文参考模版|5|0|2021-11-26|
-|27|[whutug/whu-thesis](https://gitee.com/whutug/whu-thesis)|:memo: 武汉大学毕业论文 LaTeX 模版 2021|369|0|2021-06-18|
+|27|[whutug/whu-thesis](https://gitee.com/whutug/whu-thesis)|:memo: 武汉大学毕业论文 LaTeX 模版 2021|371|0|2021-06-18|
 |28|[CSUcse/CSUthesis](https://gitee.com/CSUcse/CSUthesis)|中南大学研究生学位论文LaTex模版（博士和硕士）|26|0|2021-11-22|
 |29|[langsci/langscibook](https://gitee.com/langsci/langscibook)|LaTeX class and additions for typesetting books|29|0|2021-12-20|
 |30|[LLLgoyour/Math_Olympiad_moyuNotes](https://gitee.com/LLLgoyour/Math_Olympiad_moyuNotes)|用来摸鱼的数竞笔记|2|0|2021-10-31|
@@ -70,9 +70,9 @@
 |63|[chenboshuo/cumcm_template](https://gitee.com/chenboshuo/cumcm_template)|全国大学生数学建模竞赛LaTeX论文模板(分文件，自动化脚本,有linux 字体)|10|0|2021-09-10|
 |64|[wenweili/AlJabr-1](https://gitee.com/wenweili/AlJabr-1)|Methods in Algebra (Volume 1): A Chinese textbook on Algebra|118|0|2021-11-20|
 |65|[AmnesiaBeing/CUC-Thesis-Template](https://gitee.com/AmnesiaBeing/CUC-Thesis-Template)|中国传媒大学工科研究生毕业论文Latex模板|5|0|2021-06-09|
-|66|[ECNU-ICA/ECNU_graduation_thesis_template](https://gitee.com/ECNU-ICA/ECNU_graduation_thesis_template)|华东师范大学研究生毕业论文 Latex 模板|18|0|2021-11-17|
+|66|[ECNU-ICA/ECNU_graduation_thesis_template](https://gitee.com/ECNU-ICA/ECNU_graduation_thesis_template)|华东师范大学研究生毕业论文 Latex 模板|19|0|2021-11-17|
 |67|[jiafeng5513/JLU_Dissertation](https://gitee.com/jiafeng5513/JLU_Dissertation)|吉林大学学位论文Latex模板|38|0|2021-06-05|
-|68|[ElunDai/gdutthesis](https://gitee.com/ElunDai/gdutthesis)|广东工业大学LaTeX论文模板项目(非官方)|18|0|2021-06-15|
+|68|[ElunDai/gdutthesis](https://gitee.com/ElunDai/gdutthesis)|广东工业大学LaTeX论文模板项目(非官方)|19|0|2021-06-15|
 |69|[BenderBlog/Subtitles](https://gitee.com/BenderBlog/Subtitles)|我翻译的字幕|3|0|2021-10-15|
 |70|[mike2718/ham](https://gitee.com/mike2718/ham)|《业余无线电操作技能考核攻略本（类别：A、B）》|9|0|2021-12-27|
 |71|[Spacial/csstuff](https://gitee.com/Spacial/csstuff)|CS Stuff is an awesome collection of Computer Science Stuff.|45|0|2021-10-18|
@@ -102,7 +102,7 @@
 |95|[x-magus/ThesisUESTC](https://gitee.com/x-magus/ThesisUESTC)|ThesisUESTC-电子科技大学毕业论文模板|729|0|2021-09-06|
 |96|[hyangq/HyNote](https://gitee.com/hyangq/HyNote)|HyNote 个人笔记|5|0|2021-11-05|
 |97|[iChunyu/signal-process-demo](https://gitee.com/iChunyu/signal-process-demo)|数字信号处理学习记录|10|0|2021-12-02|
-|98|[fcampelo/EC-Bestiary](https://gitee.com/fcampelo/EC-Bestiary)|A bestiary of evolutionary, swarm and other metaphor-based algorithms|394|0|2021-12-05|
+|98|[fcampelo/EC-Bestiary](https://gitee.com/fcampelo/EC-Bestiary)|A bestiary of evolutionary, swarm and other metaphor-based algorithms|395|0|2021-12-05|
 |99|[yuhldr/LZUThesis2020](https://gitee.com/yuhldr/LZUThesis2020)|兰州大学2021毕业论文LaTex模板|29|0|2021-12-14|
 |100|[MeouSker77/ProgrammingRust](https://gitee.com/MeouSker77/ProgrammingRust)|本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除|13|0|2022-01-02|
 

@@ -5,13 +5,13 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[billryan/resume](https://gitee.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4953|2|2021-12-15|
+|1|[billryan/resume](https://gitee.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4955|2|2021-12-15|
 |2|[THUNLP-MT/MT-Reading-List](https://gitee.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2171|2|2021-11-20|
 |3|[FvNCCR228/SCU_Beamer_Slide-demo](https://gitee.com/FvNCCR228/SCU_Beamer_Slide-demo)|四川大学非官方Beamer模板   Unofficial Beamer Template for Sichuan University|17|1|2021-12-30|
 |4|[tuna/thuthesis](https://gitee.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3295|1|2021-12-04|
 |5|[sjtug/SJTUBeamer](https://gitee.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|198|1|2021-12-31|
 |6|[TheNetAdmin/zjuthesis](https://gitee.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1076|1|2021-12-31|
-|7|[mohuangrui/ucasthesis](https://gitee.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2467|1|2021-10-29|
+|7|[mohuangrui/ucasthesis](https://gitee.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2468|1|2021-10-29|
 |8|[OWASP/owasp-masvs](https://gitee.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1281|1|2022-01-02|
 |9|[huajh/awesome-latex-cv](https://gitee.com/huajh/awesome-latex-cv)|Latex CV template built with Font Awesome.|340|0|2021-07-20|
 |10|[mohuangrui/ucasproposal](https://gitee.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|339|0|2021-10-29|
@@ -22,7 +22,7 @@
 |15|[21-lessons/21-lessons-book-de](https://gitee.com/21-lessons/21-lessons-book-de)|21 Lektionen - Ein Buch über eine Bitcoin-Reise, geschrieben von einem Bitcoiner|10|0|2021-12-29|
 |16|[ethereum/yellowpaper](https://gitee.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1217|0|2021-12-27|
 |17|[yzhangcs/master-thesis](https://gitee.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|6|0|2021-12-26|
-|18|[CTeX-org/lshort-zh-cn](https://gitee.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1003|0|2021-12-08|
+|18|[CTeX-org/lshort-zh-cn](https://gitee.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1005|0|2021-12-08|
 |19|[xinetzone/cv-actions](https://gitee.com/xinetzone/cv-actions)|计算机视觉实践|2|0|2021-10-08|
 |20|[wklchris/TRB-template](https://gitee.com/wklchris/TRB-template)|An unofficial LaTeX template for Transportation Research Board (TRB) submission with auto word counts support.    一个非官方的 TRB 投稿 LaTeX 模板。支持自动字数统计。|4|0|2021-07-30|
 |21|[YiJiang1992/CV](https://gitee.com/YiJiang1992/CV)|Curriculum Vitae / 简历|4|0|2021-08-25|
@@ -100,11 +100,11 @@
 |93|[CTeX-org/ctex-kit](https://gitee.com/CTeX-org/ctex-kit)|Macro Packages and Scripts for Chinese TeX users|781|0|2021-12-14|
 |94|[JerryFleming/bashdoc](https://gitee.com/JerryFleming/bashdoc)|Bash Reference Manual in Chinese|6|0|2021-07-26|
 |95|[Chen-Jialin/Assignment-Template](https://gitee.com/Chen-Jialin/Assignment-Template)|可爱而优雅的 LaTeX 作业模板。Cute and elegant LaTeX template for assignments.|5|0|2021-12-16|
-|96|[qtli/Papers-on-Dialogue-System](https://gitee.com/qtli/Papers-on-Dialogue-System)|A Survey of Neural Dialogue Systems|8|0|2021-12-31|
+|96|[qtli/Papers-on-Dialogue-System](https://gitee.com/qtli/Papers-on-Dialogue-System)|A Survey of Neural Dialogue Systems|9|0|2021-12-31|
 |97|[gopherdojo/shoten7](https://gitee.com/gopherdojo/shoten7)|技術書典|2|0|2021-08-11|
 |98|[HIT-UOI-SR/HIT-Graduate-Report](https://gitee.com/HIT-UOI-SR/HIT-Graduate-Report)|哈尔滨工业大学研究生报告LaTeX模板|4|0|2021-07-24|
 |99|[YangLaTeX/thubeamer](https://gitee.com/YangLaTeX/thubeamer)|A Beamer Theme for Tsinghua University (THU).|19|0|2021-11-16|
-|100|[MacroUniverse/PhysWiki-log](https://gitee.com/MacroUniverse/PhysWiki-log)|小时百科|50|0|2022-01-01|
+|100|[MacroUniverse/PhysWiki-log](https://gitee.com/MacroUniverse/PhysWiki-log)|小时百科|50|0|2022-01-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

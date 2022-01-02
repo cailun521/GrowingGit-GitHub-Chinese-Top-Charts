@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[nshen/learn-neovim-lua](https://gitee.com/nshen/learn-neovim-lua)|📜 学习 Neovim 全配置， 逃离 VSCode。|120|2|2021-12-29|
+|1|[nshen/learn-neovim-lua](https://gitee.com/nshen/learn-neovim-lua)|📜 学习 Neovim 全配置， 逃离 VSCode。|122|2|2021-12-29|
 |2|[skywind3000/z.lua](https://gitee.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2173|2|2021-11-13|
 |3|[Wscats/articles](https://gitee.com/Wscats/articles)|🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆|3048|1|2021-12-20|
 |4|[Kengxxiao/ArknightsGameData](https://gitee.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|645|1|2021-12-30|

@@ -6,11 +6,11 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[KwaiAppTeam/SwiftPamphletApp](https://gitee.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1096|21|2022-01-01|
-|2|[jacklandrin/OnlySwitch](https://gitee.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |596|18|2021-12-29|
+|2|[jacklandrin/OnlySwitch](https://gitee.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|597|18|2022-01-02|
 |3|[matteocrippa/awesome-swift](https://gitee.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21474|8|2021-12-29|
 |4|[pock/pock](https://gitee.com/pock/pock)|Widgets manager for MacBook Touch Bar|9589|6|2021-09-30|
 |5|[Co2333/myyearwithgit](https://gitee.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|168|5|2021-12-09|
-|6|[Jinxiansen/SwiftUI](https://gitee.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4006|4|2021-09-14|
+|6|[Jinxiansen/SwiftUI](https://gitee.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4007|4|2021-09-14|
 |7|[pujiaxin33/JXSegmentedView](https://gitee.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1922|2|2021-08-18|
 |8|[dengzemiao/DZMeBookRead](https://gitee.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1042|1|2021-12-28|
 |9|[gltwy/public](https://gitee.com/gltwy/public)|微信公众号 "技术大咖社" 文章合集|5|0|2021-06-06|
@@ -21,7 +21,7 @@
 |14|[dyeeee/NotesApp](https://gitee.com/dyeeee/NotesApp)|完整的便签本app，支持待办事项、笔记本、专注时长等。完全由swiftUI编写|17|0|2021-07-15|
 |15|[Cosmos-Front-end/tech-architecture](https://gitee.com/Cosmos-Front-end/tech-architecture)|Technology Architecture study and learn，技术架构研究和学习。|4|0|2021-08-07|
 |16|[lionsom/XiOS](https://gitee.com/lionsom/XiOS)|工作学习记录，留给以后的自己。希望能给大家些许帮助！|21|0|2021-12-10|
-|17|[Liaoworking/Advanced-Swift](https://gitee.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|311|0|2021-12-30|
+|17|[Liaoworking/Advanced-Swift](https://gitee.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|312|0|2021-12-30|
 |18|[jaywcjlove/swiftui-example](https://gitee.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|48|0|2021-12-05|
 |19|[Li-JianXin/Swift_Leetcode](https://gitee.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|0|2022-01-01|
 |20|[ZamzamInc/ZamzamKit](https://gitee.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|249|0|2021-12-22|
@@ -39,7 +39,7 @@
 |32|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://gitee.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|0|2021-10-11|
 |33|[ZXKitCode/ZXKitLogger](https://gitee.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|20|0|2021-12-26|
 |34|[easyui/algorithm-pattern-swift](https://gitee.com/easyui/algorithm-pattern-swift)|算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~|26|0|2021-11-07|
-|35|[TortugaPower/BookPlayer](https://gitee.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|751|0|2021-12-29|
+|35|[TortugaPower/BookPlayer](https://gitee.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|752|0|2021-12-29|
 |36|[kingcos/Swift-X-Algorithms](https://gitee.com/kingcos/Swift-X-Algorithms)|🔨 Algorithms & Data Structures implemented in Swift X. `let X = 5.0`|22|0|2021-06-03|
 |37|[KyleBing/WubiBuddy](https://gitee.com/KyleBing/WubiBuddy)|《码表助手》鼠须管五笔用户词添加工具 (macOS) |15|0|2021-08-11|
 |38|[Binlogo/WWDC-Track](https://gitee.com/Binlogo/WWDC-Track)| WWDC 观影记录：技术点思维导图 · 演示代码|10|0|2021-07-01|

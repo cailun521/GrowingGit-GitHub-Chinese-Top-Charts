@@ -5,21 +5,21 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[shengxinjing/programmer-job-blacklist](https://gitee.com/shengxinjing/programmer-job-blacklist)|:see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞|27511|2021-08-10|
+|1|[shengxinjing/programmer-job-blacklist](https://gitee.com/shengxinjing/programmer-job-blacklist)|:see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞|27513|2021-08-10|
 |2|[rootsongjc/kubernetes-handbook](https://gitee.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook|9473|2021-12-27|
-|3|[judasn/Linux-Tutorial](https://gitee.com/judasn/Linux-Tutorial)|《Java 程序员眼中的 Linux》|7759|2021-07-05|
+|3|[judasn/Linux-Tutorial](https://gitee.com/judasn/Linux-Tutorial)|《Java 程序员眼中的 Linux》|7758|2021-07-05|
 |4|[daliansky/Hackintosh](https://gitee.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6620|2021-12-30|
 |5|[wangdoc/bash-tutorial](https://gitee.com/wangdoc/bash-tutorial)|Bash 教程|3350|2021-12-21|
 |6|[wangdoc/javascript-tutorial](https://gitee.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3147|2021-10-29|
-|7|[jghoman/awesome-apache-airflow](https://gitee.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2757|2021-12-02|
-|8|[charlax/engineering-management](https://gitee.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2561|2021-12-24|
-|9|[wind-liang/leetcode](https://gitee.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2212|2021-09-02|
-|10|[wslutilities/wslu](https://gitee.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2037|2021-12-03|
+|7|[jghoman/awesome-apache-airflow](https://gitee.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2759|2021-12-02|
+|8|[charlax/engineering-management](https://gitee.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2562|2021-12-24|
+|9|[wind-liang/leetcode](https://gitee.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2213|2021-09-02|
+|10|[wslutilities/wslu](https://gitee.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2038|2021-12-03|
 |11|[LCTT/TranslateProject](https://gitee.com/LCTT/TranslateProject)|Linux中国翻译项目|1856|2022-01-02|
-|12|[Sitoi/dailycheckin](https://gitee.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|1642|2021-12-20|
-|13|[kiddin9/OpenWrt_x86-r2s-r4s](https://gitee.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|1630|2021-12-31|
+|12|[Sitoi/dailycheckin](https://gitee.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|1643|2021-12-20|
+|13|[kiddin9/OpenWrt_x86-r2s-r4s](https://gitee.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|1632|2021-12-31|
 |14|[discourse/discourse_docker](https://gitee.com/discourse/discourse_docker)|A Docker image for Discourse|1387|2021-12-15|
-|15|[ben1234560/k8s_PaaS](https://gitee.com/ben1234560/k8s_PaaS)|如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。|1371|2021-12-11|
+|15|[ben1234560/k8s_PaaS](https://gitee.com/ben1234560/k8s_PaaS)|如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。|1372|2021-12-11|
 |16|[studygolang/GCTT](https://gitee.com/studygolang/GCTT)|GCTT Go中文网翻译组。|1321|2021-12-26|
 |17|[johnrosen1/vpstoolbox](https://gitee.com/johnrosen1/vpstoolbox)|厌倦了总是需要手动输入命令安装博客，网盘，邮箱，代理了吗？VPSToolBox提供了一种全自动化的解决方案，解放双手，从今天开始！|1268|2021-11-22|
 |18|[duguying/parsing-techniques](https://gitee.com/duguying/parsing-techniques)|📕 parsing techniques 中文译本——《解析技术》|1251|2021-11-08|
@@ -56,10 +56,10 @@
 |49|[orangbus/Tool](https://gitee.com/orangbus/Tool)|Manjaro从入门到爱不释手．|222|2021-06-10|
 |50|[aalmiray/java-champions](https://gitee.com/aalmiray/java-champions)|A list of Java Champions|218|2021-12-21|
 |51|[wangdoc/html-tutorial](https://gitee.com/wangdoc/html-tutorial)|HTML 语言教程|205|2021-09-23|
-|52|[tinyclub/cloud-lab](https://gitee.com/tinyclub/cloud-lab)|Docker based Cloud Lab Center, with noVNC and Gateone attachable LXDE Desktop and SSH Terminal. 本项目作者发布了《360° 剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283|195|2021-12-29|
-|53|[Petit-Abba/backup_script_zh-CN](https://gitee.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|192|2022-01-02|
+|52|[Petit-Abba/backup_script_zh-CN](https://gitee.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|195|2022-01-02|
+|53|[tinyclub/cloud-lab](https://gitee.com/tinyclub/cloud-lab)|Docker based Cloud Lab Center, with noVNC and Gateone attachable LXDE Desktop and SSH Terminal. 本项目作者发布了《360° 剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283|195|2021-12-29|
 |54|[hoochanlon/helpdesk-guide](https://gitee.com/hoochanlon/helpdesk-guide)|📖《企业网管工作实录》主机与程控终端信息安全运维，IT方向速成就业入职|191|2021-12-14|
-|55|[wangtunan/blog](https://gitee.com/wangtunan/blog)|:memo: 记录个人博客，见证成长之路  https://wangtunan.github.io/blog/|187|2021-12-26|
+|55|[wangtunan/blog](https://gitee.com/wangtunan/blog)|:memo: 记录个人博客，见证成长之路  https://wangtunan.github.io/blog/|187|2022-01-02|
 |56|[huweihuang/kubernetes-notes](https://gitee.com/huweihuang/kubernetes-notes)|Kubernetes 学习笔记-https://www.huweihuang.com/kubernetes-notes/|184|2021-11-26|
 |57|[wangdoc/webapi-tutorial](https://gitee.com/wangdoc/webapi-tutorial)|Web API 教程|181|2021-09-05|
 |58|[yuyicai/update-kube-cert](https://gitee.com/yuyicai/update-kube-cert)|K8s集群证书过期处理，更新kubeadm生成的证书有效期为10年。针对旧版集群(小于v1.15)，当然大于等于v1.15也是可以用这个脚本更新，新版可直接kubeadm alpha certs renew <cert_name>更新 (deal with K8s cluster certificate expired)|177|2021-09-26|
@@ -70,7 +70,7 @@
 |63|[overmind1980/oeasypython](https://gitee.com/overmind1980/oeasypython)|面向初学者的简明易懂的 Python3 课程，对没有编程经验的同学也非常友好。在vim下从浅入深，逐步学习。|136|2021-12-10|
 |64|[laubonghaudoi/Chinese_Rime](https://gitee.com/laubonghaudoi/Chinese_Rime)|收集現代漢語方言和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects|133|2022-01-02|
 |65|[marmotedu/geekbang-go](https://gitee.com/marmotedu/geekbang-go)|极客时间 《Go 语言项目开发实战》课程补充教程。|132|2021-11-05|
-|66|[daliansky/Lenovo-Air13-IWL-Hackintosh](https://gitee.com/daliansky/Lenovo-Air13-IWL-Hackintosh)|联想小新Air 13 IWL笔记本EFI|128|2021-06-23|
+|66|[daliansky/Lenovo-Air13-IWL-Hackintosh](https://gitee.com/daliansky/Lenovo-Air13-IWL-Hackintosh)|联想小新Air 13 IWL笔记本EFI|129|2021-06-23|
 |67|[rootsongjc/serverless-handbook](https://gitee.com/rootsongjc/serverless-handbook)|Serverless Handbook 无服务架构实践手册 - https://jimmysong.io/serverless-handbook|110|2021-10-28|
 |68|[AlphabugX/csOnvps](https://gitee.com/AlphabugX/csOnvps)|CobaltStrike4.4 一键部署脚本 随机生成密码、key、端口号、证书等，解决cs4.x无法运行在Linux上报错问题 灰常银杏化设计|99|2021-12-31|
 |69|[CloudNativeIndustryAlliance/whitepaper2020](https://gitee.com/CloudNativeIndustryAlliance/whitepaper2020)|中国信息通信研究院(CAICT)云原生发展白皮书（2020）- https://cloudnativeindustryalliance.github.io/whitepaper2020/|97|2021-08-12|

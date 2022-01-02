@@ -8,7 +8,7 @@
 |1|[briatte/awesome-network-analysis](https://gitee.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2541|2021-11-17|
 |2|[pzhaonet/bookdownplus](https://gitee.com/pzhaonet/bookdownplus)|The easiest way to use R package bookdown for  writing varied types of books and documents |227|2021-12-31|
 |3|[GuangchuangYu/biobabble](https://gitee.com/GuangchuangYu/biobabble)|公众号：biobabble|56|2021-09-26|
-|4|[yufree/sciguide](https://gitee.com/yufree/sciguide)|现代科研指北|55|2021-12-22|
+|4|[yufree/sciguide](https://gitee.com/yufree/sciguide)|现代科研指北|56|2021-12-22|
 |5|[cosname/rmarkdown-guide](https://gitee.com/cosname/rmarkdown-guide)|R Markdown 指南（一本八字还没一撇的中文书）|40|2021-12-08|
 |6|[yihui/MSG](https://gitee.com/yihui/MSG)|Modern Statistical Graphics （《现代统计图形》的附加包）|33|2021-08-15|
 |7|[wangyi-fudan/BIOL130173](https://gitee.com/wangyi-fudan/BIOL130173)|复旦大学生命科学学院《生命科学中的机器学习》|25|2021-10-02|

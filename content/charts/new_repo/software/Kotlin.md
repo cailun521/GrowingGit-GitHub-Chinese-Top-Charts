@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ByteLegend/ByteLegend](https://gitee.com/ByteLegend/ByteLegend)|Enjoy programming while playing a game.|1353|2021-12-31|2021-02-01|
-|2|[bytedance/btrace](https://gitee.com/bytedance/btrace)|🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more nati ...|676|2021-12-31|2021-12-17|
+|2|[bytedance/btrace](https://gitee.com/bytedance/btrace)|🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more nati ...|678|2021-12-31|2021-12-17|
 |3|[wuyr/intellij-media-player](https://gitee.com/wuyr/intellij-media-player)|【🐟摸鱼专用】上班偷偷看视频📺而不会被老板打🔨的IDE插件，适配JetBrains全家桶|484|2021-09-01|2021-06-08|
 |4|[huannan/XArch](https://gitee.com/huannan/XArch)|🔥🔥🔥Android架构最佳实践 - 手把手带你搭建一个优秀的Android项目架构|411|2021-12-28|2021-09-02|
 |5|[fuusy/component-jetpack-mvvm](https://gitee.com/fuusy/component-jetpack-mvvm)|💖组件化+Jetpack+Kotlin+MVVM项目实战，涉及Jetpack相关组件，Kotlin相关技术，协程+Retrofit，Paging3+Room等。|369|2021-12-18|2021-04-29|
@@ -14,29 +14,29 @@
 |7|[gdutxiaoxu/AnchorTask](https://gitee.com/gdutxiaoxu/AnchorTask)|锚点任务，可以用来解决多线程加载任务依赖的问题。常见的，比如 Android 启动优化，通常会进行多线程异步加载|272|2021-09-15|2021-02-05|
 |8|[re-ovo/iwara4a](https://gitee.com/re-ovo/iwara4a)|基于Jetpack Compose开发的iwara安卓app (Unofficial Iwara Android Application)|244|2021-12-24|2021-03-20|
 |9|[Leon406/ToolsFx](https://gitee.com/Leon406/ToolsFx)|基于kotlin+tornadoFx开发的跨平台密码学工具箱.包含编解码,编码转换,加解密, 哈希,MAC,签名,二维码功能,ctf等实用功能,支持插件|238|2021-12-28|2021-06-30|
-|10|[trycatchx/RocketXPlugin](https://gitee.com/trycatchx/RocketXPlugin)|android 端编译加速插件🚀|213|2021-12-28|2021-10-20|
+|10|[trycatchx/RocketXPlugin](https://gitee.com/trycatchx/RocketXPlugin)|android 端编译加速插件🚀|213|2022-01-02|2021-10-20|
 |11|[cdalwyn/PlayAndroid](https://gitee.com/cdalwyn/PlayAndroid)|:v::fist::wave:玩安卓Mvvm组件化客户端，整合Jetpack组件DataBinding、ViewModel以及LiveData；屏幕适配:heavy_check_mark:状态栏沉浸式:heavy_check_mark:黑夜模式:heavy_check_mark:，无数据、加载失败状态页；骨架屏、Koin依赖注入等|181|2021-12-03|2021-02-05|
 |12|[allenymt/PrivacySentry](https://gitee.com/allenymt/PrivacySentry)|Android隐私合规检测，支持Runtime-hook和Asm修改字节码的检测方案|178|2021-12-30|2021-11-15|
 |13|[xdd666t/getx_template](https://gitee.com/xdd666t/getx_template)|Used to generate the template code of GetX framework   Flutter GetX模板代码生成（一个有用的IDEA插件）|174|2021-12-08|2021-01-25|
 |14|[anyRTC-UseCase/anyHouse](https://gitee.com/anyRTC-UseCase/anyHouse)|高仿 ClubHouse，语音直播、语聊房、高音质、极速上麦，开源 ClubHouse，实现了Clubhouse的上麦，下麦，邀请，语音音量提示等功能。|173|2021-12-14|2021-03-22|
 |15|[hyy920109/HighLightPro](https://gitee.com/hyy920109/HighLightPro)|A highlight lib and also it can be a simple popup window lib for android|161|2021-11-12|2021-04-02|
-|16|[Petterpx/FloatingX](https://gitee.com/Petterpx/FloatingX)|Android免权限悬浮窗，支持全局、局部悬浮，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。Android without permission suspension window, support global, local suspension, support edge adsorption, rebound, custom animation, position s ...|147|2021-12-24|2021-05-31|
+|16|[Petterpx/FloatingX](https://gitee.com/Petterpx/FloatingX)|Android免权限悬浮窗，支持全局、局部悬浮，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。Android without permission suspension window, support global, local suspension, support edge adsorption, rebound, custom animation, position s ...|148|2021-12-24|2021-05-31|
 |17|[xjunz/AutoSkip](https://gitee.com/xjunz/AutoSkip)|基于Shizuku授权的安卓"自动跳过"工具|131|2021-10-27|2021-06-20|
 |18|[ydstar/AdapterKit](https://gitee.com/ydstar/AdapterKit)|对Recyclerview的adapter的封装,轻松实现各种复杂列表|116|2021-11-11|2021-03-23|
 |19|[AranAndroid009/Mvvm](https://gitee.com/AranAndroid009/Mvvm)|-|115|2021-08-10|2021-04-23|
 |20|[mzdluo123/TxCaptchaHelper](https://gitee.com/mzdluo123/TxCaptchaHelper)|腾讯滑动验证码助手|109|2021-06-27|2021-01-14|
 |21|[DylanCaiCoding/ActivityResultLauncher](https://gitee.com/DylanCaiCoding/ActivityResultLauncher)|Replace startActivityForResult() method gracefully, based on the Activity Result API. (优雅地替代 startActivityForResult()，基于 Activity Result API)|102|2021-12-12|2021-05-30|
 |22|[wuyr/incremental-compiler](https://gitee.com/wuyr/incremental-compiler)|适用于Android项目的Gradle插件，用来增量编译class和生成增量dex。跟自带的增量编译Task（assemble）的区别是：这个插件只会编译源文件，不做其他多余的动作|101|2021-07-22|2021-07-12|
-|23|[KitsunePie/QAssistant](https://gitee.com/KitsunePie/QAssistant)|兼具实用与美观于一身的 QQ 小帮手|96|2021-12-29|2021-03-12|
+|23|[KitsunePie/QAssistant](https://gitee.com/KitsunePie/QAssistant)|兼具实用与美观于一身的 QQ 小帮手|96|2022-01-02|2021-03-12|
 |24|[shenzhen2017/ComposeDouban](https://gitee.com/shenzhen2017/ComposeDouban)|Compose仿豆瓣榜单页面|93|2021-08-26|2021-08-22|
 |25|[qqlittleice/MiuiHome](https://gitee.com/qqlittleice/MiuiHome)|[Xposed] Hook For MIUI Launcher / 针对MIUI桌面的自定义扩展|90|2021-12-30|2021-04-30|
 |26|[hi-dhl/KtKit](https://gitee.com/hi-dhl/KtKit)|KtKit 小巧而实用，用 Kotlin 语言编写的工具库（长期更新中）|89|2021-09-28|2021-08-01|
-|27|[leavesC/compose_chat](https://gitee.com/leavesC/compose_chat)|🎁🎁🎁 用 Jetpack Compose 实现一个 IM APP|87|2022-01-01|2021-06-07|
+|27|[leavesC/compose_chat](https://gitee.com/leavesC/compose_chat)|🎁🎁🎁 用 Jetpack Compose 实现一个 IM APP|87|2022-01-02|2021-06-07|
 |28|[shenzhen2017/wanandroid-compose](https://gitee.com/shenzhen2017/wanandroid-compose)|Compose+MVI+Navigation实现wanAndroid客户端|82|2021-11-25|2021-10-25|
 |29|[zhujiang521/PlayWeather](https://gitee.com/zhujiang521/PlayWeather)|🔥🔥🔥 Compose、Lce、MVVM、深色模式、横屏、无网弱网适配、Room、Hilt、多语言切换，目前Android最新的库基本全用上了，你想要的都有🔥🔥🔥|81|2021-12-25|2021-10-30|
 |30|[hlgithub369/QuickMvpFrame](https://gitee.com/hlgithub369/QuickMvpFrame)|这是一款kotlin Mvp的快速开发框架！基于KCommonProject开发，由于原项目很久没更新了基于它上面进行迭代与优化|80|2021-06-28|2021-06-28|
 |31|[shenzhen2017/android-architecture](https://gitee.com/shenzhen2017/android-architecture)|追求android架构更佳实践~|72|2021-11-09|2021-10-20|
-|32|[behring/8x-flow-diagram](https://gitee.com/behring/8x-flow-diagram)|通过Kotlin DSL创建8x Flow建模图|69|2021-12-18|2021-10-11|
+|32|[behring/8x-flow-diagram](https://gitee.com/behring/8x-flow-diagram)|通过Kotlin DSL创建8x Flow建模图|70|2021-12-18|2021-10-11|
 |33|[ultimateHandsomeBoy666/Particle](https://gitee.com/ultimateHandsomeBoy666/Particle)|A particle view library written in kotlin, easy to use|69|2021-10-11|2021-06-30|
 |34|[oooo7777777/VLibrary](https://gitee.com/oooo7777777/VLibrary)|MVVM+DataBinding+ViewModel+lifecycle+kotlin+liveData+Coroutines|69|2022-01-02|2021-03-12|
 |35|[sonder-joker/mirai-compose](https://gitee.com/sonder-joker/mirai-compose)|mirai-console的跨平台桌面端|67|2021-12-30|2021-02-03|
@@ -54,8 +54,8 @@
 |47|[yechaoa/wanandroid_jetpack](https://gitee.com/yechaoa/wanandroid_jetpack)|玩安卓的Jetpack版本|51|2021-10-16|2021-02-04|
 |48|[q876625596/YasuoRecyclerViewAdapter](https://gitee.com/q876625596/YasuoRecyclerViewAdapter)|一个能让你感受到快乐的RecyclerViewAdapter库，A RecyclerViewAdapter library that can make you feel happy|51|2021-09-29|2021-01-27|
 |49|[fmtjava/Jetpack_Compose_News](https://gitee.com/fmtjava/Jetpack_Compose_News)|基于Jetpack Compose实现的一款集新闻、视频、美图、音乐、天气等功能的资讯App,持续完善中...|50|2021-11-24|2021-06-13|
-|50|[congHu/DD_Monitor-android-kotlin](https://gitee.com/congHu/DD_Monitor-android-kotlin)|DD监控室，安卓版，Kotlin|49|2021-10-28|2021-03-24|
-|51|[Colter23/bilibili-dynamic-mirai-plugin](https://gitee.com/Colter23/bilibili-dynamic-mirai-plugin)|低延迟检测B站动态/直播的mirai-console插件|48|2022-01-01|2021-03-14|
+|50|[congHu/DD_Monitor-android-kotlin](https://gitee.com/congHu/DD_Monitor-android-kotlin)|DD监控室，安卓版，Kotlin|50|2021-10-28|2021-03-24|
+|51|[Colter23/bilibili-dynamic-mirai-plugin](https://gitee.com/Colter23/bilibili-dynamic-mirai-plugin)|低延迟检测B站动态/直播的mirai-console插件|49|2022-01-01|2021-03-14|
 |52|[shenzhen2017/ComposeShimmer](https://gitee.com/shenzhen2017/ComposeShimmer)|简单易用的Compose版骨架屏|47|2021-09-23|2021-08-30|
 |53|[Dr-TSNG/Fuck-Dmzj](https://gitee.com/Dr-TSNG/Fuck-Dmzj)|动漫之家增强模块|44|2021-07-04|2021-06-17|
 |54|[KyuubiRan/EzXHelper](https://gitee.com/KyuubiRan/EzXHelper)|一个使Xposed模块开发变的更轻松的kotlin库|43|2021-12-29|2021-03-18|

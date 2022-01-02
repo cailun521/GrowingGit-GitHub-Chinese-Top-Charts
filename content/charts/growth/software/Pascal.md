@@ -27,7 +27,7 @@
 |20|[PassByYou888/zGameWare](https://gitee.com/PassByYou888/zGameWare)|-|19|0|2021-09-22|
 |21|[PassByYou888/zSound](https://gitee.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|26|0|2021-09-21|
 |22|[artem78/AutoScreenshot](https://gitee.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|30|0|2021-12-14|
-|23|[digao-dalpiaz/DzHTMLText](https://gitee.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|86|0|2021-11-22|
+|23|[digao-dalpiaz/DzHTMLText](https://gitee.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|86|0|2022-01-02|
 |24|[cnpack/cnvcl](https://gitee.com/cnpack/cnvcl)|CnPack VCL Components|232|0|2022-01-02|
 |25|[yangyxd/FMXUI](https://gitee.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|0|2021-12-06|
 |26|[ying32/res2go-ide-plugin](https://gitee.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
@@ -38,7 +38,7 @@
 |31|[dbyoung720/ImageGray](https://gitee.com/dbyoung720/ImageGray)|MMX/SSE/SSE2/SSE4/AVX/AVX2/AVX512 optimization|12|0|2021-12-29|
 |32|[ying32/DDNRuntime-examples](https://gitee.com/ying32/DDNRuntime-examples)|DDNRuntime(Delphi .NET Framework/.NET Core Runtime) example. DDNRuntime is a library for Delphi to call .net dll. Support the assembly written by c#, vb.net. Support importing .net dll to delphi, can  ...|12|0|2021-12-10|
 |33|[GerryFerdinandus/bittorrent-tracker-editor](https://gitee.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|393|0|2021-12-03|
-|34|[laciba96/WinBox-for-86Box](https://gitee.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|58|0|2022-01-02|
+|34|[laciba96/WinBox-for-86Box](https://gitee.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|57|0|2022-01-02|
 |35|[coder163/DesignPatternForDelphi](https://gitee.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|3|0|2021-11-21|
 |36|[dbyoung720/ADOS](https://gitee.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|0|2021-10-28|
 |37|[PassByYou888/zExpression](https://gitee.com/PassByYou888/zExpression)|脚本与编译器内部的语法引擎内核，也是一种op内核，zExpression可以轻松实现自己的脚本引擎|37|0|2021-09-21|

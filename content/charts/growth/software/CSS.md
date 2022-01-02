@@ -5,22 +5,22 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[fingerchar/fingernft](https://gitee.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|714|17|2021-12-29|
+|1|[fingerchar/fingernft](https://gitee.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|719|17|2021-12-29|
 |2|[phith0n/conote-community](https://gitee.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|285|11|2021-12-09|
-|3|[you-dont-need/You-Dont-Need-JavaScript](https://gitee.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16597|8|2021-10-18|
-|4|[chokcoco/CSS-Inspiration](https://gitee.com/chokcoco/CSS-Inspiration)|CSS Inspiration，在这里找到写 CSS 的灵感！|7567|6|2021-10-22|
-|5|[iissnan/hexo-theme-next](https://gitee.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15742|6|2021-11-06|
-|6|[chokcoco/iCSS](https://gitee.com/chokcoco/iCSS)|不止于 CSS|11748|6|2021-12-22|
+|3|[you-dont-need/You-Dont-Need-JavaScript](https://gitee.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16598|8|2021-10-18|
+|4|[chokcoco/CSS-Inspiration](https://gitee.com/chokcoco/CSS-Inspiration)|CSS Inspiration，在这里找到写 CSS 的灵感！|7566|6|2021-10-22|
+|5|[iissnan/hexo-theme-next](https://gitee.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15743|6|2021-11-06|
+|6|[chokcoco/iCSS](https://gitee.com/chokcoco/iCSS)|不止于 CSS|11750|6|2021-12-22|
 |7|[Wei-Xia/most-frequent-technology-english-words](https://gitee.com/Wei-Xia/most-frequent-technology-english-words)|程序员工作中常见的英语词汇|4723|5|2022-01-02|
 |8|[missing-semester-cn/missing-semester-cn.github.io](https://gitee.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|3193|5|2021-11-10|
-|9|[IBM/plex](https://gitee.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7311|5|2021-12-07|
+|9|[IBM/plex](https://gitee.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7313|5|2021-12-07|
 |10|[philipwalton/solved-by-flexbox](https://gitee.com/philipwalton/solved-by-flexbox)|A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.|12907|4|2021-11-12|
 |11|[admin360bug/PHP](https://gitee.com/admin360bug/PHP)|PHP训练靶场|577|4|2021-08-04|
-|12|[kmaasrud/awesome-obsidian](https://gitee.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2196|4|2021-11-30|
+|12|[kmaasrud/awesome-obsidian](https://gitee.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2198|4|2021-11-30|
 |13|[DMQ/mvvm](https://gitee.com/DMQ/mvvm)|剖析vue实现原理，自己动手实现mvvm|5039|3|2021-06-08|
 |14|[LiangJunrong/document-library](https://gitee.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3299|3|2022-01-01|
-|15|[v2fly/v2ray-examples](https://gitee.com/v2fly/v2ray-examples)|v2ray-core 的模板们|1175|2|2021-10-10|
-|16|[WebStackPage/WebStackPage.github.io](https://gitee.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|3095|2|2021-12-09|
+|15|[v2fly/v2ray-examples](https://gitee.com/v2fly/v2ray-examples)|v2ray-core 的模板们|1176|2|2021-10-10|
+|16|[WebStackPage/WebStackPage.github.io](https://gitee.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|3100|2|2021-12-09|
 |17|[limbopro/Adblock4limbo](https://gitee.com/limbopro/Adblock4limbo)|毒奶去广告计划（稳定版）For Quantumult X ；如去奈菲影视/低端影视/片库网/Pornhub/Jable/Netflav/HPjav等视频网站广告或其他ACG网站网页广告；|777|2|2022-01-02|
 |18|[nicejade/markdown-online-editor](https://gitee.com/nicejade/markdown-online-editor)|📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。|1668|2|2021-10-05|
 |19|[cool-team-official/cool-admin-vue](https://gitee.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|561|2|2021-12-18|
@@ -29,7 +29,7 @@
 |22|[jbtronics/CrookedStyleSheets](https://gitee.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3269|2|2021-08-23|
 |23|[canxin0523/thesixsectorTeam](https://gitee.com/canxin0523/thesixsectorTeam)|-|950|1|2021-09-21|
 |24|[vanyouseea/o365](https://gitee.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|146|1|2021-12-11|
-|25|[ronggang/transmission-web-control](https://gitee.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|3506|1|2021-12-23|
+|25|[ronggang/transmission-web-control](https://gitee.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|3507|1|2021-12-23|
 |26|[zhuozhiyongde/PKU-Art](https://gitee.com/zhuozhiyongde/PKU-Art)|一个对北大教学网、编程网格等北大相关网站的CSS美化样式|19|1|2021-12-08|
 |27|[smartping/smartping](https://gitee.com/smartping/smartping)|综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能 |1258|1|2021-10-29|
 |28|[LIlGG/halo-theme-sakura](https://gitee.com/LIlGG/halo-theme-sakura)|Halo 版本的樱花🌸主题|332|1|2021-12-25|
@@ -43,10 +43,10 @@
 |36|[w-digital-scanner/w12scan](https://gitee.com/w-digital-scanner/w12scan)|🚀 A simple asset discovery engine for cybersecurity. (网络资产发现引擎)|1055|1|2021-06-01|
 |37|[livelyPeng/pl-drag-template](https://gitee.com/livelyPeng/pl-drag-template)|一个h5可视化编辑器项目|361|1|2021-10-06|
 |38|[Cl0udG0d/SZhe_Scan](https://gitee.com/Cl0udG0d/SZhe_Scan)|碎遮SZhe_Scan Web漏洞扫描器，基于python Flask框架，对输入的域名/IP进行全面的信息搜集，漏洞扫描，可自主添加POC|601|1|2021-08-04|
-|39|[du33169/typora-theme-essay_cn](https://gitee.com/du33169/typora-theme-essay_cn)|a theme for Typora(a markdown editor), designed for chinese essay|360|1|2021-09-08|
+|39|[du33169/typora-theme-essay_cn](https://gitee.com/du33169/typora-theme-essay_cn)|a theme for Typora(a markdown editor), designed for chinese essay|361|1|2021-09-08|
 |40|[Lavender-z/demo](https://gitee.com/Lavender-z/demo)|每天一个有趣的前端案例|187|1|2021-06-07|
 |41|[h5ds/h5ds](https://gitee.com/h5ds/h5ds)|H5DS (HTML5 Design software) 这是一款基于WEB的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀的H5制作、建站工具，示范网站：h5ds.com |1132|1|2021-09-23|
-|42|[ChisBread/transmission_skip_patch](https://gitee.com/ChisBread/transmission_skip_patch)|为transmission v3.0 增加 "快速校验" 功能|108|1|2022-01-01|
+|42|[ChisBread/transmission_skip_patch](https://gitee.com/ChisBread/transmission_skip_patch)|为transmission v3.0 增加 "快速校验" 功能|109|1|2022-01-01|
 |43|[Terminus2049/Terminus2049.github.io](https://gitee.com/Terminus2049/Terminus2049.github.io)|No more 404|1545|1|2021-09-27|
 |44|[theme-nexmoe/hexo-theme-nexmoe](https://gitee.com/theme-nexmoe/hexo-theme-nexmoe)|🔥 一个比较特别的 Hexo 主题|1111|1|2022-01-01|
 |45|[hliu202/typora-purple-theme](https://gitee.com/hliu202/typora-purple-theme)|A purple theme for Typora|276|1|2021-12-31|
@@ -65,7 +65,7 @@
 |58|[zlq4863947/tradingViewWikiCn](https://gitee.com/zlq4863947/tradingViewWikiCn)|tradingView的中文开发文档|566|0|2021-10-27|
 |59|[jhaooli/psychology](https://gitee.com/jhaooli/psychology)|ssm心理学网站|5|0|2021-12-09|
 |60|[Blankwonder/Surge-Manual](https://gitee.com/Blankwonder/Surge-Manual)|-|29|0|2021-11-26|
-|61|[Cathgao/newifi3](https://gitee.com/Cathgao/newifi3)|自用newifi3固件，编译自lean源码|17|0|2022-01-01|
+|61|[Cathgao/newifi3](https://gitee.com/Cathgao/newifi3)|自用newifi3固件，编译自lean源码|18|0|2022-01-01|
 |62|[apache/skywalking-website](https://gitee.com/apache/skywalking-website)|Apache SkyWalking Website|59|0|2022-01-02|
 |63|[wangdoc/loppo-theme-wangdoc](https://gitee.com/wangdoc/loppo-theme-wangdoc)|Wangdoc 文档页面的默认主题|14|0|2021-09-05|
 |64|[lllomh/iPhoneQQ](https://gitee.com/lllomh/iPhoneQQ)|vue 高仿手机QQ|13|0|2021-08-10|

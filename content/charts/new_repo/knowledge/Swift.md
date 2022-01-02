@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[KwaiAppTeam/SwiftPamphletApp](https://gitee.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1096|2022-01-01|2021-11-13|
-|2|[jacklandrin/OnlySwitch](https://gitee.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |596|2021-12-29|2021-11-30|
+|2|[jacklandrin/OnlySwitch](https://gitee.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|597|2022-01-02|2021-11-30|
 |3|[Co2333/myyearwithgit](https://gitee.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|168|2021-12-09|2021-11-29|
 |4|[jaywcjlove/swiftui-example](https://gitee.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|48|2021-12-05|2021-03-15|
 |5|[MengLiMing/EasyKits](https://gitee.com/MengLiMing/EasyKits)|日常开发使用到的一些简单封装，目前包含：常用扩展，分类导航，类似简书的UIScrollView嵌套、复杂列表等|37|2021-12-21|2021-02-03|

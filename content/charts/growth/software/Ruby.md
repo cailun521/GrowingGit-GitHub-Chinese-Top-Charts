@@ -5,21 +5,21 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[gitlabhq/gitlabhq](https://gitee.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22801|6|2022-01-01|
+|1|[gitlabhq/gitlabhq](https://gitee.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22802|6|2022-01-01|
 |2|[lewagon/setup](https://gitee.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11514|4|2021-11-10|
 |3|[MBoxPlus/mbox](https://gitee.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|638|3|2021-12-28|
 |4|[ankane/searchkick](https://gitee.com/ankane/searchkick)|Intelligent search made easy|5765|2|2021-12-27|
 |5|[darkbitio/aws-recon](https://gitee.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|389|1|2021-12-02|
 |6|[ruby-china/homeland](https://gitee.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3516|1|2021-12-31|
-|7|[peatio/peatio](https://gitee.com/peatio/peatio)|An open-source assets exchange.|3506|1|2021-12-08|
+|7|[peatio/peatio](https://gitee.com/peatio/peatio)|An open-source assets exchange.|3507|1|2021-12-08|
 |8|[nomad/shenzhen](https://gitee.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4668|1|2021-06-20|
 |9|[sketchplugins/plugin-directory](https://gitee.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3411|1|2022-01-02|
-|10|[w181496/Web-CTF-Cheatsheet](https://gitee.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1737|1|2021-12-29|
+|10|[w181496/Web-CTF-Cheatsheet](https://gitee.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1737|1|2022-01-02|
 |11|[bridgetownrb/bridgetown](https://gitee.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|516|1|2021-12-25|
 |12|[rpush/rpush](https://gitee.com/rpush/rpush)|The push notification service for Ruby.|1889|1|2021-12-27|
 |13|[pluosi/app-host](https://gitee.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1801|1|2021-11-04|
 |14|[rikas/zoho_hub](https://gitee.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|20|0|2021-09-01|
-|15|[tryzealot/zealot](https://gitee.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|459|0|2021-12-30|
+|15|[tryzealot/zealot](https://gitee.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|460|0|2021-12-30|
 |16|[courtenay/splam](https://gitee.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|0|2021-10-25|
 |17|[kenn/active_flag](https://gitee.com/kenn/active_flag)|Bit array for ActiveRecord|94|0|2021-10-28|
 |18|[aozorahack/aozorabunko_text](https://gitee.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2022-01-02|

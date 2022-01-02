@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[jlord/git-it-electron](https://gitee.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3933|2021-12-19|
+|1|[jlord/git-it-electron](https://gitee.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3935|2021-12-19|
 |2|[StefanSchroeder/Golang-Regex-Tutorial](https://gitee.com/StefanSchroeder/Golang-Regex-Tutorial)|Golang - Regular Expression Tutorial|1061|2021-10-15|
 |3|[bollwarm/SecToolSet](https://gitee.com/bollwarm/SecToolSet)|The security tool(project) Set from github。github安全项目工具集合 |1005|2021-11-04|
 |4|[jim-kirisame/jpgramma-cn-pdf-converter](https://gitee.com/jim-kirisame/jpgramma-cn-pdf-converter)|一个将日语语法指南网页版转成pdf的小工具|33|2021-10-10|

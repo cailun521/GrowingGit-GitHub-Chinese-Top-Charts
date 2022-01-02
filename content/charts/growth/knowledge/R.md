@@ -15,7 +15,7 @@
 |8|[Hayeke/RAssignment](https://gitee.com/Hayeke/RAssignment)|超市销售数据分析练习（R课程）|7|0|2021-10-10|
 |9|[pzhaonet/bookdownplus](https://gitee.com/pzhaonet/bookdownplus)|The easiest way to use R package bookdown for  writing varied types of books and documents |227|0|2021-12-31|
 |10|[cosname/rmarkdown-guide](https://gitee.com/cosname/rmarkdown-guide)|R Markdown 指南（一本八字还没一撇的中文书）|40|0|2021-12-08|
-|11|[yufree/sciguide](https://gitee.com/yufree/sciguide)|现代科研指北|55|0|2021-12-22|
+|11|[yufree/sciguide](https://gitee.com/yufree/sciguide)|现代科研指北|56|0|2021-12-22|
 |12|[thomasWeise/bookbuildeR](https://gitee.com/thomasWeise/bookbuildeR)|An R Package for Building Books or Documents using pandoc|7|0|2021-08-31|
 |13|[lexcomber/SpatInt](https://gitee.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|0|2021-12-13|
 |14|[stablemarkets/ChiRP](https://gitee.com/stablemarkets/ChiRP)|Chinese Restaurant Process Models for Regression and Clustering. Master branch contains latest stable build.|9|0|2021-07-22|

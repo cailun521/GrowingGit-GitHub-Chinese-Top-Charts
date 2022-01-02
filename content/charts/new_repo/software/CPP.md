@@ -6,34 +6,34 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[oceanbase/oceanbase](https://gitee.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4028|2021-12-31|2021-05-31|
-|2|[kdrag0n/safetynet-fix](https://gitee.com/kdrag0n/safetynet-fix)|Universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.|1858|2021-12-24|2021-01-13|
+|2|[kdrag0n/safetynet-fix](https://gitee.com/kdrag0n/safetynet-fix)|Universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.|1860|2021-12-24|2021-01-13|
 |3|[Tencent/flare](https://gitee.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |830|2021-12-24|2021-05-26|
-|4|[tuplex/tuplex](https://gitee.com/tuplex/tuplex)|Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather  ...|744|2021-12-30|2021-06-30|
+|4|[tuplex/tuplex](https://gitee.com/tuplex/tuplex)|Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather  ...|744|2022-01-02|2021-06-30|
 |5|[openppl-public/ppl.nn](https://gitee.com/openppl-public/ppl.nn)|A primitive library for neural network|626|2022-01-01|2021-06-30|
-|6|[Chaoses-Ib/IbEverythingExt](https://gitee.com/Chaoses-Ib/IbEverythingExt)|Everything 拼音搜索、快速选择扩展|614|2021-12-17|2021-09-18|
+|6|[Chaoses-Ib/IbEverythingExt](https://gitee.com/Chaoses-Ib/IbEverythingExt)|Everything 拼音搜索、快速选择扩展|615|2021-12-17|2021-09-18|
 |7|[shouxieai/tensorRT_Pro](https://gitee.com/shouxieai/tensorRT_Pro)|C++ library based on tensorrt integration|551|2021-12-15|2021-07-26|
-|8|[anhkgg/SuperRDP](https://gitee.com/anhkgg/SuperRDP)|Super RDPWrap|487|2021-12-21|2021-01-10|
+|8|[anhkgg/SuperRDP](https://gitee.com/anhkgg/SuperRDP)|Super RDPWrap|489|2021-12-21|2021-01-10|
 |9|[Tencent/Forward](https://gitee.com/Tencent/Forward)|A library for high performance deep learning inference on NVIDIA GPUs. |481|2021-11-30|2021-03-11|
-|10|[open-mmlab/mmdeploy](https://gitee.com/open-mmlab/mmdeploy)|OpenMMLab Model Deployment Framework|468|2021-12-31|2021-12-24|
+|10|[open-mmlab/mmdeploy](https://gitee.com/open-mmlab/mmdeploy)|OpenMMLab Model Deployment Framework|471|2021-12-31|2021-12-24|
 |11|[HackerDev-Felix/WechatDecrypt](https://gitee.com/HackerDev-Felix/WechatDecrypt)|微信消息解密工具|402|2021-07-12|2021-07-12|
 |12|[Tencent/Taitank](https://gitee.com/Tencent/Taitank)|Taitank is a cross platform lightweight flex layout engine implemented in C++.|385|2021-07-21|2021-04-12|
 |13|[zenustech/zeno](https://gitee.com/zenustech/zeno)|ZEn NOde system|354|2021-12-31|2021-03-27|
 |14|[0x727/SqlKnife_0x727](https://gitee.com/0x727/SqlKnife_0x727)|适合在命令行中使用的轻巧的SQL Server数据库安全检测工具|327|2021-10-23|2021-08-02|
 |15|[vczh/GacUIBlog](https://gitee.com/vczh/GacUIBlog)|记录 GacUI 开发10年来背后的故事，以及对架构设计的考量。|318|2021-12-20|2021-05-26|
 |16|[peng-zhihui/Ctrl-FOC-Lite](https://gitee.com/peng-zhihui/Ctrl-FOC-Lite)|-|316|2021-08-07|2021-08-07|
-|17|[MistEO/MeoAssistantArknights](https://gitee.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|311|2022-01-01|2021-07-09|
+|17|[MistEO/MeoAssistantArknights](https://gitee.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|313|2022-01-02|2021-07-09|
 |18|[wdhao/tensorrtCV](https://gitee.com/wdhao/tensorrtCV)|-|307|2021-08-11|2021-05-29|
 |19|[ToanTech/Deng-s-foc-controller](https://gitee.com/ToanTech/Deng-s-foc-controller)|灯哥开源 FOC 双路迷你无刷电机驱动|300|2021-12-31|2021-02-14|
 |20|[Tencent/ScriptX](https://gitee.com/Tencent/ScriptX)|A versatile script engine abstraction layer.|296|2021-12-19|2021-03-19|
 |21|[flomesh-io/pipy](https://gitee.com/flomesh-io/pipy)|Pipy is a tiny, high performance, highly stable, programmable proxy.|293|2021-12-31|2021-02-11|
 |22|[Tencent/deepx_core](https://gitee.com/Tencent/deepx_core)|deepx_core是一个专注于张量计算/深度学习的基础库|289|2021-07-06|2021-03-24|
-|23|[Soreepeong/XivAlexander](https://gitee.com/Soreepeong/XivAlexander)|Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.|281|2022-01-01|2021-02-08|
+|23|[Soreepeong/XivAlexander](https://gitee.com/Soreepeong/XivAlexander)|Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.|284|2022-01-02|2021-02-08|
 |24|[ZhuYanzhen1/miniFOC](https://gitee.com/ZhuYanzhen1/miniFOC)|你还在为有刷电机的高噪声、低响应速度和低寿命而烦恼吗？这个项目是一个20块钱就能搞定的FOC无刷电机控制方案！This project is a FOC (Field Oriented Control) BLDC Motor control scheme that can be done for 3$!|272|2021-11-08|2021-08-13|
-|25|[RapidAI/RapidOCR](https://gitee.com/RapidAI/RapidOCR)|A cross platform OCR Library based on PaddleOCR & OnnxRuntime|265|2021-12-24|2021-01-04|
+|25|[RapidAI/RapidOCR](https://gitee.com/RapidAI/RapidOCR)|A cross platform OCR Library based on PaddleOCR & OnnxRuntime|266|2021-12-24|2021-01-04|
 |26|[mhogomchungu/media-downloader](https://gitee.com/mhogomchungu/media-downloader)|Media Downloader is a Qt/C++ front end to youtube-dl|251|2022-01-01|2021-01-18|
-|27|[MiRoboticsLab/cyberdog_ros2](https://gitee.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|226|2021-12-30|2021-09-15|
+|27|[MiRoboticsLab/cyberdog_ros2](https://gitee.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|227|2021-12-30|2021-09-15|
 |28|[ToKiNoBug/SlopeCraft](https://gitee.com/ToKiNoBug/SlopeCraft)|Get your map pixel art in minecraft|219|2022-01-01|2021-04-25|
-|29|[wfrest/wfrest](https://gitee.com/wfrest/wfrest)|C++ Web Framework REST API|211|2022-01-01|2021-10-27|
+|29|[wfrest/wfrest](https://gitee.com/wfrest/wfrest)|C++ Web Framework REST API|213|2022-01-02|2021-10-27|
 |30|[bifang-fyh/bifang](https://gitee.com/bifang-fyh/bifang)|bifang - 一个基于协程的服务器框架|210|2021-06-01|2021-03-09|
 |31|[0x727/ShuiYing_0x727](https://gitee.com/0x727/ShuiYing_0x727)|检测域环境内，域机器的本地管理组成员是否存在弱口令和通用口令，对域用户的权限分配以及域内委派查询|206|2021-08-10|2021-08-10|
 |32|[Tencent/yadcc](https://gitee.com/Tencent/yadcc)|Yet Another Distributed C++ Compiler. yadcc是一套腾讯广告自研的分布式编译系统，用于支撑腾讯广告的日常开发及流水线。相对于已有的同类解决方案，我们针对实际的工业生产环境做了性能、可靠性、易用性等方面优化。|204|2021-12-26|2021-05-28|
@@ -48,13 +48,13 @@
 |41|[taptap/perf-doctor](https://gitee.com/taptap/perf-doctor)|性能医生，手机应用性能测试工具|136|2021-12-28|2021-09-24|
 |42|[0x727/CloneX_0x727](https://gitee.com/0x727/CloneX_0x727)|进行克隆用户、添加用户等账户防护安全检测的轻巧工具|129|2021-09-03|2021-08-16|
 |43|[kaniol-lck/modmanager](https://gitee.com/kaniol-lck/modmanager)|A Qt-based mod manager for minecraft.|128|2022-01-02|2021-08-12|
-|44|[yongplus/tinypng](https://gitee.com/yongplus/tinypng)|基于TinyPNG图片压缩软件，操作简单高效，支持MacOS和Windows系统，无需其它依赖运行。|127|2022-01-02|2021-07-01|
-|45|[abcz316/linuxKernelRoot](https://gitee.com/abcz316/linuxKernelRoot)|新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。|120|2021-12-04|2021-09-03|
+|44|[yongplus/tinypng](https://gitee.com/yongplus/tinypng)|基于TinyPNG图片压缩软件，操作简单高效，支持MacOS和Windows系统，无需其它依赖运行。|128|2022-01-02|2021-07-01|
+|45|[abcz316/linuxKernelRoot](https://gitee.com/abcz316/linuxKernelRoot)|新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。|121|2021-12-04|2021-09-03|
 |46|[soarqin/D2RMH](https://gitee.com/soarqin/D2RMH)|Diablo II Resurrected map revealing tool.|117|2021-12-30|2021-10-21|
 |47|[caochao39/tare_planner](https://gitee.com/caochao39/tare_planner)|TARE Exploration Planner for Ground Vehicles|117|2021-09-25|2021-05-08|
 |48|[HuyaInc/Hercules](https://gitee.com/HuyaInc/Hercules)|Hercules 是以json+lua的灵活方式控制视频混画混流mcu，简单灵活完成业务需求。|116|2021-06-21|2021-03-02|
 |49|[hova88/PointPillars_MultiHead_40FPS](https://gitee.com/hova88/PointPillars_MultiHead_40FPS)|A REAL-TIME 3D detection network [Pointpillars] compiled by CUDA/TensorRT/C++. |115|2021-12-13|2021-04-29|
-|50|[EdVince/ClothingTransfer-NCNN](https://gitee.com/EdVince/ClothingTransfer-NCNN)|CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡|113|2022-01-01|2021-12-15|
+|50|[EdVince/ClothingTransfer-NCNN](https://gitee.com/EdVince/ClothingTransfer-NCNN)|CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡|114|2022-01-01|2021-12-15|
 |51|[openvinotoolkit/openvino_tensorflow](https://gitee.com/openvinotoolkit/openvino_tensorflow)|OpenVINO™ integration with TensorFlow|108|2021-12-28|2021-01-21|
 |52|[EdVince/PSGAN-NCNN](https://gitee.com/EdVince/PSGAN-NCNN)|PSGAN running with ncnn⚡妆容迁移/仿妆⚡Imitation Makeup/Makeup Transfer⚡|105|2021-10-30|2021-10-23|
 |53|[simdutf/simdutf](https://gitee.com/simdutf/simdutf)|Unicode routines (UTF8, UTF16): billions of characters per second.|103|2021-12-31|2021-02-04|
@@ -72,8 +72,8 @@
 |65|[netcan/config-loader](https://gitee.com/netcan/config-loader)|Simple C++ Config Loader Framework(Serialization & Reflection)|78|2022-01-02|2021-06-21|
 |66|[ApsaraDB/PolarDB-FileSystem](https://gitee.com/ApsaraDB/PolarDB-FileSystem)|-|76|2021-11-10|2021-10-12|
 |67|[zm0612/eskf-gps-imu-fusion](https://gitee.com/zm0612/eskf-gps-imu-fusion)|使用误差状态卡尔曼滤波器融合GPS和IMU，实现更高精度的定位|76|2021-11-03|2021-03-04|
-|68|[kekeimiku/kbz](https://gitee.com/kekeimiku/kbz)|读取王者荣耀对局内敌方位置，技能cd以及血量的小程序|74|2021-07-12|2021-07-09|
-|69|[hpc203/yolox-opencv-dnn](https://gitee.com/hpc203/yolox-opencv-dnn)|使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序|73|2021-10-21|2021-08-08|
+|68|[hpc203/yolox-opencv-dnn](https://gitee.com/hpc203/yolox-opencv-dnn)|使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序|74|2021-10-21|2021-08-08|
+|69|[kekeimiku/kbz](https://gitee.com/kekeimiku/kbz)|读取王者荣耀对局内敌方位置，技能cd以及血量的小程序|74|2021-07-12|2021-07-09|
 |70|[huoji120/MakeInfinityHookGreatAgain](https://gitee.com/huoji120/MakeInfinityHookGreatAgain)|让Etwhook再次伟大! Make InfinityHook Great Again!|72|2021-06-24|2021-06-23|
 |71|[kingsoft-wps/KSAI-Lite](https://gitee.com/kingsoft-wps/KSAI-Lite)|KSAI Lite is a deep learning inference framework of kingsoft, based on tensorflow lite|72|2021-07-02|2021-05-18|
 |72|[oceanbase/obproxy](https://gitee.com/oceanbase/obproxy)|A proxy server for OceanBase Database.|70|2021-12-30|2021-05-31|

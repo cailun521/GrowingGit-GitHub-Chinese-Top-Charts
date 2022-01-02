@@ -5,9 +5,9 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://gitee.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17603|2022-01-02|
+|1|[SpaceVim/SpaceVim](https://gitee.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17606|2022-01-02|
 |2|[mhinz/vim-galore](https://gitee.com/mhinz/vim-galore)|:mortar_board: All things Vim!|12668|2021-11-17|
-|3|[vimwiki/vimwiki](https://gitee.com/vimwiki/vimwiki)|Personal Wiki for Vim|7004|2021-12-19|
+|3|[vimwiki/vimwiki](https://gitee.com/vimwiki/vimwiki)|Personal Wiki for Vim|7005|2021-12-19|
 |4|[mattn/emmet-vim](https://gitee.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5807|2021-12-04|
 |5|[wklken/k-vim](https://gitee.com/wklken/k-vim)|vim配置|4840|2021-08-16|
 |6|[luochen1990/rainbow](https://gitee.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1504|2021-12-27|
@@ -24,7 +24,7 @@
 |17|[youngyangyang04/PowerVim](https://gitee.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|260|2021-10-26|
 |18|[lilydjwg/dotvim](https://gitee.com/lilydjwg/dotvim)|My vim config|260|2022-01-01|
 |19|[TTWShell/legolas-vim](https://gitee.com/TTWShell/legolas-vim)|Vim配置，为python、go开发者打造的IDE。|240|2021-08-18|
-|20|[derekhe/msfs2020-google-map](https://gitee.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|234|2021-12-26|
+|20|[derekhe/msfs2020-google-map](https://gitee.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|237|2021-12-26|
 |21|[lilydjwg/fcitx.vim](https://gitee.com/lilydjwg/fcitx.vim)|keep and restore fcitx state when leaving/re-entering insert mode|175|2021-10-26|
 |22|[broqiang/vim-go-ide](https://gitee.com/broqiang/vim-go-ide)|Vim as the IDE for the go language 将 vim 打造成 go 语言的 ide|167|2021-07-11|
 |23|[axiaoxin/my-vimrc](https://gitee.com/axiaoxin/my-vimrc)|VIM configuration file: used to write Golang, Python, Markdown, etc. with VIM on macOS|144|2021-07-16|
@@ -43,7 +43,7 @@
 |36|[HonkW93/automatic-verilog](https://gitee.com/HonkW93/automatic-verilog)|automatic-verilog-vimscript|45|2021-12-28|
 |37|[iokfine/bee-dashboard](https://gitee.com/iokfine/bee-dashboard)|管理多个bee节点 提现工具|44|2021-12-26|
 |38|[chloneda/vim-cheatsheet](https://gitee.com/chloneda/vim-cheatsheet)|🍁Vim 命令速查表，包含一切你需要知道的东西！|41|2022-01-01|
-|39|[mrbeardad/SpaceVim](https://gitee.com/mrbeardad/SpaceVim)|基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）|38|2021-09-26|
+|39|[mrbeardad/SpaceVim](https://gitee.com/mrbeardad/SpaceVim)|基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）|39|2021-09-26|
 |40|[skywind3000/vim-dict](https://gitee.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|36|2021-08-28|
 |41|[jayli/vim](https://gitee.com/jayli/vim)|我的vim配置文件|31|2021-11-11|
 |42|[apemost/vimrc](https://gitee.com/apemost/vimrc)|A simple but powerful vim configuration|29|2021-12-09|

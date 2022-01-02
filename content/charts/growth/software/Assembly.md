@@ -5,9 +5,9 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://gitee.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52248|18|2021-12-10|
+|1|[chrislgarry/Apollo-11](https://gitee.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52252|18|2021-12-10|
 |2|[leachim6/hello-world](https://gitee.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7665|2|2022-01-02|
-|3|[Panda381/ATX80](https://gitee.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|17|1|2021-12-15|
+|3|[Panda381/ATX80](https://gitee.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|18|1|2021-12-15|
 |4|[BUAADreamer/BUAA-CO-2020](https://gitee.com/BUAADreamer/BUAA-CO-2020)|2020年北航计组课设代码 This is the BUAA Computer Orgnization code project files.|6|0|2021-11-27|
 |5|[NEUzht/computer_system](https://gitee.com/NEUzht/computer_system)|孙仲武带带我|3|0|2021-12-20|
 |6|[HelloWorld-Ian/8086_asm_experiment](https://gitee.com/HelloWorld-Ian/8086_asm_experiment)|中南大学智能科学与技术计组汇编实验，需要的自取|2|0|2021-07-10|

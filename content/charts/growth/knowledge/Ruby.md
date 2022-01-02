@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[freeCodeCamp/how-to-contribute-to-open-source](https://gitee.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5982|3|2021-12-22|
+|1|[freeCodeCamp/how-to-contribute-to-open-source](https://gitee.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5980|3|2021-12-22|
 |2|[r0eXpeR/fingerprint](https://gitee.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|196|3|2021-11-03|
 |3|[guipdutra/awesome-geek-podcasts](https://gitee.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1604|1|2021-07-15|
 |4|[airbnb/ruby](https://gitee.com/airbnb/ruby)|Ruby Style Guide|3368|1|2021-12-28|
