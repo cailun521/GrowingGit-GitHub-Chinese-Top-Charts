@@ -1,28 +1,28 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Ruby
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[gitlabhq/gitlabhq](https://gitee.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22802|6|2022-01-01|
-|2|[lewagon/setup](https://gitee.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11514|4|2021-11-10|
+|1|[gitlabhq/gitlabhq](https://gitee.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22804|6|2022-01-03|
+|2|[lewagon/setup](https://gitee.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11515|4|2022-01-03|
 |3|[MBoxPlus/mbox](https://gitee.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|638|3|2021-12-28|
-|4|[ankane/searchkick](https://gitee.com/ankane/searchkick)|Intelligent search made easy|5765|2|2021-12-27|
+|4|[ankane/searchkick](https://gitee.com/ankane/searchkick)|Intelligent search made easy|5767|2|2021-12-27|
 |5|[darkbitio/aws-recon](https://gitee.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|389|1|2021-12-02|
 |6|[ruby-china/homeland](https://gitee.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3516|1|2021-12-31|
-|7|[peatio/peatio](https://gitee.com/peatio/peatio)|An open-source assets exchange.|3507|1|2021-12-08|
+|7|[peatio/peatio](https://gitee.com/peatio/peatio)|An open-source assets exchange.|3508|1|2021-12-08|
 |8|[nomad/shenzhen](https://gitee.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4668|1|2021-06-20|
 |9|[sketchplugins/plugin-directory](https://gitee.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3411|1|2022-01-02|
 |10|[w181496/Web-CTF-Cheatsheet](https://gitee.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1737|1|2022-01-02|
-|11|[bridgetownrb/bridgetown](https://gitee.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|516|1|2021-12-25|
-|12|[rpush/rpush](https://gitee.com/rpush/rpush)|The push notification service for Ruby.|1889|1|2021-12-27|
+|11|[bridgetownrb/bridgetown](https://gitee.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|517|1|2021-12-25|
+|12|[rpush/rpush](https://gitee.com/rpush/rpush)|The push notification service for Ruby.|1889|1|2022-01-03|
 |13|[pluosi/app-host](https://gitee.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1801|1|2021-11-04|
 |14|[rikas/zoho_hub](https://gitee.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|20|0|2021-09-01|
-|15|[tryzealot/zealot](https://gitee.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|460|0|2021-12-30|
+|15|[tryzealot/zealot](https://gitee.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|461|0|2021-12-30|
 |16|[courtenay/splam](https://gitee.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|0|2021-10-25|
 |17|[kenn/active_flag](https://gitee.com/kenn/active_flag)|Bit array for ActiveRecord|94|0|2021-10-28|
-|18|[aozorahack/aozorabunko_text](https://gitee.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2022-01-02|
+|18|[aozorahack/aozorabunko_text](https://gitee.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2022-01-03|
 |19|[OneEyedEagle/EAGLE-RGSS3](https://gitee.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|0|2021-12-29|
 |20|[ruilisi/rails-pangu](https://gitee.com/ruilisi/rails-pangu)|Rails starter kit that every startup needs|191|0|2021-10-12|
 |21|[ECPay/ECPayAIO_RoR](https://gitee.com/ECPay/ECPayAIO_RoR)|綠界科技ECPay 全方位(All In One)金流介接 Ruby版|8|0|2021-08-19|
@@ -39,7 +39,7 @@
 |32|[jasonknight/salor-retail](https://gitee.com/jasonknight/salor-retail)|Rails Based Point of Sale and Store Management Software|77|0|2021-09-27|
 |33|[sirupsen/airrecord](https://gitee.com/sirupsen/airrecord)|Ruby wrapper for Airtable, your personal database|217|0|2021-08-10|
 |34|[chenxGen/cocoapods-project-hmap](https://gitee.com/chenxGen/cocoapods-project-hmap)|A cocoapods plugin to improve the compilation speed of the preprocessing stage.|64|0|2021-09-23|
-|35|[samvera/hyrax](https://gitee.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|146|0|2021-12-31|
+|35|[samvera/hyrax](https://gitee.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|146|0|2022-01-03|
 |36|[twitter/twitter-cldr-rb](https://gitee.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|634|0|2021-12-29|
 |37|[FunnyWolf/vipermsf](https://gitee.com/FunnyWolf/vipermsf)|viper 自定义的msf|49|0|2021-12-29|
 |38|[encoreshao/china_regions](https://gitee.com/encoreshao/china_regions)|Ruby Library for China Regions|23|0|2021-12-02|
@@ -63,7 +63,7 @@
 |56|[JunichiIto/be_vimmer](https://gitee.com/JunichiIto/be_vimmer)|A bot that tweets Vim tips |20|0|2021-10-12|
 |57|[0x727/MetasploitModules_0x727](https://gitee.com/0x727/MetasploitModules_0x727)|Metasploit Modules Development|66|0|2021-08-06|
 |58|[npezza93/redi_search](https://gitee.com/npezza93/redi_search)|Ruby wrapper around RediSearch that can integrate with Rails|25|0|2021-09-15|
-|59|[ksz2k/letter_avatar](https://gitee.com/ksz2k/letter_avatar)|Ruby gem for creating letter avatar from user's name (or any other string :-) ).|255|0|2021-09-06|
+|59|[ksz2k/letter_avatar](https://gitee.com/ksz2k/letter_avatar)|Ruby gem for creating letter avatar from user's name (or any other string :-) ).|256|0|2021-09-06|
 |60|[aozorahack/aozora2html](https://gitee.com/aozorahack/aozora2html)|-|14|0|2021-12-31|
 |61|[didww/credit_card_validations](https://gitee.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|189|0|2022-01-02|
 |62|[ankane/blingfire-ruby](https://gitee.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|44|0|2021-12-13|
@@ -86,14 +86,14 @@
 |79|[bytedance/Bytedance-UnionAD](https://gitee.com/bytedance/Bytedance-UnionAD)|-|130|0|2021-12-24|
 |80|[chengdh/manage-huo-baby](https://gitee.com/chengdh/manage-huo-baby)|管货宝-功能齐备的零担(专线)物流业务平台|50|0|2021-06-10|
 |81|[wu-kan/wu-kan.github.io](https://gitee.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|190|0|2022-01-02|
-|82|[work-design/work.design](https://gitee.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|13|0|2021-12-23|
+|82|[work-design/work.design](https://gitee.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|14|0|2021-12-23|
 |83|[jpmobile/jpmobile](https://gitee.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|317|0|2021-12-17|
 |84|[Z-H-Sun/tswKai](https://gitee.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|8|0|2021-11-04|
 |85|[bingohuang/progit2-gitbook](https://gitee.com/bingohuang/progit2-gitbook)|Pro Gi­t 第二版 ­简体中文|293|0|2021-09-06|
 |86|[inukshuk/anystyle](https://gitee.com/inukshuk/anystyle)|Fast and smart citation reference parsing|560|0|2021-11-28|
 |87|[coreyhaines/happinessbot](https://gitee.com/coreyhaines/happinessbot)|Spreading joy and love|62|0|2021-07-12|
 |88|[saberma/shopqi](https://gitee.com/saberma/shopqi)|An open source clone of Shopify.|811|0|2021-09-27|
-|89|[work-design/rails_com](https://gitee.com/work-design/rails_com)|Rails Common Engine|18|0|2021-12-30|
+|89|[work-design/rails_com](https://gitee.com/work-design/rails_com)|Rails Common Engine|18|0|2022-01-03|
 |90|[jfqd/redmine_helpdesk](https://gitee.com/jfqd/redmine_helpdesk)|Lightweight helpdesk plugin for redmine.|168|0|2021-12-23|
 |91|[VICTOR-LUO-F/aliyun-sms](https://gitee.com/VICTOR-LUO-F/aliyun-sms)|a Ruby Gem for using aliyun sms service. 一个应用阿里云短信推送服务的Ruby Gem。|66|0|2021-07-10|
 |92|[qiniu/ruby-sdk](https://gitee.com/qiniu/ruby-sdk)|Qiniu Resource (Cloud) Storage SDK for Ruby|161|0|2021-09-23|
