@@ -1,11 +1,11 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > TeX
-<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sjtug/SJTUBeamer](https://gitee.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|199|2021-12-31|2021-04-18|
+|1|[sjtug/SJTUBeamer](https://gitee.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|200|2021-12-31|2021-04-18|
 |2|[jamesfang8499/physics1](https://gitee.com/jamesfang8499/physics1)|-|76|2021-12-17|2021-07-15|
 |3|[Didnelpsun/Math](https://gitee.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|76|2021-12-11|2021-01-08|
 |4|[LogCreative/SJTUBeamermin](https://gitee.com/LogCreative/SJTUBeamermin)|上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集|57|2021-11-05|2021-03-15|
@@ -26,10 +26,10 @@
 |19|[syvshc/HITBeamer](https://gitee.com/syvshc/HITBeamer)|基于 THU-Beamer-Theme (https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:|9|2021-11-17|2021-05-17|
 |20|[wenddymacro/AppliedEconometrics](https://gitee.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|8|2021-10-28|2021-08-29|
 |21|[Jinwen-XU/minimalist](https://gitee.com/Jinwen-XU/minimalist)|-|8|2021-12-16|2021-03-10|
-|22|[zhliuworks/SJTU-Report-mini](https://gitee.com/zhliuworks/SJTU-Report-mini)|:memo:  SJTU 中文简约 LaTeX 报告模板|7|2021-06-07|2021-06-07|
-|23|[Jinwen-XU/colorist](https://gitee.com/Jinwen-XU/colorist)|-|7|2021-12-17|2021-03-10|
-|24|[syvshc/tlmgr-intro-zh-cn](https://gitee.com/syvshc/tlmgr-intro-zh-cn)|关于 tlmgr 使用的简短的介绍. :heart:|7|2021-09-05|2021-03-06|
-|25|[axi-0925/Latex-](https://gitee.com/axi-0925/Latex-)|Latex中文简历，overleaf直接copy进行编辑|6|2021-06-19|2021-06-19|
+|22|[axi-0925/Latex-](https://gitee.com/axi-0925/Latex-)|Latex中文简历，overleaf直接copy进行编辑|7|2021-06-19|2021-06-19|
+|23|[zhliuworks/SJTU-Report-mini](https://gitee.com/zhliuworks/SJTU-Report-mini)|:memo:  SJTU 中文简约 LaTeX 报告模板|7|2021-06-07|2021-06-07|
+|24|[Jinwen-XU/colorist](https://gitee.com/Jinwen-XU/colorist)|-|7|2021-12-17|2021-03-10|
+|25|[syvshc/tlmgr-intro-zh-cn](https://gitee.com/syvshc/tlmgr-intro-zh-cn)|关于 tlmgr 使用的简短的介绍. :heart:|7|2021-09-05|2021-03-06|
 |26|[yzhangcs/master-thesis](https://gitee.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|6|2021-12-26|2021-02-01|
 |27|[nju-lug/NJUVisual](https://gitee.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|5|2021-12-25|2021-11-21|
 |28|[guoclay/interesting-project](https://gitee.com/guoclay/interesting-project)|一些有趣的项目|5|2021-09-30|2021-09-28|
