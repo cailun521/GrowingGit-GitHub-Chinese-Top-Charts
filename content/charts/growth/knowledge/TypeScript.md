@@ -6,17 +6,17 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[Kaiyiwing/qwerty-learner](https://gitee.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3600|10|2021-12-16|
-|2|[chowa/ejyy](https://gitee.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|519|9|2021-12-30|
-|3|[basarat/typescript-book](https://gitee.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16340|7|2021-10-12|
-|4|[antonioru/beautiful-react-hooks](https://gitee.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5253|7|2022-01-03|
-|5|[cuixiaorui/mini-vue](https://gitee.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|3991|7|2022-01-04|
-|6|[any86/any-rule](https://gitee.com/any86/any-rule)|🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台|5767|6|2021-12-21|
+|2|[chowa/ejyy](https://gitee.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|520|9|2021-12-30|
+|3|[basarat/typescript-book](https://gitee.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16342|7|2021-10-12|
+|4|[antonioru/beautiful-react-hooks](https://gitee.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5254|7|2022-01-03|
+|5|[cuixiaorui/mini-vue](https://gitee.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|3992|7|2022-01-04|
+|6|[any86/any-rule](https://gitee.com/any86/any-rule)|🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台|5769|6|2021-12-21|
 |7|[doodlewind/jshistory-cn](https://gitee.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3700|6|2021-11-25|
-|8|[xcatliu/typescript-tutorial](https://gitee.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8443|4|2021-12-09|
-|9|[jkchao/typescript-book-chinese](https://gitee.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5065|4|2021-11-11|
+|8|[xcatliu/typescript-tutorial](https://gitee.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8444|4|2021-12-09|
+|9|[jkchao/typescript-book-chinese](https://gitee.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5067|4|2021-11-11|
 |10|[crimx/ext-saladict](https://gitee.com/crimx/ext-saladict)|🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.|8482|4|2021-12-26|
 |11|[phodal/ledge](https://gitee.com/phodal/ledge)|Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。|1772|3|2021-10-26|
-|12|[alibaba/pipcook](https://gitee.com/alibaba/pipcook)|Machine learning platform for Web developers|2197|3|2022-01-04|
+|12|[alibaba/pipcook](https://gitee.com/alibaba/pipcook)|Machine learning platform for Web developers|2197|3|2022-01-05|
 |13|[sorrycc/weekly](https://gitee.com/sorrycc/weekly)|前端周刊，每周一发布。|776|3|2022-01-03|
 |14|[tal-tech/electron-playground](https://gitee.com/tal-tech/electron-playground)|This is a project to quickly experiment and learn electron related APIs|1187|3|2021-07-13|
 |15|[btroncone/learn-rxjs](https://gitee.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3478|2|2021-10-22|
@@ -30,11 +30,11 @@
 |23|[hylerrix/deno-tutorial](https://gitee.com/hylerrix/deno-tutorial)|:sauropod: 长期更新的《Deno 钻研之术》！循序渐进学 Deno & 先易后难补 Node & 面向未来的 Deno Web 应用开发|714|1|2021-07-22|
 |24|[tiddly-gittly/TidGi-Desktop](https://gitee.com/tiddly-gittly/TidGi-Desktop)|TidGi is an auto-git-backup, privatcy-in-mind, freely-deployed Tiddlywiki knowledgement Desktop app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能自动用Git备份、保护隐私内容、部署为博客，且可通过RESTAPI与Anki等 ...|372|1|2022-01-03|
 |25|[zenghongtu/react-use-chinese](https://gitee.com/zenghongtu/react-use-chinese)|中文文档@react-use|826|1|2021-12-06|
-|26|[loomnetwork/cryptozombie-lessons](https://gitee.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|796|1|2022-01-02|
+|26|[loomnetwork/cryptozombie-lessons](https://gitee.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|798|1|2022-01-02|
 |27|[RxJS-CN/learn-rxjs-operators](https://gitee.com/RxJS-CN/learn-rxjs-operators)|Learn RxJS 中文版 (通过清晰的示例来学习 RxJS 5 操作符)|854|1|2021-07-08|
-|28|[alibaba/kiwi](https://gitee.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|1923|1|2021-12-17|
-|29|[loiane/javascript-datastructures-algorithms](https://gitee.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3246|1|2021-10-01|
-|30|[EhTagTranslation/EhSyringe](https://gitee.com/EhTagTranslation/EhSyringe)|E 站注射器，将中文翻译注入到 E 站体内|1258|1|2022-01-03|
+|28|[alibaba/kiwi](https://gitee.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|1924|1|2021-12-17|
+|29|[loiane/javascript-datastructures-algorithms](https://gitee.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3247|1|2021-10-01|
+|30|[EhTagTranslation/EhSyringe](https://gitee.com/EhTagTranslation/EhSyringe)|E 站注射器，将中文翻译注入到 E 站体内|1258|1|2022-01-04|
 |31|[wistingcn/WiLearning](https://gitee.com/wistingcn/WiLearning)|Multiparty meeting&e-learning  using mediasoup, webrtc ,angular and ionic with powerful whiteboard support|405|1|2021-10-28|
 |32|[CodFrm/cxmooc-tools](https://gitee.com/CodFrm/cxmooc-tools)|一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)|1654|1|2021-12-13|
 |33|[CQBoyBrand/Koa2-nuxt-MySQL](https://gitee.com/CQBoyBrand/Koa2-nuxt-MySQL)|Koa2+nuxt+MySQL重构博客，项目中包括前端，后端和服务端，以及数据库文件，项目基于Vue+node.js+MySQL|109|0|2021-12-16|
@@ -51,7 +51,7 @@
 |44|[SSmJaE/WELearnHelper](https://gitee.com/SSmJaE/WELearnHelper)|显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；开放自定义设置|169|0|2021-12-17|
 |45|[jiayisheji/jianshu](https://gitee.com/jiayisheji/jianshu)|仿简书nx+nodejs+nestjs6+express+mongodb+angular8+爬虫|304|0|2021-11-25|
 |46|[mgmeyers/obsidian-style-settings](https://gitee.com/mgmeyers/obsidian-style-settings)|Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables|123|0|2021-12-14|
-|47|[justjavac/zhihu-trending-top-search](https://gitee.com/justjavac/zhihu-trending-top-search)|知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。|84|0|2022-01-04|
+|47|[justjavac/zhihu-trending-top-search](https://gitee.com/justjavac/zhihu-trending-top-search)|知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。|84|0|2022-01-05|
 |48|[tuture-dev/tuture](https://gitee.com/tuture-dev/tuture)|Write tutorials from the future, with the power of Git and community. 『图雀写作工具』|196|0|2021-12-31|
 |49|[yanlele/node-index](https://gitee.com/yanlele/node-index)|学习笔记、博文、简书、工作日常踩坑记录以及一些独立作品的汇总目录|324|0|2021-12-21|
 |50|[leer0911/myXHR](https://gitee.com/leer0911/myXHR)|TypeScript 重构 Axios 经验分享，包括开发技巧， API 实现，XMLHttpRequest 运用，单元测试等|108|0|2021-09-01|
@@ -61,7 +61,7 @@
 |54|[eyebluecn/tank-front](https://gitee.com/eyebluecn/tank-front)|蓝眼系列软件之《蓝眼云盘》前端项目|494|0|2021-11-26|
 |55|[YaoZeyuan/zhihuhelp](https://gitee.com/YaoZeyuan/zhihuhelp)|基于node&typescript重写知乎助手|489|0|2021-09-13|
 |56|[robertying/learnX](https://gitee.com/robertying/learnX)|清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native. ⚛️|157|0|2021-12-14|
-|57|[scdt-china/interview-assignments](https://gitee.com/scdt-china/interview-assignments)|The monorepo for interview take home assignments.|142|0|2022-01-04|
+|57|[scdt-china/interview-assignments](https://gitee.com/scdt-china/interview-assignments)|The monorepo for interview take home assignments.|143|0|2022-01-04|
 |58|[meowtec/relyzer](https://gitee.com/meowtec/relyzer)|Debugger for React functional components. Online demo: https://meowtec.github.io/relyzer/examples/todomvc/build/|134|0|2021-11-10|
 |59|[intellism/vscode-comment-translate](https://gitee.com/intellism/vscode-comment-translate)|vscode 注释翻译插件, 不干扰正常代码，方便快速阅读源码。|280|0|2022-01-01|
 |60|[L-Leite/cso2-master-server](https://gitee.com/L-Leite/cso2-master-server)|A master server for CSO2|110|0|2021-08-16|
@@ -77,7 +77,7 @@
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>
