@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Assembly
-<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[ylcangel/linux_study](https://gitee.com/ylcangel/linux_study)|重温linux学习|4|0|2021-07-11|
 |5|[StevenBaby/learning-assembly](https://gitee.com/StevenBaby/learning-assembly)|汇编语言学习的例子|2|0|2021-08-05|
 |6|[solo1d/sys_Code](https://gitee.com/solo1d/sys_Code)|操作系统源码笔记|2|0|2021-07-22|
-|7|[tanyugang/CodingMaster](https://gitee.com/tanyugang/CodingMaster)|Coding Master系列教程配套代码。|64|0|2021-09-04|
+|7|[tanyugang/CodingMaster](https://gitee.com/tanyugang/CodingMaster)|Coding Master系列教程配套代码。|65|0|2021-09-04|
 |8|[Vxer-Lee/8086_AsmNotes](https://gitee.com/Vxer-Lee/8086_AsmNotes)|《王爽汇编语言》学习笔记，学逆向必备前置技能。|3|0|2021-09-29|
 |9|[NekoSilverFox/Assembly](https://gitee.com/NekoSilverFox/Assembly)|⚡ 亲手编写基于王爽老师《汇编语言》的300个汇编程序例程|54|0|2021-12-30|
 |10|[thu-cs-lab/supervisor-rv](https://gitee.com/thu-cs-lab/supervisor-rv)|计算机组成原理课程 RISC-V 监控程序，支持 32 位和 64 位|67|0|2021-09-20|
@@ -21,7 +21,7 @@
 |14|[sanmianti/AssemblyLanguageTest](https://gitee.com/sanmianti/AssemblyLanguageTest)|王爽《汇编语言》第三版课后实验及检测点答案。|75|0|2021-07-26|
 |15|[lib-hfut/lib-hfut](https://gitee.com/lib-hfut/lib-hfut)|贵校课程资料民间整理|161|0|2021-12-21|
 |16|[LukeLIN-web/curriculum_design](https://gitee.com/LukeLIN-web/curriculum_design)|一些非cs课程的笔记|4|0|2021-11-30|
-|17|[impact-eintr/x86](https://gitee.com/impact-eintr/x86)|从零开始的X86汇编语言学习|2|0|2022-01-04|
+|17|[impact-eintr/x86](https://gitee.com/impact-eintr/x86)|从零开始的X86汇编语言学习|2|0|2022-01-06|
 |18|[lingbai-kong/computer-system](https://gitee.com/lingbai-kong/computer-system)|同济大学CS《计算机系统实验》实验二TongJi University CS computer system experiment assignment 2|2|0|2021-07-25|
 |19|[Staok/ARM-Linux-Study](https://gitee.com/Staok/ARM-Linux-Study)|ARM Linux 的学习历程，文章遵守 CC BY NC SA 4.0 协议。|6|0|2021-09-27|
 

@@ -1,16 +1,16 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://gitee.com/ankane/searchkick)|Intelligent search made easy|5770|2021-12-27|
-|2|[ruby-china/homeland](https://gitee.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3516|2021-12-31|
+|1|[ankane/searchkick](https://gitee.com/ankane/searchkick)|Intelligent search made easy|5771|2021-12-27|
+|2|[ruby-china/homeland](https://gitee.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3517|2022-01-06|
 |3|[peatio/peatio](https://gitee.com/peatio/peatio)|An open-source assets exchange.|3509|2021-12-08|
 |4|[sketchplugins/plugin-directory](https://gitee.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3410|2022-01-02|
 |5|[rpush/rpush](https://gitee.com/rpush/rpush)|The push notification service for Ruby.|1890|2022-01-03|
-|6|[pluosi/app-host](https://gitee.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1801|2021-11-04|
+|6|[pluosi/app-host](https://gitee.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1804|2021-11-04|
 |7|[publify/publify](https://gitee.com/publify/publify)|A self hosted Web publishing platform on Rails.|1776|2021-12-27|
 |8|[w181496/Web-CTF-Cheatsheet](https://gitee.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1741|2022-01-02|
 |9|[thredded/thredded](https://gitee.com/thredded/thredded)|The best Rails forums engine ever.|1309|2021-10-24|
@@ -26,13 +26,13 @@
 |19|[MBoxPlus/mbox](https://gitee.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|640|2022-01-05|
 |20|[twitter/twitter-cldr-rb](https://gitee.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|634|2021-12-29|
 |21|[podigee/device_detector](https://gitee.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|633|2021-11-05|
-|22|[inukshuk/anystyle](https://gitee.com/inukshuk/anystyle)|Fast and smart citation reference parsing|561|2021-11-28|
+|22|[inukshuk/anystyle](https://gitee.com/inukshuk/anystyle)|Fast and smart citation reference parsing|562|2021-11-28|
 |23|[janx/ruby-pinyin](https://gitee.com/janx/ruby-pinyin)|中文汉字转拼音,　支持中英文符号混合词语。Pinyin is a romanization system (phonemic notation) of Chinese characters, this gem helps you to convert Chinese characters into pinyin form.|526|2021-08-21|
-|24|[bridgetownrb/bridgetown](https://gitee.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|519|2021-12-25|
-|25|[tryzealot/zealot](https://gitee.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|463|2022-01-05|
+|24|[bridgetownrb/bridgetown](https://gitee.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|519|2022-01-06|
+|25|[tryzealot/zealot](https://gitee.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|464|2022-01-05|
 |26|[lanrion/weixin_rails_middleware](https://gitee.com/lanrion/weixin_rails_middleware)|微信集成 ruby weixin_rails_middleware for integration weixin. |414|2021-09-27|
-|27|[darkbitio/aws-recon](https://gitee.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|389|2021-12-02|
-|28|[oott123/alfred-clipboard-ocr](https://gitee.com/oott123/alfred-clipboard-ocr)|Use Baidu OCR API to covert your clipboard image to text.|383|2021-10-20|
+|27|[darkbitio/aws-recon](https://gitee.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|390|2021-12-02|
+|28|[oott123/alfred-clipboard-ocr](https://gitee.com/oott123/alfred-clipboard-ocr)|Use Baidu OCR API to covert your clipboard image to text.|382|2021-10-20|
 |29|[rails-engine/action-store](https://gitee.com/rails-engine/action-store)|Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association.|374|2021-12-17|
 |30|[jpmobile/jpmobile](https://gitee.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|317|2021-12-17|
 |31|[bingohuang/progit2-gitbook](https://gitee.com/bingohuang/progit2-gitbook)|Pro Gi­t 第二版 ­简体中文|294|2021-09-06|
@@ -42,7 +42,7 @@
 |35|[infused/dbf](https://gitee.com/infused/dbf)|DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files|238|2021-12-27|
 |36|[githubmaidou/tools](https://gitee.com/githubmaidou/tools)|Python渗透漏洞工具|235|2021-12-23|
 |37|[sirupsen/airrecord](https://gitee.com/sirupsen/airrecord)|Ruby wrapper for Airtable, your personal database|217|2021-08-10|
-|38|[L-codes/pwcrack-framework](https://gitee.com/L-codes/pwcrack-framework)|Password Crack Framework|197|2021-12-12|
+|38|[L-codes/pwcrack-framework](https://gitee.com/L-codes/pwcrack-framework)|Password Crack Framework|198|2021-12-12|
 |39|[ruilisi/rails-pangu](https://gitee.com/ruilisi/rails-pangu)|Rails starter kit that every startup needs|191|2021-10-12|
 |40|[wu-kan/wu-kan.github.io](https://gitee.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|190|2022-01-02|
 |41|[didww/credit_card_validations](https://gitee.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|189|2022-01-02|
@@ -53,12 +53,12 @@
 |46|[samvera/hyrax](https://gitee.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|146|2022-01-05|
 |47|[rails-engine/flow_core](https://gitee.com/rails-engine/flow_core)|FlowCore is a Rails engine to help you build your automation or business process application.|145|2021-10-12|
 |48|[baidu/m-git](https://gitee.com/baidu/m-git)|MGit 是一款基于 Git 的多仓库管理工具，可以安全的、高效的管理多个 Git 仓库； 适合于在多个仓库中进行关联开发的项目，实现批量的版本管理功能，提高 Git 操作的效率，避免逐个执行 Git 命令带来的误操作风险。|134|2021-08-12|
-|49|[bytedance/Bytedance-UnionAD](https://gitee.com/bytedance/Bytedance-UnionAD)|-|130|2021-12-24|
+|49|[bytedance/Bytedance-UnionAD](https://gitee.com/bytedance/Bytedance-UnionAD)|-|130|2022-01-06|
 |50|[dblock/slack-gamebot](https://gitee.com/dblock/slack-gamebot)|Ping pong, chess, pool and other games bot for Slack.|128|2021-09-28|
 |51|[huacnlee/auto-correct](https://gitee.com/huacnlee/auto-correct)|Automatically add whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols).|125|2021-07-27|
 |52|[netease-im/NIM_iOS_SDK](https://gitee.com/netease-im/NIM_iOS_SDK)|网易云信 iOS SDK 发布仓库。【推荐客户得京东卡，首次推荐成单得3000元京东卡，连续推荐4500元/单，上不封顶。】点击参与https://yunxin.163.com/promotion/recommend|121|2021-07-28|
 |53|[rails-engine/audit-log](https://gitee.com/rails-engine/audit-log)|📑 Create audit logs into the database for user behaviors, including a web UI to query logs.|117|2021-12-22|
-|54|[YusukeIwaki/puppeteer-ruby](https://gitee.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|113|2022-01-03|
+|54|[YusukeIwaki/puppeteer-ruby](https://gitee.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|114|2022-01-03|
 |55|[courtenay/splam](https://gitee.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|2021-10-25|
 |56|[siaw23/kovid](https://gitee.com/siaw23/kovid)|A CLI to fetch and compare the COVID statistics.|106|2021-10-19|
 |57|[khiav223577/pluck_all](https://gitee.com/khiav223577/pluck_all)|A more efficient way to get data from database. Like #pluck method but return array of hashes instead.|95|2021-10-19|
@@ -83,15 +83,15 @@
 |76|[refinery/refinerycms-i18n](https://gitee.com/refinery/refinerycms-i18n)|I18n logic for Refinery CMS|54|2021-09-17|
 |77|[coderdojo-japan/coderdojo.jp](https://gitee.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|53|2022-01-05|
 |78|[SaulLawliet/watchdog](https://gitee.com/SaulLawliet/watchdog)|IF (接口/网页 有变化) THEN (提醒你)|51|2021-11-05|
-|79|[test-kitchen/kitchen-azurerm](https://gitee.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|51|2021-12-30|
+|79|[test-kitchen/kitchen-azurerm](https://gitee.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|51|2022-01-05|
 |80|[FunnyWolf/vipermsf](https://gitee.com/FunnyWolf/vipermsf)|viper 自定义的msf|49|2021-12-29|
 |81|[hlcfan/pokr](https://gitee.com/hlcfan/pokr)|Make agile estimating and planning easy with our online planning or scrum poker tool|49|2021-10-12|
-|82|[aozorahack/aozorabunko_text](https://gitee.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|2022-01-05|
+|82|[aozorahack/aozorabunko_text](https://gitee.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|2022-01-06|
 |83|[ankane/blingfire-ruby](https://gitee.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|44|2021-12-13|
 |84|[FIRHQ/fastlane-plugin-fir_cli](https://gitee.com/FIRHQ/fastlane-plugin-fir_cli)|betaqr.com(fir.im) fastlane plugin|38|2021-10-27|
 |85|[piotrmurach/strings-truncation](https://gitee.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|34|2021-09-22|
 |86|[thierryxing/dingtalk-bot](https://gitee.com/thierryxing/dingtalk-bot)|钉钉自定义机器人Ruby SDK|33|2021-09-09|
-|87|[Tabll/gemnasium-db](https://gitee.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|28|2022-01-05|
+|87|[Tabll/gemnasium-db](https://gitee.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|28|2022-01-06|
 |88|[yuchuanfeng/CFGifEmotionDemo](https://gitee.com/yuchuanfeng/CFGifEmotionDemo)|gif图文混排、动态图片、动态表情、网络图片图文混排、gif表情|28|2021-11-22|
 |89|[davearonson/pull-request-roulette](https://gitee.com/davearonson/pull-request-roulette)|Site to match up developers with people willing to comment on their pull requests|28|2021-09-07|
 |90|[doorkeeper-gem/doorkeeper-i18n](https://gitee.com/doorkeeper-gem/doorkeeper-i18n)|Translation files for Doorkeeper OAuth 2 provider|27|2021-09-24|
@@ -108,16 +108,16 @@
 |101|[rkh/nii](https://gitee.com/rkh/nii)|Modern internationalization and localization solution for Ruby|19|2021-10-20|
 |102|[HugoHasenbein/redmine_more_previews](https://gitee.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|18|2021-08-18|
 |103|[dao42/qywechat-notifier](https://gitee.com/dao42/qywechat-notifier)|RubyGem: 企业微信 notification exception 插件|18|2021-09-27|
-|104|[OneEyedEagle/EAGLE-RGSS3](https://gitee.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|2021-12-29|
+|104|[OneEyedEagle/EAGLE-RGSS3](https://gitee.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|2022-01-06|
 |105|[work-design/rails_com](https://gitee.com/work-design/rails_com)|Rails Common Engine|18|2022-01-03|
 |106|[cyril/r_spec-clone.rb](https://gitee.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|18|2021-08-04|
 |107|[diylove/wiki](https://gitee.com/diylove/wiki)|diy万事万物的程序|17|2021-12-17|
 |108|[YunzheZJU/non-stop-story](https://gitee.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|17|2021-12-20|
 |109|[hiroshiyui/youbike](https://gitee.com/hiroshiyui/youbike)|臺北市公共自行車「YouBike 微笑單車」租賃站資料轉換程式|17|2021-09-28|
 |110|[junegunn/tabularize](https://gitee.com/junegunn/tabularize)|Formatting tabular data with paddings|17|2021-08-17|
-|111|[bitoex/bitopro-api-ruby](https://gitee.com/bitoex/bitopro-api-ruby)|API Wrapper gem for the Bitopro(幣託) crypto currency exchange written in Ruby.|15|2021-07-13|
-|112|[GITHZZ/UnityiOSExporter](https://gitee.com/GITHZZ/UnityiOSExporter)|用于Unity-iOS导出ipa的打包工具--ipa export tool for unity|15|2021-07-10|
-|113|[AIPHES/ACL20-Reference-Free-MT-Evaluation](https://gitee.com/AIPHES/ACL20-Reference-Free-MT-Evaluation)|Reference-free MT Evaluation Metrics|14|2021-09-05|
+|111|[AIPHES/ACL20-Reference-Free-MT-Evaluation](https://gitee.com/AIPHES/ACL20-Reference-Free-MT-Evaluation)|Reference-free MT Evaluation Metrics|15|2021-09-05|
+|112|[bitoex/bitopro-api-ruby](https://gitee.com/bitoex/bitopro-api-ruby)|API Wrapper gem for the Bitopro(幣託) crypto currency exchange written in Ruby.|15|2021-07-13|
+|113|[GITHZZ/UnityiOSExporter](https://gitee.com/GITHZZ/UnityiOSExporter)|用于Unity-iOS导出ipa的打包工具--ipa export tool for unity|15|2021-07-10|
 |114|[petertseng/adventofcode-rb-2019](https://gitee.com/petertseng/adventofcode-rb-2019)|Solutions to http://adventofcode.com/2019 (complete)|14|2021-12-28|
 |115|[work-design/work.design](https://gitee.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|14|2021-12-23|
 |116|[aozorahack/aozora2html](https://gitee.com/aozorahack/aozora2html)|-|14|2021-12-31|

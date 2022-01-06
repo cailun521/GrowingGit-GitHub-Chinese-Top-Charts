@@ -1,11 +1,11 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[swsoyee/2019-ncov-japan](https://gitee.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2022-01-05|
+|1|[swsoyee/2019-ncov-japan](https://gitee.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2022-01-06|
 |2|[ropensci/comtradr](https://gitee.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|0|2021-11-26|
 |3|[jokergoo/HilbertCurve](https://gitee.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|31|0|2021-09-29|
 |4|[jmzeng1314/AnnoProbe](https://gitee.com/jmzeng1314/AnnoProbe)|-|59|0|2021-08-01|
@@ -18,7 +18,7 @@
 |11|[leileibama/leoDDcalculator](https://gitee.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|0|2021-11-08|
 |12|[Detlew/PowerTOST](https://gitee.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|0|2021-09-25|
 |13|[mountainMath/tongfen](https://gitee.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|24|0|2021-11-19|
-|14|[YongxinLiu/EasyMicrobiome](https://gitee.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|26|0|2022-01-03|
+|14|[YongxinLiu/EasyMicrobiome](https://gitee.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|27|0|2022-01-03|
 |15|[eco-hydro/phenofit](https://gitee.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|43|0|2021-12-19|
 |16|[OxDemTech/china_diplomats](https://gitee.com/OxDemTech/china_diplomats)|-|7|0|2021-11-16|
 |17|[sascha2schroeder/popEye](https://gitee.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|7|0|2021-11-01|
@@ -29,7 +29,7 @@
 |22|[hope-data-science/tidyfst](https://gitee.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|55|0|2021-12-21|
 |23|[uribo/zipangu](https://gitee.com/uribo/zipangu)|Japanese utility functions and data|41|0|2021-12-11|
 |24|[ahb108/rcarbon](https://gitee.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|30|0|2021-12-15|
-|25|[davidycliao/redguards](https://gitee.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|0|2021-12-06|
+|25|[davidycliao/redguards](https://gitee.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|0|2022-01-06|
 |26|[XSLiuLab/tumor-immunogenicity-score](https://gitee.com/XSLiuLab/tumor-immunogenicity-score)|TIGS (Tumor Immunogenicity Score) project https://doi.org/10.7554/eLife.49020|23|0|2021-09-16|
 |27|[sammo3182/regioncode](https://gitee.com/sammo3182/regioncode)|Software for converting regional administrative codes (China) over years|7|0|2021-08-05|
 |28|[bnosac/ETM](https://gitee.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|28|0|2021-11-11|
@@ -62,7 +62,7 @@
 |55|[yukiyanai/quant-methods-R](https://gitee.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|15|0|2021-11-17|
 |56|[sstoeckl/crypto2](https://gitee.com/sstoeckl/crypto2)|Cryptocurrency Market Data|12|0|2021-09-21|
 |57|[tianshu129/foqat](https://gitee.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |23|0|2021-11-18|
-|58|[joachim-gassen/tidycovid19](https://gitee.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2022-01-05|
+|58|[joachim-gassen/tidycovid19](https://gitee.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2022-01-06|
 |59|[pzhaonet/beginr](https://gitee.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |60|[chuiqin/irGSEA](https://gitee.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|12|0|2021-11-26|
 |61|[kevinwang09/learningtower](https://gitee.com/kevinwang09/learningtower)|Easily accessible PISA data|18|0|2021-09-07|
@@ -76,7 +76,7 @@
 |69|[psychbruce/bruceR](https://gitee.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|78|0|2021-12-26|
 |70|[cjgeyer/foo](https://gitee.com/cjgeyer/foo)|A demo for a class|32|0|2022-01-04|
 |71|[reconverse/outbreaks](https://gitee.com/reconverse/outbreaks)|outbreaks: an R package compiling disease outbreak data|48|0|2021-08-06|
-|72|[ShixiangWang/sigminer](https://gitee.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|91|0|2021-12-15|
+|72|[ShixiangWang/sigminer](https://gitee.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|92|0|2021-12-15|
 |73|[reconhub/epicontacts](https://gitee.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|0|2021-11-23|
 |74|[majianthu/aps2020](https://gitee.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|0|2021-12-31|
 |75|[DongqiangZeng0808/Blasso](https://gitee.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|8|0|2021-10-26|
