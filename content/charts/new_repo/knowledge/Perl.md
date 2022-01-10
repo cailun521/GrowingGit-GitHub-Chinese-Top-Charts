@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mizu-bai/yinglish-perl](https://gitee.com/mizu-bai/yinglish-perl)|【yinglish】淫语翻译机！现以 Perl 版呈现！|8|2021-12-13|2021-08-11|
+|1|[mizu-bai/yinglish-perl](https://github.com/mizu-bai/yinglish-perl)|【yinglish】淫语翻译机！现以 Perl 版呈现！|8|2021-12-13|2021-08-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

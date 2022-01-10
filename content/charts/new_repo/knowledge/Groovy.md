@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Guanghua-Zhu/Groovy-Demo](https://gitee.com/Guanghua-Zhu/Groovy-Demo)|Groovy语法教程|2|2022-01-09|2021-12-23|
+|1|[Guanghua-Zhu/Groovy-Demo](https://github.com/Guanghua-Zhu/Groovy-Demo)|Groovy语法教程|2|2022-01-09|2021-12-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

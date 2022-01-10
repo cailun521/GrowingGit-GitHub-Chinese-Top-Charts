@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Fayehh/R-for-Quantitative-Research](https://gitee.com/Fayehh/R-for-Quantitative-Research)|中国科学院大学中丹学院Research Methods课程定量部分|4|2021-08-23|2021-03-16|
+|1|[Fayehh/R-for-Quantitative-Research](https://github.com/Fayehh/R-for-Quantitative-Research)|中国科学院大学中丹学院Research Methods课程定量部分|4|2021-08-23|2021-03-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

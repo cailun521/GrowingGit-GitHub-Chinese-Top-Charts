@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[r0eXpeR/fingerprint](https://gitee.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|197|2021-11-03|2021-11-03|
-|2|[JapanExchangeGroup/J-Quants-Tutorial](https://gitee.com/JapanExchangeGroup/J-Quants-Tutorial)|J-Quants-Tutorial|106|2021-07-27|2021-01-27|
+|1|[r0eXpeR/fingerprint](https://github.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|197|2021-11-03|2021-11-03|
+|2|[JapanExchangeGroup/J-Quants-Tutorial](https://github.com/JapanExchangeGroup/J-Quants-Tutorial)|J-Quants-Tutorial|106|2021-07-27|2021-01-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -5,15 +5,15 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Kaiyiwing/qwerty-learner](https://gitee.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3616|2022-01-07|2021-01-21|
-|2|[sorrycc/weekly](https://gitee.com/sorrycc/weekly)|前端周刊，每周一发布。|783|2022-01-09|2021-05-06|
-|3|[chowa/ejyy](https://gitee.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|525|2021-12-30|2021-11-08|
-|4|[bytedance/guide](https://gitee.com/bytedance/guide)|A new feature guide component by react 🧭|468|2021-08-07|2021-04-29|
-|5|[miao-lang/miao-lang](https://gitee.com/miao-lang/miao-lang)|喵语翻译：将人类语言翻译为喵语言。|423|2022-01-08|2021-04-19|
-|6|[meowtec/relyzer](https://gitee.com/meowtec/relyzer)|Debugger for React functional components. Online demo: https://meowtec.github.io/relyzer/examples/todomvc/build/|134|2021-11-10|2021-01-26|
-|7|[18888628835/Blog](https://gitee.com/18888628835/Blog)|从学习到总结，记录前端重要知识点，涉及 Javascript 深入、HTTP 协议、数据结构和算法、浏览器原理、ES6等内容，正在更新中...|132|2022-01-08|2021-02-26|
-|8|[alanhzw/WarblerHomepage](https://gitee.com/alanhzw/WarblerHomepage)|流莺书签|128|2021-12-14|2021-05-17|
-|9|[mgmeyers/obsidian-style-settings](https://gitee.com/mgmeyers/obsidian-style-settings)|Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables|128|2021-12-14|2021-03-28|
+|1|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3616|2022-01-07|2021-01-21|
+|2|[sorrycc/weekly](https://github.com/sorrycc/weekly)|前端周刊，每周一发布。|783|2022-01-09|2021-05-06|
+|3|[chowa/ejyy](https://github.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|525|2021-12-30|2021-11-08|
+|4|[bytedance/guide](https://github.com/bytedance/guide)|A new feature guide component by react 🧭|468|2021-08-07|2021-04-29|
+|5|[miao-lang/miao-lang](https://github.com/miao-lang/miao-lang)|喵语翻译：将人类语言翻译为喵语言。|423|2022-01-08|2021-04-19|
+|6|[meowtec/relyzer](https://github.com/meowtec/relyzer)|Debugger for React functional components. Online demo: https://meowtec.github.io/relyzer/examples/todomvc/build/|134|2021-11-10|2021-01-26|
+|7|[18888628835/Blog](https://github.com/18888628835/Blog)|从学习到总结，记录前端重要知识点，涉及 Javascript 深入、HTTP 协议、数据结构和算法、浏览器原理、ES6等内容，正在更新中...|132|2022-01-08|2021-02-26|
+|8|[alanhzw/WarblerHomepage](https://github.com/alanhzw/WarblerHomepage)|流莺书签|128|2021-12-14|2021-05-17|
+|9|[mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)|Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables|128|2021-12-14|2021-03-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
