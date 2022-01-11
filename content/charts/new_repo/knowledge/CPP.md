@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1972|2021-11-30|2021-02-17|
-|2|[0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1282|2021-10-21|2021-07-09|
+|1|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1973|2021-11-30|2021-02-17|
+|2|[0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1283|2021-10-21|2021-07-09|
 |3|[parallel101/course](https://github.com/parallel101/course)|高性能并行编程与优化 - 课件|853|2022-01-08|2021-12-10|
 |4|[acm-clan/algorithm-stone](https://github.com/acm-clan/algorithm-stone)|ACM/LeetCode算法竞赛路线图，最全的算法学习地图！|808|2022-01-10|2021-02-18|
-|5|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|318|2021-12-15|2021-12-06|
+|5|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|319|2021-12-15|2021-12-06|
 |6|[AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)|This is a code repository for pytorch c++ (or libtorch) tutorial.|214|2021-11-02|2021-01-27|
 |7|[yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|189|2022-01-09|2021-11-30|
 |8|[muluoleiguo/interview](https://github.com/muluoleiguo/interview)|linux C++ 服务器/后台开发 秋招整理资料 |163|2021-11-07|2021-07-09|

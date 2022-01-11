@@ -6,13 +6,13 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4051|2022-01-10|2021-05-31|
-|2|[kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)|Universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.|1944|2021-12-24|2021-01-13|
+|2|[kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)|Universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.|1946|2021-12-24|2021-01-13|
 |3|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |830|2021-12-24|2021-05-26|
 |4|[tuplex/tuplex](https://github.com/tuplex/tuplex)|Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather  ...|745|2022-01-09|2021-06-30|
 |5|[openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn)|A primitive library for neural network|641|2022-01-10|2021-06-30|
 |6|[Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)|Everything 拼音搜索、快速选择扩展|622|2021-12-17|2021-09-18|
 |7|[shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro)|C++ library based on tensorrt integration|570|2021-12-15|2021-07-26|
-|8|[open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)|OpenMMLab Model Deployment Framework|509|2022-01-10|2021-12-24|
+|8|[open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)|OpenMMLab Model Deployment Framework|512|2022-01-10|2021-12-24|
 |9|[Tencent/Forward](https://github.com/Tencent/Forward)|A library for high performance deep learning inference on NVIDIA GPUs. |484|2021-11-30|2021-03-11|
 |10|[HackerDev-Felix/WechatDecrypt](https://github.com/HackerDev-Felix/WechatDecrypt)|微信消息解密工具|402|2021-07-12|2021-07-12|
 |11|[Tencent/Taitank](https://github.com/Tencent/Taitank)|Taitank is a cross platform lightweight flex layout engine implemented in C++.|386|2021-07-21|2021-04-12|
@@ -28,19 +28,19 @@
 |21|[Soreepeong/XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.|290|2022-01-10|2021-02-08|
 |22|[ZhuYanzhen1/miniFOC](https://github.com/ZhuYanzhen1/miniFOC)|你还在为有刷电机的高噪声、低响应速度和低寿命而烦恼吗？这个项目是一个20块钱就能搞定的FOC无刷电机控制方案！This project is a FOC (Field Oriented Control) BLDC Motor control scheme that can be done for 3$!|275|2021-11-08|2021-08-13|
 |23|[mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)|Media Downloader is a Qt/C++ front end to youtube-dl|257|2022-01-01|2021-01-18|
-|24|[wfrest/wfrest](https://github.com/wfrest/wfrest)|C++ Web Framework REST API|250|2022-01-10|2021-10-27|
+|24|[wfrest/wfrest](https://github.com/wfrest/wfrest)|C++ Web Framework REST API|252|2022-01-10|2021-10-27|
 |25|[MiRoboticsLab/cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|237|2021-12-30|2021-09-15|
 |26|[ToKiNoBug/SlopeCraft](https://github.com/ToKiNoBug/SlopeCraft)|Get your map pixel art in minecraft|221|2022-01-01|2021-04-25|
 |27|[0x727/ShuiYing_0x727](https://github.com/0x727/ShuiYing_0x727)|检测域环境内，域机器的本地管理组成员是否存在弱口令和通用口令，对域用户的权限分配以及域内委派查询|209|2021-08-10|2021-08-10|
 |28|[metartc/yangwebrtc](https://github.com/metartc/yangwebrtc)|Webrtc Libary for PC, non-google lib|208|2022-01-10|2021-08-29|
-|29|[Tencent/yadcc](https://github.com/Tencent/yadcc)|Yet Another Distributed C++ Compiler. yadcc是一套腾讯广告自研的分布式编译系统，用于支撑腾讯广告的日常开发及流水线。相对于已有的同类解决方案，我们针对实际的工业生产环境做了性能、可靠性、易用性等方面优化。|205|2021-12-26|2021-05-28|
+|29|[Tencent/yadcc](https://github.com/Tencent/yadcc)|Yet Another Distributed C++ Compiler. yadcc是一套腾讯广告自研的分布式编译系统，用于支撑腾讯广告的日常开发及流水线。相对于已有的同类解决方案，我们针对实际的工业生产环境做了性能、可靠性、易用性等方面优化。|206|2021-12-26|2021-05-28|
 |30|[AllentDan/LibtorchSegmentation](https://github.com/AllentDan/LibtorchSegmentation)|A c++ trainable semantic segmentation library based on libtorch (pytorch c++). Backbone: VGG, ResNet, ResNext. Architecture: FPN, U-Net, PAN, LinkNet, PSPNet, DeepLab-V3, DeepLab-V3+ by now.|198|2021-11-17|2021-02-07|
 |31|[huoji120/CobaltStrikeDetected](https://github.com/huoji120/CobaltStrikeDetected)|40行代码检测到大部分CobaltStrike的shellcode|188|2021-07-25|2021-07-25|
 |32|[richardchien/modern-cmake-by-example](https://github.com/richardchien/modern-cmake-by-example)|IPADS 实验室新人培训第二讲（2021.11.3）：CMake|170|2021-11-04|2021-10-15|
 |33|[SmartKeyerror/reading-source-code-of-leveldb-1.23](https://github.com/SmartKeyerror/reading-source-code-of-leveldb-1.23)|leveldb 源码阅读，分析 DB 运作流程与 WAL、SSTable 等文件格式与 Compaction 过程。|167|2021-09-24|2021-07-24|
 |34|[zhuzhu-Top/Wx_Socket_Helper](https://github.com/zhuzhu-Top/Wx_Socket_Helper)|PC微信助手|164|2021-08-27|2021-05-22|
 |35|[xiangli0608/cartographer_detailed_comments_ws](https://github.com/xiangli0608/cartographer_detailed_comments_ws)|cartographer work space with detailed comments|158|2021-10-29|2021-04-20|
-|36|[taptap/perf-doctor](https://github.com/taptap/perf-doctor)|性能医生，手机应用性能测试工具|142|2022-01-10|2021-09-24|
+|36|[taptap/perf-doctor](https://github.com/taptap/perf-doctor)|性能医生，手机应用性能测试工具|143|2022-01-10|2021-09-24|
 |37|[drzzzf/T12SoldingStation](https://github.com/drzzzf/T12SoldingStation)|Arduino T12 Solding Station|140|2021-07-31|2021-02-19|
 |38|[EdVince/ClothingTransfer-NCNN](https://github.com/EdVince/ClothingTransfer-NCNN)|CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡|137|2022-01-01|2021-12-15|
 |39|[kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager)|A Qt-based mod manager for minecraft.|131|2022-01-10|2021-08-12|
@@ -65,10 +65,10 @@
 |58|[crisprss/BypassUserAdd](https://github.com/crisprss/BypassUserAdd)|通过反射DLL注入、Win API、C#、以及底层实现NetUserAdd方式实现BypassAV进行增加用户的功能,实现Cobalt Strike插件化|84|2022-01-04|2022-01-04|
 |59|[LiteLDev/LiteXLoader](https://github.com/LiteLDev/LiteXLoader)|A cross-language script plugin loader for Bedrock Dedicated Server (BDS) , based on LiteLoaderBDS & ScriptX|84|2022-01-10|2021-04-17|
 |60|[nkliuhui/sync_gps_lidar_imu_cam](https://github.com/nkliuhui/sync_gps_lidar_imu_cam)|lidar-imu-cam-GPS时间戳硬件同步方案|84|2021-07-21|2021-04-16|
-|61|[netcan/config-loader](https://github.com/netcan/config-loader)|Simple C++ Config Loader Framework(Serialization & Reflection)|79|2022-01-05|2021-06-21|
+|61|[netcan/config-loader](https://github.com/netcan/config-loader)|Simple C++ Config Loader Framework(Serialization & Reflection)|80|2022-01-05|2021-06-21|
 |62|[ApsaraDB/PolarDB-FileSystem](https://github.com/ApsaraDB/PolarDB-FileSystem)|-|77|2021-11-10|2021-10-12|
-|63|[qiang/Riru-ModuleFridaGadget](https://github.com/qiang/Riru-ModuleFridaGadget)|一个magisk 的模块，简化版，依赖 riru，能够简单的hook，并且加载动态库，目前用来加载 frida 的gadget 库，从而使hook脱离命令行和server，并且能够在多进程中加载|76|2021-12-18|2021-09-01|
-|64|[kekeimiku/kbz](https://github.com/kekeimiku/kbz)|读取王者荣耀对局内敌方位置，技能cd以及血量的小程序|76|2021-07-12|2021-07-09|
+|63|[kekeimiku/kbz](https://github.com/kekeimiku/kbz)|读取王者荣耀对局内敌方位置，技能cd以及血量的小程序|77|2021-07-12|2021-07-09|
+|64|[qiang/Riru-ModuleFridaGadget](https://github.com/qiang/Riru-ModuleFridaGadget)|一个magisk 的模块，简化版，依赖 riru，能够简单的hook，并且加载动态库，目前用来加载 frida 的gadget 库，从而使hook脱离命令行和server，并且能够在多进程中加载|76|2021-12-18|2021-09-01|
 |65|[zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion)|使用误差状态卡尔曼滤波器融合GPS和IMU，实现更高精度的定位|76|2021-11-03|2021-03-04|
 |66|[hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn)|使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序|75|2021-10-21|2021-08-08|
 |67|[DL-Practise/OpenSitUp](https://github.com/DL-Practise/OpenSitUp)|OpenSitUp是一个基于姿态估计的开源项目，旨在帮助对姿态估计感兴趣的朋友，能够从零开始搭建一个在android手机上运行的仰卧起坐计数APP。主要的技术难点为如何让计算量较大的人体姿态估计网络流畅的运行在手机端，并且实现仰卧起坐的计数功能。掌握了这个项目的原理之后，可以很方便的迁移到类似的运动，健身APP当中。|72|2021-08-15|2021-08-07|

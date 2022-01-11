@@ -5,16 +5,16 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2129|118|2022-01-08|
-|2|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2284|3|2021-11-20|
-|3|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3575|3|2021-12-14|
+|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2152|120|2022-01-11|
+|2|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2285|3|2021-11-20|
+|3|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3576|3|2021-12-14|
 |4|[XINCGer/UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)|提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)|590|2|2021-11-19|
 |5|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|816|2|2021-12-07|
-|6|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|440|2|2022-01-09|
+|6|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|441|2|2022-01-09|
 |7|[wlgys8/GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)|A Unity Project used for Learning GPU Driven Terrain Render|98|1|2021-07-17|
 |8|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|503|1|2021-10-09|
 |9|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|437|1|2022-01-10|
-|10|[kengwang/BiliDuang](https://github.com/kengwang/BiliDuang)|(项目正在重构) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载|713|1|2021-10-06|
+|10|[kengwang/BiliDuang](https://github.com/kengwang/BiliDuang)|(项目正在重构) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载|714|1|2021-10-06|
 |11|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|1772|1|2022-01-07|
 |12|[YukiCoco/YukiDrive](https://github.com/YukiCoco/YukiDrive)|Onedrive & SharePoint 文件浏览网页程序|459|1|2021-11-09|
 |13|[luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore)|😃A simple and practical CMS implemented by .NET 6 + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏|519|1|2021-12-28|
@@ -25,7 +25,7 @@
 |18|[xin-lai/Magicodes.Wx.Sdk](https://github.com/xin-lai/Magicodes.Wx.Sdk)|最简洁最易于使用的微信Sdk，包括公众号Sdk、小程序Sdk、企业微信Sdk等，以及Abp VNext集成。|73|0|2021-08-26|
 |19|[sdcb/blog-data](https://github.com/sdcb/blog-data)|《.NET骚操作》的博客数据|72|0|2021-12-14|
 |20|[lprensoft/FlowerMaster](https://github.com/lprensoft/FlowerMaster)|DMM游戏《美少女花骑士》专属浏览器。|35|0|2021-08-27|
-|21|[EasyAbp/Abp.WeChat](https://github.com/EasyAbp/Abp.WeChat)|Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、开放平台、第三方平台等相关接口封装。|222|0|2022-01-04|
+|21|[EasyAbp/Abp.WeChat](https://github.com/EasyAbp/Abp.WeChat)|Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、开放平台、第三方平台等相关接口封装。|223|0|2022-01-04|
 |22|[ludoux/LrcHelper](https://github.com/ludoux/LrcHelper)|从网易云音乐下载带翻译的歌词 Walkman 适配|128|0|2022-01-04|
 |23|[WOA-Project/Lumia-Drivers](https://github.com/WOA-Project/Lumia-Drivers)|Collection of driver binaries for Lumia devices|123|0|2021-10-31|
 |24|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|295|0|2022-01-09|
@@ -33,7 +33,7 @@
 |26|[lesliexinxin/LeslieXin.SimpleMMF](https://github.com/lesliexinxin/LeslieXin.SimpleMMF)|简单、易用的进程间通信框架，基于共享内存实现。 A simple, easy-to-use framework for interprocess communication based on shared memory|55|0|2021-08-05|
 |27|[WeihanLi/DesignPatterns](https://github.com/WeihanLi/DesignPatterns)|DesignPatterns samples by csharp on dotnetcore 《大话设计模式》 中设计模式总结/C#(.NETCore)代码|93|0|2021-12-09|
 |28|[q315523275/FamilyBucket](https://github.com/q315523275/FamilyBucket)|集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用|670|0|2021-08-25|
-|29|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|97|0|2022-01-08|
+|29|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|97|0|2022-01-11|
 |30|[xiajingren/HelloAbp](https://github.com/xiajingren/HelloAbp)|ABP vNext + vue-element-admin入门级项目实践|217|0|2021-07-31|
 |31|[csdjk/LearnUnity](https://github.com/csdjk/LearnUnity)|学习Unity过程中的一些记录，demo。|49|0|2021-07-29|
 |32|[WangPney/WechatHelper7010](https://github.com/WangPney/WechatHelper7010)|Ipad、MAC、Windows协议，微信协议（本开源项目是7.0.14 C#版本的，学习用，商用JAVA源码独家804协议测试 请看下面）|34|0|2021-07-13|
@@ -47,7 +47,7 @@
 |40|[cyanray/cx-auto-sign](https://github.com/cyanray/cx-auto-sign)|⭐超星学习通自动签到工具，通过IM协议监测签到活动。|50|0|2022-01-07|
 |41|[MoonLord-LM/QiNiuMaster](https://github.com/MoonLord-LM/QiNiuMaster)|A batch tool for the QiNiu Cloud Storage. QiNiuMaster 七牛云存储批量管理工具（C#）|44|0|2021-08-28|
 |42|[yangan666/SuperNAT](https://github.com/yangan666/SuperNAT)|SuperNAT是基于.NET 5.0开源跨平台的内网穿透程序，功能类似花生壳，可用于穿透内网web应用，微信公众号本地调试等，目前支持http穿透，tcp穿透，websocket穿透。QQ交流群：854594944|172|0|2021-09-09|
-|43|[ZetaSp/PowerToys-Chinese-TransMOD](https://github.com/ZetaSp/PowerToys-Chinese-TransMOD)|PowerToys Custom Simplified Chinese Translation Patch - 微软大力玩具自制简中翻译|296|0|2022-01-08|
+|43|[ZetaSp/PowerToys-Chinese-TransMOD](https://github.com/ZetaSp/PowerToys-Chinese-TransMOD)|PowerToys Custom Simplified Chinese Translation Patch - 微软大力玩具自制简中翻译|297|0|2022-01-08|
 |44|[zhaoqingqing/blog_samplecode](https://github.com/zhaoqingqing/blog_samplecode)|my blog code snippet(代码片段) |41|0|2021-12-09|
 |45|[StevenEco/.NetCoreGuide](https://github.com/StevenEco/.NetCoreGuide)|一个简单基础的.NET Core技术栈开发指南|126|0|2022-01-10|
 |46|[zLulus/NotePractice](https://github.com/zLulus/NotePractice)|My_Note 笔记练习demo|106|0|2021-12-29|
