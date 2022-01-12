@@ -6,50 +6,50 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's OpenWrt source|19419|2022-01-11|
-|2|[alibaba/tengine](https://github.com/alibaba/tengine)|A distribution of Nginx with some advanced features|11264|2021-12-14|
+|2|[alibaba/tengine](https://github.com/alibaba/tengine)|A distribution of Nginx with some advanced features|11265|2021-12-14|
 |3|[cloudwu/skynet](https://github.com/cloudwu/skynet)|A lightweight online game framework|10889|2021-12-22|
 |4|[skywind3000/kcp](https://github.com/skywind3000/kcp)|:zap: KCP - A Fast and Reliable ARQ Protocol|10556|2021-11-24|
-|5|[openresty/openresty](https://github.com/openresty/openresty)|High Performance Web Platform Based on Nginx and LuaJIT|10122|2022-01-11|
-|6|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|9957|2022-01-11|
+|5|[openresty/openresty](https://github.com/openresty/openresty)|High Performance Web Platform Based on Nginx and LuaJIT|10124|2022-01-11|
+|6|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|9958|2022-01-12|
 |7|[openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)|Embed the Power of Lua into NGINX HTTP servers|9738|2022-01-11|
 |8|[Tencent/wcdb](https://github.com/Tencent/wcdb)|WCDB is a cross-platform database framework developed by WeChat.|9284|2021-12-17|
 |9|[EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)|Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net|7860|2021-10-08|
-|10|[happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)|FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. We ...|7793|2021-12-31|
+|10|[happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)|FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. We ...|7794|2021-12-31|
 |11|[espressif/esp-idf](https://github.com/espressif/esp-idf)|Espressif IoT Development Framework. Official development framework for Espressif SoCs.|7746|2022-01-11|
 |12|[Tencent/xLua](https://github.com/Tencent/xLua)|xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.|7287|2022-01-07|
 |13|[go-vgo/robotgo](https://github.com/go-vgo/robotgo)|RobotGo, Go Native cross-platform GUI automation  @vcaesar|7150|2022-01-11|
 |14|[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)|Sandboxie - Open Source|6101|2022-01-11|
-|15|[wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)|Deepin Wine for Ubuntu/Debian|5790|2021-11-16|
+|15|[wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)|Deepin Wine for Ubuntu/Debian|5791|2021-11-16|
 |16|[sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri)|Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.|5767|2022-01-11|
 |17|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|5636|2022-01-05|
 |18|[lpereira/lwan](https://github.com/lpereira/lwan)|Experimental, scalable, high performance HTTP server|5528|2021-12-22|
 |19|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|5372|2022-01-11|
-|20|[OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny)|腾讯物联网终端操作系统|5303|2021-12-30|
-|21|[cjdelisle/cjdns](https://github.com/cjdelisle/cjdns)|An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.|4782|2022-01-11|
+|20|[OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny)|腾讯物联网终端操作系统|5302|2021-12-30|
+|21|[cjdelisle/cjdns](https://github.com/cjdelisle/cjdns)|An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.|4783|2022-01-11|
 |22|[kbengine/kbengine](https://github.com/kbengine/kbengine)|A MMOG engine of server.|4739|2022-01-06|
 |23|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。|4416|2022-01-02|
-|24|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|4231|2022-01-10|
+|24|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|4265|2022-01-10|
 |25|[goldendict/goldendict](https://github.com/goldendict/goldendict)|A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup,  ...|4182|2022-01-11|
 |26|[Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan)|Logan is a lightweight case logging system based on mobile platform.|4090|2021-10-06|
 |27|[alibaba/AliOS-Things](https://github.com/alibaba/AliOS-Things)|AliOS Things latest version: https://github.com/alibaba/AliOS-Things/tree/rel_3.3.0 Please go to  https://aliosthings.iot.aliyun.com to get your minimal code.|4080|2022-01-06|
 |28|[session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy)|An online request replication tool, also a tcp stream replay tool, fit for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, etc|4042|2021-10-13|
-|29|[lc-soft/LCUI](https://github.com/lc-soft/LCUI)|A small C library for building user interfaces with C, XML and CSS.|3616|2021-12-26|
+|29|[lc-soft/LCUI](https://github.com/lc-soft/LCUI)|A small C library for building user interfaces with C, XML and CSS.|3617|2021-12-26|
 |30|[RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)|A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. |3500|2022-01-11|
 |31|[y123456yz/reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2)|nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕|3478|2021-07-26|
 |32|[ithewei/libhv](https://github.com/ithewei/libhv)|🔥 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.|3452|2022-01-11|
 |33|[microshow/RxFFmpeg](https://github.com/microshow/RxFFmpeg)|🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频 ...|3393|2021-08-02|
 |34|[peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic)|带网络功能的伪全息透明显示桌面站|3344|2021-12-11|
 |35|[openvenues/libpostal](https://github.com/openvenues/libpostal)|A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.|3336|2022-01-05|
-|36|[andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)|sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal|3102|2022-01-03|
+|36|[andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)|sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal|3101|2022-01-03|
 |37|[flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)|A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb|3048|2022-01-11|
 |38|[lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)|Write a simple interpreter of C. Inspired by c4 and largely based on it.|2885|2021-12-27|
 |39|[hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u)|Padavan|2798|2021-12-29|
 |40|[guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)|支持国密SM2/SM3/SM4/SM9/ZUC/SSL的OpenSSL分支|2797|2021-12-13|
-|41|[Mzzopublic/C](https://github.com/Mzzopublic/C)|C语言|2706|2021-10-15|
+|41|[Mzzopublic/C](https://github.com/Mzzopublic/C)|C语言|2707|2021-10-15|
 |42|[viabtc/viabtc_exchange_server](https://github.com/viabtc/viabtc_exchange_server)|A trading engine with high-speed performance and real-time notification|2476|2021-12-17|
 |43|[zhaojh329/rtty](https://github.com/zhaojh329/rtty)|Access your terminal from anywhere via the web.|2467|2021-12-24|
 |44|[gozfree/gear-lib](https://github.com/gozfree/gear-lib)|Gear-Lib, C library for IOT Embedded Multimedia and Network|2390|2022-01-03|
-|45|[zlgopen/awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)|2350|2022-01-11|
+|45|[zlgopen/awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)|2350|2022-01-12|
 |46|[alibaba/tsar](https://github.com/alibaba/tsar)|Taobao System Activity Reporter|2333|2022-01-05|
 |47|[Tencent/puerts](https://github.com/Tencent/puerts)|Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）|2270|2022-01-11|
 |48|[snooda/net-speeder](https://github.com/snooda/net-speeder)|net-speeder 在高延迟不稳定链路上优化单线程下载速度 |2152|2021-11-10|
