@@ -1,210 +1,210 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Kotlin
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|10971|2022-11-29|
-|2|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|8730|2022-11-27|
-|3|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|5646|2022-11-29|
-|4|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|4749|2022-12-06|
-|5|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|4284|2022-11-12|
-|6|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio|3824|2022-11-11|
-|7|[liujingxing/rxhttp](https://github.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3418|2022-11-29|
-|8|[svga/SVGAPlayer-Android](https://github.com/svga/SVGAPlayer-Android)|Similar to Lottie. Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。|3066|2022-11-26|
-|9|[zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)|Material Design file manager for Android|2889|2022-10-31|
-|10|[guolindev/PermissionX](https://github.com/guolindev/PermissionX)|An open source Android library that makes handling runtime permissions extremely easy.|2813|2022-09-25|
-|11|[wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|2750|2022-12-08|
-|12|[princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat)|🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|2748|2022-11-25|
-|13|[hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)|:chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目|2508|2022-09-19|
-|14|[caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake)|MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe|2438|2022-06-10|
-|15|[Ccixyj/JBusDriver](https://github.com/Ccixyj/JBusDriver)|这是去幼儿园的班车(滑稽|2242|2022-08-09|
-|16|[Tencent/bk-ci](https://github.com/Tencent/bk-ci)|蓝鲸持续集成平台(蓝盾) |2060|2022-12-08|
-|17|[iielse/imageviewer](https://github.com/iielse/imageviewer)|A simple and customizable Android full-screen image viewer 一个简单且可自定义的Android全屏图像浏览器|2032|2022-10-14|
-|18|[panpf/sketch](https://github.com/panpf/sketch)|Sketch 是 Android 上的一个强大且全面的图片加载库，除了基础功能外，还支持 Jetpack Compose、GIF、SVG、视频缩略图、手势缩放、超大图采样、ExifInterface 等功能。Sketch is a powerful and comprehensive image load library on Android, in addition to the basic f ...|1839|2022-11-09|
-|19|[devzwy/open_nsfw_android](https://github.com/devzwy/open_nsfw_android)|🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open_nsfw移植，该模型文件可用于iOS、java、C++等平台|1762|2022-10-21|
-|20|[czy1121/update](https://github.com/czy1121/update)|清晰灵活简单易用的应用更新库|1756|2022-09-03|
-|21|[azhon/AppUpdate](https://github.com/azhon/AppUpdate)|Android App update library.  Android版本更新库，简单、轻量、可随意定制|1733|2022-11-29|
-|22|[liangjingkanji/BRV](https://github.com/liangjingkanji/BRV)|[文档详细] Android上最好的RecyclerView框架, 比 BRVAH 更简单强大|1731|2022-11-24|
-|23|[VIPyinzhiwei/Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)|🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。|1578|2022-08-04|
-|24|[EmmyLua/IntelliJ-EmmyLua](https://github.com/EmmyLua/IntelliJ-EmmyLua)|Lua IDE/Debugger Plugin for IntelliJ IDEA|1568|2022-11-28|
-|25|[HMBSbige/ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android)|【自用】咕咕咕|1513|2022-08-16|
-|26|[starcwang/easy_javadoc](https://github.com/starcwang/easy_javadoc)|IntelliJ IDEA 插件，自动生成javadoc文档注释|1482|2022-12-04|
-|27|[rumboalla/apkupdater](https://github.com/rumboalla/apkupdater)|APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.|1404|2022-08-25|
-|28|[gyf-dev/Cactus](https://github.com/gyf-dev/Cactus)|Android Keep Alive(安卓保活)，Cactus 集成双进程前台服务，JobScheduler，onePix(一像素)，WorkManager，无声音乐|1275|2022-08-25|
-|29|[lulululbj/wanandroid](https://github.com/lulululbj/wanandroid)|Jetpack MVVM For Wanandroid 最佳实践 ！|1257|2022-07-21|
-|30|[bytedance/btrace](https://github.com/bytedance/btrace)|🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more nati ...|1197|2022-10-20|
-|31|[barbeau/gpstest](https://github.com/barbeau/gpstest)|The #1 open-source Android GNSS/GPS test program|1178|2022-10-30|
-|32|[allenymt/PrivacySentry](https://github.com/allenymt/PrivacySentry)|工信部-Android隐私合规整改检测工具，注解+Asm修改字节码的检测方案|1143|2022-11-04|
-|33|[liangjingkanji/Net](https://github.com/liangjingkanji/Net)|[OkHttp最佳实践] Android最好的网络请求工具, 比 Retrofit/OkGo 更简单易用|1141|2022-11-08|
-|34|[mamoe/mirai-console](https://github.com/mamoe/mirai-console)|mirai 的高效率 QQ 机器人控制台|1127|2022-06-22|
-|35|[zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid)|🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！|992|2022-08-04|
-|36|[dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream)|Screen Stream Android app|988|2022-07-28|
-|37|[stripe/stripe-android](https://github.com/stripe/stripe-android)|Stripe Android SDK    |981|2022-08-06|
-|38|[rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark)|🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用|962|2022-07-31|
-|39|[angcyo/DslTabLayout](https://github.com/angcyo/DslTabLayout)|:hearts: Android界最万能的TabLayout(不仅仅是TabLayout), 支持任意类型的item, 支持Drawable类型的指示器,智能开启滚动,支持横竖向布局等|960|2022-08-06|
-|40|[tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper)|让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,DevEco等 )支持中文标识符以拼音输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏|948|2022-08-05|
-|41|[bytedance/CodeLocator](https://github.com/bytedance/CodeLocator)|-|841|2022-06-15|
-|42|[rRemix/APlayer](https://github.com/rRemix/APlayer)|Android Music Player|832|2022-08-03|
-|43|[AllanWang/Frost-for-Facebook](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|814|2022-07-30|
-|44|[compose-museum/jetpack-compose-book](https://github.com/compose-museum/jetpack-compose-book)|-|785|2022-08-05|
-|45|[wdsqjq/FengYunWeather](https://github.com/wdsqjq/FengYunWeather)|风云天气是Android 平台开源天气 App，采用Kotlin、Room、OKHttp3、 协程等框架实现。|780|2022-06-21|
-|46|[Moriafly/DsoMusic](https://github.com/Moriafly/DsoMusic)|Kotlin 开发的美观安卓音乐软件，音源：网易云音乐、QQ 音乐、酷我音乐、Bilibili|766|2022-08-06|
-|47|[rosuH/AndroidFilePicker](https://github.com/rosuH/AndroidFilePicker)|FilePicker is a small and fast file selector library that is constantly evolving with the goal of rapid integration, high customization, and configurability~|749|2022-08-03|
-|48|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)| fragmject 是一个为初学者准备的上手项目。 通过对 Kotlin 和 Jetpack 的系统运用，实现的一个功能完备符合主流市场标准 App。  fragmject 没有复杂的业务和多余的封装， 完全依照 Android Developer 官方的写法。 代码简单，内容全面，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。|726|2022-08-06|
-|49|[MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri)|Matsuri (茉莉) / Android proxy toolchain / 安卓代理应用 / Fork of SagerNet|680|2022-08-05|
-|50|[fabricezhang/lcg](https://github.com/fabricezhang/lcg)|吾爱破解第三方安卓应用|667|2022-07-27|
-|51|[eprendre/tingshu](https://github.com/eprendre/tingshu)|一款可在线播放多个免费听书站点的安卓app|634|2022-07-20|
-|52|[ifmvo/TogetherAd](https://github.com/ifmvo/TogetherAd)|🔥持续更新。Android广告聚合：帮助 Android 开发者快速、便捷、灵活的接入国内多家主流安卓广告 SDK。广点通（优量汇）、穿山甲、快手联盟、百青藤（百度Mob）。开屏广告、Banner横幅广告、插屏广告、激励广告、原生信息流、全屏广告。|606|2022-06-14|
-|53|[DylanCaiCoding/ViewBindingKTX](https://github.com/DylanCaiCoding/ViewBindingKTX)|The most comprehensive utils of ViewBinding. (最全面的 ViewBinding 工具，支持 Kotlin 和 Java 用法，支持 BRVAH，支持封装到基类，支持 DataBinding，支持选择是否使用反射)|598|2022-06-29|
-|54|[trycatchx/RocketX](https://github.com/trycatchx/RocketX)|🔥🔥 android 端编译加速插件🚀 动态识别未改动 module 并在编译流程中替换为 aar ，只编译改动模块，加速 Android apk 的编译速度。|578|2022-08-01|
-|55|[Leon406/ToolsFx](https://github.com/Leon406/ToolsFx)|基于kotlin+tornadoFx的跨平台密码学工具箱.包含编解码,编码转换,加解密, 哈希,MAC,签名,大数运算,压缩,二维码功能,ctf等实用功能,支持插件|554|2022-08-02|
-|56|[AleynP/MVVMLin](https://github.com/AleynP/MVVMLin)|一个基于MVVM用Kotlin+Retrofit+协程+Databinding+LiveData来封装的快速开发框架|552|2022-07-31|
-|57|[yueeng/hacg](https://github.com/yueeng/hacg)|琉璃神社 hacg android app by scala|549|2022-08-04|
-|58|[getActivity/AndroidProject-Kotlin](https://github.com/getActivity/AndroidProject-Kotlin)|Android 技术中台 Kotlin 版本，但愿人长久，搬砖不再有|537|2022-07-18|
-|59|[KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner)|瘦身模块|526|2022-06-11|
-|60|[vincent-series/smart-show](https://github.com/vincent-series/smart-show)|Toast # Snackbar # Dialog |507|2022-06-09|
-|61|[pemistahl/lingua](https://github.com/pemistahl/lingua)|👄 The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike|506|2022-08-02|
-|62|[xyoye/DanDanPlayForAndroid](https://github.com/xyoye/DanDanPlayForAndroid)|弹弹play 概念版，弹弹play系列应用安卓平台上的实现，是一个提供了视频播放（本地+局域网）和弹幕加载（在线+本地）功能的本地播放器|505|2022-08-02|
-|63|[breandan/kotlingrad](https://github.com/breandan/kotlingrad)|🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types|473|2022-07-28|
-|64|[DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)|Check updates for Android apps, Magisk modules and more!|465|2022-08-06|
-|65|[ldlywt/FastJetpack](https://github.com/ldlywt/FastJetpack)|基于Kotlin、协程、Retrofit的网络请求封装，快速简单轻便。|454|2022-07-20|
-|66|[zhpanvip/viewpagerindicator](https://github.com/zhpanvip/viewpagerindicator)|🔥  Worked with ViewPager and ViewPager2,support multiple slider styles and multiple slide mode.This repo was split from BannerViewPager-|422|2022-07-15|
-|67|[angcyo/DslAdapter](https://github.com/angcyo/DslAdapter)|:fire: Android Kotlin时代的Adapter, Dsl 的形式使用 RecyclerView.Adapter, 支持折叠展开, 树结构,悬停,情感图状态切换, 加载更多, 多类型Item,侧滑菜单等|420|2022-08-06|
-|68|[yechaoa/MaterialDesign](https://github.com/yechaoa/MaterialDesign)|Material Design Samples。ConstraintLayout、MaterialButton、ShapeableImageView、TabLayout、SearchView...|403|2022-07-31|
-|69|[SonicCloudOrg/sonic-android-apk](https://github.com/SonicCloudOrg/sonic-android-apk)|🎉Android Plugin of Sonic cloud real machine testing platform. Sonic云真机测试平台安卓插件。|372|2022-07-27|
-|70|[hi-dhl/Binding](https://github.com/hi-dhl/Binding)|Simple API implement DataBinding and ViewBinding.  简单的 API 实现 DataBinding 和 ViewBinding，欢迎 star|367|2022-06-16|
-|71|[plateaukao/einkbro](https://github.com/plateaukao/einkbro)|An Android web browser based on webview, which is specialized for E-Ink device.|355|2022-08-05|
-|72|[iTXTech/mirai-native](https://github.com/iTXTech/mirai-native)|强大的 mirai 原生插件加载器|338|2022-07-31|
-|73|[lihenggui/blocker](https://github.com/lihenggui/blocker)|An useful tools that controls android components|337|2022-07-22|
-|74|[metrodroid/metrodroid](https://github.com/metrodroid/metrodroid)|Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)|335|2022-08-02|
-|75|[DylanCaiCoding/Longan](https://github.com/DylanCaiCoding/Longan)|Probably the best Kotlin utils library for Android. (可能是最好用的 Kotlin 工具库)|333|2022-08-05|
-|76|[m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday)|🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar|328|2022-07-26|
-|77|[gdutxiaoxu/AnchorTask](https://github.com/gdutxiaoxu/AnchorTask)|锚点任务，可以用来解决多线程加载任务依赖的问题。常见的，比如 Android 启动优化，通常会进行多线程异步加载|318|2022-06-16|
-|78|[liangjingkanji/StateLayout](https://github.com/liangjingkanji/StateLayout)|🍘 Android上最强大的缺省页框架|317|2022-07-03|
-|79|[meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android)|Android application for Meshtastic|311|2022-08-05|
-|80|[ForteScarlet/simpler-robot](https://github.com/ForteScarlet/simpler-robot)|Simple Robot，一个通用的bot风格事件调度框架，以灵活的统一标准来编写bot应用。simpler-robot是用于区别于旧版本仓库 simple-robot 的新版本命名。|305|2022-08-03|
-|81|[Block-Network/StatusBarLyric](https://github.com/Block-Network/StatusBarLyric)|[Xposed] Status Bar Lyric / 状态栏歌词|301|2022-08-06|
-|82|[hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)|:blue_book: A diary application optimized for user experience.|298|2022-08-03|
-|83|[Lowae/Design-WanAndroid](https://github.com/Lowae/Design-WanAndroid)|🦄WanAndroid的最佳Material Design实践，严格遵循Material设计，完美支持其Dynamic Colors等新特性，MVVM架构，保证UI风格、逻辑设计的一致性。全盘采用Jetpack，只为解决某些特定问题而引入其他依赖，避免大材小用，且尽可能均自己实现|295|2022-08-06|
-|84|[cloudoptlab/cloudopt-next](https://github.com/cloudoptlab/cloudopt-next)|A simple and modern Java and Kotlin vert.x web framework|291|2022-07-28|
-|85|[tangcent/easy-yapi](https://github.com/tangcent/easy-yapi)|Help you generate the API document to yapi|289|2022-07-31|
-|86|[Petterpx/FloatingX](https://github.com/Petterpx/FloatingX)|Android免权限悬浮窗，支持全局、局部悬浮，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。Android without permission suspension window, support global, local suspension, support edge adsorption, rebound, custom animation, position s ...|277|2022-06-27|
-|87|[ssiyy/ExcludeAar](https://github.com/ssiyy/ExcludeAar)|用于过滤aar中冲突类(class)和so库的脚本,也可以用来过滤jar中冲突class|277|2022-07-05|
-|88|[qqlittleice/MiuiHome](https://github.com/qqlittleice/MiuiHome)|[Xposed] Hook For Miui Launcher / 针对 Miui 桌面的自定义扩展|268|2022-07-28|
-|89|[valentjn/ltex-ls](https://github.com/valentjn/ltex-ls)|LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others|262|2022-08-01|
-|90|[Simplicity-Team/WooBoxForMIUI](https://github.com/Simplicity-Team/WooBoxForMIUI)|一个基于 MIUI13(Android 12) 适配的自定义工具 // A system extension Xposed module based on MIUI13 (Android12)|251|2022-07-23|
-|91|[chiclaim/AndroidDownloader](https://github.com/chiclaim/AndroidDownloader)|高效的App版本更新库，提供两个下载引擎：HttpURLConnection(推荐) 和系统的 DownloadManager|241|2022-08-06|
-|92|[hadix-lin/ideavim_extension](https://github.com/hadix-lin/ideavim_extension)|IdeaVIM插件的扩展插件|229|2022-06-26|
-|93|[AlanCheen/Flap](https://github.com/AlanCheen/Flap)|Flap（灵动），一个基于 RecyclerView 的页面组件化框架。|212|2022-08-06|
-|94|[Peakmain/BasicLibrary](https://github.com/Peakmain/BasicLibrary)|BasicLibrary是基于kotlin+jetpack+mvvm封装的一套框架，提高Android开发效率|208|2022-08-05|
-|95|[liujingxing/XmlClassGuard](https://github.com/liujingxing/XmlClassGuard)|一个可混淆4大组件，自定义View等任意类的插件，上架Google Play的利器|207|2022-07-15|
-|96|[zhujiang521/PlayWeather](https://github.com/zhujiang521/PlayWeather)|🔥🔥🔥 Compose、Lce、MVVM、深色模式、横屏、无网弱网适配、Room、Hilt、多语言切换，目前Android最新的库基本全用上了，你想要的都有🔥🔥🔥|200|2022-07-29|
-|97|[aistra0528/Hail](https://github.com/aistra0528/Hail)|冻结 Android 应用 Freeze Android apps 2:30|197|2022-07-31|
-|98|[fluttercandies/FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory)|-|191|2022-06-28|
-|99|[Knight-ZXW/BlockCanaryX](https://github.com/Knight-ZXW/BlockCanaryX)|🔥基于堆栈采样，使用函数火焰图的形式展示Android Main Looper的慢消息处理过程，定位阻塞原因|188|2022-08-03|
-|100|[modernizing/chapi](https://github.com/modernizing/chapi)|Chapi is A common language meta information convertor, convert different languages to same meta-data model. 一个通用语言元信息转换器，能将不同语言转换为相同的模型。|187|2022-07-07|
-|101|[StarWishsama/Comet-Bot](https://github.com/StarWishsama/Comet-Bot)|☄ 多平台动态推送, 抽卡模拟器, 以及更多|185|2022-08-06|
-|102|[TabooLib/taboolib](https://github.com/TabooLib/taboolib)|Powerful framework for creating multi-platform Minecraft plugin|175|2022-08-06|
-|103|[TrPlugins/TrMenu](https://github.com/TrPlugins/TrMenu)|Modern & Advanced Menu-Plugin for Minecraft Servers|172|2022-08-03|
-|104|[panpf/assembly-adapter](https://github.com/panpf/assembly-adapter)|AssemblyAdapter 是 Android 上的一个为各种 Adapter 提供开箱即用实现的库。AssemblyAdapter is a library on Android that provides out-of-the-box implementations for various Adapters.|171|2022-07-06|
-|105|[Leifzhang/Router-Android](https://github.com/Leifzhang/Router-Android)|通过注解实现路由跳转规则 同时增加ksp支持|162|2022-07-26|
-|106|[KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper)|一个使Xposed模块开发变的更轻松的kotlin工具库|159|2022-07-28|
-|107|[robotemi/sdk](https://github.com/robotemi/sdk)|temi is an unparalleled robotic platform introducing a new dimension of development - movement. Using temi’s SDK, developers can create new functionalities and introduce new use cases via temi’s Andro ...|157|2022-08-03|
-|108|[leavesCZY/compose_chat](https://github.com/leavesCZY/compose_chat)|一个用 Jetpack Compose 实现的 IM APP|156|2022-07-31|
-|109|[TencentCloud/httpdns-sdk-android](https://github.com/TencentCloud/httpdns-sdk-android)|智营防劫持SDK|156|2022-07-11|
-|110|[liangjingkanji/spannable](https://github.com/liangjingkanji/spannable)|Android最好的Spannable构建工具, 首个支持正则匹配/GIF动画/图文混排|155|2022-07-01|
-|111|[Samarium150/mirai-console-lolicon](https://github.com/Samarium150/mirai-console-lolicon)|基于LoliconAPI的mirai-console涩图插件|148|2022-07-27|
-|112|[lzan13/VMTemplateAndroid](https://github.com/lzan13/VMTemplateAndroid)|一套包含了社区匹配聊天语音以及直播相关的社交系统模板项目|146|2022-07-20|
-|113|[XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)|数据备份 DataBackup for Android|140|2022-08-06|
-|114|[0xbad1d3a5/Kaku](https://github.com/0xbad1d3a5/Kaku)|画 - Japanese OCR Dictionary|133|2022-07-28|
-|115|[yellowbluesky/PixivforMuzei3](https://github.com/yellowbluesky/PixivforMuzei3)|Best Pixiv plugin for Muzei 3|132|2022-08-03|
-|116|[Secack/ppx](https://github.com/Secack/ppx)|皮皮虾助手|129|2022-08-05|
-|117|[zippo88888888/ZFileManager](https://github.com/zippo88888888/ZFileManager)|Android 文件操作|124|2022-08-03|
-|118|[WankkoRee/EnableWebViewDebugging](https://github.com/WankkoRee/EnableWebViewDebugging)|Enable WebView debugging and add vConsole in it. Support WebView, TBS X5, UC U4, Crosswalk(XWalk), XWeb. 启用 WebView 调试并添加 vConsole，支持 WebView、TBS X5、UC U4、Crosswalk(XWalk)、XWeb。|122|2022-07-27|
-|119|[fumiama/copymanga](https://github.com/fumiama/copymanga)|拷贝漫画的第三方APP，优化阅读/下载体验|122|2022-06-17|
-|120|[heyanLE/EasyBangumi](https://github.com/heyanLE/EasyBangumi)|纯纯看番，追番和看番的安卓软件，多番剧源 -樱花动漫 -Bimibimi - AGE 动漫|120|2022-06-11|
-|121|[duzhaokun123/BilibiliHD2](https://github.com/duzhaokun123/BilibiliHD2)|非官方哔哩哔哩客户端|117|2022-08-02|
-|122|[only52607/lua-mirai](https://github.com/only52607/lua-mirai)|JVM平台基于lua的bot开发框架|115|2022-06-29|
-|123|[AranAndroid009/Mvvm](https://github.com/AranAndroid009/Mvvm)|-|111|2022-07-20|
-|124|[liangjingkanji/soft-input-event](https://github.com/liangjingkanji/soft-input-event)|Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation|110|2022-06-29|
-|125|[BzCoder/EasyGlide](https://github.com/BzCoder/EasyGlide)|🐼基于Glide 4.12.0封装的 一键使用工具类。现已改为kotlin实现。支持HTTPS图片，可下载图片，可监听加载进度。包含常用变换：高斯模糊，圆角矩形，圆形，黑白，描边圆形，描边方形。|110|2022-07-17|
-|126|[cssxsh/pixiv-helper](https://github.com/cssxsh/pixiv-helper)|mirai-console 插件开发计划|109|2022-08-03|
-|127|[JakePrim/FBEAndroid](https://github.com/JakePrim/FBEAndroid)|Fast build efficient Android: Fast building, high quality, and efficient Android App infrastructure scaffolding right out of the box(快速构建、高质量、高效率Android App应用开箱即用的基础脚手架)|109|2022-06-15|
-|128|[SapuSeven/BetterUntis](https://github.com/SapuSeven/BetterUntis)|An alternative mobile client for the Untis timetable system.|108|2022-08-02|
-|129|[Colter23/bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)|低延迟检测B站动态/直播的mirai-console插件|107|2022-07-30|
-|130|[sonder-joker/mirai-compose](https://github.com/sonder-joker/mirai-compose)|mirai-console的跨平台桌面端|102|2022-07-03|
-|131|[bloodyrabbit/mirai-setu](https://github.com/bloodyrabbit/mirai-setu)|一个mirai-console的简单的色图插件|101|2022-08-05|
-|132|[cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper)|mirai-console 插件开发计划|93|2022-08-06|
-|133|[koharubiyori/Moegirl-plus-native](https://github.com/koharubiyori/Moegirl-plus-native)|萌娘百科与H萌娘第三方安卓客户端，使用Jetpack Compose单Activity模式开发。|91|2022-08-04|
-|134|[CorruptedArk/did-i-take-my-meds](https://github.com/CorruptedArk/did-i-take-my-meds)|A Kotlin Android app to manage medications|91|2022-08-01|
-|135|[cdnbye/android-p2p-engine](https://github.com/cdnbye/android-p2p-engine)|Let your viewers become your unlimitedly scalable CDN.|90|2022-08-03|
-|136|[gitofleonardo/AnyDebug](https://github.com/gitofleonardo/AnyDebug)|View Attributes Modifier/View属性修改|88|2022-06-14|
-|137|[Alonsol/PerfectFloatWindow](https://github.com/Alonsol/PerfectFloatWindow)|android全局悬浮窗，目前已经适配华为，小米，vivo，oppo，一加，三星，魅族，索尼，LG,IQOO,努比亚，中兴，金立，360，锤子等目前是市面上所有机型兼容android4.1至android11版本，支持androidX|88|2022-08-05|
-|138|[shigebeyond/jkmvc](https://github.com/shigebeyond/jkmvc)|Jkmvc is an elegant, powerful and lightweight MVC & ORM framework built using kotlin. It aims to be swift, secure, and small. It will turn java's heavy development into kotlin's simple pleasure. No sp ...|87|2022-07-20|
-|139|[stars-one/M3u8Downloader](https://github.com/stars-one/M3u8Downloader)|a downloader for m3u8 video 一款m3u8视频下载解密合并工具|86|2022-06-20|
-|140|[QiYuTechOrg/QiYuTkAndroid](https://github.com/QiYuTechOrg/QiYuTkAndroid)|奇遇淘客 Android 客户端|85|2022-06-25|
-|141|[YuQWorks/YuQ-Mirai](https://github.com/YuQWorks/YuQ-Mirai)|-|82|2022-06-15|
-|142|[fmtjava/Jetpack_Kotlin_Eyepetizer](https://github.com/fmtjava/Jetpack_Kotlin_Eyepetizer)|一款基于Kotlin + Jetpack核心组件 + 协程 + 组件化实现的精美仿开眼视频App(提供Flutter、React Native、小程序版本 😁  )|80|2022-07-29|
-|143|[ChinaLike/TagTextView](https://github.com/ChinaLike/TagTextView)|在TextView的指定位置添加标签，支持属性快速配置和自定义标签|78|2022-08-01|
-|144|[RW-HPS/RW-HPS](https://github.com/RW-HPS/RW-HPS)|Dedicated to Rusted Warfare(RustedWarfare) High Performance Server / 铁锈战争高效率服务器|78|2022-07-24|
-|145|[liangjingkanji/Tooltip](https://github.com/liangjingkanji/Tooltip)|🍞 Android 快速创建吐司/对话框 Quick crete Toast or Dialog|78|2022-06-09|
-|146|[YZune/CourseAdapter](https://github.com/YZune/CourseAdapter)|-|77|2022-07-21|
-|147|[wangyiqian/StockChart](https://github.com/wangyiqian/StockChart)|StockChart 一款适用于Android的高扩展性、高性能股票图/K线图开发库，支持多图组合，除了使用内置子图还支持定制子图满足复杂的业务需求。|71|2022-07-18|
-|148|[oooo7777777/VLibrary](https://github.com/oooo7777777/VLibrary)|MVVM+DataBinding+ViewModel+lifecycle+kotlin+liveData+Coroutines|69|2022-07-22|
-|149|[tuuzed/LightTunnel](https://github.com/tuuzed/LightTunnel)|LightTunnel-内网穿透映射工具，支持TCP、HTTP、HTTPS穿透映射，支持Windows、Linux、Mac、Android系统|67|2022-07-20|
-|150|[Walkud/JudyKotlinMvp](https://github.com/Walkud/JudyKotlinMvp)|Kotlin + Mvp + RxJava + Retrofit 心得体会|67|2022-06-30|
-|151|[kongnanlive/StickyHeaderScrollView](https://github.com/kongnanlive/StickyHeaderScrollView)|支持吸顶Sticky，滚动布局NestedScrollView嵌套RecyclerView，解决CoordinatorLayout、AppBarLayout快速滑动fling停住卡住回弹抖动等bug|66|2022-07-11|
-|152|[DylanCaiCoding/MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX)|Use MMKV with property delegates. (用属性委托的方式使用  MMKV)|65|2022-07-29|
-|153|[wolongalick/PercentRatingBar](https://github.com/wolongalick/PercentRatingBar)|按滑动百分比来评分的控件|65|2022-06-15|
-|154|[Nekoer/mirai-plugins-pixiv](https://github.com/Nekoer/mirai-plugins-pixiv)|可查看pixiv排行榜，作者作品，插画图片等等|64|2022-07-25|
-|155|[yechaoa/wanandroid_jetpack](https://github.com/yechaoa/wanandroid_jetpack)|玩安卓的Jetpack版本|64|2022-07-07|
-|156|[ButterCam/sisyphus](https://github.com/ButterCam/sisyphus)|Sisyphus is the way how we provide backend services.|64|2022-08-04|
-|157|[YvesCheung/EmojiReader](https://github.com/YvesCheung/EmojiReader)|A simple tool to recognize Emoji in string. (JavaScript & Java)|62|2022-07-21|
-|158|[BillyWei01/Doodle](https://github.com/BillyWei01/Doodle)|An efficient and powerful image loader for Android.|62|2022-07-16|
-|159|[TabooLib/adyeshach](https://github.com/TabooLib/adyeshach)|Powerful plugin for creating virtual NPCs within the Minecraft|60|2022-07-22|
-|160|[egoal/darkest-pixel-dungeon](https://github.com/egoal/darkest-pixel-dungeon)|Traditional roguelike game with pixel-art graphics and simple interface |60|2022-07-10|
-|161|[zhouhuandev/SerialPortKit](https://github.com/zhouhuandev/SerialPortKit)|🔥🔥🔥SerialPortKit是基于Android开发板进行与下位机进行通讯的工具套件SDK。串口通讯部分使用C++实现。SerialPortKit旨在帮助做Android开发板硬件开发的小伙伴们快速迭代开发，只关注业务。通常涉及到RK3288、RK3399等设备，SerialPortKit都能帮助到你。|59|2022-07-04|
-|162|[simplepeng/PickerLayoutManager](https://github.com/simplepeng/PickerLayoutManager)|🔥🔥🔥 - 一个基于自定义LayoutManager的PickerView|59|2022-06-24|
-|163|[sy007/CalendarView](https://github.com/sy007/CalendarView)|一款强大的Android日历控件|58|2022-06-17|
-|164|[IceCream-QAQ/Rain](https://github.com/IceCream-QAQ/Rain)|Java Application 开发框架|57|2022-07-09|
-|165|[hackware1993/weiV](https://github.com/hackware1993/weiV)|weiV (pronounced the same as wave), a new declarative UI development framework based on the Android View system. The core source files are only 35 KB. weiV（发音同 wave），一个基于 Android View 系统的全新声明式 UI 开发框架 ...|56|2022-07-07|
-|166|[project-mirai/chat-command](https://github.com/project-mirai/chat-command)|Chat command executor for mirai-console|56|2022-06-11|
-|167|[7449/Album](https://github.com/7449/Album)|android 图片视频加载库，单选，多选，预览，自定义UI，相机，裁剪...等等 已适配android10，11|56|2022-07-01|
-|168|[LoveInShenZhen/sz-vertx-kotlin](https://github.com/LoveInShenZhen/sz-vertx-kotlin)|vertx + kotlin + vertx-web|54|2022-07-26|
-|169|[ProtobufBot/pbbot-spring-boot-starter](https://github.com/ProtobufBot/pbbot-spring-boot-starter)|QQ机器人的spring boot starter，推荐基于这个进行快速开发。本项目使用MIT协议，如果Client选择Mirai请使用AGPLv3协议。|53|2022-08-01|
-|170|[liangjingkanji/LogCat](https://github.com/liangjingkanji/LogCat)|🐞 Android Logcat 日志工具|53|2022-06-14|
-|171|[huanglinqing123/TravelPrevention](https://github.com/huanglinqing123/TravelPrevention)|MVVM开源项目-出行防疫App|52|2022-06-16|
-|172|[scubajeff/Setter](https://github.com/scubajeff/Setter)|A multi-purpose search app for Android|52|2022-07-28|
-|173|[Him188/kotlin-jvm-blocking-bridge](https://github.com/Him188/kotlin-jvm-blocking-bridge)|Kotlin compiler plugin for generating blocking bridges for calling suspend functions from Java with minimal effort|52|2022-07-31|
-|174|[Jasper-1024/NoWakeLock](https://github.com/Jasper-1024/NoWakeLock)|An application that controls Android wakelocks can run on Android N and later.|51|2022-08-05|
-|175|[ellykits/neat-form](https://github.com/ellykits/neat-form)|Build form on Android using JSON schema; also includes view validation and skip logic.|51|2022-07-27|
-|176|[catchpig/kmvvm](https://github.com/catchpig/kmvvm)|Kotlin+Flow+Retrofit+OKHttp+ViewBanding+ViewModel+LiveData封装的MVVM框架,支持协程方式访问网络请求|50|2022-08-02|
-|177|[Peakmain/BasicUI](https://github.com/Peakmain/BasicUI)|BasicUI是一些常用的Android UI组件和一些实用工具类封装，提高Android的开发效率|50|2022-08-03|
-|178|[mouxuefei/MvvmModulePatternSample](https://github.com/mouxuefei/MvvmModulePatternSample)|mvvvm+组件化的sample|50|2022-06-16|
-|179|[curioustorvald/Terrarum-sans-bitmap](https://github.com/curioustorvald/Terrarum-sans-bitmap)|The real multilingual bitmap font for video games|50|2022-08-02|
-|180|[YuQWorks/YuQ](https://github.com/YuQWorks/YuQ)|通用聊天机器人开发框架（QQ，微信，Telegram，及更多）|48|2022-06-21|
-|181|[leavesCZY/Matisse](https://github.com/leavesCZY/Matisse)|一个用 Jetpack Compose 实现的图片选择框架|47|2022-07-31|
-|182|[AoEiuV020/IAmNotDisabled](https://github.com/AoEiuV020/IAmNotDisabled)|我不是残疾人！|46|2022-07-06|
-|183|[Karlatemp/LuckPerms-Mirai](https://github.com/Karlatemp/LuckPerms-Mirai)|LuckPerms on MiraiConsole|45|2022-08-04|
-|184|[liangjingkanji/Interval](https://github.com/liangjingkanji/Interval)|Android计时器工具, 倒计时/正计时/开始/暂停/继续/结束/取消|44|2022-08-05|
-|185|[jchanghong/kotlin-backend-tool-library](https://github.com/jchanghong/kotlin-backend-tool-library)|A kotlin backend development tool library，mainly includes common kotlin extensions for daily projects。轻松将kotlin加入现有java后端项目，自己日常工具类|44|2022-06-16|
-|186|[Shennoter/ApexRankLookUp](https://github.com/Shennoter/ApexRankLookUp)|一个mirai-console插件，用于查询Apex英雄玩家信息、地图轮换、复制器轮换、猎杀门槛、官方新闻等|44|2022-07-09|
-|187|[RedrockMobile/CyxbsMobile_Android](https://github.com/RedrockMobile/CyxbsMobile_Android)|掌上重邮——重邮首款整合校园与生活的App|44|2022-08-06|
-|188|[james602152002/FloatingLabelSpinner](https://github.com/james602152002/FloatingLabelSpinner)|A spinner you can customize your hint and header of dialog with floating label.|43|2022-07-15|
-|189|[TakWolf/Android-RefreshAndLoadMore-Demo](https://github.com/TakWolf/Android-RefreshAndLoadMore-Demo)|一种简单且优雅的下拉刷新和加载更多分页的解决方案。|43|2022-07-11|
-|190|[DylanCaiCoding/Tracker](https://github.com/DylanCaiCoding/Tracker)|A lightweight tracking framework based on the tracking idea of Buzzvideo.(基于西瓜视频的责任链埋点思路实现的轻量级埋点框架)|42|2022-07-20|
-|191|[GuoguoDad/jd_mall](https://github.com/GuoguoDad/jd_mall)|高仿京东商城项目具有完整的结构，代码整洁规范，结构清晰，集成React-Native热更功能，功能还在持续更新中。。。 1. kotlin 、 retrofit2 + okhttp3 网络请求 、多模块 2. leakcanary 内存泄漏检测 3. 基于MVI架构airbnb的Mavericks 4. 本地mock 5. alibaba ARouter 6. 集成RN热更功能， 用户设置为rn写 ...|42|2022-07-18|
-|192|[wangdaqi77/P2M](https://github.com/wangdaqi77/P2M)|一个完整的Android组件化框架。|41|2022-07-27|
-|193|[hiroshiyui/GuilelessBopomofo](https://github.com/hiroshiyui/GuilelessBopomofo)|Guileless Bopomofo（樸實注音鍵盤）- A Bopomofo（注音符號）software keyboard (aka input method editor) on Android, which is utilizing libchewing for intelligent phonetic processing.|41|2022-07-27|
-|194|[RyensX/SakuraAnimePlugin](https://github.com/RyensX/SakuraAnimePlugin)|樱花动漫第三方客户端 (http://www.yinghuacd.com)|40|2022-07-28|
-|195|[Ayvytr/ktx](https://github.com/Ayvytr/ktx)|简化Android开发的Kotlin库|40|2022-08-03|
-|196|[TabooLib/chemdah](https://github.com/TabooLib/chemdah)|Powerful plugin for creating quests within the Minecraft|39|2022-07-30|
-|197|[coolfire2015/RxFluxArchitecture](https://github.com/coolfire2015/RxFluxArchitecture)|基于Flux架构的模块化框架|39|2022-06-25|
-|198|[Khaos116/ABase](https://github.com/Khaos116/ABase)|AndroidX+MVVM+RxHttp+协程+LiveData+Multitype适配器+StartUp+MMKV+ImmersionBar+AndroidAutoSize+SmartRefresh+SmartSwipe+Coil图片加载+LiveEventBus+Banner+RecyclerView万能分割线+Grid拖拽+Sticky悬浮+APK加固后重新写入V2签名+美团多渠道打包Bat ...|38|2022-08-05|
-|199|[fei-ke/HMSPush](https://github.com/fei-ke/HMSPush)|让非华为设备支持 HMS 推送，同时避免唤醒目标应用|37|2022-08-05|
-|200|[shaoshuai904/XStyleDialog](https://github.com/shaoshuai904/XStyleDialog)|可定制化样式的Android Dialog |37|2022-06-21|
+|1|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|13556|2023-10-10|
+|2|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|9698|2023-11-23|
+|3|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|7892|2023-11-24|
+|4|[gkd-kit/gkd](https://github.com/gkd-kit/gkd)|基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP|6958|2023-11-24|
+|5|[tiann/KernelSU](https://github.com/tiann/KernelSU)|A Kernel based root solution for Android|5272|2023-11-24|
+|6|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|5162|2023-11-21|
+|7|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|4660|2023-10-11|
+|8|[Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer)|EhViewer overhauled with Material Design 3, Jetpack Compose and more|4616|2023-09-06|
+|9|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio|4188|2023-11-13|
+|10|[bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials)|仓库持续记录以 Kotlin 为基础的视频内容的制作过程|4094|2023-11-03|
+|11|[zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)|Material Design file manager for Android|4015|2023-11-22|
+|12|[liujingxing/rxhttp](https://github.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3601|2023-11-11|
+|13|[Ccixyj/JBusDriver](https://github.com/Ccixyj/JBusDriver)|这是去幼儿园的班车(滑稽|2446|2023-10-08|
+|14|[MatsuriDayo/Matsuri](https://github.com/MatsuriDayo/Matsuri)|Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet|2443|2023-06-30|
+|15|[osfans/trime](https://github.com/osfans/trime)|同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android|2381|2023-11-24|
+|16|[Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource)|Salt Player, The Best!|2318|2023-11-22|
+|17|[guolindev/coolweatherjetpack](https://github.com/guolindev/coolweatherjetpack)|酷欧天气的Jetpack版本实现，采用了MVVM架构。|2251|2023-09-05|
+|18|[TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci)|蓝鲸持续集成平台(蓝盾) |2239|2023-11-24|
+|19|[liangjingkanji/BRV](https://github.com/liangjingkanji/BRV)|[文档详细] Android 快速构建 RecyclerView, 比 BRVAH 更简单强大|2225|2023-11-11|
+|20|[azhon/AppUpdate](https://github.com/azhon/AppUpdate)|Android App update library.  Android版本更新库，简单、轻量、可随意定制|2046|2023-09-20|
+|21|[Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist)|An Xposed module to intercept applist detections|2023|2023-10-15|
+|22|[wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic)|An Android online music player like NetEase Cloud Music|1972|2023-11-21|
+|23|[rumboalla/apkupdater](https://github.com/rumboalla/apkupdater)|APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.|1950|2023-11-24|
+|24|[panpf/sketch](https://github.com/panpf/sketch)|Sketch is a powerful and comprehensive image load library on Android, in addition to the basic functions, it also supports Jetpack Compose, GIF, SVG, video thumbnails, gesture zoom, huge images sampli ...|1939|2023-11-24|
+|25|[kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm)|A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.|1868|2023-11-18|
+|26|[gallonyin/worktool](https://github.com/gallonyin/worktool)|【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT|1866|2023-11-23|
+|27|[allenymt/PrivacySentry](https://github.com/allenymt/PrivacySentry)|工信部-Android隐私合规整改检测工具，注解+Asm修改字节码的检测方案|1829|2023-10-26|
+|28|[jing332/tts-server-android](https://github.com/jing332/tts-server-android)|这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。|1812|2023-11-10|
+|29|[EhViewer-NekoInverter/EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer)|🥥 A fork of EhViewer, feature requests are not accepted. Forked from https://gitlab.com/NekoInverter/EhViewer|1793|2023-11-21|
+|30|[VIPyinzhiwei/Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)|🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。|1790|2023-09-29|
+|31|[bytedance/btrace](https://github.com/bytedance/btrace)|🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Perfetto, it support to define custom events automatically during building apk and using bhook to provider more nati ...|1699|2023-09-18|
+|32|[EmmyLua/IntelliJ-EmmyLua](https://github.com/EmmyLua/IntelliJ-EmmyLua)|Lua IDE/Debugger Plugin for IntelliJ IDEA|1668|2023-11-20|
+|33|[ismartcoding/plain-app](https://github.com/ismartcoding/plain-app)|🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy  ...|1648|2023-11-24|
+|34|[liangjingkanji/Net](https://github.com/liangjingkanji/Net)|Android 基于协程/OkHttp网络请求工具|1583|2023-11-10|
+|35|[wdsqjq/FengYunWeather](https://github.com/wdsqjq/FengYunWeather)|风云天气是Android 平台开源天气 App，采用Kotlin、Room、OKHttp3、 协程等框架实现。|1527|2023-09-14|
+|36|[fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)|Fcitx5 input method framework and engines ported to Android|1524|2023-11-17|
+|37|[bytedance/CodeLocator](https://github.com/bytedance/CodeLocator)|-|1492|2023-10-23|
+|38|[barbeau/gpstest](https://github.com/barbeau/gpstest)|The #1 open-source Android GNSS/GPS test program|1450|2023-11-06|
+|39|[tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper)|让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏|1447|2023-06-06|
+|40|[zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid)|🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！|1428|2023-11-22|
+|41|[lulululbj/wanandroid](https://github.com/lulululbj/wanandroid)|Jetpack MVVM For Wanandroid 最佳实践 ！|1374|2023-11-15|
+|42|[CarGuo/GSYGithubAppKotlin](https://github.com/CarGuo/GSYGithubAppKotlin)|超完整的Android Kotlin 项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：目前已经拥有Flutter、Weex、ReactNative、Kotlin四个版本。 功能齐全，项目框架内技术涉及面广，完成度高。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本：  ...|1363|2023-07-21|
+|43|[rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark)|🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用|1361|2023-10-20|
+|44|[angcyo/DslTabLayout](https://github.com/angcyo/DslTabLayout)|:hearts: Android界最万能的TabLayout(不仅仅是TabLayout), 支持任意类型的item, 支持Drawable类型的指示器,智能开启滚动,支持横竖向布局等|1350|2023-08-21|
+|45|[dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream)|ScreenStream Android App|1342|2023-11-24|
+|46|[XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup)|数据备份 DataBackup for Android|1260|2023-11-24|
+|47|[easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi)|纯纯看番，使用 Compose 开发的看番软件，支持多番剧源|1211|2023-11-23|
+|48|[stripe/stripe-android](https://github.com/stripe/stripe-android)|Stripe Android SDK    |1160|2023-11-24|
+|49|[Leon406/ToolsFx](https://github.com/Leon406/ToolsFx)|基于kotlin+tornadoFx的跨平台密码学工具箱.包含编解码,编码转换,加解密, 哈希,MAC,签名,大数运算,压缩,二维码功能,ctf等实用功能,支持插件|1146|2023-11-24|
+|50|[aistra0528/Hail](https://github.com/aistra0528/Hail)|冻结 Android 应用 Freeze Android apps|1104|2023-11-23|
+|51|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|fragmject is a learning project prepared for Kotlin and Jetpack Compose.   fragmject 是一个为初学者准备的上手项目。 通过对 Kotlin 和 Compose 的系统运用，实现的一个功能完备符合主流市场标准 App。  fragmject 没有复杂的业务和多余的封装， 完全依照 Android Developer  ...|1092|2023-11-23|
+|52|[javakam/FileOperator](https://github.com/javakam/FileOperator)|🔥 涵盖了Android系统文件的创建/删除/复制/打开文件(目录)、获取文件(目录)大小、获取常用目录、获取文件名称及后缀、获取MimeType以及MediaStore和SAF的相关操作等常用功能，并且也处理了获取文件Uri/Path的兼容问题、图片压缩和文件选择等功能。|1076|2023-08-29|
+|53|[rRemix/APlayer](https://github.com/rRemix/APlayer)|Android Music Player|1071|2023-11-23|
+|54|[AllanWang/Frost-for-Facebook](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|1056|2023-07-29|
+|55|[SusionSuc/rabbit-client](https://github.com/SusionSuc/rabbit-client)|🐰 a simple and easy to use android  apm framework (tools)|1036|2023-07-10|
+|56|[compose-museum/jetpack-compose-book](https://github.com/compose-museum/jetpack-compose-book)|-|1015|2023-10-06|
+|57|[Quyunshuo/AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM)|基于 Jetpack + Kotlin 的 Android 组件化 MVVM 框架 |1000|2023-09-23|
+|58|[eprendre/tingshu](https://github.com/eprendre/tingshu)|一款可在线播放多个免费听书站点的安卓app|980|2023-10-09|
+|59|[RookieTree/DaMaiHelper](https://github.com/RookieTree/DaMaiHelper)|大麦抢票辅助|969|2023-07-18|
+|60|[HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)|⛱️ An efficient Hook API and Xposed Module solution built in Kotlin.|962|2023-11-23|
+|61|[aaa1115910/bv](https://github.com/aaa1115910/bv)|哔哩哔哩 的第三方 Android TV 应用。A third-party Android TV app for Bilibili.|938|2023-11-02|
+|62|[10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2)|bilimiao 2.0|922|2023-11-21|
+|63|[GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP)|自动跳过APP开屏广告|921|2023-11-22|
+|64|[FooIbar/EhViewer](https://github.com/FooIbar/EhViewer)|EhViewer overhauled with Material Design 3 and more, forked from https://github.com/Ehviewer-Overhauled/Ehviewer|873|2023-11-24|
+|65|[fumiama/copymanga](https://github.com/fumiama/copymanga)|拷贝漫画的第三方APP，优化阅读/下载体验|854|2023-11-05|
+|66|[YvesCheung/RollingText](https://github.com/YvesCheung/RollingText)|Android TextView with rolling animation|847|2023-09-05|
+|67|[RyensX/MediaBox](https://github.com/RyensX/MediaBox)|全能媒体容器，插件化网罗天下媒体，畅快浏览视频、漫画和任何你想要的媒体数据。A universal media container, aggregating media through plugins to browse videos, comics and any media data you want.|817|2023-07-09|
+|68|[DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)|Check updates for Android apps, Magisk modules and more!|809|2023-11-23|
+|69|[Petterpx/FloatingX](https://github.com/Petterpx/FloatingX)|Android免权限悬浮窗，支持全局(App内部)、局部悬浮(View)，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。Android without permission suspension window(App), support global(View), local suspension, support edge adsorption, rebound, cust ...|803|2023-11-19|
+|70|[xyoye/DanDanPlayForAndroid](https://github.com/xyoye/DanDanPlayForAndroid)|弹弹play 概念版，弹弹play系列应用安卓平台上的实现，是一个提供了视频播放（本地+局域网）和弹幕加载（在线+本地）功能的本地播放器|797|2023-10-10|
+|71|[plateaukao/einkbro](https://github.com/plateaukao/einkbro)|A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.|764|2023-11-18|
+|72|[DylanCaiCoding/ViewBindingKTX](https://github.com/DylanCaiCoding/ViewBindingKTX)|The most comprehensive utils of ViewBinding. (最全面的 ViewBinding 工具，支持 Kotlin 和 Java 用法，支持 BRVAH，支持封装到基类，支持 DataBinding，支持选择是否使用反射)|756|2023-07-20|
+|73|[liujingxing/XmlClassGuard](https://github.com/liujingxing/XmlClassGuard)|一个可混淆4大组件，自定义View等任意类的插件，上架Google Play的利器|746|2023-10-21|
+|74|[Block-Network/StatusBarLyric](https://github.com/Block-Network/StatusBarLyric)|[Xposed] Status Bar Lyric / 状态栏歌词|737|2023-11-23|
+|75|[fankes/TSBattery](https://github.com/fankes/TSBattery)|A new way to save your battery avoid cancer apps hacker it.|735|2023-11-18|
+|76|[lihenggui/blocker](https://github.com/lihenggui/blocker)|An useful tool that controls android components|723|2023-11-24|
+|77|[suming77/SumTea_Android](https://github.com/suming77/SumTea_Android)|基于组件化+模块化+Kotlin+协程+Flow+Retrofit+Jetpack+MVVM+短视频架构实现的WanAndroid客户端|716|2023-07-02|
+|78|[ifmvo/TogetherAd](https://github.com/ifmvo/TogetherAd)|🔥持续更新。Android广告聚合：帮助 Android 开发者快速、便捷、灵活的接入国内多家主流安卓广告 SDK。广点通（优量汇）、穿山甲、快手联盟、百青藤（百度Mob）。开屏广告、Banner横幅广告、插屏广告、激励广告、原生信息流、全屏广告。|715|2023-09-02|
+|79|[fabricezhang/lcg](https://github.com/fabricezhang/lcg)|吾爱破解第三方安卓应用|702|2023-10-17|
+|80|[Zhao-Yan-Yan/MultiStatePage](https://github.com/Zhao-Yan-Yan/MultiStatePage)|Android APP缺省页的正确打开方式 高度解耦、低侵入、易拓展 多状态视图状态切换器|699|2023-07-30|
+|81|[m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday)|🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar|667|2023-10-17|
+|82|[yueeng/hacg](https://github.com/yueeng/hacg)|琉璃神社 hacg android app|666|2023-11-24|
+|83|[sangcomz/FishBun](https://github.com/sangcomz/FishBun)|:blowfish:FishBun is Image Picker for android.|660|2023-09-22|
+|84|[aleyn97/MVVMLin](https://github.com/aleyn97/MVVMLin)|一个基于MVVM用Kotlin+Retrofit+协程+Databinding+LiveData来封装的快速开发框架|642|2023-10-25|
+|85|[tangshimin/MuJing](https://github.com/tangshimin/MuJing)|幕境 - 使用自己感兴趣的电影、美剧或文档，生成词库（单词本）。在记忆单词时，可以用键盘打字，练习拼写并观看相关的视频片段，以便更好的理解和记忆单词。播放电影时，以弹幕的形式复习词库中的单词。|632|2023-11-21|
+|86|[WaxMoon/MultiApp](https://github.com/WaxMoon/MultiApp)|A customizable virtual Android container/一款可定制的虚拟安卓容器|619|2023-10-01|
+|87|[pemistahl/lingua](https://github.com/pemistahl/lingua)|The most accurate natural language detection library for Java and the JVM, suitable for long and short text alike|617|2023-10-26|
+|88|[angcyo/DslAdapter](https://github.com/angcyo/DslAdapter)|:fire: Android Kotlin时代的Adapter, Dsl 的形式使用 RecyclerView.Adapter, 支持折叠展开, 树结构,悬停,情感图状态切换, 加载更多, 多类型Item,侧滑菜单等|608|2023-07-04|
+|89|[valentjn/ltex-ls](https://github.com/valentjn/ltex-ls)|LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others|606|2023-10-06|
+|90|[zhpanvip/viewpagerindicator](https://github.com/zhpanvip/viewpagerindicator)|🔥  Worked with ViewPager and ViewPager2,support multiple slider styles and multiple slide mode.This repo was split from BannerViewPager-|605|2023-06-29|
+|91|[ultranity/Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer)|一个支持免代理直连+多种额外特性功能优化的第三方 Pixiv android 客户端   A third-party Pixiv Android client with modern design and many other enhancements|583|2023-08-30|
+|92|[ldlywt/FastJetpack](https://github.com/ldlywt/FastJetpack)|基于Kotlin、协程、Retrofit的网络请求封装，快速简单轻便。|583|2023-09-20|
+|93|[jaaksi/pickerview](https://github.com/jaaksi/pickerview)|One very very user-friendly Picker library（内部提供两种常用类型的Picker：时间选择器（支持聚合）和联动选择器（支持不联动）。支持扩展自定义Picker。支持自定义弹窗。支持作为view的非弹窗场景。）|581|2023-10-09|
+|94|[vincent-series/smart-show](https://github.com/vincent-series/smart-show)|Toast # Snackbar # Dialog |575|2023-11-01|
+|95|[kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui)|Bloat-free Immediate Mode Graphical User interface for JVM with minimal dependencies (rewrite of dear imgui)|575|2023-09-07|
+|96|[yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)|OneBot标准的Kotlin实现及mirai插件 - 原cqhttp-mirai|565|2023-10-21|
+|97|[liangjingkanji/StateLayout](https://github.com/liangjingkanji/StateLayout)|🍘 Android上最强大的缺省页框架|532|2023-10-09|
+|98|[DylanCaiCoding/Longan](https://github.com/DylanCaiCoding/Longan)|Probably the best Kotlin utils library for Android. (可能是最好用的 Kotlin 工具库)|529|2023-08-21|
+|99|[ssseasonnn/Yasha](https://github.com/ssseasonnn/Yasha)|A DSL library for rendering RecyclerView and ViewPager.|517|2023-11-02|
+|100|[izhangzhihao/intellij-rainbow-fart](https://github.com/izhangzhihao/intellij-rainbow-fart)|🌈一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired by vscode-rainbow-fart|512|2023-08-17|
+|101|[leavesCZY/Matisse](https://github.com/leavesCZY/Matisse)|A Image/Video Selector Implemented with Jetpack Compose（一个用 Jetpack Compose 实现的 Android 图片/视频 选择框架）|497|2023-11-19|
+|102|[Simplicity-Team/WooBoxForMIUI](https://github.com/Simplicity-Team/WooBoxForMIUI)|一个基于 MIUI13+(Android 12+) 适配的自定义工具 // A system extension Xposed module based on MIUI13+ (Android12+)|496|2023-06-14|
+|103|[liangjingkanji/spannable](https://github.com/liangjingkanji/spannable)|Android最好的Spannable富文本工具, 唯一支持正则匹配/图文混排/图标/GIF动画/自定义表情包|488|2023-08-10|
+|104|[simple-robot/simpler-robot](https://github.com/simple-robot/simpler-robot)|Simple Robot，一个bot风格的高效异步事件调度框架，用灵活统一的标准来编写不同平台的bot应用。simpler-robot是用于区别于旧版本仓库 simple-robot 的新版本命名。|472|2023-10-11|
+|105|[FSpaceCore/SpaceCore](https://github.com/FSpaceCore/SpaceCore)|SpaceCore is a virtual Android system engine that can  engage users clone and run dual applications，this engine can also support device simulation, fake GPS and many other features.SpaceCore是一个虚拟引擎内核， ...|470|2023-07-30|
+|106|[iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku)|A Android Application for share DeviceOwner|464|2023-11-18|
+|107|[metrodroid/metrodroid](https://github.com/metrodroid/metrodroid)|Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon)|455|2023-11-10|
+|108|[Pangu-Immortal/MagicWX](https://github.com/Pangu-Immortal/MagicWX)|🔥免root实现 Android改机（一键新机）技术解密，微信无限多开等。|451|2023-11-20|
+|109|[meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android)|Android application for Meshtastic|446|2023-11-23|
+|110|[fluttercandies/FlutterJsonBeanFactory](https://github.com/fluttercandies/FlutterJsonBeanFactory)|What I do is generate dart beans based on json, as well as generics parameters and json build instances|434|2023-11-03|
+|111|[zhujiang521/PlayWeather](https://github.com/zhujiang521/PlayWeather)|🔥🔥🔥 Compose、Lce、MVVM、深色模式、横屏、无网弱网适配、Room、Hilt、多语言切换，目前Android最新的库基本全用上了，你想要的都有。还使用 Compose-Desktop 编写了桌面版本，快来试试吧！🔥🔥🔥|424|2023-08-31|
+|112|[sunshine0523/Mi-Freeform](https://github.com/sunshine0523/Mi-Freeform)|Mi-Freeform 3 is an Android third-party freeform software that supports Android 8.1-Android 14|410|2023-11-12|
+|113|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|408|2023-11-10|
+|114|[tangcent/easy-yapi](https://github.com/tangcent/easy-yapi)|Generate API document to yapi|406|2023-11-23|
+|115|[fei-ke/HMSPush](https://github.com/fei-ke/HMSPush)|让非华为设备支持 HMS 推送，同时避免唤醒目标应用|403|2023-11-20|
+|116|[Peakmain/BasicLibrary](https://github.com/Peakmain/BasicLibrary)|BasicLibrary是基于kotlin+jetpack+mvvm封装的一套框架，提高Android开发效率|401|2023-10-07|
+|117|[hi-dhl/ComposingBuilds-vs-buildSrc](https://github.com/hi-dhl/ComposingBuilds-vs-buildSrc)| Composing builds 和 buildSrc 优势劣势对比，仓库提供了 buildSrc 和 Composing builds 两个构建脚本，下文有使用方法，如果对你有帮助，请在右上角 star 一下，感谢|396|2023-08-09|
+|118|[platonai/PulsarRPA](https://github.com/platonai/PulsarRPA)|Automate webpages at scale, scrape web data completely and accurately with high performance, distributed RPA.|387|2023-11-23|
+|119|[hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)|:blue_book: A diary application optimized for user experience.|375|2023-11-06|
+|120|[iTXTech/mirai-native](https://github.com/iTXTech/mirai-native)|强大的 mirai 原生插件加载器|367|2023-07-31|
+|121|[YenalyLiew/Han1meViewer](https://github.com/YenalyLiew/Han1meViewer)|A Hanime1.me Application for Android.|354|2023-11-24|
+|122|[liangjingkanji/Channel](https://github.com/liangjingkanji/Channel)|🍯  LiveData / Coroutine / Lifecycle / EventBus 特性的事件总线框架|334|2023-08-16|
+|123|[cloudoptlab/cloudopt-next](https://github.com/cloudoptlab/cloudopt-next)|A simple and modern Java and Kotlin vert.x web framework|329|2023-09-22|
+|124|[LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)|An easy-to-use, high-performance dex deobfuscation library.|328|2023-11-24|
+|125|[ekibun/Bangumi](https://github.com/ekibun/Bangumi)|Bangumi番组计划Android客户端|324|2023-07-21|
+|126|[devin1014/DLNA-Cast](https://github.com/devin1014/DLNA-Cast)|基于Cling库封装的DLNA投屏库，支持DMC、DMS、DMR功能。|315|2023-09-07|
+|127|[KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper)|A library to make Xposed modules development easier.|313|2023-10-29|
+|128|[Arcns/arc-fast](https://github.com/Arcns/arc-fast)|本项目包含一系列Android开发的便携工具，主要包括Fast Permission、Immersive Dialog、Immersive PopupWindow、Fast Span、Fast Mask等，能够让你快速、优雅的享受安卓便捷开发～|312|2023-11-14|
+|129|[Krosxx/Android-Auto-Api](https://github.com/Krosxx/Android-Auto-Api)|安卓无障碍服务Api, 为了简化无障碍服务使用，并使用 Kotlin 以提供简洁的Api。|312|2023-06-12|
+|130|[soulqw/CoCo](https://github.com/soulqw/CoCo)|A delicate lib for System Capture, Pick and Crop in Android  |309|2023-07-22|
+|131|[twiceyuan/WXAPK](https://github.com/twiceyuan/WXAPK)|直接安装微信接收到的 APK|303|2023-09-23|
+|132|[JuliaEditorSupport/julia-intellij](https://github.com/JuliaEditorSupport/julia-intellij)|:computer: Julia Plugin for IntelliJ IDEA ┗:smiley:┛ ┏:smiley:┓ ┗:smiley:┛|289|2023-09-11|
+|133|[linwg1988/LCardView](https://github.com/linwg1988/LCardView)|卡片布局，可设置阴影颜色，透明度，圆角大小，阴影宽度|279|2023-08-29|
+|134|[hadix-lin/ideavim_extension](https://github.com/hadix-lin/ideavim_extension)|IdeaVIM插件的扩展插件|279|2023-11-14|
+|135|[fengzhizi715/SAF-Kotlin-log](https://github.com/fengzhizi715/SAF-Kotlin-log)|完全基于 Kotlin 开发的 Android 日志框架，提供极简的 API|279|2023-05-26|
+|136|[shizq123/BIKA](https://github.com/shizq123/BIKA)|第三方哔咔漫画|276|2023-07-18|
+|137|[xiaojinzi123/TallyApp](https://github.com/xiaojinzi123/TallyApp)|一个 Android 的记账 App, 完全的 组件化 + Compose + Kotlin + 响应式编程 + Room 数据库 + Retrofit|274|2023-06-05|
+|138|[liangjingkanji/StatusBar](https://github.com/liangjingkanji/StatusBar)|[开发必备] Android一行代码配置透明状态栏|271|2023-08-14|
+|139|[xdd666t/getx_template](https://github.com/xdd666t/getx_template)|Used to generate the template code of GetX framework   Flutter GetX模板代码生成（一个有用的IDEA插件）|270|2023-06-18|
+|140|[leavesCZY/compose_chat](https://github.com/leavesCZY/compose_chat)| Jetpack Compose 最佳实践，用 Jetpack Compose 写一个 IM APP|260|2023-11-19|
+|141|[MrXiaoM/Aoki](https://github.com/MrXiaoM/Aoki)|Mirai 一键登录处理器|251|2023-06-15|
+|142|[ltttttttttttt/ComposeViews](https://github.com/ltttttttttttt/ComposeViews)|跨平台Compose组件,  Jatpack(JetBrains) Compose views, in to Android, Web, Desktop, iOS: Pager, Banner, Indicator, Refresh Layout, Flow Layout, Menu Floating Action Button, Pull To Refresh, Chain Scrollable ...|247|2023-11-22|
+|143|[FunnySaltyFish/FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation)|基于Jetpack Compose开发的翻译软件，支持多引擎、插件化~   Jetpack Compose+MVVM+协程+Room|247|2023-10-10|
+|144|[lingxiaoplus/BiliBili](https://github.com/lingxiaoplus/BiliBili)|基于ijkplayer+rxjava+retrofit，组件化思想，实现一个仿B站的Android客户端|242|2023-07-10|
+|145|[GangJust/FreedomPlus](https://github.com/GangJust/FreedomPlus)|依赖于抖音运行的Xposed模块.|238|2023-11-24|
+|146|[liangjingkanji/soft-input-event](https://github.com/liangjingkanji/soft-input-event)|Android软键盘遮挡/平滑动画最佳解决方案 Solution for keyboard cover in/smooth animation|238|2023-09-07|
+|147|[TabooLib/taboolib](https://github.com/TabooLib/taboolib)|Powerful framework for creating multi-platform Minecraft plugin|237|2023-11-22|
+|148|[hyy920109/HighLightPro](https://github.com/hyy920109/HighLightPro)|A highlight lib and also it can be a simple popup window lib for android|226|2023-07-12|
+|149|[jing332/AlistAndroid](https://github.com/jing332/AlistAndroid)|AList 安卓版本，APK安装即用，无需Root或Termux。|224|2023-11-24|
+|150|[liangjingkanji/Serialize](https://github.com/liangjingkanji/Serialize)|🍒 Android 简单高性能读写本地数据, 直接存储对象/基础类型|221|2023-08-31|
+|151|[leavesCZY/asm-samples](https://github.com/leavesCZY/asm-samples)|Android 字节码插桩实战|220|2023-11-10|
+|152|[TrPlugins/TrMenu](https://github.com/TrPlugins/TrMenu)|Modern & Advanced Menu-Plugin for Minecraft Servers|220|2023-08-17|
+|153|[modernizing/chapi](https://github.com/modernizing/chapi)|Chapi is A common language meta information convertor, convert different languages to same meta-data model. 一个通用语言元信息转换器，能将不同语言转换为相同的模型。|218|2023-08-13|
+|154|[leavesCZY/Monitor](https://github.com/leavesCZY/Monitor)|一个适用于 OkHttp / Retrofit 的可视化抓包工具|218|2023-11-19|
+|155|[AndroidCoderPeng/AutoDingding](https://github.com/AndroidCoderPeng/AutoDingding)|钉钉自动打卡|216|2023-10-20|
+|156|[Colter23/bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin)|低延迟检测B站动态/直播的mirai-console插件|211|2023-08-27|
+|157|[bitlap/geocoding](https://github.com/bitlap/geocoding)|:globe_with_meridians: 地理编码技术，提供地址标准化和相似度计算。|211|2023-11-07|
+|158|[YvesCheung/UInspector](https://github.com/YvesCheung/UInspector)|A UI inspector to traverse a view hierarchy on Android|210|2023-07-30|
+|159|[zippo88888888/ZFileManager](https://github.com/zippo88888888/ZFileManager)|Android 文件操作|205|2023-11-14|
+|160|[Samarium150/mirai-console-lolicon](https://github.com/Samarium150/mirai-console-lolicon)|基于LoliconAPI的mirai-console插件|202|2023-09-04|
+|161|[anruence/enode](https://github.com/anruence/enode)|DDD 框架|201|2023-10-24|
+|162|[manondidi/kotlinArch](https://github.com/manondidi/kotlinArch)|kotlin mvp 开发脚手架|198|2023-08-30|
+|163|[Shouheng88/arch-android](https://github.com/Shouheng88/arch-android)|Type based Jetpack MVVM library.|197|2023-11-24|
+|164|[anyascii/anyascii](https://github.com/anyascii/anyascii)|Unicode to ASCII transliteration - C Elixir Go Java JS Julia PHP Python Ruby Rust Shell .NET|194|2023-11-11|
+|165|[StarWishsama/Comet-Bot](https://github.com/StarWishsama/Comet-Bot)|☄ 支持多 IM 平台的机器人|193|2023-10-20|
+|166|[robotemi/sdk](https://github.com/robotemi/sdk)|temi is an unparalleled robotic platform introducing a new dimension of development - movement. Using temi’s SDK, developers can create new functionalities and introduce new use cases via temi’s Andro ...|192|2023-11-23|
+|167|[SapuSeven/BetterUntis](https://github.com/SapuSeven/BetterUntis)|An alternative mobile client for the Untis timetable system.|190|2023-11-22|
+|168|[crowforkotlin/CopyMangaX](https://github.com/crowforkotlin/CopyMangaX)|拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发|183|2023-11-15|
+|169|[AnyLifeZLB/FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK)| Android On_device 1:1 Face Recognition And Alive Detect；1:N & M:N Face Search SDK  。       🧒 离线版设备端Android1:1人脸识别动作活体检测，静默活体检测 以及1:N M:N 人脸搜索 SDK 封装|181|2023-11-14|
+|170|[shizheng233/CopyMangaJava](https://github.com/shizheng233/CopyMangaJava)|一个第三方的拷贝漫画带有M3风格，支持动态主题。该App已通过Kotlin来实现，只是标题没改。|181|2023-09-14|
+|171|[junerver/VideoRecorder](https://github.com/junerver/VideoRecorder)|Android 仿微信短视频录制|178|2023-05-31|
+|172|[Mingyueyixi/MaskWechat](https://github.com/Mingyueyixi/MaskWechat)|这是一个微信 Xposed 模块，她可以隐藏特定用户的聊天记录，防止私密的聊天被第三人偷看|173|2023-11-11|
+|173|[luckyzyx/LuckyTool](https://github.com/luckyzyx/LuckyTool)|对ColorOS系统进行的扩展优化的Xposed模块，未经开发者授权，禁止私自搬运转载|171|2023-10-19|
+|174|[chr233/PureNGA](https://github.com/chr233/PureNGA)|NGA 去广告Xposed模块 支持 Lspatch|170|2023-11-23|
+|175|[iostyle/ContinuousTrigger](https://github.com/iostyle/ContinuousTrigger)|多线程连续触发器，用于如按序展示弹窗（App更新、公告、签到之类）。支持多接口返回，等待超时，任意位置注册，任意位置绑定，支持DSL语法。喜欢请star⭐️|166|2023-07-17|
+|176|[TencentCloud/httpdns-sdk-android](https://github.com/TencentCloud/httpdns-sdk-android)|智营防劫持SDK|166|2023-10-27|
+|177|[WaitFme/CoolbbsYou](https://github.com/WaitFme/CoolbbsYou)|Jetpack Compose 第三方酷安|161|2023-11-14|
+|178|[RW-HPS/RW-HPS](https://github.com/RW-HPS/RW-HPS)|Dedicated to Rusted Warfare(RustedWarfare) High Performance Server / 铁锈战争高效率服务器|154|2023-10-30|
+|179|[pwh-pwh/wxrecordread](https://github.com/pwh-pwh/wxrecordread)|用于获取微信聊天记录发送消息者wx_id，修改聊天页面信息，获取红包领取详情及总额|153|2023-11-15|
+|180|[ITxiaoguang/SelectTextHelper](https://github.com/ITxiaoguang/SelectTextHelper)|高仿微信聊天消息列表自由复制文字，双击查看文本内容，用法超级简单~Copy the text freely in the high imitation WeChat chat message list, double-click to view the text content.|152|2023-09-09|
+|181|[CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)|⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！|149|2023-11-21|
+|182|[geph-official/geph-android](https://github.com/geph-official/geph-android)|Geph Android 迷霧通Android界面|148|2023-11-03|
+|183|[Forgo7ten/VulnerableApp](https://github.com/Forgo7ten/VulnerableApp)|移动安全_漏洞靶场_Android应用层漏洞|146|2023-08-24|
+|184|[unit-mesh/unit-mesh](https://github.com/unit-mesh/unit-mesh)|Unit Mesh is a Asymptotic AI programming architecture pattern. Unit Mesh 是一个基于 AI 为核心的软件  2.0 思想的软件架构|143|2023-11-18|
+|185|[GuoguoDad/jd_mall](https://github.com/GuoguoDad/jd_mall)|🔥🔥高仿京东商城App，具有完整的结构，代码整洁规范，结构清晰，集成Flutter模块，具备React-Native热更功能... 同款Flutter版本（ https://github.com/GuoguoDad/jd_mall_flutter.git ）|143|2023-11-10|
+|186|[CorruptedArk/did-i-take-my-meds](https://github.com/CorruptedArk/did-i-take-my-meds)|A Kotlin Android app to manage medications|143|2023-11-05|
+|187|[miaoMiaoDaShi/YangYanNew](https://github.com/miaoMiaoDaShi/YangYanNew)|精简看美图|143|2023-09-27|
+|188|[l7naive/pattern-lock](https://github.com/l7naive/pattern-lock)|Awesome pattern lock view for android written in kotlin. |142|2023-09-19|
+|189|[hefengbao/jingmo](https://github.com/hefengbao/jingmo)|『京墨』开源免费的古诗词文（名句）、歇后语、成语阅读 APP|141|2023-11-20|
+|190|[Luo-DH/OutCat](https://github.com/Luo-DH/OutCat)|大麦抢票辅助，抢票脚本，自动点击抢票，刷回流票|139|2023-08-30|
+|191|[DylanCaiCoding/MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX)|The best MMKV utils to ensure type safety. (最好用的  MMKV 工具，可以确保类型安全)|139|2023-08-16|
+|192|[anjiemo/SunnyBeach](https://github.com/anjiemo/SunnyBeach)|阳光沙滩APP|137|2023-09-24|
+|193|[wangyiqian/StockChart](https://github.com/wangyiqian/StockChart)|StockChart 一款适用于Android的高扩展性、高性能股票图/K线图开发库，支持多图组合，除了使用内置子图还支持定制子图满足复杂的业务需求。|137|2023-11-06|
+|194|[ichenhe/QQ-Notify-Evolution](https://github.com/ichenhe/QQ-Notify-Evolution)|免ROOT优化QQ通知，支持多会话/多消息/多渠道，兼容手环手表。|136|2023-11-13|
+|195|[liangjingkanji/Interval](https://github.com/liangjingkanji/Interval)|Android计时器工具, 倒计时/正计时/开始/暂停/继续/结束/取消|135|2023-05-28|
+|196|[airshu/lx-music-android](https://github.com/airshu/lx-music-android)|洛雪音乐助手Android版|135|2023-11-04|
+|197|[cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper)|Mirai Console 插件开发计划|132|2023-11-02|
+|198|[cssxsh/mirai-openai-plugin](https://github.com/cssxsh/mirai-openai-plugin)|Mirai Console OpenAI ChatBot 插件|129|2023-11-20|
+|199|[leavesCZY/compose_tetris](https://github.com/leavesCZY/compose_tetris)|Not only Android, Compose Multiplatform Write an Android+Desktop Tetris（不止 Android，用 Compose Multiplatform 实现一个 Android + Desktop 平台的俄罗斯方块）|128|2023-11-02|
+|200|[cuiliang/QuickerAndroid](https://github.com/cuiliang/QuickerAndroid)|Quicker 安卓客户端|128|2023-10-26|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
