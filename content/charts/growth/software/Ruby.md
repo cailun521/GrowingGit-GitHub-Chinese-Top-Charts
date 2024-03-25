@@ -1,19 +1,19 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Ruby
-<sub>数据更新: 2024-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |885|3|2024-03-17|
-|2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6376|2|2024-03-10|
-|3|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|464|1|2024-03-19|
-|4|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3749|1|2024-03-15|
-|5|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3397|1|2024-03-22|
+|1|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |890|3|2024-03-17|
+|2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6379|2|2024-03-10|
+|3|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|466|1|2024-03-24|
+|4|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3749|1|2024-03-23|
+|5|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3397|1|2024-03-24|
 |6|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2460|1|2023-11-02|
-|7|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1065|1|2024-03-22|
+|7|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1066|1|2024-03-24|
 |8|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2172|1|2024-02-13|
-|9|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS and macOS apps|891|0|2024-03-17|
+|9|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS and macOS apps|892|0|2024-03-17|
 |10|[piotrmurach/strings](https://github.com/piotrmurach/strings)|A set of useful functions for transforming strings.|127|0|2024-03-09|
 |11|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|0|2024-03-10|
 |12|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|0|2023-12-01|
@@ -54,19 +54,19 @@
 |47|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|318|0|2024-03-18|
 |48|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|32|0|2024-03-07|
 |49|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|951|0|2024-01-11|
-|50|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|19|0|2024-03-21|
+|50|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|19|0|2024-03-24|
 |51|[ivaquero/legacy-homebrew-chinese](https://github.com/ivaquero/legacy-homebrew-chinese)|🀄 一个致力于服务国人的 Homebrew 🍺 第三方库|28|0|2023-12-12|
 |52|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|0|2023-12-17|
-|53|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|16|0|2024-03-21|
+|53|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|16|0|2024-03-22|
 |54|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|256|0|2024-01-23|
 |55|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|13|0|2024-02-06|
-|56|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|720|0|2024-03-08|
+|56|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|721|0|2024-03-08|
 |57|[OSMChina/OSMChina-Website](https://github.com/OSMChina/OSMChina-Website)|OpenStreetMap 中国社区|14|0|2023-11-03|
 |58|[work-design/rails_wechat](https://github.com/work-design/rails_wechat)|Wechat for muilt account admin 微信 SDK 集大成者|10|0|2023-12-17|
 |59|[MatthiasWinkelmann/firstname-database](https://github.com/MatthiasWinkelmann/firstname-database)|-|74|0|2023-09-27|
 |60|[super-unprofessional-league/soccer-website-generator](https://github.com/super-unprofessional-league/soccer-website-generator)|超业余足球联赛网站生成器; Unprofessional soccer league website generator|11|0|2023-12-23|
 |61|[inukshuk/bibtex-ruby](https://github.com/inukshuk/bibtex-ruby)|A BibTeX library, parser, and converter for Ruby.|153|0|2024-03-01|
-|62|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1117|0|2024-03-12|
+|62|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1116|0|2024-03-12|
 |63|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1034|0|2024-01-05|
 |64|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1431|0|2024-03-21|
 |65|[rails-engine/audit-log](https://github.com/rails-engine/audit-log)|📑 Create audit logs into the database for user behaviors, including a web UI to query logs.|164|0|2023-12-04|
@@ -75,7 +75,7 @@
 |68|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|656|0|2024-02-28|
 |69|[khiav223577/pluck_all](https://github.com/khiav223577/pluck_all)|A more efficient way to get data from database. Like #pluck method but return array of hashes instead.|101|0|2023-12-24|
 |70|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|43|0|2024-03-16|
-|71|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|9|0|2024-03-19|
+|71|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|10|0|2024-03-19|
 |72|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|401|0|2024-03-22|
 |73|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|-|18|0|2023-12-11|
 |74|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|24|0|2024-01-25|
@@ -86,7 +86,7 @@
 |79|[inspec/inspec-azure](https://github.com/inspec/inspec-azure)|InSpec Azure Resource Pack|94|0|2024-01-22|
 |80|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |997|0|2024-02-15|
 |81|[kufu/kiji](https://github.com/kufu/kiji)|e-Gov 外部連携API 連携 gem|87|0|2024-02-15|
-|82|[diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.|533|0|2023-10-30|
+|82|[diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.|534|0|2023-10-30|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
