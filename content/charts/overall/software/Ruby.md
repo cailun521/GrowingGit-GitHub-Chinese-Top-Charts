@@ -1,11 +1,11 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-10-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6534|2024-10-02|
+|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6536|2024-10-02|
 |2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3801|2024-10-07|
 |3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3398|2024-10-10|
 |4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2631|2024-09-10|
@@ -15,21 +15,21 @@
 |8|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1476|2024-10-06|
 |9|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1311|2024-08-15|
 |10|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |1208|2024-06-15|
-|11|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1143|2024-10-08|
+|11|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1143|2024-10-11|
 |12|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1137|2024-10-01|
-|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1078|2024-10-07|
+|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1079|2024-10-07|
 |14|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1054|2024-10-07|
 |15|[PGYER/fir-cli](https://github.com/PGYER/fir-cli)|fir.im(betaqr.com) command-line interface|1052|2024-06-12|
 |16|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|1039|2024-08-14|
-|17|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |1005|2024-08-16|
+|17|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |1006|2024-10-10|
 |18|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|815|2024-09-20|
-|19|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|746|2024-07-03|
+|19|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|747|2024-07-03|
 |20|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|691|2024-10-10|
 |21|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|669|2024-04-28|
 |22|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|645|2024-09-21|
 |23|[diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.|544|2024-08-11|
 |24|[radar/humanize](https://github.com/radar/humanize)|Takes your numbers and makes them *fancy*.|467|2024-06-03|
-|25|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|432|2024-10-10|
+|25|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|432|2024-10-11|
 |26|[rails-engine/action-store](https://github.com/rails-engine/action-store)|Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association.|405|2024-09-27|
 |27|[dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo)|DBKangaroo's official repo for issue tracker and I18N|350|2024-06-11|
 |28|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|320|2024-09-25|
@@ -38,7 +38,7 @@
 |31|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|261|2024-05-02|
 |32|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|233|2024-09-04|
 |33|[didww/credit_card_validations](https://github.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|232|2024-08-10|
-|34|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|184|2024-10-10|
+|34|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|184|2024-10-11|
 |35|[rails-engine/flow_core](https://github.com/rails-engine/flow_core)|FlowCore is a Rails engine to help you build your automation or business process application.|174|2024-09-27|
 |36|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|171|2024-10-08|
 |37|[berkmancenter/namae](https://github.com/berkmancenter/namae)|Namae (名前) parses personal names and splits them into their component parts.|160|2024-04-22|
@@ -65,7 +65,7 @@
 |58|[camelmasa/itaiji](https://github.com/camelmasa/itaiji)|Convert japanese from itaiji(異体字) to seijitai(正字体).|24|2024-10-05|
 |59|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|2024-10-06|
 |60|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|22|2024-08-22|
-|61|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|2024-10-10|
+|61|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|2024-10-11|
 |62|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|19|2024-07-07|
 |63|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-10-10|
 |64|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|2024-10-06|
@@ -75,11 +75,11 @@
 |68|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|12|2024-07-22|
 |69|[super-unprofessional-league/soccer-website-generator](https://github.com/super-unprofessional-league/soccer-website-generator)|超业余足球联赛网站生成器; Unprofessional soccer league website generator|11|2024-08-01|
 |70|[work-design/rails_wechat](https://github.com/work-design/rails_wechat)|Wechat for muilt account admin 微信 SDK 集大成者|10|2024-09-20|
-|71|[lzwme/homebrew-cn](https://github.com/lzwme/homebrew-cn)|适合中国大陆用户使用的 Homebrew 应用代理镜像库|9|2024-10-10|
+|71|[lzwme/homebrew-cn](https://github.com/lzwme/homebrew-cn)|适合中国大陆用户使用的 Homebrew 应用代理镜像库|9|2024-10-11|
 |72|[tryzealot/fastlane-plugin-zealot](https://github.com/tryzealot/fastlane-plugin-zealot)|上传移动应用（iPhone、Android）到 Zealot 自建 App 分发系统   fastlane-plugin-zealot provides upload app, debug_file and version check actions to zealot|9|2024-05-28|
 |73|[younthu/rainbowfart](https://github.com/younthu/rainbowfart)|彩虹屁网站, 提供REST API随机拉去毒鸡汤, http://rainbow.ilibrary.me/api/rainbow/random, 欢迎使用和提供反馈|9|2024-09-18|
 |74|[crispgm/weekly](https://github.com/crispgm/weekly)|A personal curation of tech articles|9|2024-10-08|
-|75|[duzyn/homebrew-cn](https://github.com/duzyn/homebrew-cn)|中国用户能用的 Homebrew 应用库，每日同步 Homebrew 的官方库，加速应用的下载速度|8|2024-10-10|
+|75|[duzyn/homebrew-cn](https://github.com/duzyn/homebrew-cn)|中国用户能用的 Homebrew 应用库，每日同步 Homebrew 的官方库，加速应用的下载速度|8|2024-10-11|
 |76|[winezer0/whatweb-plus](https://github.com/winezer0/whatweb-plus)|whatweb 增强版  8000+插件（提供windows可执行文件）|8|2024-05-08|
 
 <div align="center">
