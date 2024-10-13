@@ -1,19 +1,19 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3586|4|2024-10-01|
-|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1430|1|2024-07-27|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3592|5|2024-10-01|
+|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1433|1|2024-07-27|
 |3|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|31|0|2024-08-15|
 |4|[tqlnb/servo_motor_study](https://github.com/tqlnb/servo_motor_study)|伺服电机以及simulink建模学习|3|0|2024-08-02|
 |5|[infinity-07/Numerical-analysis-code](https://github.com/infinity-07/Numerical-analysis-code)|使用MATLAB实现数值分析课程的算法|17|0|2024-07-10|
 |6|[yan-fanyu/CUMCM-Paper-And-SourceCode](https://github.com/yan-fanyu/CUMCM-Paper-And-SourceCode)|CUMCM 2010年-2023年全国大学生数学建模竞赛论文和源代码（Paper and source code for the 2010-2023 National College Student Mathematical Modeling Competition）|11|0|2024-09-09|
 |7|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|60|0|2024-08-14|
 |8|[LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB](https://github.com/LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB)|该项目需将多个eis数据（包含频率、实部、虚部）汇总到一个excel表格中（每个sheet一份数据），可将多个eis数据批量转化为DRT图谱。|6|0|2024-09-19|
-|9|[LiZhengXiao99/INS_Course_Matlab](https://github.com/LiZhengXiao99/INS_Course_Matlab)|安徽理工大学惯性导航课程设计，实现导航级 IMU 的标定、对准、递推；额外写了 PSINS 的对准和递推的主函数，跟严老师的结果做对比。|16|0|2024-06-12|
+|9|[LiZhengXiao99/INS_Course_Matlab](https://github.com/LiZhengXiao99/INS_Course_Matlab)|安徽理工大学惯性导航课程设计，实现导航级 IMU 的标定、对准、递推；额外写了 PSINS 的对准和递推的主函数，跟严老师的结果做对比。|17|0|2024-06-12|
 |10|[StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial](https://github.com/StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial)|本项目是为了PKU & BJTU大二学生本研轮转而创，内容包含了对毫米波雷达基础知识的总结、基于IWR1843的原始ADC数据处理、FMCW-MIMO毫米波雷达仿真、基于点云的人体追踪Demo、基于热力图的人体定位demo、手势识别demo和毫米波雷达生命体征检测Demo|20|0|2024-04-25|
 |11|[Ahalikai/MOEA](https://github.com/Ahalikai/MOEA)|Live and learn. Understanding and Matlab reproduction of some classical algorithms (such as MOEA, Surrogate Model, Reinforcement Learning etc.). 对一些经典算法的理解和Matlab代码复现（如：多目标优化、代理模型、强化学习等）。|3|0|2024-09-11|
 |12|[vectorZeng/CUG_Automation](https://github.com/vectorZeng/CUG_Automation)|中国地质大学 （武汉） 自动化专业 课程资料共享|4|0|2024-09-12|
