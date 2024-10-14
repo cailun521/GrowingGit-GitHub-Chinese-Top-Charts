@@ -1,19 +1,19 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2024-10-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)|A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具|4236|2024-10-11|2024-04-21|
-|2|[Lakr233/Asspp](https://github.com/Lakr233/Asspp)|The App Store for your multi-account eco system.|1589|2024-09-01|2024-07-12|
-|3|[jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub)|A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data|1422|2024-10-10|2024-02-22|
-|4|[lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)|Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!|1199|2024-10-12|2024-02-11|
+|1|[lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)|A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具|4240|2024-10-11|2024-04-21|
+|2|[Lakr233/Asspp](https://github.com/Lakr233/Asspp)|The App Store for your multi-account eco system.|1592|2024-09-01|2024-07-12|
+|3|[jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub)|A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data|1425|2024-10-10|2024-02-22|
+|4|[lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)|Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!|1202|2024-10-13|2024-02-11|
 |5|[wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI)|macOS Integrated Injection Framework (GUI version)|1183|2024-10-06|2024-07-19|
-|6|[maiqingqiang/ChatMLX](https://github.com/maiqingqiang/ChatMLX)|🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.|568|2024-10-08|2024-03-05|
-|7|[netdcy/FlowVision](https://github.com/netdcy/FlowVision)|Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.|507|2024-10-10|2024-06-07|
-|8|[lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer)|Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具|495|2024-08-09|2024-07-18|
-|9|[AnimacX/AnimacX](https://github.com/AnimacX/AnimacX)|（弹弹Play MacOS/iOS版）一款可以追番的弹幕视频播放器。原生支持M/intel系列芯片，实现了大部分Window端功能。新增支持iOS系统。|135|2024-10-12|2024-02-26|
+|6|[maiqingqiang/ChatMLX](https://github.com/maiqingqiang/ChatMLX)|🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.|570|2024-10-08|2024-03-05|
+|7|[netdcy/FlowVision](https://github.com/netdcy/FlowVision)|Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.|508|2024-10-10|2024-06-07|
+|8|[lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer)|Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具|497|2024-08-09|2024-07-18|
+|9|[AnimacX/AnimacX](https://github.com/AnimacX/AnimacX)|（弹弹Play MacOS/iOS版）一款可以追番的弹幕视频播放器。原生支持M/intel系列芯片，实现了大部分Window端功能。新增支持iOS系统。|135|2024-10-13|2024-02-26|
 |10|[wyqACoffer/DynamicWidget](https://github.com/wyqACoffer/DynamicWidget)|灵动组件（小组件、实时活动）|111|2024-07-31|2023-10-23|
 |11|[sshterm/ssh](https://github.com/sshterm/ssh)|libssh2 + OpenSSL + wolfSSL 的swift实现|95|2024-10-08|2024-08-19|
 |12|[sakeven/Selected](https://github.com/sakeven/Selected)|A Mac tool that allows various operations on selected text.|51|2024-10-07|2024-03-16|

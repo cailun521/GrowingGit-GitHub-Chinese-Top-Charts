@@ -1,40 +1,40 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > C
-<sub>数据更新: 2024-10-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7703|2024-06-14|
-|2|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|4122|2024-07-27|
+|2|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|4124|2024-07-27|
 |3|[ming1016/study](https://github.com/ming1016/study)|学习记录|3873|2024-09-12|
-|4|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|3208|2024-09-05|
-|5|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2518|2024-09-30|
-|6|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples|2472|2024-10-09|
-|7|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|2206|2024-09-25|
+|4|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|3209|2024-09-05|
+|5|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2519|2024-09-30|
+|6|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples|2473|2024-10-09|
+|7|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|2207|2024-09-25|
 |8|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料|1908|2024-05-20|
 |9|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|1867|2024-05-20|
 |10|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1546|2024-10-09|
 |11|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1465|2024-05-10|
 |12|[feiskyer/sdn-handbook](https://github.com/feiskyer/sdn-handbook)|SDN网络指南（SDN Handbook）|1387|2024-04-30|
-|13|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|1152|2024-05-30|
+|13|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|1153|2024-05-30|
 |14|[agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)|A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  |1131|2024-09-25|
-|15|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|883|2024-07-25|
+|15|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|884|2024-07-25|
 |16|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|876|2024-06-06|
 |17|[wx-chevalier/CS-Notes](https://github.com/wx-chevalier/CS-Notes)|:books: 编程语言语法基础与工程实践，JavaScript   Java   Python   Go   Rust   CPP   Swift|689|2024-09-24|
-|18|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|650|2024-10-11|
-|19|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2024年春季OS课程Slides|642|2024-09-25|
-|20|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|595|2024-10-11|
-|21|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|549|2024-09-20|
-|22|[cantjie/XJTU-Share](https://github.com/cantjie/XJTU-Share)|西安交通大学课程资料共享计划|510|2024-10-02|
+|18|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|651|2024-10-11|
+|19|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2024年春季OS课程Slides|642|2024-10-13|
+|20|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|594|2024-10-11|
+|21|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|551|2024-09-20|
+|22|[cantjie/XJTU-Share](https://github.com/cantjie/XJTU-Share)|西安交通大学课程资料共享计划|511|2024-10-02|
 |23|[chankeh/net-lenrning-reference](https://github.com/chankeh/net-lenrning-reference)|TCP/IP网络编程笔记|463|2024-08-02|
-|24|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|449|2024-09-29|
+|24|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|450|2024-09-29|
 |25|[Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)|Bookit / Windows Login Password and Bitlocker Bypass Tool|369|2024-08-07|
 |26|[bouffalolab/bouffalo_sdk](https://github.com/bouffalolab/bouffalo_sdk)|BouffaloSDK is the IOT and MCU software development kit provided by the Bouffalo Lab Team, supports all the series of Bouffalo chips. Also it is the combination of bl_mcu_sdk and bl_iot_sdk |364|2024-07-11|
 |27|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|349|2024-06-26|
 |28|[deepwzh/sdust-examination-materials](https://github.com/deepwzh/sdust-examination-materials)|山东科技大学课程资源共享计划|318|2024-10-11|
 |29|[feiskyer/ebpf-apps](https://github.com/feiskyer/ebpf-apps)|极客时间专栏《eBPF 核心技术与实战》案例|314|2024-08-26|
-|30|[parallel101/opengltutor](https://github.com/parallel101/opengltutor)|零基础入门计算机图形学必不可少的在线网络公开课，手把手教您现代 OpenGL 的点点滴滴，构建爆款游戏引擎。|298|2024-08-08|
+|30|[parallel101/opengltutor](https://github.com/parallel101/opengltutor)|零基础入门计算机图形学必不可少的在线网络公开课，手把手教您现代 OpenGL 的点点滴滴，构建爆款游戏引擎。|300|2024-08-08|
 |31|[MiroKaku/Musa.Veil](https://github.com/MiroKaku/Musa.Veil)|Collection of undocumented Windows API declarations.|288|2024-09-28|
 |32|[leleliu008/C-examples](https://github.com/leleliu008/C-examples)|C语言学习项目|271|2024-08-19|
 |33|[zjutjh/zjut-icicles](https://github.com/zjutjh/zjut-icicles)|浙江工业大学课程攻略共享计划|230|2024-08-09|

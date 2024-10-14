@@ -1,12 +1,12 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-10-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A modular Vim/Neovim configuration|20277|2024-09-17|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8765|2024-08-15|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8764|2024-08-15|
 |3|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|6425|2024-08-10|
 |4|[chxuan/vimplus](https://github.com/chxuan/vimplus)|:rocket:An automatic configuration program for vim|3913|2024-06-05|
 |5|[theniceboy/nvim](https://github.com/theniceboy/nvim)|The Ultimate NeoVim Config for Colemak Users|2013|2024-10-05|
@@ -60,7 +60,7 @@
 |53|[listenerri/ri-vim](https://github.com/listenerri/ri-vim)|一份中文注释齐全的vim配置|3|2024-05-25|
 |54|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|2024-07-23|
 |55|[Hyvi/dotfiles](https://github.com/Hyvi/dotfiles)|vim配置|3|2024-08-25|
-|56|[GitHubonline1396529/vim](https://github.com/GitHubonline1396529/vim)|我的 Vim 配置 - My personal customized Vim configuration 'init.vim', compatible with Winodws gVim 9.1.0 or above, enhancing LaTeX writting and Chinese text display.|2|2024-10-12|
+|56|[GitHubonline1396529/vim](https://github.com/GitHubonline1396529/vim)|我的 Vim 配置 - My personal customized Vim configuration 'init.vim', compatible with Winodws gVim 9.1.0 or above, enhancing LaTeX writting and Chinese text display.|2|2024-10-13|
 |57|[jaaaain/AI-intelligent-sparring](https://github.com/jaaaain/AI-intelligent-sparring)|AI 智能陪练系统，服务外包第二季|2|2024-10-09|
 |58|[byrzhm/my-vim-settings](https://github.com/byrzhm/my-vim-settings)|我在vscode以及jetbrain全家桶上的vim配置|2|2024-06-22|
 |59|[ZSaberLv0/ZFVimIM_openapi](https://github.com/ZSaberLv0/ZFVimIM_openapi)|vim百度云输入法 / async db source for ZFVimIM, using thirdparty's openapi|2|2024-09-29|

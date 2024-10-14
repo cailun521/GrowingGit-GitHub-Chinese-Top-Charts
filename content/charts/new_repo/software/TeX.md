@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-10-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[404-NOTFOUND-Coder/UESTC--report--template](https://github.com/404-NOTFOUND-Coder/UESTC--report--template)|适用于UESTC各种实验报告latex模板|15|2024-10-06|2024-03-31|
 |4|[Thysrael/GreenParkBeamerTheme](https://github.com/Thysrael/GreenParkBeamerTheme)|北京航空航天大学 BUAA LaTeX Beamer 非官方主题|12|2024-07-26|2024-06-12|
 |5|[mimicji/Bilingual-Resume-Template](https://github.com/mimicji/Bilingual-Resume-Template)|Bilingual Resume Template in Latex. 中英双语Latex简历模板|10|2024-06-04|2024-06-03|
-|6|[berries-tart/HUST-Principles-of-Imperative-Computation](https://github.com/berries-tart/HUST-Principles-of-Imperative-Computation)|华中科技大学2022级命令式计算原理|9|2024-05-28|2024-05-28|
+|6|[berries-tart/HUST-Principles-of-Imperative-Computation](https://github.com/berries-tart/HUST-Principles-of-Imperative-Computation)|华中科技大学2022级命令式计算原理|10|2024-05-28|2024-05-28|
 |7|[ymx10086/HUST-2022-DATA_STRUCTURES](https://github.com/ymx10086/HUST-2022-DATA_STRUCTURES)|2021级HUST数据结构实验及实验报告|8|2024-04-17|2024-04-17|
 |8|[ajsadhotmail/2024-China-Gaokao-Math](https://github.com/ajsadhotmail/2024-China-Gaokao-Math)|The repository includes the math paper of Chinese National College Entrance Exam (Gaokao).  本仓库包含了中国2024年高考的数学试卷 (新高考I卷).  |7|2024-06-08|2024-06-08|
 |9|[Cresc3ntRose/NUAA_IoT_Assignment](https://github.com/Cresc3ntRose/NUAA_IoT_Assignment)|这个仓库用于储存我个人的课内作业|7|2024-06-29|2024-04-10|
@@ -23,9 +23,9 @@
 |16|[MinmusLin/Minmus_Operating_System_in_Rust](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust)|MinmusOS: The design and implementation of an operating system based on Rust language. MinmusOS: 基于 Rust 语言的操作系统的设计与实现. (2024年同济大学操作系统课程设计课程项目)|5|2024-09-23|2024-05-04|
 |17|[LeyuDame/BNUslides](https://github.com/LeyuDame/BNUslides)|北师大Beamer模板|5|2024-04-22|2024-04-20|
 |18|[M0rtzz/zzu-resume-template](https://github.com/M0rtzz/zzu-resume-template)|ZZU LaTeX Resume Template (Overleaf Template is Under Review)|5|2024-09-19|2024-04-19|
-|19|[Leaf-1037/HUST_Data_Structure_Experiment](https://github.com/Leaf-1037/HUST_Data_Structure_Experiment)|华中科技大学2021级数据结构实验（2022年秋）|5|2024-04-13|2024-04-13|
-|20|[Casta-mere/LaTeX-GraduationTemplate](https://github.com/Casta-mere/LaTeX-GraduationTemplate)|浙江理工大学计算机科学与技术学院毕设模板|5|2024-09-29|2024-01-23|
-|21|[DumzGW/-WayfinderSaveEditor-python-](https://github.com/DumzGW/-WayfinderSaveEditor-python-)|对Wayfinder的存档进行修改，已添加角色修改功能|4|2024-06-10|2024-06-04|
+|19|[Casta-mere/LaTeX-GraduationTemplate](https://github.com/Casta-mere/LaTeX-GraduationTemplate)|浙江理工大学计算机科学与技术学院毕设模板|5|2024-09-29|2024-01-23|
+|20|[DumzGW/-WayfinderSaveEditor-python-](https://github.com/DumzGW/-WayfinderSaveEditor-python-)|对Wayfinder的存档进行修改，已添加角色修改功能|4|2024-06-10|2024-06-04|
+|21|[jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module](https://github.com/jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module)|深大大物实验报告LaTeX模版|4|2024-04-24|2024-03-22|
 |22|[WQT1123/University-Presentation-Beamer](https://github.com/WQT1123/University-Presentation-Beamer)|大学Latex答辩模版，当前包含川大、哈工大、中科大。|4|2024-07-22|2024-02-28|
 |23|[HGAQ/Physical-Chemistry-Experiment](https://github.com/HGAQ/Physical-Chemistry-Experiment)|2023-fall-Physical-Chemistry-Experiment-物理化学实验|4|2024-09-12|2024-01-14|
 |24|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-10-06|2024-09-08|
@@ -39,11 +39,10 @@
 |32|[gbs0856/NTUT-Thesis](https://github.com/gbs0856/NTUT-Thesis)|國立臺北科技大學碩博士論文XeLaTeX模板|3|2024-04-24|2024-04-24|
 |33|[lfq0921/NJU-Probability-Theory-and-Mathematical-Statistics](https://github.com/lfq0921/NJU-Probability-Theory-and-Mathematical-Statistics)|NJU-Probability Theory and Mathematical Statistics 2023Spring Homework，南京大学2023春季学期概率论与数理统计 作业存档|3|2024-04-24|2024-04-24|
 |34|[GFCYqw/Fengrubei_LaTeX_Template](https://github.com/GFCYqw/Fengrubei_LaTeX_Template)|北京航空航天大学“冯如杯”竞赛 LaTeX 模板。This is a template for Fengru cup contest(Fengrubei), written in Latex.|3|2024-05-18|2024-04-06|
-|35|[jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module](https://github.com/jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module)|深大大物实验报告LaTeX模版|3|2024-04-24|2024-03-22|
-|36|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|2024-06-10|2024-03-22|
-|37|[zvbb/tao-analysis-exercise](https://github.com/zvbb/tao-analysis-exercise)|陶哲轩实分析（第三版）习题解答|3|2024-10-04|2024-02-26|
-|38|[Aegis1863/wust_beamer](https://github.com/Aegis1863/wust_beamer)|武汉科技大学 latex beamer模板|3|2024-07-12|2024-01-14|
-|39|[xinmiaok/xinmiao-garden-example](https://github.com/xinmiaok/xinmiao-garden-example)|通过整合多个obsidian的示例库，具有个人风格的示例库最终形成。|3|2024-05-28|2023-11-10|
+|35|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|2024-06-10|2024-03-22|
+|36|[zvbb/tao-analysis-exercise](https://github.com/zvbb/tao-analysis-exercise)|陶哲轩实分析（第三版）习题解答|3|2024-10-04|2024-02-26|
+|37|[Aegis1863/wust_beamer](https://github.com/Aegis1863/wust_beamer)|武汉科技大学 latex beamer模板|3|2024-07-12|2024-01-14|
+|38|[xinmiaok/xinmiao-garden-example](https://github.com/xinmiaok/xinmiao-garden-example)|通过整合多个obsidian的示例库，具有个人风格的示例库最终形成。|3|2024-05-28|2023-11-10|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

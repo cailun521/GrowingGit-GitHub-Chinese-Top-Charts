@@ -1,18 +1,18 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Ruby
-<sub>数据更新: 2024-10-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |1207|2|2024-06-15|
+|1|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |1208|2|2024-06-15|
 |2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6537|2|2024-10-02|
 |3|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1079|1|2024-10-11|
 |4|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|692|1|2024-10-10|
 |5|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3801|1|2024-10-07|
-|6|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3398|1|2024-10-10|
+|6|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3398|1|2024-10-13|
 |7|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2632|1|2024-09-10|
-|8|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1138|1|2024-10-01|
+|8|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1139|1|2024-10-01|
 |9|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2186|1|2024-09-24|
 |10|[Anyyy111/eBSploit](https://github.com/Anyyy111/eBSploit)|eBSploit适用于内网渗透中遇到MS17-010漏洞的情况快速上线公网msf及cs，同时支持自定义dll命令执行、会话迁移等操作。|58|1|2024-08-18|
 |11|[rikas/zoho_hub](https://github.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|25|0|2024-07-16|
@@ -28,7 +28,7 @@
 |21|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|19|0|2024-07-07|
 |22|[radar/humanize](https://github.com/radar/humanize)|Takes your numbers and makes them *fancy*.|467|0|2024-06-03|
 |23|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1563|0|2024-09-01|
-|24|[lzwme/homebrew-cn](https://github.com/lzwme/homebrew-cn)|适合中国大陆用户使用的 Homebrew 应用代理镜像库|9|0|2024-10-12|
+|24|[lzwme/homebrew-cn](https://github.com/lzwme/homebrew-cn)|适合中国大陆用户使用的 Homebrew 应用代理镜像库|9|0|2024-10-13|
 |25|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|61|0|2024-10-03|
 |26|[tryzealot/fastlane-plugin-zealot](https://github.com/tryzealot/fastlane-plugin-zealot)|上传移动应用（iPhone、Android）到 Zealot 自建 App 分发系统   fastlane-plugin-zealot provides upload app, debug_file and version check actions to zealot|9|0|2024-05-28|
 |27|[pdcodeunder/cocoapods-ppbuild](https://github.com/pdcodeunder/cocoapods-ppbuild)|iOS pod库预编译静态库，提高编译速度|29|0|2024-08-02|
@@ -44,9 +44,9 @@
 |37|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|0|2024-10-12|
 |38|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|320|0|2024-09-25|
 |39|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|1039|0|2024-08-14|
-|40|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|37|0|2024-10-12|
+|40|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|37|0|2024-10-13|
 |41|[winezer0/whatweb-plus](https://github.com/winezer0/whatweb-plus)|whatweb 增强版  8000+插件（提供windows可执行文件）|8|0|2024-05-08|
-|42|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|0|2024-10-12|
+|42|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|0|2024-10-13|
 |43|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|0|2024-10-10|
 |44|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|261|0|2024-05-02|
 |45|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|14|0|2024-06-13|
@@ -57,8 +57,8 @@
 |50|[quzhi1/ChineseHistoricalSource](https://github.com/quzhi1/ChineseHistoricalSource)|An open source project to search Chinese Historical Source|117|0|2024-06-28|
 |51|[mika-cn/maoxian-assistant](https://github.com/mika-cn/maoxian-assistant)|-|28|0|2024-09-13|
 |52|[iPermanent/rubyTools](https://github.com/iPermanent/rubyTools)|日常使用ruby脚本|89|0|2024-05-09|
-|53|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1143|0|2024-10-12|
-|54|[duzyn/homebrew-cn](https://github.com/duzyn/homebrew-cn)|中国用户能用的 Homebrew 应用库，每日同步 Homebrew 的官方库，加速应用的下载速度|8|0|2024-10-12|
+|53|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1144|0|2024-10-12|
+|54|[duzyn/homebrew-cn](https://github.com/duzyn/homebrew-cn)|中国用户能用的 Homebrew 应用库，每日同步 Homebrew 的官方库，加速应用的下载速度|8|0|2024-10-13|
 |55|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1054|0|2024-10-07|
 |56|[camelmasa/itaiji](https://github.com/camelmasa/itaiji)|Convert japanese from itaiji(異体字) to seijitai(正字体).|24|0|2024-10-05|
 |57|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1477|0|2024-10-06|
@@ -70,11 +70,11 @@
 |63|[mifunetoshiro/kanjium](https://github.com/mifunetoshiro/kanjium)|The ultimate kanji resource|278|0|2024-06-16|
 |64|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|12|0|2024-07-22|
 |65|[rails-engine/flow_core](https://github.com/rails-engine/flow_core)|FlowCore is a Rails engine to help you build your automation or business process application.|174|0|2024-09-27|
-|66|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|433|0|2024-10-12|
+|66|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|434|0|2024-10-13|
 |67|[remote-jp/remote-in-japan](https://github.com/remote-jp/remote-in-japan)|Tech companies in Japan that hire remote workers.|1524|0|2024-10-08|
 |68|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|24|0|2024-07-23|
 |69|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|289|0|2024-09-14|
-|70|[dblock/slack-gamebot](https://github.com/dblock/slack-gamebot)|Ping pong, chess, pool and other games bot for Slack.|129|0|2024-08-28|
+|70|[dblock/slack-gamebot](https://github.com/dblock/slack-gamebot)|Ping pong, chess, pool and other games bot for Slack.|129|0|2024-10-12|
 |71|[berkmancenter/namae](https://github.com/berkmancenter/namae)|Namae (名前) parses personal names and splits them into their component parts.|160|0|2024-04-22|
 |72|[OuYangJinTing/ar_cache](https://github.com/OuYangJinTing/ar_cache)|A modern caching library for ActiveRecord inspired by cache-money and second_level_cache.|15|0|2024-08-22|
 |73|[PGYER/fir-cli](https://github.com/PGYER/fir-cli)|fir.im(betaqr.com) command-line interface|1052|0|2024-06-12|

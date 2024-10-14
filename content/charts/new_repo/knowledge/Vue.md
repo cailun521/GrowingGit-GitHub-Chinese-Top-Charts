@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-10-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|31|2024-06-30|2024-06-30|
 |10|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|28|2024-09-19|2024-03-23|
 |11|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|25|2024-07-14|2024-01-26|
-|12|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 Vue3(Web组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器🔨|23|2024-10-09|2024-04-01|
+|12|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 Vue3(Web组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器🔨|24|2024-10-09|2024-04-01|
 |13|[Slumhee/Web002VUE-01_vuebasictutorials](https://github.com/Slumhee/Web002VUE-01_vuebasictutorials)|Code and text version of the tutorial on Vue Framework, InkkaPlumChannel.   InkkaPlum频道的Vue框架教程的代码和文字版教程。|18|2024-06-10|2024-06-10|
 |14|[open17/vitepress-theme-open17](https://github.com/open17/vitepress-theme-open17)|一款简单美观的博客主题,继承于vitepress默认主题|18|2024-10-02|2024-03-22|
 |15|[bianchenglequ/chat2KnowL](https://github.com/bianchenglequ/chat2KnowL)|知识文档问答，用大模型与文档对话，提供Al分析、阅读、问答工具，助你快速了解文档内容。|18|2024-09-04|2023-12-20|
