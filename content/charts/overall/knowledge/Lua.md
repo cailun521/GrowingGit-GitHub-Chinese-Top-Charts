@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Lua
-<sub>数据更新: 2024-10-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -20,7 +20,7 @@
 |13|[l549349545/MeetingStone_Happy](https://github.com/l549349545/MeetingStone_Happy)|魔兽世界集合石插件修改版|15|2024-10-01|
 |14|[newObjectccc/newObjectccc.github.io](https://github.com/newObjectccc/newObjectccc.github.io)|一个分享文章和技术还有推荐的Repo~|12|2024-08-31|
 |15|[Yiklek/oh-my-rime](https://github.com/Yiklek/oh-my-rime)|rime 输入法集合|10|2024-08-16|
-|16|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|8|2024-10-08|
+|16|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|9|2024-10-08|
 |17|[Tsinswreng/rime-TswG](https://github.com/Tsinswreng/rime-TswG)|rime輸入法lua腳本及方案分享|6|2024-05-06|
 
 <div align="center">
