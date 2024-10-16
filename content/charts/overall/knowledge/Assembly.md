@@ -1,11 +1,11 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Assembly
-<sub>数据更新: 2024-10-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2252|2024-08-20|
+|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2253|2024-08-20|
 |2|[thu-cs-lab/supervisor-rv](https://github.com/thu-cs-lab/supervisor-rv)|计算机组成原理课程 RISC-V 监控程序，支持 32 位和 64 位|113|2024-09-17|
 |3|[Xzonn/PokemonChineseTranslationRevise](https://github.com/Xzonn/PokemonChineseTranslationRevise)|《宝可梦》第四世代汉化修正|91|2024-10-12|
 |4|[web1992/read](https://github.com/web1992/read)|学习笔记 dubbo,rocketmq 源码解析|49|2024-09-20|

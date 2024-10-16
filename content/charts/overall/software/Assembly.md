@@ -1,17 +1,17 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2024-10-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57627|2024-07-11|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10955|2024-08-20|
-|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6828|2024-09-23|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57630|2024-07-11|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10957|2024-08-20|
+|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6832|2024-10-15|
 |4|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|265|2024-07-20|
 |5|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|126|2024-10-11|
 |6|[team-s2/ctf_summer_courses](https://github.com/team-s2/ctf_summer_courses)|AAA - 短学期安全攻防实践开源仓库|89|2024-07-25|
-|7|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|46|2024-09-30|
+|7|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|46|2024-10-15|
 |8|[weipeng2k/hot-wind](https://github.com/weipeng2k/hot-wind)|技术杂文集|33|2024-09-11|
 |9|[ThuryW/ZJU-ISEE](https://github.com/ThuryW/ZJU-ISEE)|ZJU-ISEE 微电子 个人存档|15|2024-06-12|
 |10|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|13|2024-04-25|
@@ -29,11 +29,12 @@
 |22|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|5|2024-06-30|
 |23|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|5|2024-06-17|
 |24|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|2024-10-11|
-|25|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|2024-08-19|
-|26|[GEJXD/xv6-labs-2021](https://github.com/GEJXD/xv6-labs-2021)|MIT 6.S081 实验代码|3|2024-09-03|
-|27|[Jerry-Terrasse/HITSZ-COMP2012-LAB](https://github.com/Jerry-Terrasse/HITSZ-COMP2012-LAB)|计算机设计与实践（2023夏季）   哈工大（深圳）|3|2024-08-30|
-|28|[MiChuan/ComputerPrincipleDesign](https://github.com/MiChuan/ComputerPrincipleDesign)|华中科技大学计算机组成原理课设|3|2024-08-05|
-|29|[JannLeo/Summary-of-learning-experience](https://github.com/JannLeo/Summary-of-learning-experience)|This repository records the summary of my two stages of study as an undergraduate student in 深圳大学计算机科学与技术专业 and as a Master in Embedded Systems Engineering at the University of Leeds（利兹大学嵌入式系统工程专业研究生） ...|2|2024-05-20|
+|25|[lxjfzlxj/HUST-ICS-Labs](https://github.com/lxjfzlxj/HUST-ICS-Labs)|华中科技大学计算机系统基础实验|3|2024-10-15|
+|26|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|2024-08-19|
+|27|[GEJXD/xv6-labs-2021](https://github.com/GEJXD/xv6-labs-2021)|MIT 6.S081 实验代码|3|2024-09-03|
+|28|[Jerry-Terrasse/HITSZ-COMP2012-LAB](https://github.com/Jerry-Terrasse/HITSZ-COMP2012-LAB)|计算机设计与实践（2023夏季）   哈工大（深圳）|3|2024-08-30|
+|29|[MiChuan/ComputerPrincipleDesign](https://github.com/MiChuan/ComputerPrincipleDesign)|华中科技大学计算机组成原理课设|3|2024-08-05|
+|30|[JannLeo/Summary-of-learning-experience](https://github.com/JannLeo/Summary-of-learning-experience)|This repository records the summary of my two stages of study as an undergraduate student in 深圳大学计算机科学与技术专业 and as a Master in Embedded Systems Engineering at the University of Leeds（利兹大学嵌入式系统工程专业研究生） ...|2|2024-05-20|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
