@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-10-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -10,23 +10,23 @@
 |3|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|6427|2024-08-10|
 |4|[chxuan/vimplus](https://github.com/chxuan/vimplus)|:rocket:An automatic configuration program for vim|3914|2024-06-05|
 |5|[theniceboy/nvim](https://github.com/theniceboy/nvim)|The Ultimate NeoVim Config for Colemak Users|2012|2024-10-05|
-|6|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1849|2024-09-22|
+|6|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1850|2024-09-22|
 |7|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1782|2024-07-27|
-|8|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1753|2024-09-14|
+|8|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1755|2024-09-14|
 |9|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer. 最实用的vim配置🔥|1622|2024-05-08|
-|10|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|912|2024-10-15|
-|11|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|911|2024-09-27|
+|10|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|912|2024-09-27|
+|11|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|912|2024-10-15|
 |12|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|906|2024-07-26|
 |13|[bilibili/vim-vide](https://github.com/bilibili/vim-vide)|Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！|791|2024-04-20|
 |14|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|610|2024-09-01|
 |15|[jaywcjlove/vim-web](https://github.com/jaywcjlove/vim-web)|◈ 搞得像IDE一样的Vim，安装配置自己的Vim。|602|2024-06-23|
 |16|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|480|2024-09-17|
-|17|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|412|2024-09-15|
+|17|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|413|2024-09-15|
 |18|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|282|2024-10-04|
 |19|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|277|2024-04-21|
-|20|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|203|2024-09-29|
+|20|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|203|2024-10-16|
 |21|[axiaoxin/my-vimrc](https://github.com/axiaoxin/my-vimrc)|VIM configuration file: used to write Golang, Python, Markdown, etc. with VIM on macOS|154|2024-09-29|
-|22|[Leptune/vim-for-coding](https://github.com/Leptune/vim-for-coding)|vim-for-coding|132|2024-07-15|
+|22|[Leptune/vim-for-coding](https://github.com/Leptune/vim-for-coding)|vim-for-coding|133|2024-07-15|
 |23|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|107|2024-10-04|
 |24|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|85|2024-09-29|
 |25|[anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office)|Alfred-Workflows，Vim，Script，Mac|81|2024-08-31|
@@ -60,7 +60,7 @@
 |53|[listenerri/ri-vim](https://github.com/listenerri/ri-vim)|一份中文注释齐全的vim配置|3|2024-05-25|
 |54|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|2024-07-23|
 |55|[Hyvi/dotfiles](https://github.com/Hyvi/dotfiles)|vim配置|3|2024-08-25|
-|56|[GitHubonline1396529/vim](https://github.com/GitHubonline1396529/vim)|我的 Vim 配置 - My personal customized Vim configuration 'init.vim', compatible with Winodws gVim 9.1.0 or above, enhancing LaTeX writting and Chinese text display.|2|2024-10-13|
+|56|[GitHubonline1396529/vim](https://github.com/GitHubonline1396529/vim)|我的 Vim 配置 - My personal customized Vim configuration 'init.vim', compatible with Winodws gVim 9.1.0 or above, enhancing LaTeX writting and Chinese text display.|2|2024-10-16|
 |57|[jaaaain/AI-intelligent-sparring](https://github.com/jaaaain/AI-intelligent-sparring)|AI 智能陪练系统，服务外包第二季|2|2024-10-09|
 |58|[byrzhm/my-vim-settings](https://github.com/byrzhm/my-vim-settings)|我在vscode以及jetbrain全家桶上的vim配置|2|2024-06-22|
 |59|[ZSaberLv0/ZFVimIM_openapi](https://github.com/ZSaberLv0/ZFVimIM_openapi)|vim百度云输入法 / async db source for ZFVimIM, using thirdparty's openapi|2|2024-09-29|

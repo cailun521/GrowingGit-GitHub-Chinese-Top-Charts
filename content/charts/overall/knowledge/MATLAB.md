@@ -1,16 +1,16 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-10-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3617|2024-10-01|
-|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1438|2024-10-15|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3628|2024-10-01|
+|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1440|2024-10-15|
 |3|[LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch)|CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码|128|2024-05-14|
 |4|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|60|2024-08-14|
 |5|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|31|2024-08-15|
-|6|[Teddy-Liao/Beauty-of-Control-using-Matlab](https://github.com/Teddy-Liao/Beauty-of-Control-using-Matlab)|复制了《控制之美卷2》书籍提供的Octave源代码，并用Matlab进行部分复现。|21|2024-05-31|
+|6|[Teddy-Liao/Beauty-of-Control-using-Matlab](https://github.com/Teddy-Liao/Beauty-of-Control-using-Matlab)|复制了《控制之美卷2》书籍提供的Octave源代码，并用Matlab进行部分复现。|22|2024-05-31|
 |7|[StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial](https://github.com/StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial)|本项目是为了PKU & BJTU大二学生本研轮转而创，内容包含了对毫米波雷达基础知识的总结、基于IWR1843的原始ADC数据处理、FMCW-MIMO毫米波雷达仿真、基于点云的人体追踪Demo、基于热力图的人体定位demo、手势识别demo和毫米波雷达生命体征检测Demo|20|2024-04-25|
 |8|[LiZhengXiao99/INS_Course_Matlab](https://github.com/LiZhengXiao99/INS_Course_Matlab)|安徽理工大学惯性导航课程设计，实现导航级 IMU 的标定、对准、递推；额外写了 PSINS 的对准和递推的主函数，跟严老师的结果做对比。|17|2024-06-12|
 |9|[infinity-07/Numerical-analysis-code](https://github.com/infinity-07/Numerical-analysis-code)|使用MATLAB实现数值分析课程的算法|17|2024-07-10|

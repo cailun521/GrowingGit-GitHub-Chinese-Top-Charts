@@ -1,13 +1,13 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-10-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|104|2024-08-05|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|103|2024-08-05|
 |2|[lxy0068/Signal-and-system-experiments](https://github.com/lxy0068/Signal-and-system-experiments)|Signal and System Experiment (Autumn 2023)|7|1|2024-10-11|
-|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|793|1|2024-09-26|
+|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|794|1|2024-09-26|
 |4|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|4|0|2024-07-08|
 |5|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|0|2024-05-21|
 |6|[Joe-Hall-Lee/sxjmqf](https://github.com/Joe-Hall-Lee/sxjmqf)|数学建模清风。|13|0|2024-09-05|
@@ -21,7 +21,7 @@
 |14|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|5|0|2024-04-28|
 |15|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|0|2024-06-09|
 |16|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|237|0|2024-10-15|
-|17|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|20|0|2024-10-15|
+|17|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|20|0|2024-10-16|
 |18|[chtld/Finite_Element_Method_Matlab](https://github.com/chtld/Finite_Element_Method_Matlab)|有限元方法的 matlab 实现，为了追求清晰通用，将会大大牺牲程序的效率。|49|0|2024-04-25|
 |19|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|0|2024-07-16|
 |20|[zhyantao/GA-shortest_path](https://github.com/zhyantao/GA-shortest_path)|遗传算法解决最短路径问题（两个出发点）|11|0|2024-07-04|
@@ -40,7 +40,7 @@
 |33|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|0|2024-07-19|
 |34|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|5|0|2024-05-23|
 |35|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|16|0|2024-09-05|
-|36|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|207|0|2024-06-15|
+|36|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|208|0|2024-06-15|
 |37|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|7|0|2024-05-25|
 |38|[SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)|This is a MATLAB implementation of Sonar Image Segmentation via Entropy Method|20|0|2024-10-10|
 |39|[Walker-rx/Signal-equalization-using-MMSE](https://github.com/Walker-rx/Signal-equalization-using-MMSE)|利用mmse完成光通信信号均衡，源自gen_data_final|5|0|2024-08-22|
@@ -52,11 +52,11 @@
 |45|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|0|2024-05-29|
 |46|[Ebola-Chan-bot/Parallel-Computing](https://github.com/Ebola-Chan-bot/Parallel-Computing)|埃博拉酱的并行计算工具箱|4|0|2024-07-25|
 |47|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|91|0|2024-06-10|
-|48|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|19|0|2024-05-13|
+|48|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|20|0|2024-05-13|
 |49|[Seafood-SIMIT/fwnn-matlab](https://github.com/Seafood-SIMIT/fwnn-matlab)|Implementation of Fuzzy Wavelet Neural Network in Matlab and Evaluation of Target Threat /模糊小波神经网络的Matlab实现以及目标威胁评估|32|0|2024-08-20|
 |50|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|0|2024-07-14|
 |51|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|20|0|2024-09-30|
-|52|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|51|0|2024-06-25|
+|52|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|53|0|2024-06-25|
 |53|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|0|2024-05-06|
 |54|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|0|2024-05-25|
 |55|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|77|0|2024-05-06|

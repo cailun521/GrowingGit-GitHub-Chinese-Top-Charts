@@ -1,18 +1,18 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > CSS
-<sub>数据更新: 2024-10-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1342|2024-05-10|2023-12-11|
-|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1270|2024-08-14|2024-06-16|
-|3|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据|1085|2024-10-14|2024-02-01|
+|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1345|2024-05-10|2023-12-11|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1276|2024-08-14|2024-06-16|
+|3|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据|1087|2024-10-14|2024-02-01|
 |4|[wyj0605/douban_library](https://github.com/wyj0605/douban_library)|豆瓣读书插件，自动查询图书馆的图书借阅信息。|61|2024-10-15|2024-02-07|
 |5|[Alanrk/hexo-theme-onenote](https://github.com/Alanrk/hexo-theme-onenote)|专注于提供良好的阅读体验的hexo博客主题|39|2024-07-15|2024-06-16|
 |6|[huzhicheng/fengzheng-blog](https://github.com/huzhicheng/fengzheng-blog)|一款简介的个人博客模板，使用 Hugo + Markdown |38|2024-06-25|2024-06-25|
 |7|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|22|2024-09-18|2023-11-22|
-|8|[KinnariyaMamaTanha/aiTour](https://github.com/KinnariyaMamaTanha/aiTour)|AI 学习之旅|20|2024-10-08|2024-01-12|
+|8|[KinnariyaMamaTanha/aiTour](https://github.com/KinnariyaMamaTanha/aiTour)|AI 学习之旅|21|2024-10-08|2024-01-12|
 |9|[Sophomoresty/typora-theme-Jinxiu](https://github.com/Sophomoresty/typora-theme-Jinxiu)|锦绣红 Typora 模板：大学生课程论文与日常写作的好帮手|17|2024-08-28|2024-08-24|
 |10|[epoch-lab/cuit-guide](https://github.com/epoch-lab/cuit-guide)|CUIT 指南|14|2024-10-14|2024-07-15|
 |11|[wflac/theme-Mego](https://github.com/wflac/theme-Mego)|一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。|14|2024-06-06|2024-06-04|
