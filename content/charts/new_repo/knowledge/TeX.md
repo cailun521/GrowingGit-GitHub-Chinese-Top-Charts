@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > TeX
-<sub>数据更新: 2024-10-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -38,32 +38,30 @@
 |31|[luoyaocray/USAC_OPTICS_817](https://github.com/luoyaocray/USAC_OPTICS_817)|真题资料latex源代码|5|2024-10-16|2024-10-08|
 |32|[Hypotenuse-legs/Weekly-Knowledge-Tips-DLUT](https://github.com/Hypotenuse-legs/Weekly-Knowledge-Tips-DLUT)|这是大连理工大学电计2203班的「知识小料」系列，一般在每个教学周更新一期。|5|2024-10-13|2024-07-18|
 |33|[Stolorzs/ZafuTemplatePublic](https://github.com/Stolorzs/ZafuTemplatePublic)|浙江农林大学风景园林与建筑学院本科生毕业设计说明书（或毕业论文）的LateX模板|5|2024-06-19|2024-05-20|
-|34|[liuqi6777/ructhesis](https://github.com/liuqi6777/ructhesis)|中国人民大学本科毕业论文（设计）LaTeX模板|5|2024-04-17|2024-04-16|
-|35|[ZhihengNing/LaTex-template](https://github.com/ZhihengNing/LaTex-template)|自用LaTex模板，主要用来编写数学解答及书写论文|5|2024-06-03|2023-12-29|
-|36|[WeiViming/gzhu-thesis](https://github.com/WeiViming/gzhu-thesis)|广州大学研究生学位论文非官方模板|5|2024-06-30|2023-11-08|
-|37|[boa-z/SUEP-Course](https://github.com/boa-z/SUEP-Course)|上海电力大学 电子与信息工程学院 课程共享 本科|5|2024-10-14|2023-10-19|
-|38|[fairyshine/SUDA_TeX_Template](https://github.com/fairyshine/SUDA_TeX_Template)|苏州大学硕士学位论文模板 - Soochow University Thesis TeX Template|4|2024-10-15|2024-10-04|
-|39|[blanche07/ecust-master-thesis-latex](https://github.com/blanche07/ecust-master-thesis-latex)|华东理工大学硕士学位论文Latex模板|4|2024-06-04|2024-05-28|
-|40|[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE)|南方科技大学本科生毕业论文 LaTeX 模板 - 2024非官方机械系模板|4|2024-06-21|2024-05-10|
-|41|[ChambersXDU/xduts_demo](https://github.com/ChambersXDU/xduts_demo)|提供一份稍完整的xduts参考示例，供西电学子入门xduts使用|4|2024-04-17|2024-04-16|
-|42|[Mikachu2333/sdsmu_welcome_tex](https://github.com/Mikachu2333/sdsmu_welcome_tex)|《山东第二医科大学指南》Latex版本，生活手册与新生指南一体化｜原docx版本由“山东第二医科大学频道”接手更新，属于本文的分叉（Fork）关系，互不干扰。|4|2024-10-13|2024-03-21|
-|43|[Trikim-Zhang/Principles-and-Practice-of-Artificial-Intelligence](https://github.com/Trikim-Zhang/Principles-and-Practice-of-Artificial-Intelligence)|nudt人工智能原理与实践复习资料|4|2024-07-27|2024-01-22|
-|44|[LeoJhonSong/UCAS-Dissertation](https://github.com/LeoJhonSong/UCAS-Dissertation)|国科大硕士/博士学位论文LeTeX模板, 以《中国科学院大学研究生学位论文撰写规范指导意见》(校发学位字[2022]40号, 附件1) 作为撰写要求|4|2024-07-24|2024-01-15|
-|45|[winplay/USTC_Latex_template](https://github.com/winplay/USTC_Latex_template)|中科大（USTC）课程论文模板|4|2024-06-22|2024-01-10|
-|46|[shinyypig/HFUT-Thesis](https://github.com/shinyypig/HFUT-Thesis)|合肥工业大学本科毕业设计论文模版|4|2024-07-05|2023-11-29|
-|47|[Ballad1214/nudtpaper](https://github.com/Ballad1214/nudtpaper)|nudt大论文模板|3|2024-10-12|2024-10-11|
-|48|[Pungjay/swjtuThesis](https://github.com/Pungjay/swjtuThesis)|西南交通大学硕/博学位论文 LaTeX 模板|3|2024-08-17|2024-08-09|
-|49|[sjewb/math_share](https://github.com/sjewb/math_share)|这是一个数学专业的日常分享|3|2024-07-22|2024-07-22|
-|50|[weyumm/-Mathematical-Modeling-Awareness-Guide-](https://github.com/weyumm/-Mathematical-Modeling-Awareness-Guide-)|【数学建模觉迷录】记录我从学习数学建模到参加各种建模竞赛的数据集、代码、论文。(A record of my datasets, code, and papers from learning mathematical modeling to participating in various modeling competitions.)|3|2024-07-30|2024-07-15|
-|51|[handsomeo7y/latex-elsevier](https://github.com/handsomeo7y/latex-elsevier)|根据elsevier 模板改的论文模板|3|2024-06-03|2024-06-03|
-|52|[Hl-W/TongjiThesis_modified](https://github.com/Hl-W/TongjiThesis_modified)|同济大学硕博士论文 LaTeX 模板的修改版，根据2024年格式要求修改|3|2024-05-21|2024-05-21|
-|53|[OceanPresentChao/JLU-SE-Thesis-Template](https://github.com/OceanPresentChao/JLU-SE-Thesis-Template)|吉林大学 软件学院 本科毕业论文 Latex模板|3|2024-10-13|2024-05-13|
-|54|[Guanyu-Li/Thesis-template](https://github.com/Guanyu-Li/Thesis-template)|吉林大学毕业论文模板（latex）|3|2024-05-31|2024-05-12|
-|55|[KingwithQueen/GXU-Masters-and-PhD-Thesis-Templates](https://github.com/KingwithQueen/GXU-Masters-and-PhD-Thesis-Templates)|生成符合广西大学硕士或博士研究生毕业论文格式要求的论文模板|3|2024-05-08|2024-05-08|
-|56|[wertolf/COD2024Spring](https://github.com/wertolf/COD2024Spring)|2024春《计算机组成原理与汇编语言》课程资料|3|2024-06-28|2024-03-22|
-|57|[01xz/dlut-thesis](https://github.com/01xz/dlut-thesis)|2024大连理工大学硕士学位论文LaTeX模版|3|2024-05-20|2024-03-05|
-|58|[Siliconet/Math-Bridge](https://github.com/Siliconet/Math-Bridge)|自编的高中数学读本，采用ElegantBook模板。|3|2024-10-02|2024-02-06|
-|59|[dutLQG/DUT-LyX](https://github.com/dutLQG/DUT-LyX)|大连理工大学博士硕士学位论文LyX/LaTeX模板|3|2024-06-09|2023-10-29|
+|34|[ZhihengNing/LaTex-template](https://github.com/ZhihengNing/LaTex-template)|自用LaTex模板，主要用来编写数学解答及书写论文|5|2024-06-03|2023-12-29|
+|35|[WeiViming/gzhu-thesis](https://github.com/WeiViming/gzhu-thesis)|广州大学研究生学位论文非官方模板|5|2024-06-30|2023-11-08|
+|36|[boa-z/SUEP-Course](https://github.com/boa-z/SUEP-Course)|上海电力大学 电子与信息工程学院 课程共享 本科|5|2024-10-17|2023-10-19|
+|37|[fairyshine/SUDA_TeX_Template](https://github.com/fairyshine/SUDA_TeX_Template)|苏州大学硕士学位论文模板 - Soochow University Thesis TeX Template|4|2024-10-15|2024-10-04|
+|38|[blanche07/ecust-master-thesis-latex](https://github.com/blanche07/ecust-master-thesis-latex)|华东理工大学硕士学位论文Latex模板|4|2024-06-04|2024-05-28|
+|39|[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE)|南方科技大学本科生毕业论文 LaTeX 模板 - 2024非官方机械系模板|4|2024-06-21|2024-05-10|
+|40|[Mikachu2333/sdsmu_welcome_tex](https://github.com/Mikachu2333/sdsmu_welcome_tex)|《山东第二医科大学指南》Latex版本，生活手册与新生指南一体化｜原docx版本由“山东第二医科大学频道”接手更新，属于本文的分叉（Fork）关系，互不干扰。|4|2024-10-17|2024-03-21|
+|41|[Trikim-Zhang/Principles-and-Practice-of-Artificial-Intelligence](https://github.com/Trikim-Zhang/Principles-and-Practice-of-Artificial-Intelligence)|nudt人工智能原理与实践复习资料|4|2024-07-27|2024-01-22|
+|42|[LeoJhonSong/UCAS-Dissertation](https://github.com/LeoJhonSong/UCAS-Dissertation)|国科大硕士/博士学位论文LeTeX模板, 以《中国科学院大学研究生学位论文撰写规范指导意见》(校发学位字[2022]40号, 附件1) 作为撰写要求|4|2024-07-24|2024-01-15|
+|43|[winplay/USTC_Latex_template](https://github.com/winplay/USTC_Latex_template)|中科大（USTC）课程论文模板|4|2024-06-22|2024-01-10|
+|44|[shinyypig/HFUT-Thesis](https://github.com/shinyypig/HFUT-Thesis)|合肥工业大学本科毕业设计论文模版|4|2024-07-05|2023-11-29|
+|45|[Ballad1214/nudtpaper](https://github.com/Ballad1214/nudtpaper)|nudt大论文模板|3|2024-10-12|2024-10-11|
+|46|[Pungjay/swjtuThesis](https://github.com/Pungjay/swjtuThesis)|西南交通大学硕/博学位论文 LaTeX 模板|3|2024-08-17|2024-08-09|
+|47|[sjewb/math_share](https://github.com/sjewb/math_share)|这是一个数学专业的日常分享|3|2024-07-22|2024-07-22|
+|48|[weyumm/-Mathematical-Modeling-Awareness-Guide-](https://github.com/weyumm/-Mathematical-Modeling-Awareness-Guide-)|【数学建模觉迷录】记录我从学习数学建模到参加各种建模竞赛的数据集、代码、论文。(A record of my datasets, code, and papers from learning mathematical modeling to participating in various modeling competitions.)|3|2024-07-30|2024-07-15|
+|49|[handsomeo7y/latex-elsevier](https://github.com/handsomeo7y/latex-elsevier)|根据elsevier 模板改的论文模板|3|2024-06-03|2024-06-03|
+|50|[Hl-W/TongjiThesis_modified](https://github.com/Hl-W/TongjiThesis_modified)|同济大学硕博士论文 LaTeX 模板的修改版，根据2024年格式要求修改|3|2024-05-21|2024-05-21|
+|51|[OceanPresentChao/JLU-SE-Thesis-Template](https://github.com/OceanPresentChao/JLU-SE-Thesis-Template)|吉林大学 软件学院 本科毕业论文 Latex模板|3|2024-10-13|2024-05-13|
+|52|[Guanyu-Li/Thesis-template](https://github.com/Guanyu-Li/Thesis-template)|吉林大学毕业论文模板（latex）|3|2024-05-31|2024-05-12|
+|53|[KingwithQueen/GXU-Masters-and-PhD-Thesis-Templates](https://github.com/KingwithQueen/GXU-Masters-and-PhD-Thesis-Templates)|生成符合广西大学硕士或博士研究生毕业论文格式要求的论文模板|3|2024-05-08|2024-05-08|
+|54|[wertolf/COD2024Spring](https://github.com/wertolf/COD2024Spring)|2024春《计算机组成原理与汇编语言》课程资料|3|2024-06-28|2024-03-22|
+|55|[01xz/dlut-thesis](https://github.com/01xz/dlut-thesis)|2024大连理工大学硕士学位论文LaTeX模版|3|2024-05-20|2024-03-05|
+|56|[Siliconet/Math-Bridge](https://github.com/Siliconet/Math-Bridge)|自编的高中数学读本，采用ElegantBook模板。|3|2024-10-02|2024-02-06|
+|57|[dutLQG/DUT-LyX](https://github.com/dutLQG/DUT-LyX)|大连理工大学博士硕士学位论文LyX/LaTeX模板|3|2024-06-09|2023-10-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-10-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -24,7 +24,7 @@
 |17|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|280|0|2024-10-16|
 |18|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|506|0|2024-10-15|
 |19|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|624|0|2024-10-16|
-|20|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|102|0|2024-10-15|
+|20|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|103|0|2024-10-15|
 |21|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|0|2024-08-12|
 |22|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|59|0|2024-06-11|
 |23|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |44|0|2024-09-05|
@@ -40,20 +40,19 @@
 |33|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|53|0|2024-10-11|
 |34|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit|33|0|2024-09-27|
 |35|[feddelegrand7/ralger](https://github.com/feddelegrand7/ralger)|ralger makes it easy to scrape a website. Built on the shoulders of titans: rvest, xml2. |156|0|2024-07-16|
-|36|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|110|0|2024-07-23|
+|36|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|111|0|2024-07-23|
 |37|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|26|0|2024-10-10|
 |38|[majianthu/copent](https://github.com/majianthu/copent)|R package for estimating copula entropy (mutual information), transfer entropy (conditional mutual information), and the statistic for multivariate normality test and two-sample test|40|0|2024-06-07|
-|39|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|141|0|2024-07-27|
+|39|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|142|0|2024-07-27|
 |40|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|594|0|2024-09-10|
 |41|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1037|0|2024-10-07|
 |42|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|166|0|2024-06-16|
 |43|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|142|0|2024-10-12|
 |44|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|15|0|2024-04-29|
 |45|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|16|0|2024-08-15|
-|46|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|54|0|2024-04-17|
-|47|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |9|0|2024-07-11|
-|48|[Crazzy-Rabbit/Rscript-to-anaylise-and-visualize](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)|一些用于画图的R脚本|13|0|2024-05-28|
-|49|[Hong-Kong-Districts-Info/hktrafficcollisions](https://github.com/Hong-Kong-Districts-Info/hktrafficcollisions)|Shiny app dashboard of HK traffic collisions that result in injury.   香港車禍傷亡資料庫：利用互動地圖和儀表版，將香港車禍位置和相關數據可視化。|7|0|2024-09-18|
+|46|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |9|0|2024-07-11|
+|47|[Crazzy-Rabbit/Rscript-to-anaylise-and-visualize](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)|一些用于画图的R脚本|13|0|2024-05-28|
+|48|[Hong-Kong-Districts-Info/hktrafficcollisions](https://github.com/Hong-Kong-Districts-Info/hktrafficcollisions)|Shiny app dashboard of HK traffic collisions that result in injury.   香港車禍傷亡資料庫：利用互動地圖和儀表版，將香港車禍位置和相關數據可視化。|7|0|2024-09-18|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

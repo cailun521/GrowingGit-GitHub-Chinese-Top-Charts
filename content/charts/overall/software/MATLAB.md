@@ -1,16 +1,16 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-10-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|2024-08-05|
-|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|794|2024-09-26|
+|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|795|2024-09-26|
 |3|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|237|2024-10-15|
 |4|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|208|2024-06-15|
 |5|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|120|2024-10-12|
-|6|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|91|2024-06-10|
+|6|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|92|2024-06-10|
 |7|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|77|2024-05-06|
 |8|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|58|2024-06-20|
 |9|[dong-hao/EM3DVP](https://github.com/dong-hao/EM3DVP)|EM3DVP: a Visual Package for 3D Geo-Electromagnetic modeling and inversion|54|2024-07-17|
@@ -27,7 +27,7 @@
 |20|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|20|2024-05-03|
 |21|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|20|2024-09-30|
 |22|[SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)|This is a MATLAB implementation of Sonar Image Segmentation via Entropy Method|20|2024-10-10|
-|23|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|20|2024-10-16|
+|23|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|20|2024-10-17|
 |24|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|16|2024-06-21|
 |25|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|16|2024-09-05|
 |26|[zx6733090/AverageCurve](https://github.com/zx6733090/AverageCurve)|均速曲线|15|2024-10-15|
@@ -52,12 +52,12 @@
 |45|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|
 |46|[Maaaaark001/Easy_DPD](https://github.com/Maaaaark001/Easy_DPD)|简易的DPD算法示例|6|2024-06-27|
 |47|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|2024-09-13|
-|48|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|5|2024-05-23|
-|49|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|5|2024-04-28|
-|50|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|
-|51|[Walker-rx/Signal-equalization-using-MMSE](https://github.com/Walker-rx/Signal-equalization-using-MMSE)|利用mmse完成光通信信号均衡，源自gen_data_final|5|2024-08-22|
-|52|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|
-|53|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|4|2024-07-08|
+|48|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|5|2024-07-08|
+|49|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|5|2024-05-23|
+|50|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|5|2024-04-28|
+|51|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|
+|52|[Walker-rx/Signal-equalization-using-MMSE](https://github.com/Walker-rx/Signal-equalization-using-MMSE)|利用mmse完成光通信信号均衡，源自gen_data_final|5|2024-08-22|
+|53|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|
 |54|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|4|2024-05-10|
 |55|[luwang103004/matlab-interference-simulation](https://github.com/luwang103004/matlab-interference-simulation)|第一个学期做的matlab仿真模拟和GS算法|4|2024-08-31|
 |56|[Ebola-Chan-bot/Parallel-Computing](https://github.com/Ebola-Chan-bot/Parallel-Computing)|埃博拉酱的并行计算工具箱|4|2024-07-25|
@@ -74,11 +74,10 @@
 |67|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
 |68|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
 |69|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-10-11|
-|70|[zawudui/-](https://github.com/zawudui/-)|用于存放李某人公开的数据处理代码，包括脑电数据分析、统计等|3|2024-04-17|
-|71|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|2024-05-23|
-|72|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|3|2024-09-28|
-|73|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|2024-09-22|
-|74|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|2024-09-04|
+|70|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|2024-05-23|
+|71|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|3|2024-09-28|
+|72|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|2024-09-22|
+|73|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|2024-09-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

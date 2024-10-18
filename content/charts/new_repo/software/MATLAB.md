@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-10-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -21,11 +21,11 @@
 |14|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|7|2024-05-17|2024-05-17|
 |15|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
 |16|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
-|17|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|5|2024-05-23|2024-05-23|
-|18|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|5|2024-04-28|2024-04-26|
-|19|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|2024-03-11|
-|20|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|2024-09-26|
-|21|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|4|2024-07-08|2024-07-08|
+|17|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|5|2024-07-08|2024-07-08|
+|18|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|5|2024-05-23|2024-05-23|
+|19|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|5|2024-04-28|2024-04-26|
+|20|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|2024-03-11|
+|21|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|2024-09-26|
 |22|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|4|2024-05-10|2024-05-10|
 |23|[EXPSIN/StroboscopicPhotography](https://github.com/EXPSIN/StroboscopicPhotography)|基于视频提取频闪照片的MATLAB脚本|3|2024-09-14|2024-09-14|
 |24|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2024-08-11|2024-08-10|
