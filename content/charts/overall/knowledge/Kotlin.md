@@ -1,15 +1,15 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Kotlin
-<sub>数据更新: 2024-10-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|30430|2024-08-06|
-|2|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|29009|2024-10-15|
-|3|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|7973|2024-07-27|
-|4|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)| 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.|7290|2024-10-11|
-|5|[tangshimin/MuJing](https://github.com/tangshimin/MuJing)|  使用电影、美剧或文档生成词库（单词本），为单词营造具体语境，进而通过此语境进行单词记忆。与此同时，用户能够使用键盘快速拼写单词，以此助力形成肌肉记忆，高效促进英语学习。|1030|2024-10-16|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|30431|2024-08-06|
+|2|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|29042|2024-10-15|
+|3|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|7979|2024-07-27|
+|4|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)| 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.|7292|2024-10-11|
+|5|[tangshimin/MuJing](https://github.com/tangshimin/MuJing)|  使用电影、美剧或文档生成词库（单词本），为单词营造具体语境，进而通过此语境进行单词记忆。与此同时，用户能够使用键盘快速拼写单词，以此助力形成肌肉记忆，高效促进英语学习。|1031|2024-10-16|
 |6|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|783|2024-10-16|
 |7|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|548|2024-07-05|
 |8|[kongpf8848/Animation](https://github.com/kongpf8848/Animation)|Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来😊😄😎|473|2024-06-29|
@@ -18,7 +18,7 @@
 |11|[cy745/LMusic](https://github.com/cy745/LMusic)|一个简洁且独特的音乐播放器，在其中学习使用了MVVM架构|206|2024-10-07|
 |12|[leavesCZY/RobustWebView](https://github.com/leavesCZY/RobustWebView)|Android WebView H5 秒开方案总结|113|2024-05-01|
 |13|[idisfkj/daily_algorithm](https://github.com/idisfkj/daily_algorithm)|🔥算法进阶，由浅入深，欢迎加入一起共勉(A daily algorithm，Welcome to join and share together)|99|2024-06-23|
-|14|[Xigong93/XiaoZhuan](https://github.com/Xigong93/XiaoZhuan)|《小篆传包》一键上传Apk到多个应用市场，开源，免费|96|2024-07-18|
+|14|[Xigong93/XiaoZhuan](https://github.com/Xigong93/XiaoZhuan)|《小篆传包》一键上传Apk到多个应用市场，开源，免费|97|2024-07-18|
 |15|[JIULANG9/WordsFairyNote](https://github.com/JIULANG9/WordsFairyNote)|词仙笔记源码|91|2024-10-06|
 |16|[open-toys-controller/open-DGLAB-controller](https://github.com/open-toys-controller/open-DGLAB-controller)|郊狼3.0 API网络控制器. 支持任意编程语言. 郊狼socket控制器开发教程|77|2024-05-27|
 |17|[hsicen/HencoderPlus](https://github.com/hsicen/HencoderPlus)|扔物线Hencoder plus系列课程 |74|2024-09-12|
@@ -28,7 +28,7 @@
 |21|[dora4/dora_samples](https://github.com/dora4/dora_samples)|❤️基于Jetpack MVVM，https://github.com/dora4/dora 的使用教程。|18|2024-09-14|
 |22|[CuteReimu/TheMessage](https://github.com/CuteReimu/TheMessage)|《风声典藏版》桌游的服务端代码。客户端代码见：https://github.com/Death-alter/TheMessage|16|2024-09-30|
 |23|[MskTmi/Bh3-ElysianRealm-Strategy](https://github.com/MskTmi/Bh3-ElysianRealm-Strategy)|基于Mirai-Console的QQ机器人崩坏3往世乐土攻略插件|16|2024-05-28|
-|24|[wgllss/WXNetArchitecture](https://github.com/wgllss/WXNetArchitecture)|花式封装:Kotlin+协程+Flow+Retrofit+OkHttp+Repository,倾囊相授,彻底减少模版代码进阶之路|13|2024-10-15|
+|24|[wgllss/WXNetArchitecture](https://github.com/wgllss/WXNetArchitecture)|花式封装:Kotlin+协程+Flow+Retrofit+OkHttp+Repository,倾囊相授,彻底减少模版代码进阶之路|14|2024-10-15|
 |25|[rengwuxian/CourseCoroutines](https://github.com/rengwuxian/CourseCoroutines)|《Kotlin 协程完全教程》的配套源码：rengwuxian.com/kc|12|2024-09-02|
 |26|[soloong/ComposeLearning](https://github.com/soloong/ComposeLearning)|Compose  学习|11|2024-07-20|
 |27|[xiaowine/DSP](https://github.com/xiaowine/DSP)|一个SharedPreferences和XSharedPreferences的封装库|10|2024-06-17|

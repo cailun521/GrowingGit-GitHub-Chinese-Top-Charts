@@ -1,13 +1,13 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2024-10-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57634|2024-07-11|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10963|2024-08-20|
-|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6836|2024-10-15|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57643|2024-07-11|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10962|2024-08-20|
+|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6838|2024-10-15|
 |4|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|265|2024-07-20|
 |5|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|126|2024-10-11|
 |6|[team-s2/ctf_summer_courses](https://github.com/team-s2/ctf_summer_courses)|AAA - 短学期安全攻防实践开源仓库|89|2024-07-25|
@@ -22,9 +22,9 @@
 |15|[wujin1989/coroutine-context-switch](https://github.com/wujin1989/coroutine-context-switch)|一个协程的上下文切换代码，支持windows，linux，macosx(intel)。macosx(aarch64)后续会支持|10|2024-07-18|
 |16|[skyboooox/HomoOS](https://github.com/skyboooox/HomoOS)|宏萌-自主研发国内微内核跨平台操作系统|9|2024-06-28|
 |17|[Wokann/Pokemon_GBA_Font_Patch](https://github.com/Wokann/Pokemon_GBA_Font_Patch)|宝可梦3代GBA汉字字库补丁（增益优化版）|7|2024-07-15|
-|18|[DANNHIROAKI/XJTU-COMP400727-ICS](https://github.com/DANNHIROAKI/XJTU-COMP400727-ICS)|西安交通大学COMP400727计算机系统导论课程|7|2024-05-13|
-|19|[Lazy-Tag/ICS-labs](https://github.com/Lazy-Tag/ICS-labs)|RUC 2022-2023 ICS系列实验|7|2024-08-02|
-|20|[Yiipu/HUST-HardwareDesign-RISCv](https://github.com/Yiipu/HUST-HardwareDesign-RISCv)|HUST-2023秋-硬件设计综合训练|6|2024-09-13|
+|18|[Lazy-Tag/ICS-labs](https://github.com/Lazy-Tag/ICS-labs)|RUC 2022-2023 ICS系列实验|7|2024-08-02|
+|19|[Yiipu/HUST-HardwareDesign-RISCv](https://github.com/Yiipu/HUST-HardwareDesign-RISCv)|HUST-2023秋-硬件设计综合训练|6|2024-09-13|
+|20|[DANNHIROAKI/XJTU-COMP400727-ICS](https://github.com/DANNHIROAKI/XJTU-COMP400727-ICS)|西安交通大学COMP400727计算机系统导论课程|6|2024-05-13|
 |21|[MrAMS/Nagi](https://github.com/MrAMS/Nagi)|基于difftest改进的CPU敏捷开发框架（nscscc2024）|5|2024-09-06|
 |22|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|5|2024-06-30|
 |23|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|5|2024-06-17|
