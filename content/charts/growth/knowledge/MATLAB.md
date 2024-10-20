@@ -1,11 +1,11 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3641|5|2024-10-01|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3646|5|2024-10-01|
 |2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1443|1|2024-10-15|
 |3|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|31|0|2024-08-15|
 |4|[tqlnb/servo_motor_study](https://github.com/tqlnb/servo_motor_study)|伺服电机以及simulink建模学习|3|0|2024-08-02|
@@ -20,12 +20,12 @@
 |13|[Teddy-Liao/Beauty-of-Control-using-Matlab](https://github.com/Teddy-Liao/Beauty-of-Control-using-Matlab)|复制了《控制之美卷2》书籍提供的Octave源代码，并用Matlab进行部分复现。|23|0|2024-05-31|
 |14|[barkure/MATLAB-Projects](https://github.com/barkure/MATLAB-Projects)|本科期间一些课程涉及到的 MATLAB 代码|3|0|2024-05-03|
 |15|[bhu619/Beauty-of-Control-Systems-Notebook](https://github.com/bhu619/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|10|0|2024-09-14|
-|16|[pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-](https://github.com/pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-)|西安交通大学自动化专业本科生学习资料 XJTU automation undergraduate all Learning Materials|6|0|2024-08-15|
+|16|[pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-](https://github.com/pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-)|西安交通大学自动化专业本科生学习资料 XJTU automation undergraduate all Learning Materials|7|0|2024-08-15|
 |17|[Dilettante258/MathExpA](https://github.com/Dilettante258/MathExpA)|2024年 南京邮电大学 数学实验A 作业留档。参考教材：《MATLAB数学实验》 第三版(胡良剑 孙晓君)|3|0|2024-04-22|
 |18|[chenguangwei/tech-knowledge](https://github.com/chenguangwei/tech-knowledge)|整理自己的一些 github stars项目和学习记录|11|0|2024-10-11|
 |19|[ZHANG-JiXiang/ECOOT-cec2017](https://github.com/ZHANG-JiXiang/ECOOT-cec2017)|论文“增强型白骨顶鸡优化算法及其应用”的代码，实验与COA、PSO、WOA、BOA、AEO、HHO、AVOA七种群智能算法进行比较|14|0|2024-07-01|
 |20|[LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch)|CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码|128|0|2024-05-14|
-|21|[lankerr/BIT_2023_DSP-RADAR](https://github.com/lankerr/BIT_2023_DSP-RADAR)|2023北京理工大学数字信号处理和雷达课程的matlab代码|3|0|2024-05-06|
+|21|[lankerr/BIT_2023_DSP-RADAR](https://github.com/lankerr/BIT_2023_DSP-RADAR)|2023北京理工大学数字信号处理和雷达课程的matlab代码|4|0|2024-05-06|
 |22|[zhao-zhibo/INS](https://github.com/zhao-zhibo/INS)|INS.IMU. Inertial navigation mechanical arrangement algorithm, based on Yan Gongmin's PSINS 惯导机械编排算法，以严恭敏的PSINS为基础，可以完成武汉大学的机械编排课程作业. |14|0|2024-05-31|
 |23|[WZRforcontrol/YSU_JY_B_ks](https://github.com/WZRforcontrol/YSU_JY_B_ks)|YSU机械原理B课程设计(方案二)|4|0|2024-09-05|
 

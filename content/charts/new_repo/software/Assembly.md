@@ -1,13 +1,13 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Assembly
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|14|2024-04-25|2023-12-02|
 |2|[Yaochenger/RvBacktrace](https://github.com/Yaochenger/RvBacktrace)|RISC-V 极简栈回溯组件|10|2024-09-24|2024-05-20|
-|3|[MrAMS/Nagi](https://github.com/MrAMS/Nagi)|基于difftest改进的CPU敏捷开发框架（nscscc2024）|5|2024-09-06|2024-03-17|
+|3|[MrAMS/Nagi](https://github.com/MrAMS/Nagi)|基于difftest改进的CPU敏捷开发框架（nscscc2024）|6|2024-09-06|2024-03-17|
 |4|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|2024-10-11|2024-05-16|
 |5|[lxjfzlxj/HUST-ICS-Labs](https://github.com/lxjfzlxj/HUST-ICS-Labs)|华中科技大学计算机系统基础实验|3|2024-10-15|2024-09-25|
 |6|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|2024-08-19|2024-08-13|

@@ -1,22 +1,22 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples, from Getting Started to In-Depth Topics|2507|4|2024-10-14|
-|2|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|3221|4|2024-09-05|
-|3|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7707|3|2024-06-14|
-|4|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料|1910|2|2024-05-20|
-|5|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|4134|2|2024-07-27|
+|1|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples, from Getting Started to In-Depth Topics|2508|4|2024-10-14|
+|2|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|3224|4|2024-09-05|
+|3|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7708|3|2024-06-14|
+|4|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料|1912|2|2024-05-20|
+|5|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|4135|2|2024-07-27|
 |6|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|881|1|2024-06-06|
-|7|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2527|1|2024-10-14|
-|8|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|2212|1|2024-09-25|
+|7|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2528|1|2024-10-14|
+|8|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|2213|1|2024-09-25|
 |9|[parallel101/opengltutor](https://github.com/parallel101/opengltutor)|零基础入门计算机图形学必不可少的在线网络公开课，手把手教您现代 OpenGL 的点点滴滴，构建爆款游戏引擎。|303|1|2024-08-08|
-|10|[ming1016/study](https://github.com/ming1016/study)|学习记录|3875|1|2024-09-12|
-|11|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1548|1|2024-10-09|
-|12|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1469|1|2024-05-10|
+|10|[ming1016/study](https://github.com/ming1016/study)|学习记录|3876|1|2024-09-12|
+|11|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1547|1|2024-10-09|
+|12|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1470|1|2024-05-10|
 |13|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|1876|1|2024-05-20|
 |14|[feiskyer/sdn-handbook](https://github.com/feiskyer/sdn-handbook)|SDN网络指南（SDN Handbook）|1388|1|2024-04-30|
 |15|[akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)|从0使用C制作B+树数据库: 基于cstack开源教程Let's Build a Simple Database中文浓缩翻译及学习过程|66|0|2024-05-25|
@@ -31,9 +31,9 @@
 |24|[sunxvming/navmesh](https://github.com/sunxvming/navmesh)|导航网格寻路C++实现版(入门版)|171|0|2024-06-11|
 |25|[leleliu008/C-examples](https://github.com/leleliu008/C-examples)|C语言学习项目|270|0|2024-08-19|
 |26|[MiroKaku/Musa.Veil](https://github.com/MiroKaku/Musa.Veil)|Collection of undocumented Windows API declarations.|288|0|2024-09-28|
-|27|[agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)|A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  |1129|0|2024-09-25|
+|27|[agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)|A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  |1130|0|2024-09-25|
 |28|[zjutjh/zjut-icicles](https://github.com/zjutjh/zjut-icicles)|浙江工业大学课程攻略共享计划|232|0|2024-10-17|
-|29|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|1158|0|2024-05-30|
+|29|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|1159|0|2024-05-30|
 |30|[WHUCodingAndOpen/OpenCourseResources](https://github.com/WHUCodingAndOpen/OpenCourseResources)|WHU开源资料|72|0|2024-09-14|
 |31|[chankeh/net-lenrning-reference](https://github.com/chankeh/net-lenrning-reference)|TCP/IP网络编程笔记|463|0|2024-08-02|
 |32|[nzcv/note](https://github.com/nzcv/note)|arm汇编学习_linker学习笔记_Android逆向学习笔记|120|0|2024-10-10|
@@ -45,14 +45,14 @@
 |38|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|595|0|2024-10-14|
 |39|[OracleNep/Nday-Exploit-Plan](https://github.com/OracleNep/Nday-Exploit-Plan)|历史漏洞的细节以及利用方法汇总收集|98|0|2024-10-11|
 |40|[TenMoons/AHU-CS-Repository](https://github.com/TenMoons/AHU-CS-Repository)|安徽大学(AHU)计算机科学与技术学院学习资料汇总|195|0|2024-10-10|
-|41|[bouffalolab/bouffalo_sdk](https://github.com/bouffalolab/bouffalo_sdk)|BouffaloSDK is the IOT and MCU software development kit provided by the Bouffalo Lab Team, supports all the series of Bouffalo chips. Also it is the combination of bl_mcu_sdk and bl_iot_sdk |365|0|2024-07-11|
+|41|[bouffalolab/bouffalo_sdk](https://github.com/bouffalolab/bouffalo_sdk)|BouffaloSDK is the IOT and MCU software development kit provided by the Bouffalo Lab Team, supports all the series of Bouffalo chips. Also it is the combination of bl_mcu_sdk and bl_iot_sdk |366|0|2024-07-11|
 |42|[HDU-Course/H-HDU](https://github.com/HDU-Course/H-HDU)|分享在杭电的一些期末复习资料，主要课程有C语言，数据结构，计组，计网，密码学，网络安全等|208|0|2024-06-22|
 |43|[feiskyer/ebpf-apps](https://github.com/feiskyer/ebpf-apps)|极客时间专栏《eBPF 核心技术与实战》案例|318|0|2024-08-26|
-|44|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|556|0|2024-09-20|
+|44|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|558|0|2024-09-20|
 |45|[wangjia55/Start-C](https://github.com/wangjia55/Start-C)|c语言入门|98|0|2024-04-27|
 |46|[deepwzh/sdust-examination-materials](https://github.com/deepwzh/sdust-examination-materials)|山东科技大学课程资源共享计划|320|0|2024-10-11|
 |47|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|658|0|2024-10-11|
-|48|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|350|0|2024-06-26|
+|48|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|349|0|2024-06-26|
 |49|[xuhongv/StudyInEsp32](https://github.com/xuhongv/StudyInEsp32)|【深度开源】wiif+bt模块esp32学习之旅（持续更新，欢迎 Star...）|453|0|2024-10-14|
 |50|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|451|0|2024-09-29|
 |51|[cantjie/XJTU-Share](https://github.com/cantjie/XJTU-Share)|西安交通大学课程资料共享计划|512|0|2024-10-02|

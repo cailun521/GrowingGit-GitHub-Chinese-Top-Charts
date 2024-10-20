@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -31,7 +31,7 @@
 |24|[WQT1123/University-Presentation-Beamer](https://github.com/WQT1123/University-Presentation-Beamer)|大学Latex答辩模版，当前包含川大、哈工大、中科大。|4|2024-07-22|2024-02-28|
 |25|[HGAQ/Physical-Chemistry-Experiment](https://github.com/HGAQ/Physical-Chemistry-Experiment)|2023-fall-Physical-Chemistry-Experiment-物理化学实验|4|2024-09-12|2024-01-14|
 |26|[Nshx-Z/Guo-UCASPhysics-Experiments-Reports.github.io](https://github.com/Nshx-Z/Guo-UCASPhysics-Experiments-Reports.github.io)|中国科学院大学物理实验报告|3|2024-09-23|2024-09-23|
-|27|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-10-06|2024-09-08|
+|27|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-10-19|2024-09-08|
 |28|[EmpyreanHYR/MCM-Latex-template](https://github.com/EmpyreanHYR/MCM-Latex-template)|自用整理出的MCM数学建模美赛LaTex模板|3|2024-08-22|2024-08-22|
 |29|[EmpyreanHYR/CUMCM-Latex-template](https://github.com/EmpyreanHYR/CUMCM-Latex-template)|自用整理出的CUMCM数学建模国赛LaTex模板|3|2024-08-31|2024-08-22|
 |30|[DianRobot/DianRobot.github.io](https://github.com/DianRobot/DianRobot.github.io)|Diangroup Robotics Lab实验室主页|3|2024-10-14|2024-07-03|
@@ -40,7 +40,7 @@
 |33|[Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization](https://github.com/Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization)|nudt数值最优化算法与应用|3|2024-07-27|2024-06-09|
 |34|[wenjin1997/zkHackerHouse-binius](https://github.com/wenjin1997/zkHackerHouse-binius)|在zkHackerHouse@苏州 期间，对binius进行的主题研究。|3|2024-05-21|2024-05-15|
 |35|[gbs0856/NTUT-Thesis](https://github.com/gbs0856/NTUT-Thesis)|國立臺北科技大學碩博士論文XeLaTeX模板|3|2024-04-24|2024-04-24|
-|36|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|2024-10-17|2024-03-22|
+|36|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|2024-10-19|2024-03-22|
 |37|[zvbb/tao-analysis-exercise](https://github.com/zvbb/tao-analysis-exercise)|陶哲轩实分析（第三版）习题解答|3|2024-10-18|2024-02-26|
 |38|[Aegis1863/wust_beamer](https://github.com/Aegis1863/wust_beamer)|武汉科技大学 latex beamer模板|3|2024-07-12|2024-01-14|
 |39|[xinmiaok/xinmiao-garden-example](https://github.com/xinmiaok/xinmiao-garden-example)|通过整合多个obsidian的示例库，具有个人风格的示例库最终形成。|3|2024-05-28|2023-11-10|

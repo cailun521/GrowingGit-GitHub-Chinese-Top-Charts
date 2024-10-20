@@ -1,25 +1,25 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > TeX
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)|🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.|3915|2|2024-10-12|
+|1|[HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)|🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.|3919|2|2024-10-12|
 |2|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|2970|1|2024-05-06|
 |3|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2425|1|2024-08-09|
 |4|[karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book)|-|2170|1|2024-10-17|
-|5|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|4557|1|2024-09-27|
+|5|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|4558|1|2024-09-27|
 |6|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|817|1|2024-06-25|
-|7|[yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)|线性代数：未竟之美|488|1|2024-10-15|
-|8|[hijiangtao/resume](https://github.com/hijiangtao/resume)|个人中文简历 Latex 源码 https://hijiangtao.github.io/|1845|1|2024-09-04|
-|9|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|2585|1|2024-09-06|
+|7|[yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)|线性代数：未竟之美|489|1|2024-10-19|
+|8|[hijiangtao/resume](https://github.com/hijiangtao/resume)|个人中文简历 Latex 源码 https://hijiangtao.github.io/|1846|1|2024-09-04|
+|9|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|2588|1|2024-09-06|
 |10|[WHU-ICPC/WHU-ICPC](https://github.com/WHU-ICPC/WHU-ICPC)|武汉大学 ICPC 集训队仓库|6|0|2024-09-11|
-|11|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|0|2024-10-06|
+|11|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|0|2024-10-19|
 |12|[dhiyu/NJUPT-Bachelor](https://github.com/dhiyu/NJUPT-Bachelor)|南京邮电大学本科生毕业设计Latex模板|12|0|2024-06-05|
 |13|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1650|0|2024-09-02|
 |14|[hongmingjian/lectureos](https://github.com/hongmingjian/lectureos)|《操作系统原理》课件|3|0|2024-05-14|
-|15|[OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc)|Documentation for XiangShan|345|0|2024-10-15|
+|15|[OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc)|Documentation for XiangShan|346|0|2024-10-15|
 |16|[Teddy-van-Jerry/seuthesis2024b](https://github.com/Teddy-van-Jerry/seuthesis2024b)|LaTeX Template of Southeast University Thesis for Class of 2024 Bachelors (东南大学 2024 届本科毕设 LaTeX 模板)|40|0|2024-08-28|
 |17|[seed-labs/seedlabs-chinese](https://github.com/seed-labs/seedlabs-chinese)|Chinese translation of the SEED Labs|46|0|2024-09-25|
 |18|[xiamyphys/hduthesis](https://github.com/xiamyphys/hduthesis)|LaTeX class for bachelor and MPhil theses in Hangzhou Dianzi University (杭州电子科技大学).|16|0|2024-10-10|
@@ -40,13 +40,13 @@
 |33|[xinmiaok/xinmiao-garden-example](https://github.com/xinmiaok/xinmiao-garden-example)|通过整合多个obsidian的示例库，具有个人风格的示例库最终形成。|3|0|2024-05-28|
 |34|[yingchaotw/STUST-thesis-template](https://github.com/yingchaotw/STUST-thesis-template)|南臺科技大學 LaTeX 論文模板|3|0|2024-08-24|
 |35|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|1187|0|2024-06-06|
-|36|[latexstudio/GMCMthesis](https://github.com/latexstudio/GMCMthesis)|2024 年研究生数学建模 LaTeX 模板|241|0|2024-09-17|
+|36|[latexstudio/GMCMthesis](https://github.com/latexstudio/GMCMthesis)|2024 年研究生数学建模 LaTeX 模板|242|0|2024-09-17|
 |37|[guohuiyuan/KaoyanPlan](https://github.com/guohuiyuan/KaoyanPlan)|个人考研计划|7|0|2024-07-14|
 |38|[404-NOTFOUND-Coder/UESTC--report--template](https://github.com/404-NOTFOUND-Coder/UESTC--report--template)|适用于UESTC各种实验报告latex模板|15|0|2024-10-06|
 |39|[Aegis1863/wust_beamer](https://github.com/Aegis1863/wust_beamer)|武汉科技大学 latex beamer模板|3|0|2024-07-12|
 |40|[WQT1123/University-Presentation-Beamer](https://github.com/WQT1123/University-Presentation-Beamer)|大学Latex答辩模版，当前包含川大、哈工大、中科大。|4|0|2024-07-22|
 |41|[HGAQ/Physical-Chemistry-Experiment](https://github.com/HGAQ/Physical-Chemistry-Experiment)|2023-fall-Physical-Chemistry-Experiment-物理化学实验|4|0|2024-09-12|
-|42|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|0|2024-10-17|
+|42|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|0|2024-10-19|
 |43|[GFCYqw/Fengrubei_LaTeX_Template](https://github.com/GFCYqw/Fengrubei_LaTeX_Template)|北京航空航天大学“冯如杯”竞赛 LaTeX 模板。This is a template for Fengru cup contest(Fengrubei), written in Latex.|4|0|2024-05-18|
 |44|[yuxtech/ShiJihuai-complex](https://github.com/yuxtech/ShiJihuai-complex)|史济怀复变函数LaTeX重排|147|0|2024-09-12|
 |45|[Radiance-nt/XJTU_BachelorThesis_DagRank](https://github.com/Radiance-nt/XJTU_BachelorThesis_DagRank)|西安交通大学, xjtu, 计算机科学与技术, cs, 本科毕业设计模板, latex|5|0|2024-06-01|
@@ -61,7 +61,7 @@
 |54|[ZhouKanglei/BUAAProposal](https://github.com/ZhouKanglei/BUAAProposal)|北京航空航天大学计算机学院开题报告/文献综述|33|0|2024-08-13|
 |55|[iamxiatian/course_ds](https://github.com/iamxiatian/course_ds)|数据结构|14|0|2024-06-10|
 |56|[CSW33/NPU-CV](https://github.com/CSW33/NPU-CV)|一个西工大latex简历模板，设计基于某个祖传word模板改的，大量注释。|6|0|2024-05-07|
-|57|[mathedu4all/bhcexam](https://github.com/mathedu4all/bhcexam)|The BHCexam document class attempts to make it easy for even a LaTeX novice to prepare exams.|88|0|2024-10-18|
+|57|[mathedu4all/bhcexam](https://github.com/mathedu4all/bhcexam)|The BHCexam document class attempts to make it easy for even a LaTeX novice to prepare exams.|87|0|2024-10-18|
 |58|[Guanyu-Li/Defense-Reporting-ppt](https://github.com/Guanyu-Li/Defense-Reporting-ppt)|答辩ppt模板（吉林大学数学学院）Defence ppt Template|7|0|2024-07-21|
 |59|[fylimas/nsfc](https://github.com/fylimas/nsfc)|nsfc - 国家自然科学基金项目LaTeX模版(面青地)|188|0|2024-09-02|
 |60|[zvbb/tao-analysis-exercise](https://github.com/zvbb/tao-analysis-exercise)|陶哲轩实分析（第三版）习题解答|3|0|2024-10-18|
@@ -70,7 +70,7 @@
 |63|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|768|0|2024-09-18|
 |64|[jialinlvcn/LaTeX-NewTemplate-For-NPU-undergraduate-Thesis](https://github.com/jialinlvcn/LaTeX-NewTemplate-For-NPU-undergraduate-Thesis)|西北工业大学本科毕业设计新版本模板，根据https://github.com/polossk/LaTeX-Template-For-NPU-Thesis 进行了调整|16|0|2024-05-14|
 |65|[Cresc3ntRose/NUAA_IoT_Assignment](https://github.com/Cresc3ntRose/NUAA_IoT_Assignment)|这个仓库用于储存我个人的课内作业|7|0|2024-06-29|
-|66|[qychen2001/ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template)|一个更好看的浙江大学beamer模板|22|0|2024-10-17|
+|66|[qychen2001/ZJU-Beamer-Template](https://github.com/qychen2001/ZJU-Beamer-Template)|一个更好看的浙江大学beamer模板|23|0|2024-10-17|
 |67|[zykucas/UCAS-Experimental-Physics](https://github.com/zykucas/UCAS-Experimental-Physics)|UCAS本科基础物理实验 2023年秋季|5|0|2024-08-12|
 |68|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|62|0|2024-10-02|
 |69|[Nymphium/nymphium.github.io](https://github.com/Nymphium/nymphium.github.io)|移民|5|0|2024-10-04|
@@ -97,8 +97,8 @@
 |90|[dgsyrc/Analysis-of-Signals-and-Linear-Systems](https://github.com/dgsyrc/Analysis-of-Signals-and-Linear-Systems)|信号与线性系统分析笔记，基于高等教育出版社《信号与线性系统分析》第5版, 吴大正 等著|5|0|2024-07-01|
 |91|[NemoYuan2008/SJTU-Thesis-Proposal](https://github.com/NemoYuan2008/SJTU-Thesis-Proposal)|上海交通大学开题报告LaTeX模板（非官方） Shanghai Jiao Tong University LaTeX Template for thesis proposal (unofficial)|63|0|2024-05-30|
 |92|[DumzGW/-WayfinderSaveEditor-python-](https://github.com/DumzGW/-WayfinderSaveEditor-python-)|对Wayfinder的存档进行修改，已添加角色修改功能|4|0|2024-06-10|
-|93|[wuliwiki/PhysWiki-log](https://github.com/wuliwiki/PhysWiki-log)|小时百科|79|0|2024-10-18|
-|94|[fanhongtao/ebooks](https://github.com/fanhongtao/ebooks)|80年代高中数理化甲种本|285|0|2024-10-18|
+|93|[wuliwiki/PhysWiki-log](https://github.com/wuliwiki/PhysWiki-log)|小时百科|79|0|2024-10-19|
+|94|[fanhongtao/ebooks](https://github.com/fanhongtao/ebooks)|80年代高中数理化甲种本|287|0|2024-10-19|
 |95|[ytiurin/hyphen](https://github.com/ytiurin/hyphen)|Text hyphenation in Javascript.|211|0|2024-09-22|
 |96|[latexstudio/LaTeXFAQ-cn](https://github.com/latexstudio/LaTeXFAQ-cn)|中文 LaTeX 常见问题工程，见证中文社区的力量|65|0|2024-05-31|
 |97|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|755|0|2024-10-15|

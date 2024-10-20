@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -12,15 +12,15 @@
 |5|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|594|2024-09-10|
 |6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|507|2024-10-15|
 |7|[HaobinZhou/Get_MR](https://github.com/HaobinZhou/Get_MR)|A package for running MR In batches and in parallel quickly|283|2024-09-30|
-|8|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|280|2024-10-16|
+|8|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|280|2024-10-19|
 |9|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|214|2024-06-15|
 |10|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|210|2024-09-16|
 |11|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|199|2024-10-16|
 |12|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|167|2024-06-16|
 |13|[feddelegrand7/ralger](https://github.com/feddelegrand7/ralger)|ralger makes it easy to scrape a website. Built on the shoulders of titans: rvest, xml2. |156|2024-07-16|
-|14|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|147|2024-04-26|
+|14|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|148|2024-04-26|
 |15|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|146|2024-10-02|
-|16|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|142|2024-10-12|
+|16|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|143|2024-10-12|
 |17|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|142|2024-07-27|
 |18|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|113|2024-08-11|
 |19|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|111|2024-07-23|
@@ -42,17 +42,16 @@
 |35|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit|33|2024-09-27|
 |36|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|2024-08-12|
 |37|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|26|2024-10-10|
-|38|[ropensci/restez](https://github.com/ropensci/restez)|:sleeping: :open_file_folder: Create and Query a Local Copy of GenBank in R|25|2024-04-19|
-|39|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|23|2024-08-21|
-|40|[fragla/eq5d](https://github.com/fragla/eq5d)|-|21|2024-09-09|
-|41|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|16|2024-08-15|
-|42|[koheiw/marimo](https://github.com/koheiw/marimo)|A multi-lingual stopwords lists|15|2024-07-22|
-|43|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|15|2024-04-29|
-|44|[Crazzy-Rabbit/Rscript-to-anaylise-and-visualize](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)|一些用于画图的R脚本|13|2024-05-28|
-|45|[ayueme/machine_learning_base_r](https://github.com/ayueme/machine_learning_base_r)|R语言实战机器学习|11|2024-09-11|
-|46|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |9|2024-07-11|
-|47|[Hong-Kong-Districts-Info/hktrafficcollisions](https://github.com/Hong-Kong-Districts-Info/hktrafficcollisions)|Shiny app dashboard of HK traffic collisions that result in injury.   香港車禍傷亡資料庫：利用互動地圖和儀表版，將香港車禍位置和相關數據可視化。|7|2024-09-18|
-|48|[johnlcd/CIRCScan](https://github.com/johnlcd/CIRCScan)|Toolkit for circRNA prediction by machine learning|6|2024-09-13|
+|38|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|23|2024-08-21|
+|39|[fragla/eq5d](https://github.com/fragla/eq5d)|-|21|2024-09-09|
+|40|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|16|2024-08-15|
+|41|[koheiw/marimo](https://github.com/koheiw/marimo)|A multi-lingual stopwords lists|15|2024-07-22|
+|42|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|15|2024-04-29|
+|43|[Crazzy-Rabbit/Rscript-to-anaylise-and-visualize](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)|一些用于画图的R脚本|13|2024-05-28|
+|44|[ayueme/machine_learning_base_r](https://github.com/ayueme/machine_learning_base_r)|R语言实战机器学习|11|2024-09-11|
+|45|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |9|2024-07-11|
+|46|[Hong-Kong-Districts-Info/hktrafficcollisions](https://github.com/Hong-Kong-Districts-Info/hktrafficcollisions)|Shiny app dashboard of HK traffic collisions that result in injury.   香港車禍傷亡資料庫：利用互動地圖和儀表版，將香港車禍位置和相關數據可視化。|7|2024-09-18|
+|47|[johnlcd/CIRCScan](https://github.com/johnlcd/CIRCScan)|Toolkit for circRNA prediction by machine learning|6|2024-09-13|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

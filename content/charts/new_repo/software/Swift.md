@@ -1,19 +1,19 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)|A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具|4275|2024-10-11|2024-04-21|
-|2|[Lakr233/Asspp](https://github.com/Lakr233/Asspp)|The App Store for your multi-account eco system.|1601|2024-09-01|2024-07-12|
-|3|[jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub)|A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data|1441|2024-10-18|2024-02-22|
-|4|[lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)|Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!|1226|2024-10-15|2024-02-11|
+|1|[lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)|A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具|4280|2024-10-11|2024-04-21|
+|2|[Lakr233/Asspp](https://github.com/Lakr233/Asspp)|The App Store for your multi-account eco system.|1603|2024-09-01|2024-07-12|
+|3|[jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub)|A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data|1445|2024-10-18|2024-02-22|
+|4|[lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)|Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!|1228|2024-10-15|2024-02-11|
 |5|[wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI)|macOS Integrated Injection Framework (GUI version)|1186|2024-10-06|2024-07-19|
 |6|[maiqingqiang/ChatMLX](https://github.com/maiqingqiang/ChatMLX)|🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.|584|2024-10-08|2024-03-05|
-|7|[netdcy/FlowVision](https://github.com/netdcy/FlowVision)|Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.|521|2024-10-15|2024-06-07|
+|7|[netdcy/FlowVision](https://github.com/netdcy/FlowVision)|Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.|524|2024-10-15|2024-06-07|
 |8|[lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer)|Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具|499|2024-08-09|2024-07-18|
-|9|[AnimacX/AnimacX](https://github.com/AnimacX/AnimacX)|（弹弹Play MacOS/iOS版）一款可以追番的弹幕视频播放器。原生支持M/intel系列芯片，实现了大部分Window端功能。新增支持iOS系统。|143|2024-10-18|2024-02-26|
+|9|[AnimacX/AnimacX](https://github.com/AnimacX/AnimacX)|（弹弹Play MacOS/iOS版）一款可以追番的弹幕视频播放器。原生支持M/intel系列芯片，实现了大部分Window端功能。新增支持iOS系统。|143|2024-10-19|2024-02-26|
 |10|[wyqACoffer/DynamicWidget](https://github.com/wyqACoffer/DynamicWidget)|灵动组件（小组件、实时活动）|112|2024-07-31|2023-10-23|
 |11|[sshterm/ssh](https://github.com/sshterm/ssh)|libssh2 + OpenSSL + wolfSSL 的swift实现|96|2024-10-08|2024-08-19|
 |12|[sakeven/Selected](https://github.com/sakeven/Selected)|A Mac tool that allows various operations on selected text.|52|2024-10-07|2024-03-16|
@@ -28,7 +28,7 @@
 |21|[lihaoyun6/AirBattery-Mobile](https://github.com/lihaoyun6/AirBattery-Mobile)|Get battery usage for all your devices on iPhone or iPad! / 在 iPhone 或 iPad 上获取你所有设备的电量信息!|10|2024-10-14|2024-10-11|
 |22|[ctkqiang/YanJiAI](https://github.com/ctkqiang/YanJiAI)|眼迹AI是一套集成了面部识别和物体检测功能的系统，它能够实时监控环境并在检测到危险情况时自动向服务器发送警报，从而迅速通知当局应对风险。对于司机而言，时常面临乘客可能实施抢劫或其他不当行为的潜在威胁。通过在您的手机或行车记录仪上部署这一AI系统，不仅能提供即时的安全保障，还能在关键时刻为您节省宝贵的求助时间，确保您能在第一时间获得必要的帮助。|8|2024-06-12|2024-05-13|
 |23|[Tuluobo/GGEsim](https://github.com/Tuluobo/GGEsim)|一个可以在没有 Esim 情况下将 Giffgaff 转为 Esim 二维码 App。|7|2024-10-08|2024-09-18|
-|24|[york9675/YorkNotify](https://github.com/york9675/YorkNotify)|An iOS app that can schedule notifications   一個可以排程通知的 iOS 應用程式|6|2024-10-05|2024-09-05|
+|24|[york9675/YorkNotify](https://github.com/york9675/YorkNotify)|An iOS app that can schedule notifications   一個可以排程通知的 iOS 應用程式|6|2024-10-19|2024-09-05|
 |25|[JayChou202302/BRCPopUp](https://github.com/JayChou202302/BRCPopUp)|BRCPopUp is a versatile, highly customizable PopUp menu library for iOS. 一个高度定制，功能强大的iOS弹出框。大于 v1.2.0 支持 SwiftUI|6|2024-09-10|2024-08-03|
 |26|[XanderXu/RealityGlitchArt](https://github.com/XanderXu/RealityGlitchArt)|GlitchArt: Cyberpunk-2077-Style Glitch Art  For Apple Vision Pro，Shader Graph|6|2024-07-14|2024-06-23|
 |27|[Zyf893549897/SwiftRouter](https://github.com/Zyf893549897/SwiftRouter)|基于URLNavigator封装，路由解决方案，备注清晰使用简单全面|6|2024-05-29|2024-05-27|

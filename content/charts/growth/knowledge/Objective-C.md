@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -24,8 +24,8 @@
 |17|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|0|2024-10-16|
 |18|[zpfate/FlutterCookbook](https://github.com/zpfate/FlutterCookbook)|Flutter初学，各组件学习使用Demo|2|0|2024-05-17|
 |19|[huangchangweng/HLTool](https://github.com/huangchangweng/HLTool)|iOS开发工具类集合|2|0|2024-08-14|
-|20|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|39|0|2024-10-18|
-|21|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|306|0|2024-08-01|
+|20|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|39|0|2024-10-19|
+|21|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|307|0|2024-08-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

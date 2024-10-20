@@ -1,13 +1,13 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-10-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|101|2024-08-05|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|100|2024-08-05|
 |2|[lxy0068/Signal-and-system-experiments](https://github.com/lxy0068/Signal-and-system-experiments)|Signal and System Experiment (Autumn 2023)|7|1|2024-10-11|
-|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|795|1|2024-09-26|
+|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|796|1|2024-09-26|
 |4|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|5|0|2024-07-08|
 |5|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|0|2024-05-21|
 |6|[Joe-Hall-Lee/sxjmqf](https://github.com/Joe-Hall-Lee/sxjmqf)|数学建模清风。|13|0|2024-09-05|
@@ -62,9 +62,9 @@
 |55|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|29|0|2024-10-15|
 |56|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|0|2024-07-09|
 |57|[EXPSIN/StroboscopicPhotography](https://github.com/EXPSIN/StroboscopicPhotography)|基于视频提取频闪照片的MATLAB脚本|3|0|2024-09-14|
-|58|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|8|0|2024-05-01|
+|58|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|8|0|2024-10-19|
 |59|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|26|0|2024-06-12|
-|60|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|16|0|2024-06-21|
+|60|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|16|0|2024-10-19|
 |61|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|24|0|2024-10-13|
 |62|[Ebola-Chan-bot/MATLAB-Extension](https://github.com/Ebola-Chan-bot/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|0|2024-10-11|
 |63|[taichiorange/leba_math](https://github.com/taichiorange/leba_math)|"乐吧的数学" 使用的代码|3|0|2024-10-16|
