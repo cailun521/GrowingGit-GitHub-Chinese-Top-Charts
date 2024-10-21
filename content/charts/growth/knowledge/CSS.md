@@ -1,21 +1,21 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|21734|26|2024-10-18|
-|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1289|10|2024-08-14|
-|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19617|7|2024-08-07|
-|4|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21063|6|2024-10-17|
+|1|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|21747|26|2024-10-18|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1290|10|2024-08-14|
+|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19618|7|2024-08-07|
+|4|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21063|6|2024-10-20|
 |5|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1347|4|2024-05-10|
-|6|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据|1088|4|2024-10-18|
+|6|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据|1089|4|2024-10-18|
 |7|[rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn)|Effective Rust 中文版|470|3|2024-10-17|
 |8|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5642|2|2024-09-21|
-|9|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9058|2|2024-09-30|
+|9|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9059|2|2024-09-30|
 |10|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3400|1|2024-06-16|
-|11|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|:package:个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|674|1|2024-10-15|
+|11|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|:package:个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|676|1|2024-10-15|
 |12|[LaneDu/Knowledge-Brain](https://github.com/LaneDu/Knowledge-Brain)|思源笔记主题 Knowledge Brain 寓意知识大脑|19|0|2024-09-02|
 |13|[zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme)|A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.|41|0|2024-10-10|
 |14|[wflac/theme-Mego](https://github.com/wflac/theme-Mego)|一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。|14|0|2024-06-06|
@@ -30,7 +30,7 @@
 |23|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|307|0|2024-06-20|
 |24|[xupsh/pp4fpgas-cn](https://github.com/xupsh/pp4fpgas-cn)|中文版 Parallel Programming for FPGAs|697|0|2024-08-21|
 |25|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|708|0|2024-08-10|
-|26|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|65|0|2024-09-02|
+|26|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|66|0|2024-09-02|
 |27|[andy6804tw/crazyai-ml](https://github.com/andy6804tw/crazyai-ml)|全民瘋AI系列 [經典機器學習]|159|0|2024-10-11|
 |28|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|139|0|2024-05-02|
 |29|[document-translate/volta](https://github.com/document-translate/volta)|volta 简体中文版文档|8|0|2024-05-17|
@@ -38,11 +38,11 @@
 |31|[mouday/coding-tree](https://github.com/mouday/coding-tree)|程序员工作、学习笔记|20|0|2024-08-07|
 |32|[dianhsu/blog](https://github.com/dianhsu/blog)|dianhsu的博客源码|6|0|2024-08-07|
 |33|[huzhicheng/fengzheng-blog](https://github.com/huzhicheng/fengzheng-blog)|一款简介的个人博客模板，使用 Hugo + Markdown |38|0|2024-06-25|
-|34|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|0|2024-10-19|
-|35|[KinnariyaMamaTanha/aiTour](https://github.com/KinnariyaMamaTanha/aiTour)|AI 学习之旅|21|0|2024-10-08|
+|34|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|0|2024-10-20|
+|35|[KinnariyaMamaTanha/aiTour](https://github.com/KinnariyaMamaTanha/aiTour)|AI 学习之旅|22|0|2024-10-20|
 |36|[xukaiyyds/domain-name](https://github.com/xukaiyyds/domain-name)|一个简约的顶级国际域名证书模板。|6|0|2024-09-08|
 |37|[YangguangZhou/blog](https://github.com/YangguangZhou/blog)|Jerry Zhou 的个人博客|6|0|2024-10-14|
-|38|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|438|0|2024-09-16|
+|38|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|439|0|2024-09-16|
 |39|[hardway/ocrbooks](https://github.com/hardway/ocrbooks)|将一些稀有的扫描版电子书通过OCR识别转换为TXT/EPUB/MOBI格式|10|0|2024-09-21|
 |40|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|0|2024-09-16|
 |41|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|350|0|2024-09-20|
@@ -54,7 +54,7 @@
 |47|[openanolis/whitebook-shangmi](https://github.com/openanolis/whitebook-shangmi)|商用密码技术最佳实践白皮书|25|0|2024-08-06|
 |48|[epoch-lab/cuit-guide](https://github.com/epoch-lab/cuit-guide)|CUIT 指南|14|0|2024-10-14|
 |49|[open-spaced-repetition/anki-manual-zh-CN](https://github.com/open-spaced-repetition/anki-manual-zh-CN)|Anki 用户手册（中文翻译）|11|0|2024-09-25|
-|50|[Sophomoresty/typora-theme-Jinxiu](https://github.com/Sophomoresty/typora-theme-Jinxiu)|锦绣红 Typora 模板：大学生课程论文与日常写作的好帮手|17|0|2024-08-28|
+|50|[Sophomoresty/typora-theme-Jinxiu](https://github.com/Sophomoresty/typora-theme-Jinxiu)|锦绣红 Typora 模板：大学生课程论文与日常写作的好帮手|18|0|2024-08-28|
 |51|[wangyang0210/cnblogs-theme](https://github.com/wangyang0210/cnblogs-theme)|博客园皮肤|119|0|2024-10-19|
 |52|[Azure/OCPCHINATECH](https://github.com/Azure/OCPCHINATECH)|OCPOpenHack is a lab gallery on Azure Services for China partners. Pls join in us to learn Azure and to learn Microsoft.|59|0|2024-08-26|
 |53|[xiamuguizhi/Chronicle](https://github.com/xiamuguizhi/Chronicle)|【易语言】Chronicle静态博客生成器|7|0|2024-08-25|

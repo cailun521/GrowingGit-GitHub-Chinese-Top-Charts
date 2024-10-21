@@ -1,23 +1,23 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C
-<sub>数据更新: 2024-10-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples, from Getting Started to In-Depth Topics|2508|4|2024-10-14|
-|2|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|3224|4|2024-09-05|
+|1|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples, from Getting Started to In-Depth Topics|2510|4|2024-10-20|
+|2|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|3228|4|2024-09-05|
 |3|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7708|3|2024-06-14|
 |4|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料|1912|2|2024-05-20|
-|5|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|4135|2|2024-07-27|
+|5|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|4134|2|2024-07-27|
 |6|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|881|1|2024-06-06|
-|7|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2528|1|2024-10-14|
+|7|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2529|1|2024-10-14|
 |8|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|2213|1|2024-09-25|
-|9|[parallel101/opengltutor](https://github.com/parallel101/opengltutor)|零基础入门计算机图形学必不可少的在线网络公开课，手把手教您现代 OpenGL 的点点滴滴，构建爆款游戏引擎。|303|1|2024-08-08|
+|9|[parallel101/opengltutor](https://github.com/parallel101/opengltutor)|零基础入门计算机图形学必不可少的在线网络公开课，手把手教您现代 OpenGL 的点点滴滴，构建爆款游戏引擎。|304|1|2024-08-08|
 |10|[ming1016/study](https://github.com/ming1016/study)|学习记录|3876|1|2024-09-12|
-|11|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1547|1|2024-10-09|
-|12|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1470|1|2024-05-10|
-|13|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|1876|1|2024-05-20|
+|11|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1548|1|2024-10-09|
+|12|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1471|1|2024-05-10|
+|13|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|1877|1|2024-05-20|
 |14|[feiskyer/sdn-handbook](https://github.com/feiskyer/sdn-handbook)|SDN网络指南（SDN Handbook）|1388|1|2024-04-30|
 |15|[akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)|从0使用C制作B+树数据库: 基于cstack开源教程Let's Build a Simple Database中文浓缩翻译及学习过程|66|0|2024-05-25|
 |16|[Charmve/Practicum4ECE](https://github.com/Charmve/Practicum4ECE)|「一名普通电子信息本科生的项目实践管理」将大学阶段的实训内容，按照专业课程设计（包括上机实验、课程设计、下学年的毕业设计等）、竞赛项目、科创项目、小型编程项目这四个门类进行整理汇总。|143|0|2024-05-27|
@@ -25,7 +25,7 @@
 |18|[jaywcjlove/c-tutorial](https://github.com/jaywcjlove/c-tutorial)|C语言教程|94|0|2024-06-23|
 |19|[Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)|Bookit / Windows Login Password and Bitlocker Bypass Tool|371|0|2024-08-07|
 |20|[dZ8Lx9OwX/cnPuTTY](https://github.com/dZ8Lx9OwX/cnPuTTY)|这是一个PuTTY中文版，与PuTTY相同，是一个免费的支持Windows、Unix/Linux和MacOS的Telnet/SSH客户端。更多详细信息，请访问PuTTY相关网站及说明。|64|0|2024-10-18|
-|21|[wx-chevalier/CS-Notes](https://github.com/wx-chevalier/CS-Notes)|:books: 编程语言语法基础与工程实践，JavaScript   Java   Python   Go   Rust   CPP   Swift|689|0|2024-09-24|
+|21|[wx-chevalier/CS-Notes](https://github.com/wx-chevalier/CS-Notes)|:books: 编程语言语法基础与工程实践，JavaScript   Java   Python   Go   Rust   CPP   Swift|689|0|2024-10-20|
 |22|[luguanxing/Kernel-Driver](https://github.com/luguanxing/Kernel-Driver)|学习Windows内核驱动编程 Learn Windows kernel driver programming.|149|0|2024-08-27|
 |23|[lkml-likexu/kde](https://github.com/lkml-likexu/kde)|记录我的内核成长贡献之路。IMO, fork or clone this repo would be very stupid.  If you have any questions, just send me an email.|188|0|2024-10-07|
 |24|[sunxvming/navmesh](https://github.com/sunxvming/navmesh)|导航网格寻路C++实现版(入门版)|171|0|2024-06-11|
@@ -39,8 +39,8 @@
 |32|[nzcv/note](https://github.com/nzcv/note)|arm汇编学习_linker学习笔记_Android逆向学习笔记|120|0|2024-10-10|
 |33|[shangzongyu/source-code](https://github.com/shangzongyu/source-code)|收集一些书的源码，方便自己查找|66|0|2024-08-23|
 |34|[gongluck/CVIP](https://github.com/gongluck/CVIP)|C/C++/Golang/Linux...知识整理|97|0|2024-08-19|
-|35|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2024年春季OS课程Slides|642|0|2024-10-13|
-|36|[yssickjgd/robowalker_train](https://github.com/yssickjgd/robowalker_train)|中国科大RoboMaster电控培训系列代码|110|0|2024-10-18|
+|35|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2024年春季OS课程Slides|641|0|2024-10-20|
+|36|[yssickjgd/robowalker_train](https://github.com/yssickjgd/robowalker_train)|中国科大RoboMaster电控培训系列代码|111|0|2024-10-18|
 |37|[jiegeng321/Creative-Mini-Car-Modification](https://github.com/jiegeng321/Creative-Mini-Car-Modification)|持续更新，欢迎star，保姆级改装教程：|86|0|2024-09-27|
 |38|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|595|0|2024-10-14|
 |39|[OracleNep/Nday-Exploit-Plan](https://github.com/OracleNep/Nday-Exploit-Plan)|历史漏洞的细节以及利用方法汇总收集|98|0|2024-10-11|
@@ -56,8 +56,8 @@
 |49|[xuhongv/StudyInEsp32](https://github.com/xuhongv/StudyInEsp32)|【深度开源】wiif+bt模块esp32学习之旅（持续更新，欢迎 Star...）|453|0|2024-10-14|
 |50|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|451|0|2024-09-29|
 |51|[cantjie/XJTU-Share](https://github.com/cantjie/XJTU-Share)|西安交通大学课程资料共享计划|512|0|2024-10-02|
-|52|[zhangboyang/PAL3patch](https://github.com/zhangboyang/PAL3patch)|《仙剑奇侠传三》《仙剑奇侠传三外传·问情篇》分辨率补丁|196|0|2024-09-04|
-|53|[Staok/ARM-Linux-Study](https://github.com/Staok/ARM-Linux-Study)|ARM Linux 的学习历程。包括应用、驱动、设备树，GCC, Make, CMake, Bash, Vim, Git 等等大集合内容。文章遵守 CC BY NC SA 4.0 协议。|229|0|2024-07-20|
+|52|[zhangboyang/PAL3patch](https://github.com/zhangboyang/PAL3patch)|《仙剑奇侠传三》《仙剑奇侠传三外传·问情篇》分辨率补丁|196|0|2024-10-20|
+|53|[Staok/ARM-Linux-Study](https://github.com/Staok/ARM-Linux-Study)|ARM Linux 的学习历程。包括应用、驱动、设备树，GCC, Make, CMake, Bash, Vim, Git 等等大集合内容。文章遵守 CC BY NC SA 4.0 协议。|230|0|2024-07-20|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
