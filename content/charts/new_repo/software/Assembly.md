@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Assembly
-<sub>数据更新: 2024-10-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,8 +11,9 @@
 |4|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|2024-10-11|2024-05-16|
 |5|[lxjfzlxj/HUST-ICS-Labs](https://github.com/lxjfzlxj/HUST-ICS-Labs)|华中科技大学计算机系统基础实验|3|2024-10-15|2024-09-25|
 |6|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|2024-08-19|2024-08-13|
-|7|[GEJXD/xv6-labs-2021](https://github.com/GEJXD/xv6-labs-2021)|MIT 6.S081 实验代码|3|2024-09-03|2024-02-06|
-|8|[JannLeo/Summary-of-learning-experience](https://github.com/JannLeo/Summary-of-learning-experience)|This repository records the summary of my two stages of study as an undergraduate student in 深圳大学计算机科学与技术专业 and as a Master in Embedded Systems Engineering at the University of Leeds（利兹大学嵌入式系统工程专业研究生） ...|2|2024-05-20|2023-12-06|
+|7|[CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim](https://github.com/CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim)|南京大学计算机-2024春季的数字逻辑与计算机组成实验|3|2024-07-12|2024-07-12|
+|8|[GEJXD/xv6-labs-2021](https://github.com/GEJXD/xv6-labs-2021)|MIT 6.S081 实验代码|3|2024-09-03|2024-02-06|
+|9|[JannLeo/Summary-of-learning-experience](https://github.com/JannLeo/Summary-of-learning-experience)|This repository records the summary of my two stages of study as an undergraduate student in 深圳大学计算机科学与技术专业 and as a Master in Embedded Systems Engineering at the University of Leeds（利兹大学嵌入式系统工程专业研究生） ...|2|2024-05-20|2023-12-06|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,13 +1,13 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-10-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|2024-08-05|2024-07-08|
 |2|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|26|2024-06-12|2024-05-28|
-|3|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|20|2024-05-13|2024-01-24|
+|3|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|21|2024-05-13|2024-01-24|
 |4|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|16|2024-10-19|2024-02-19|
 |5|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|2024-06-09|2024-06-09|
 |6|[Joe-Hall-Lee/sxjmqf](https://github.com/Joe-Hall-Lee/sxjmqf)|数学建模清风。|13|2024-09-05|2024-02-05|
@@ -22,24 +22,26 @@
 |15|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
 |16|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
 |17|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|5|2024-07-08|2024-07-08|
-|18|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|5|2024-04-28|2024-04-26|
-|19|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|2024-03-11|
-|20|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|2024-09-26|
-|21|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|4|2024-05-23|2024-05-23|
-|22|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|4|2024-05-10|2024-05-10|
-|23|[taichiorange/leba_math](https://github.com/taichiorange/leba_math)|"乐吧的数学" 使用的代码|3|2024-10-16|2024-10-05|
-|24|[EXPSIN/StroboscopicPhotography](https://github.com/EXPSIN/StroboscopicPhotography)|基于视频提取频闪照片的MATLAB脚本|3|2024-09-14|2024-09-14|
-|25|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2024-08-11|2024-08-10|
-|26|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|2024-07-19|2024-07-04|
-|27|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-10-12|2024-06-20|
-|28|[RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF](https://github.com/RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF)|基于模糊控制的扩展卡尔曼滤波SOC估计|3|2024-06-19|2024-06-19|
-|29|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|2024-06-05|
-|30|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|2024-05-25|2024-05-25|
-|31|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
-|32|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|2024-07-02|2024-02-21|
-|33|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|2024-02-02|
-|34|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|2023-12-15|
-|35|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|2023-10-24|
+|18|[sdpd2333/XJTU-ERMAP](https://github.com/sdpd2333/XJTU-ERMAP)| 西安交通大学实验报告互帮互助项目 Xi'an Jiaotong University Experimental Report Mutual Assistance Project|5|2024-10-24|2024-07-02|
+|19|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|5|2024-04-28|2024-04-26|
+|20|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|2024-03-11|
+|21|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|2024-09-26|
+|22|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|4|2024-10-24|2024-09-20|
+|23|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|4|2024-05-10|2024-05-10|
+|24|[taichiorange/leba_math](https://github.com/taichiorange/leba_math)|"乐吧的数学" 使用的代码|3|2024-10-16|2024-10-05|
+|25|[EXPSIN/StroboscopicPhotography](https://github.com/EXPSIN/StroboscopicPhotography)|基于视频提取频闪照片的MATLAB脚本|3|2024-09-14|2024-09-14|
+|26|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2024-08-11|2024-08-10|
+|27|[cmjang/DM_Control_Matlab](https://github.com/cmjang/DM_Control_Matlab)|达妙电机matlab库函数，DM motor matlab control library function|3|2024-10-08|2024-08-01|
+|28|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|2024-07-19|2024-07-04|
+|29|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-10-12|2024-06-20|
+|30|[RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF](https://github.com/RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF)|基于模糊控制的扩展卡尔曼滤波SOC估计|3|2024-06-19|2024-06-19|
+|31|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|2024-06-05|
+|32|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|2024-05-25|2024-05-25|
+|33|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|2024-05-23|
+|34|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
+|35|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|2024-07-02|2024-02-21|
+|36|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|2024-02-02|
+|37|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|2023-12-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
