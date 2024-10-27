@@ -1,14 +1,14 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Kotlin
-<sub>数据更新: 2024-10-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|30439|2024-08-06|
-|2|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|29231|2024-10-23|
-|3|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|8011|2024-07-27|
-|4|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)| 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.|7300|2024-10-11|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|30441|2024-08-06|
+|2|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|29260|2024-10-23|
+|3|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|8012|2024-07-27|
+|4|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)| 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.|7302|2024-10-11|
 |5|[tangshimin/MuJing](https://github.com/tangshimin/MuJing)|  使用电影、美剧或文档生成词库（单词本），为单词营造具体语境，进而通过此语境进行单词记忆。与此同时，用户能够使用键盘快速拼写单词，以此助力形成肌肉记忆，高效促进英语学习。|1039|2024-10-23|
 |6|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|792|2024-10-23|
 |7|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|550|2024-07-05|
@@ -25,7 +25,7 @@
 |18|[Loren-Moon/RedBookComposeDemo](https://github.com/Loren-Moon/RedBookComposeDemo)|仿照iOS版小红书写的简单demo|64|2024-09-24|
 |19|[Gao-hao-nan/MVVM](https://github.com/Gao-hao-nan/MVVM)|基于 模块化+Kotlin+协程+Retrofit+Jetpack+MVVM 架构.能提供大家学习如何从0到1打造一个符合[大型Android项目的架构模式]|46|2024-07-12|
 |20|[MagicalSheep/lab](https://github.com/MagicalSheep/lab)|中南大学（CSU）计算机学院课程实验合集|46|2024-06-03|
-|21|[dora4/dora_samples](https://github.com/dora4/dora_samples)|❤️基于Jetpack MVVM，https://github.com/dora4/dora 的使用教程。|18|2024-09-14|
+|21|[dora4/dora_samples](https://github.com/dora4/dora_samples)|❤️基于Jetpack MVVM，https://github.com/dora4/dora 的使用教程。|19|2024-09-14|
 |22|[CuteReimu/TheMessage](https://github.com/CuteReimu/TheMessage)|《风声典藏版》桌游的服务端代码。客户端代码见：https://github.com/Death-alter/TheMessage|16|2024-09-30|
 |23|[MskTmi/Bh3-ElysianRealm-Strategy](https://github.com/MskTmi/Bh3-ElysianRealm-Strategy)|基于Mirai-Console的QQ机器人崩坏3往世乐土攻略插件|16|2024-05-28|
 |24|[wgllss/WXNetArchitecture](https://github.com/wgllss/WXNetArchitecture)|花式封装:Kotlin+协程+Flow+Retrofit+OkHttp+Repository,倾囊相授,彻底减少模版代码进阶之路|15|2024-10-23|
