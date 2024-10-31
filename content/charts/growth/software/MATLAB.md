@@ -1,14 +1,14 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-10-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|92|2024-08-05|
-|2|[chenzeyuan1/IOrange](https://github.com/chenzeyuan1/IOrange)|一门专门为数字电路设计的编译器。支持简单的语法，可以编译出simulink仿真电路，并进行实时仿真。同时支持化简，生成真值表，卡诺图，计算最大最小项。|5|2|2024-10-27|
-|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|802|1|2024-09-26|
-|4|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|5|0|2024-07-08|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|90|2024-08-05|
+|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|807|1|2024-09-26|
+|3|[chenzeyuan1/IOrange](https://github.com/chenzeyuan1/IOrange)|一门专门为数字电路设计的编译器。支持简单的语法，可以编译出simulink仿真电路，并进行实时仿真。同时支持化简，生成真值表，卡诺图，计算最大最小项。|6|1|2024-10-27|
+|4|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|6|0|2024-07-08|
 |5|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|0|2024-05-21|
 |6|[Joe-Hall-Lee/sxjmqf](https://github.com/Joe-Hall-Lee/sxjmqf)|数学建模清风。|13|0|2024-09-05|
 |7|[luwang103004/matlab-interference-simulation](https://github.com/luwang103004/matlab-interference-simulation)|第一个学期做的matlab仿真模拟和GS算法|4|0|2024-08-31|
@@ -37,12 +37,12 @@
 |30|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|0|2024-06-17|
 |31|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|0|2024-09-04|
 |32|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|0|2024-07-19|
-|33|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|4|0|2024-10-28|
+|33|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|5|0|2024-10-28|
 |34|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|0|2024-05-23|
 |35|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|17|0|2024-09-05|
 |36|[cmjang/DM_Control_Matlab](https://github.com/cmjang/DM_Control_Matlab)|达妙电机matlab库函数，DM motor matlab control library function|3|0|2024-10-08|
-|37|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|210|0|2024-10-24|
-|38|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|7|0|2024-05-25|
+|37|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|215|0|2024-10-24|
+|38|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|8|0|2024-05-25|
 |39|[SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)|This is a MATLAB implementation of Sonar Image Segmentation via Entropy Method|20|0|2024-10-10|
 |40|[Walker-rx/Signal-equalization-using-MMSE](https://github.com/Walker-rx/Signal-equalization-using-MMSE)|利用mmse完成光通信信号均衡，源自gen_data_final|6|0|2024-08-22|
 |41|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|8|0|2024-07-26|
@@ -56,35 +56,36 @@
 |49|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|94|0|2024-06-10|
 |50|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|21|0|2024-05-13|
 |51|[Seafood-SIMIT/fwnn-matlab](https://github.com/Seafood-SIMIT/fwnn-matlab)|Implementation of Fuzzy Wavelet Neural Network in Matlab and Evaluation of Target Threat /模糊小波神经网络的Matlab实现以及目标威胁评估|32|0|2024-08-20|
-|52|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|0|2024-07-14|
-|53|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|20|0|2024-09-30|
-|54|[HilbertRonAnju/MCM_2021_Problem_B](https://github.com/HilbertRonAnju/MCM_2021_Problem_B)|2021年美国大学生数学建模竞赛B题O奖仓库，西安交通大学队伍，队伍编号2104673。|6|0|2024-10-26|
-|55|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|54|0|2024-06-25|
-|56|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|0|2024-05-06|
-|57|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|0|2024-05-25|
-|58|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|78|0|2024-05-06|
-|59|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|29|0|2024-10-15|
-|60|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Multi-uav track collaborative planning based on improved particle swarm optimization algorithm   基于改进粒子群算法的多无人机航迹协同规划|4|0|2024-10-20|
-|61|[EXPSIN/StroboscopicPhotography](https://github.com/EXPSIN/StroboscopicPhotography)|基于视频提取频闪照片的MATLAB脚本|3|0|2024-09-14|
-|62|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|9|0|2024-10-19|
-|63|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|26|0|2024-06-12|
-|64|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|16|0|2024-10-19|
-|65|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|25|0|2024-10-13|
-|66|[Ebola-Chan-bot/MATLAB-Extension](https://github.com/Ebola-Chan-bot/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|0|2024-10-25|
-|67|[taichiorange/leba_math](https://github.com/taichiorange/leba_math)|"乐吧的数学" 使用的代码|3|0|2024-10-16|
-|68|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|0|2024-09-22|
-|69|[Pochestina-zh/Numerical-PDEs-Coding](https://github.com/Pochestina-zh/Numerical-PDEs-Coding)|偏微分方程数值解编程作业|7|0|2024-09-21|
-|70|[InTheFuture7/NSGA_II-for-FJSP](https://github.com/InTheFuture7/NSGA_II-for-FJSP)|使用 NSGAII 算法求解 FJSP 问题（柔性作业车间调度）|3|0|2024-08-23|
-|71|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|0|2024-05-04|
-|72|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|0|2024-05-23|
-|73|[QuincyHoward/ABCDRez](https://github.com/QuincyHoward/ABCDRez)|本代码包（ABCDRez）是基于MATLAB语言的激光光束传输（Laser Beam Propagation）及激光谐振腔仿真（Laser Resonator Simulation）代码包。文章使用高斯光束（Gaussian Beam）描述激光，简单介绍了热效应（Thermal Effect）、腔内非线性变换（Nonlinear Frequency Transformation），主要介绍了光束的 ...|3|0|2024-07-27|
-|74|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|0|2024-08-14|
-|75|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|0|2024-07-02|
-|76|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|58|0|2024-06-20|
-|77|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|4|0|2024-09-28|
-|78|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|0|2024-09-13|
-|79|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|120|0|2024-10-12|
-|80|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|0|2024-06-05|
+|52|[tsingke/MatlabBookAnswer](https://github.com/tsingke/MatlabBookAnswer)|Matlab程序设计与应用（第3版，刘卫国著）课后习题与实验-参考答案|31|0|2024-10-13|
+|53|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|0|2024-07-14|
+|54|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|20|0|2024-09-30|
+|55|[HilbertRonAnju/MCM_2021_Problem_B](https://github.com/HilbertRonAnju/MCM_2021_Problem_B)|2021年美国大学生数学建模竞赛B题O奖仓库，西安交通大学队伍，队伍编号2104673。|6|0|2024-10-26|
+|56|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|54|0|2024-06-25|
+|57|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|0|2024-05-06|
+|58|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|0|2024-05-25|
+|59|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|78|0|2024-05-06|
+|60|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|29|0|2024-10-15|
+|61|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Multi-uav track collaborative planning based on improved particle swarm optimization algorithm   基于改进粒子群算法的多无人机航迹协同规划|4|0|2024-10-20|
+|62|[EXPSIN/StroboscopicPhotography](https://github.com/EXPSIN/StroboscopicPhotography)|基于视频提取频闪照片的MATLAB脚本|3|0|2024-09-14|
+|63|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|9|0|2024-10-19|
+|64|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|26|0|2024-06-12|
+|65|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|16|0|2024-10-19|
+|66|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|25|0|2024-10-13|
+|67|[Ebola-Chan-bot/MATLAB-Extension](https://github.com/Ebola-Chan-bot/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|0|2024-10-25|
+|68|[taichiorange/leba_math](https://github.com/taichiorange/leba_math)|"乐吧的数学" 使用的代码|3|0|2024-10-16|
+|69|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|0|2024-09-22|
+|70|[Pochestina-zh/Numerical-PDEs-Coding](https://github.com/Pochestina-zh/Numerical-PDEs-Coding)|偏微分方程数值解编程作业|7|0|2024-09-21|
+|71|[InTheFuture7/NSGA_II-for-FJSP](https://github.com/InTheFuture7/NSGA_II-for-FJSP)|使用 NSGAII 算法求解 FJSP 问题（柔性作业车间调度）|3|0|2024-08-23|
+|72|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|0|2024-05-04|
+|73|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|0|2024-05-23|
+|74|[QuincyHoward/ABCDRez](https://github.com/QuincyHoward/ABCDRez)|本代码包（ABCDRez）是基于MATLAB语言的激光光束传输（Laser Beam Propagation）及激光谐振腔仿真（Laser Resonator Simulation）代码包。文章使用高斯光束（Gaussian Beam）描述激光，简单介绍了热效应（Thermal Effect）、腔内非线性变换（Nonlinear Frequency Transformation），主要介绍了光束的 ...|3|0|2024-07-27|
+|75|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|0|2024-08-14|
+|76|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|0|2024-07-02|
+|77|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|58|0|2024-06-20|
+|78|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|4|0|2024-09-28|
+|79|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|0|2024-09-13|
+|80|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|121|0|2024-10-29|
+|81|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|0|2024-06-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,12 +1,12 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Lua
-<sub>数据更新: 2024-10-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|1104|3|2024-10-28|
-|2|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1398|1|2024-10-26|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|1109|3|2024-10-29|
+|2|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1399|1|2024-10-26|
 |3|[newObjectccc/newObjectccc.github.io](https://github.com/newObjectccc/newObjectccc.github.io)|一个分享文章和技术还有推荐的Repo~|12|0|2024-08-31|
 |4|[Tsinswreng/rime-TswG](https://github.com/Tsinswreng/rime-TswG)|rime輸入法lua腳本及方案分享|6|0|2024-05-06|
 |5|[bwhyman/springboot-course](https://github.com/bwhyman/springboot-course)|基于spring系列框架的后端微服务架构课程示例代码|19|0|2024-10-25|

@@ -1,23 +1,23 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2024-10-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|21865|2024-10-25|
-|2|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21060|2024-10-22|
-|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19639|2024-08-07|
-|4|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9062|2024-09-30|
-|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5651|2024-09-21|
-|6|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3403|2024-06-16|
-|7|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1446|2024-08-14|
+|1|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|21882|2024-10-25|
+|2|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21061|2024-10-22|
+|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19643|2024-08-07|
+|4|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9063|2024-09-30|
+|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5653|2024-09-21|
+|6|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3402|2024-06-16|
+|7|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1448|2024-08-14|
 |8|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1353|2024-05-10|
-|9|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据|1096|2024-10-24|
+|9|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据|1097|2024-10-30|
 |10|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|711|2024-09-19|
 |11|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|709|2024-08-10|
-|12|[xupsh/pp4fpgas-cn](https://github.com/xupsh/pp4fpgas-cn)|中文版 Parallel Programming for FPGAs|699|2024-08-21|
-|13|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|:package:个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|689|2024-10-15|
+|12|[xupsh/pp4fpgas-cn](https://github.com/xupsh/pp4fpgas-cn)|中文版 Parallel Programming for FPGAs|700|2024-08-21|
+|13|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|:package:个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|693|2024-10-15|
 |14|[rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn)|Effective Rust 中文版|481|2024-10-28|
 |15|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|441|2024-09-16|
 |16|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|418|2024-09-26|
@@ -28,7 +28,7 @@
 |21|[andy6804tw/crazyai-ml](https://github.com/andy6804tw/crazyai-ml)|全民瘋AI系列 [經典機器學習]|162|2024-10-27|
 |22|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|139|2024-05-02|
 |23|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial|135|2024-05-31|
-|24|[wangyang0210/cnblogs-theme](https://github.com/wangyang0210/cnblogs-theme)|博客园皮肤|120|2024-10-29|
+|24|[wangyang0210/cnblogs-theme](https://github.com/wangyang0210/cnblogs-theme)|博客园皮肤|120|2024-10-30|
 |25|[Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)|📖 The Lessons for every language|99|2024-10-17|
 |26|[liburdi/go-blogs](https://github.com/liburdi/go-blogs)|适合小白入门go语言的博客项目｜Here’s the translated list of beginner-friendly blog projects to help you get started with Go programming|98|2024-09-26|
 |27|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|65|2024-09-02|
@@ -36,7 +36,7 @@
 |29|[wyj0605/douban_library](https://github.com/wyj0605/douban_library)|豆瓣读书插件，自动查询图书馆的图书借阅信息。|62|2024-10-15|
 |30|[Azure/OCPCHINATECH](https://github.com/Azure/OCPCHINATECH)|OCPOpenHack is a lab gallery on Azure Services for China partners. Pls join in us to learn Azure and to learn Microsoft.|59|2024-08-26|
 |31|[missing-semester-zh-Hant/missing-semester-zh-Hant.github.io](https://github.com/missing-semester-zh-Hant/missing-semester-zh-Hant.github.io)|Traditional Chinese translation of course "The Missing Semester of Your CS Education"|57|2024-07-09|
-|32|[piginzoo/finance-toolbox](https://github.com/piginzoo/finance-toolbox)|我的投资电子书|50|2024-10-09|
+|32|[piginzoo/finance-toolbox](https://github.com/piginzoo/finance-toolbox)|我的投资电子书|51|2024-10-09|
 |33|[qiwihui/blog](https://github.com/qiwihui/blog)|技术和思考，基于issues|44|2024-08-18|
 |34|[zjp-CN/mdbook-theme](https://github.com/zjp-CN/mdbook-theme)|A preprocessor and a backend to config themes for mdbook, especially creating a pagetoc on the right and setting full color themes from the offical ace editor.|42|2024-10-10|
 |35|[huzhicheng/fengzheng-blog](https://github.com/huzhicheng/fengzheng-blog)|一款简介的个人博客模板，使用 Hugo + Markdown |39|2024-06-25|
@@ -60,7 +60,7 @@
 |53|[spring2go/spring-petclinic-mono](https://github.com/spring2go/spring-petclinic-mono)|教学版单体spring-petlinic，课程《Kubernetes微服务实践》|14|2024-08-01|
 |54|[Fridolph/my-program](https://github.com/Fridolph/my-program)|作品和demo集，若你喜欢麻烦star+fork ...0(∩_∩)0... 仅供参考学习分享交流，谢谢|14|2024-06-23|
 |55|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|13|2024-05-27|
-|56|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|2024-10-29|
+|56|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|2024-10-30|
 |57|[hanzhichao/qaschool](https://github.com/hanzhichao/qaschool)|[原创]基于django的一款文本教程网站（类似菜鸟教程）|12|2024-08-19|
 |58|[open-spaced-repetition/anki-manual-zh-CN](https://github.com/open-spaced-repetition/anki-manual-zh-CN)|Anki 用户手册（中文翻译）|11|2024-09-25|
 |59|[hardway/ocrbooks](https://github.com/hardway/ocrbooks)|将一些稀有的扫描版电子书通过OCR识别转换为TXT/EPUB/MOBI格式|11|2024-09-21|
