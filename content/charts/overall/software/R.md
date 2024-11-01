@@ -1,14 +1,14 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-10-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1778|2024-09-18|
-|2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1041|2024-10-23|
+|2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1041|2024-10-31|
 |3|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |689|2024-10-30|
-|4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|630|2024-10-29|
+|4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|631|2024-10-29|
 |5|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|595|2024-09-10|
 |6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|510|2024-10-15|
 |7|[HaobinZhou/Get_MR](https://github.com/HaobinZhou/Get_MR)|A package for running MR In batches and in parallel quickly|283|2024-09-30|
@@ -23,7 +23,7 @@
 |16|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|142|2024-07-27|
 |17|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|113|2024-08-11|
 |18|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|112|2024-07-23|
-|19|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|103|2024-10-30|
+|19|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|103|2024-10-31|
 |20|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|96|2024-09-16|
 |21|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/; Book: https://lishensuo.github.io/UCSCXenaShiny_Book; App online: https://shiny.hiplot.cn/ucsc-xena-shiny/, htt ...|94|2024-10-29|
 |22|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|76|2024-09-30|
