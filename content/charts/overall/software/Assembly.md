@@ -1,13 +1,13 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2024-11-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|58690|2024-07-11|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10976|2024-08-20|
-|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6885|2024-10-30|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|58724|2024-07-11|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10978|2024-08-20|
+|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6887|2024-10-30|
 |4|[espressif/esp-dl](https://github.com/espressif/esp-dl)|Espressif deep-learning library for AIoT applications|560|2024-10-31|
 |5|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|265|2024-07-20|
 |6|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|134|2024-10-25|
@@ -27,10 +27,10 @@
 |20|[DANNHIROAKI/XJTU-COMP400727-ICS](https://github.com/DANNHIROAKI/XJTU-COMP400727-ICS)|西安交通大学COMP400727计算机系统导论课程|6|2024-05-13|
 |21|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|5|2024-06-30|
 |22|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|5|2024-06-17|
-|23|[CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim](https://github.com/CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim)|南京大学计算机-2024春季的数字逻辑与计算机组成实验|4|2024-07-12|
-|24|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|2024-10-11|
-|25|[Aeternus403/XD2024Fall-EE5000](https://github.com/Aeternus403/XD2024Fall-EE5000)|2024秋数字逻辑与微处理器实验|3|2024-10-22|
-|26|[lxjfzlxj/HUST-ICS-Labs](https://github.com/lxjfzlxj/HUST-ICS-Labs)|华中科技大学计算机系统基础实验|3|2024-10-31|
+|23|[lxjfzlxj/HUST-ICS-Labs](https://github.com/lxjfzlxj/HUST-ICS-Labs)|华中科技大学计算机系统基础实验|4|2024-10-31|
+|24|[CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim](https://github.com/CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim)|南京大学计算机-2024春季的数字逻辑与计算机组成实验|4|2024-07-12|
+|25|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|2024-10-11|
+|26|[Aeternus403/XD2024Fall-EE5000](https://github.com/Aeternus403/XD2024Fall-EE5000)|2024秋数字逻辑与微处理器实验|3|2024-10-22|
 |27|[Nankai-OS-2024/OSLabs](https://github.com/Nankai-OS-2024/OSLabs)|ucore框架操作系统|3|2024-10-26|
 |28|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|2024-08-19|
 |29|[GEJXD/xv6-labs-2021](https://github.com/GEJXD/xv6-labs-2021)|MIT 6.S081 实验代码|3|2024-09-03|
