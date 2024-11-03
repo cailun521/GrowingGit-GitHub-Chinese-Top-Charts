@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-10-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,14 +16,14 @@
 |9|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|10|2024-06-06|2024-04-21|
 |10|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|8|2024-05-25|2024-05-25|
 |11|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|8|2024-07-26|2024-02-29|
-|12|[lxy0068/Signal-and-system-experiments](https://github.com/lxy0068/Signal-and-system-experiments)|Signal and System Experiment (Autumn 2023)|7|2024-10-11|2024-10-07|
-|13|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|7|2024-05-17|2024-05-17|
-|14|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
-|15|[chenzeyuan1/IOrange](https://github.com/chenzeyuan1/IOrange)|一门专门为数字电路设计的编译器。支持简单的语法，可以编译出simulink仿真电路，并进行实时仿真。同时支持化简，生成真值表，卡诺图，计算最大最小项。|6|2024-10-27|2024-10-26|
+|12|[chenzeyuan1/IOrange](https://github.com/chenzeyuan1/IOrange)|一门专门为数字电路设计的编译器。支持简单的语法，可以编译出simulink仿真电路，并进行实时仿真。同时支持化简，生成真值表，卡诺图，计算最大最小项。|7|2024-10-27|2024-10-26|
+|13|[lxy0068/Signal-and-system-experiments](https://github.com/lxy0068/Signal-and-system-experiments)|Signal and System Experiment (Autumn 2023)|7|2024-10-11|2024-10-07|
+|14|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|7|2024-05-17|2024-05-17|
+|15|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
 |16|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|6|2024-07-08|2024-07-08|
-|17|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
-|18|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|5|2024-10-28|2024-09-20|
-|19|[sdpd2333/XJTU-ERMAP](https://github.com/sdpd2333/XJTU-ERMAP)| 西安交通大学实验报告互帮互助项目 Xi'an Jiaotong University Experimental Report Mutual Assistance Project|5|2024-10-24|2024-07-02|
+|17|[sdpd2333/XJTU-ERMAP](https://github.com/sdpd2333/XJTU-ERMAP)| 西安交通大学实验报告互帮互助项目 Xi'an Jiaotong University Experimental Report Mutual Assistance Project|6|2024-10-24|2024-07-02|
+|18|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
+|19|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|5|2024-11-01|2024-09-20|
 |20|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|2024-03-11|
 |21|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|2024-09-26|
 |22|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Multi-uav track collaborative planning based on improved particle swarm optimization algorithm   基于改进粒子群算法的多无人机航迹协同规划|4|2024-10-20|2024-06-23|
@@ -36,15 +36,16 @@
 |29|[LuoQingju/ACOPF_yalmip](https://github.com/LuoQingju/ACOPF_yalmip)|AC Optimal Power Flow (OPF), yalmip modeling, ipopt solving 交流最优潮流, yalmip 建模, ipopt 求解|3|2024-07-25|2024-07-25|
 |30|[QuincyHoward/ABCDRez](https://github.com/QuincyHoward/ABCDRez)|本代码包（ABCDRez）是基于MATLAB语言的激光光束传输（Laser Beam Propagation）及激光谐振腔仿真（Laser Resonator Simulation）代码包。文章使用高斯光束（Gaussian Beam）描述激光，简单介绍了热效应（Thermal Effect）、腔内非线性变换（Nonlinear Frequency Transformation），主要介绍了光束的 ...|3|2024-07-27|2024-07-20|
 |31|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|2024-07-19|2024-07-04|
-|32|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-10-12|2024-06-20|
+|32|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-10-31|2024-06-20|
 |33|[RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF](https://github.com/RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF)|基于模糊控制的扩展卡尔曼滤波SOC估计|3|2024-06-19|2024-06-19|
 |34|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|2024-06-05|
 |35|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|2024-05-25|2024-05-25|
-|36|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|2024-05-23|
-|37|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
-|38|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|2024-07-02|2024-02-21|
-|39|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|2024-02-02|
-|40|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|2023-12-15|
+|36|[Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis](https://github.com/Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis)|本项目是一个由我个人开发的matlab机器学习项目，基于高斯混合模型（GMM）和主成分分析（PCA）进行疲劳语音的识别，属于无监督学习和降维技术的结合应用。|3|2024-05-23|2024-05-23|
+|37|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|2024-05-23|
+|38|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
+|39|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|2024-07-02|2024-02-21|
+|40|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|2024-02-02|
+|41|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|2023-12-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
