@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-11-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -17,8 +17,8 @@
 |10|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|54|2024-06-25|
 |11|[zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling)|华为杯研究生数学建模竞赛:历年来优化类代码(不定时更新，曾获一等奖)|44|2024-08-15|
 |12|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|37|2024-06-05|
-|13|[thinszx/WiFi-CSI-gait-recognition](https://github.com/thinszx/WiFi-CSI-gait-recognition)|通过WiFi信号的信道状态信息（Channel State Information, CSI）进行步态特征提取，进而实现用户识别|32|2024-06-03|
-|14|[Seafood-SIMIT/fwnn-matlab](https://github.com/Seafood-SIMIT/fwnn-matlab)|Implementation of Fuzzy Wavelet Neural Network in Matlab and Evaluation of Target Threat /模糊小波神经网络的Matlab实现以及目标威胁评估|32|2024-08-20|
+|13|[Seafood-SIMIT/fwnn-matlab](https://github.com/Seafood-SIMIT/fwnn-matlab)|Implementation of Fuzzy Wavelet Neural Network in Matlab and Evaluation of Target Threat /模糊小波神经网络的Matlab实现以及目标威胁评估|33|2024-08-20|
+|14|[thinszx/WiFi-CSI-gait-recognition](https://github.com/thinszx/WiFi-CSI-gait-recognition)|通过WiFi信号的信道状态信息（Channel State Information, CSI）进行步态特征提取，进而实现用户识别|32|2024-06-03|
 |15|[tsingke/MatlabBookAnswer](https://github.com/tsingke/MatlabBookAnswer)|Matlab程序设计与应用（第3版，刘卫国著）课后习题与实验-参考答案|31|2024-10-13|
 |16|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|29|2024-10-15|
 |17|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|26|2024-06-12|
@@ -39,7 +39,7 @@
 |32|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|10|2024-06-06|
 |33|[BySpaces/Matlab-Pcode-to-Mcode](https://github.com/BySpaces/Matlab-Pcode-to-Mcode)|本软件可实现将MATLAB中Pcode加密的代码，恢复为原来的M文件。This software can restore the codes encrypted by Pcode in MATLAB to the original M file.|10|2024-10-08|
 |34|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|9|2024-10-19|
-|35|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|2024-10-06|
+|35|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|2024-11-03|
 |36|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|8|2024-05-25|
 |37|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|8|2024-07-26|
 |38|[chenzeyuan1/IOrange](https://github.com/chenzeyuan1/IOrange)|一门专门为数字电路设计的编译器。支持简单的语法，可以编译出simulink仿真电路，并进行实时仿真。同时支持化简，生成真值表，卡诺图，计算最大最小项。|7|2024-10-27|
@@ -79,14 +79,13 @@
 |72|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|
 |73|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|
 |74|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|2024-07-02|
-|75|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|
-|76|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
-|77|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
-|78|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-10-11|
-|79|[17513146506/dc_motor_pid](https://github.com/17513146506/dc_motor_pid)|伺服电机pid控制|3|2024-10-31|
-|80|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|2024-05-23|
-|81|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|2024-09-22|
-|82|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|2024-09-04|
+|75|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
+|76|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
+|77|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-10-11|
+|78|[17513146506/dc_motor_pid](https://github.com/17513146506/dc_motor_pid)|伺服电机pid控制|3|2024-10-31|
+|79|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|2024-05-23|
+|80|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|2024-09-22|
+|81|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|2024-09-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

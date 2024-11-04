@@ -1,11 +1,11 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-11-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|88|2024-08-05|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|87|2024-08-05|
 |2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|812|1|2024-09-26|
 |3|[chenzeyuan1/IOrange](https://github.com/chenzeyuan1/IOrange)|一门专门为数字电路设计的编译器。支持简单的语法，可以编译出simulink仿真电路，并进行实时仿真。同时支持化简，生成真值表，卡诺图，计算最大最小项。|7|1|2024-10-27|
 |4|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|6|0|2024-07-08|
@@ -45,7 +45,7 @@
 |38|[SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)|This is a MATLAB implementation of Sonar Image Segmentation via Entropy Method|20|0|2024-10-10|
 |39|[Walker-rx/Signal-equalization-using-MMSE](https://github.com/Walker-rx/Signal-equalization-using-MMSE)|利用mmse完成光通信信号均衡，源自gen_data_final|6|0|2024-08-22|
 |40|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|8|0|2024-07-26|
-|41|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|0|2024-10-06|
+|41|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|0|2024-11-03|
 |42|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|0|2024-08-11|
 |43|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包；MATLAB-based pre-processing and post-processing toolkit for ROMS (Regional Ocean Modeling System)|13|0|2024-09-30|
 |44|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|0|2024-09-26|
@@ -54,7 +54,7 @@
 |47|[LuoQingju/ACOPF_yalmip](https://github.com/LuoQingju/ACOPF_yalmip)|AC Optimal Power Flow (OPF), yalmip modeling, ipopt solving 交流最优潮流, yalmip 建模, ipopt 求解|3|0|2024-07-25|
 |48|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|94|0|2024-06-10|
 |49|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|21|0|2024-05-13|
-|50|[Seafood-SIMIT/fwnn-matlab](https://github.com/Seafood-SIMIT/fwnn-matlab)|Implementation of Fuzzy Wavelet Neural Network in Matlab and Evaluation of Target Threat /模糊小波神经网络的Matlab实现以及目标威胁评估|32|0|2024-08-20|
+|50|[Seafood-SIMIT/fwnn-matlab](https://github.com/Seafood-SIMIT/fwnn-matlab)|Implementation of Fuzzy Wavelet Neural Network in Matlab and Evaluation of Target Threat /模糊小波神经网络的Matlab实现以及目标威胁评估|33|0|2024-08-20|
 |51|[tsingke/MatlabBookAnswer](https://github.com/tsingke/MatlabBookAnswer)|Matlab程序设计与应用（第3版，刘卫国著）课后习题与实验-参考答案|31|0|2024-10-13|
 |52|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|0|2024-07-14|
 |53|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|20|0|2024-09-30|
@@ -76,17 +76,16 @@
 |69|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|0|2024-09-22|
 |70|[Pochestina-zh/Numerical-PDEs-Coding](https://github.com/Pochestina-zh/Numerical-PDEs-Coding)|偏微分方程数值解编程作业|7|0|2024-09-21|
 |71|[InTheFuture7/NSGA_II-for-FJSP](https://github.com/InTheFuture7/NSGA_II-for-FJSP)|使用 NSGAII 算法求解 FJSP 问题（柔性作业车间调度）|3|0|2024-08-23|
-|72|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|0|2024-05-04|
-|73|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|0|2024-05-23|
-|74|[QuincyHoward/ABCDRez](https://github.com/QuincyHoward/ABCDRez)|本代码包（ABCDRez）是基于MATLAB语言的激光光束传输（Laser Beam Propagation）及激光谐振腔仿真（Laser Resonator Simulation）代码包。文章使用高斯光束（Gaussian Beam）描述激光，简单介绍了热效应（Thermal Effect）、腔内非线性变换（Nonlinear Frequency Transformation），主要介绍了光束的 ...|3|0|2024-07-27|
-|75|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|0|2024-08-14|
-|76|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|0|2024-07-02|
-|77|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|60|0|2024-06-20|
-|78|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|4|0|2024-09-28|
-|79|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|0|2024-09-13|
-|80|[Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis](https://github.com/Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis)|本项目是一个由我个人开发的matlab机器学习项目，基于高斯混合模型（GMM）和主成分分析（PCA）进行疲劳语音的识别，属于无监督学习和降维技术的结合应用。|3|0|2024-05-23|
-|81|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|121|0|2024-10-29|
-|82|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|0|2024-06-05|
+|72|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|0|2024-05-23|
+|73|[QuincyHoward/ABCDRez](https://github.com/QuincyHoward/ABCDRez)|本代码包（ABCDRez）是基于MATLAB语言的激光光束传输（Laser Beam Propagation）及激光谐振腔仿真（Laser Resonator Simulation）代码包。文章使用高斯光束（Gaussian Beam）描述激光，简单介绍了热效应（Thermal Effect）、腔内非线性变换（Nonlinear Frequency Transformation），主要介绍了光束的 ...|3|0|2024-07-27|
+|74|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|0|2024-08-14|
+|75|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|0|2024-07-02|
+|76|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|60|0|2024-06-20|
+|77|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|4|0|2024-09-28|
+|78|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|0|2024-09-13|
+|79|[Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis](https://github.com/Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis)|本项目是一个由我个人开发的matlab机器学习项目，基于高斯混合模型（GMM）和主成分分析（PCA）进行疲劳语音的识别，属于无监督学习和降维技术的结合应用。|3|0|2024-05-23|
+|80|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|121|0|2024-10-29|
+|81|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|0|2024-06-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

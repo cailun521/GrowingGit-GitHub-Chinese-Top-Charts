@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > TeX
-<sub>数据更新: 2024-11-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,9 +12,9 @@
 |5|[ydchen0806/24ICM_E_O_Award_Paper_code](https://github.com/ydchen0806/24ICM_E_O_Award_Paper_code)|2024 MCM/ICM Problem E Outstanding Winner INFORMS Prize paper and source code (24美赛E题O奖冠名奖论文和源码)|41|2024-07-23|2024-05-03|
 |6|[xiaoweiChen/Modern-CMake-for-Cpp-2ed](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp-2ed)|《Modern CMake for C++  - Second Edition》的非专业个人翻译|38|2024-09-11|2024-09-07|
 |7|[alan-tsang/overleaf-latex-chinese-english-general-template](https://github.com/alan-tsang/overleaf-latex-chinese-english-general-template)|一个overleaf latex中英文通用模板，元素丰富，适合latex入门；An Overleaf LaTeX Chinese and English universal template, rich in elements, suitable for getting started with LaTeX;|37|2024-09-14|2024-01-24|
-|8|[xiaoweiChen/Clang-Compiler-Frontend](https://github.com/xiaoweiChen/Clang-Compiler-Frontend)|《Clang Compiler Frontend》的非专业个人翻译|33|2024-08-10|2024-08-10|
-|9|[geezhu/Category-A-Textbook](https://github.com/geezhu/Category-A-Textbook)|中国80年代甲种本教科书|33|2024-08-11|2024-08-07|
-|10|[xiaoweiChen/Professional-cpp-6ed](https://github.com/xiaoweiChen/Professional-cpp-6ed)|《Professional C++ - 6th Edition》的非专业个人翻译|32|2024-10-18|2024-06-09|
+|8|[geezhu/Category-A-Textbook](https://github.com/geezhu/Category-A-Textbook)|中国80年代甲种本教科书|35|2024-08-11|2024-08-07|
+|9|[xiaoweiChen/Clang-Compiler-Frontend](https://github.com/xiaoweiChen/Clang-Compiler-Frontend)|《Clang Compiler Frontend》的非专业个人翻译|33|2024-08-10|2024-08-10|
+|10|[xiaoweiChen/Professional-cpp-6ed](https://github.com/xiaoweiChen/Professional-cpp-6ed)|《Professional C++ - 6th Edition》的非专业个人翻译|33|2024-10-18|2024-06-09|
 |11|[Acwuld/LouAnalysis](https://github.com/Acwuld/LouAnalysis)|楼红卫老师《数学分析》的答案.|32|2024-10-08|2024-03-02|
 |12|[GZIC-OpenFutureTech/OpenFutureTech](https://github.com/GZIC-OpenFutureTech/OpenFutureTech)|华南理工大学国际校区未来技术学院课程攻略   Guidance for courses in Campus of Future Technology, Guangzhou International Campus (GZIC), SCUT.|25|2024-08-04|2024-05-01|
 |13|[Sophie10001b/swjtuThesisV3.0](https://github.com/Sophie10001b/swjtuThesisV3.0)|V3.0 LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板(V3.0)|19|2024-09-29|2023-11-30|
@@ -51,7 +51,7 @@
 |44|[shudezhang/neepu-proposal](https://github.com/shudezhang/neepu-proposal)|东北电力大学博士学位论文开题报告 LaTeX 模板|3|2024-10-30|2024-10-30|
 |45|[2489055825/baoyan](https://github.com/2489055825/baoyan)|集美大学计算机工程学院保研攻略|3|2024-10-24|2024-10-24|
 |46|[Ballad1214/nudtpaper](https://github.com/Ballad1214/nudtpaper)|nudt大论文模板|3|2024-10-12|2024-10-11|
-|47|[Phiyu/GaoXian](https://github.com/Phiyu/GaoXian)|高显经典力学习题解答|3|2024-10-30|2024-10-01|
+|47|[Phiyu/GaoXian](https://github.com/Phiyu/GaoXian)|高显经典力学习题解答|3|2024-11-03|2024-10-01|
 |48|[Pungjay/swjtuThesis](https://github.com/Pungjay/swjtuThesis)|西南交通大学硕/博学位论文 LaTeX 模板|3|2024-10-25|2024-08-09|
 |49|[weyumm/-Mathematical-Modeling-Awareness-Guide-](https://github.com/weyumm/-Mathematical-Modeling-Awareness-Guide-)|【数学建模觉迷录】记录我从学习数学建模到参加各种建模竞赛的数据集、代码、论文。(A record of my datasets, code, and papers from learning mathematical modeling to participating in various modeling competitions.)|3|2024-07-30|2024-07-15|
 |50|[Orlnette/NNU_master_thesis](https://github.com/Orlnette/NNU_master_thesis)|南京师范大学硕士学位论文 LaTeX 模板|3|2024-09-23|2024-07-09|

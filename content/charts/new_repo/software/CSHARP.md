@@ -1,33 +1,33 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C#
-<sub>数据更新: 2024-11-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore)|哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。|1582|2024-10-28|2023-11-25|
-|2|[cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI)|CFnat 为 Windows 用户设计的 GUI 程序界面。|702|2024-10-22|2024-10-12|
-|3|[xverse-engine/XV3DGS-UEPlugin](https://github.com/xverse-engine/XV3DGS-UEPlugin)|A Unreal Engine 5 (UE5) based plugin aiming to provide real-time visulization, management, editing, and scalable hybrid rendering of Guassian Splatting model.|546|2024-09-06|2023-11-28|
-|4|[rnchg/Apt](https://github.com/rnchg/Apt)|AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: buil ...|531|2024-11-02|2024-06-19|
-|5|[TippingGame/F8Framework](https://github.com/TippingGame/F8Framework)|F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的游戏框架，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。|473|2024-11-01|2023-12-10|
+|1|[yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore)|哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。|1592|2024-10-28|2023-11-25|
+|2|[cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI)|CFnat 为 Windows 用户设计的 GUI 程序界面。|708|2024-10-22|2024-10-12|
+|3|[xverse-engine/XV3DGS-UEPlugin](https://github.com/xverse-engine/XV3DGS-UEPlugin)|A Unreal Engine 5 (UE5) based plugin aiming to provide real-time visulization, management, editing, and scalable hybrid rendering of Guassian Splatting model.|547|2024-09-06|2023-11-28|
+|4|[rnchg/Apt](https://github.com/rnchg/Apt)|AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: buil ...|532|2024-11-03|2024-06-19|
+|5|[TippingGame/F8Framework](https://github.com/TippingGame/F8Framework)|F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的游戏框架，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。|474|2024-11-03|2023-12-10|
 |6|[DeEpinGh0st/WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant)|Windows安全基线核查加固助手|437|2024-05-12|2024-01-03|
-|7|[AntdUI/AntdUI](https://github.com/AntdUI/AntdUI)|👚 基于 Ant Design 设计语言的 Winform 界面库|433|2024-10-31|2024-01-23|
-|8|[trueai-org/midjourney-proxy](https://github.com/trueai-org/midjourney-proxy)|A public welfare project offering a free drawing API that proxies Midjourney's Discord channel, supporting one-click face swapping for images and videos.|360|2024-10-30|2024-07-03|
+|7|[AntdUI/AntdUI](https://github.com/AntdUI/AntdUI)|👚 基于 Ant Design 设计语言的 Winform 界面库|434|2024-10-31|2024-01-23|
+|8|[trueai-org/midjourney-proxy](https://github.com/trueai-org/midjourney-proxy)|A public welfare project offering a free drawing API that proxies Midjourney's Discord channel, supporting one-click face swapping for images and videos.|362|2024-10-30|2024-07-03|
 |9|[MInggongK/Hikvision-](https://github.com/MInggongK/Hikvision-)|Hikvision综合漏洞利用工具|349|2024-09-05|2024-05-29|
-|10|[yclown/ql_jd_cookie](https://github.com/yclown/ql_jd_cookie)|青龙面板京东cookie获取桌面版，支持一键发送到青龙面板，账号密码快速填入|276|2024-10-26|2023-12-22|
-|11|[feiyun0112/Gradio.Net](https://github.com/feiyun0112/Gradio.Net)|⭐Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gr ...|248|2024-08-21|2024-05-26|
-|12|[Richasy/Rodel.Agent](https://github.com/Richasy/Rodel.Agent)|支持主流在线 AI 服务的应用|246|2024-10-05|2024-04-26|
+|10|[yclown/ql_jd_cookie](https://github.com/yclown/ql_jd_cookie)|青龙面板京东cookie获取桌面版，支持一键发送到青龙面板，账号密码快速填入|278|2024-10-26|2023-12-22|
+|11|[feiyun0112/Gradio.Net](https://github.com/feiyun0112/Gradio.Net)|⭐Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gr ...|249|2024-08-21|2024-05-26|
+|12|[Richasy/Rodel.Agent](https://github.com/Richasy/Rodel.Agent)|支持主流在线 AI 服务的应用|247|2024-10-05|2024-04-26|
 |13|[JamXi233/WaveTools](https://github.com/JamXi233/WaveTools)|🧰鸣潮工具箱|238|2024-10-26|2024-05-23|
-|14|[CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)|EAapp模拟器 By Misaka_Mikoto_01 And CrazyZhang666|224|2024-10-23|2024-04-10|
-|15|[K12f/BlueCatKoKo](https://github.com/K12f/BlueCatKoKo)|蓝猫KoKo下载器（BlueCatKoKo）是一个免登录，简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。|207|2024-10-14|2024-08-24|
-|16|[INotGreen/SharpScan](https://github.com/INotGreen/SharpScan)|内网资产收集、探测主机存活、端口扫描、域控定位、文件搜索、各种服务爆破（SSH、SMB、MsSQL等）、Socks代理，一键自动化+无文件落地扫描|194|2024-08-10|2024-08-01|
-|17|[AIDotNet/GraphRag.Net](https://github.com/AIDotNet/GraphRag.Net)|参考GraphRag使用 Semantic Kernel 来实现的dotnet版本，可以使用NuGet开箱即用集成到项目中|182|2024-10-20|2024-07-22|
+|14|[CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater)|EAapp模拟器 By Misaka_Mikoto_01 And CrazyZhang666|225|2024-10-23|2024-04-10|
+|15|[K12f/BlueCatKoKo](https://github.com/K12f/BlueCatKoKo)|蓝猫KoKo下载器（BlueCatKoKo）是一个免登录，简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。|210|2024-10-14|2024-08-24|
+|16|[INotGreen/SharpScan](https://github.com/INotGreen/SharpScan)|内网资产收集、探测主机存活、端口扫描、域控定位、文件搜索、各种服务爆破（SSH、SMB、MsSQL等）、Socks代理，一键自动化+无文件落地扫描|195|2024-08-10|2024-08-01|
+|17|[AIDotNet/GraphRag.Net](https://github.com/AIDotNet/GraphRag.Net)|参考GraphRag使用 Semantic Kernel 来实现的dotnet版本，可以使用NuGet开箱即用集成到项目中|183|2024-10-20|2024-07-22|
 |18|[842549829/Panda](https://github.com/842549829/Panda)|Abp.vNext + EF Core The microservices Open source framework project supports the implementation of message push workflow certification centers based on OAuth2.0|176|2024-09-05|2024-05-24|
 |19|[SlimeNull/ScreenBroadcaster](https://github.com/SlimeNull/ScreenBroadcaster)|Screen broadcast and remote control tool based on FFmpeg. 基于 FFmpeg 的屏幕广播与远程操控工具.|170|2024-09-15|2024-06-15|
-|20|[NimbleSense/Susalem](https://github.com/NimbleSense/Susalem)|加入带锅宫酱，来到苏州耶路撒冷的怀抱吧！|167|2024-11-01|2023-12-07|
+|20|[NimbleSense/Susalem](https://github.com/NimbleSense/Susalem)|加入带锅宫酱，来到苏州耶路撒冷的怀抱吧！|168|2024-11-01|2023-12-07|
 |21|[yaobus/SIPAM](https://github.com/yaobus/SIPAM)|IP地址分配管理系统|164|2024-11-01|2024-03-07|
 |22|[trueai-org/mdrive](https://github.com/trueai-org/mdrive)|一个基于阿里云盘官方 API 授权的自动同步和备份工具，支持云盘挂载到本地，支持本地存储，支持加密，多平台、安全、自动化的数据管理方案。|155|2024-06-27|2023-12-22|
-|23|[wushuaihua520/BarrageGrab](https://github.com/wushuaihua520/BarrageGrab)|抖音快手bilibili直播弹幕wss直连，非系统代理方式，无需多开浏览器窗口|145|2024-10-23|2024-02-04|
+|23|[wushuaihua520/BarrageGrab](https://github.com/wushuaihua520/BarrageGrab)|抖音快手bilibili直播弹幕wss直连，非系统代理方式，无需多开浏览器窗口|146|2024-10-23|2024-02-04|
 |24|[NoSLoofah/Unity-Buff-System](https://github.com/NoSLoofah/Unity-Buff-System)|该项目是一个通用的Buff系统，旨在帮助Unity开发者轻松实现游戏中的Buff效果。该系统能够轻松集成到现有项目，你可以方便地添加、管理和应用自定义逻辑的Buff。|141|2024-10-31|2024-01-04|
 |25|[easywebfactory/gtksystem-windows-forms](https://github.com/easywebfactory/gtksystem-windows-forms)|C#桌面应用程序跨平台（windows、linux、macos）界面开发组件，基于GTK组件开发，该组件的核心优势是使用C#的原生winform表单控件窗体设计器，相同的属性方法，C#原生开发即可，无需学习。一次编译，跨平台运行。 便于开发跨平台winform软件，便于将C#升级为跨平台软件。|136|2024-10-29|2024-01-04|
 |26|[WPFDevelopersOrg/XNode](https://github.com/WPFDevelopersOrg/XNode)|可视化程序编辑器，类似虚幻引擎的蓝图。A visual programming editor similar to Unreal Engine's Blueprint.|133|2024-09-08|2024-08-04|
@@ -37,9 +37,9 @@
 |30|[ancientElement/AE_SkillEditor_Plus](https://github.com/ancientElement/AE_SkillEditor_Plus)|AE_Skill_Editor的Plus版本|127|2024-07-07|2024-04-10|
 |31|[xljiulang/CYarp](https://github.com/xljiulang/CYarp)|A reverse proxy toolkit to help you expose multiple local http servers behind a NAT or firewall to the internet|126|2024-06-24|2024-03-18|
 |32|[Mangofang/BypassLoad](https://github.com/Mangofang/BypassLoad)|shellcode免杀加载器，过主流杀软|123|2024-09-29|2024-01-22|
-|33|[nature2608/SuperFH](https://github.com/nature2608/SuperFH)|一键获取烽火光猫超密|119|2024-05-29|2023-12-04|
-|34|[LKZMuZiLi/human](https://github.com/LKZMuZiLi/human)|Unity 实时3d数据人|116|2024-10-29|2024-06-24|
-|35|[fengymi/emby-plugin-danmu](https://github.com/fengymi/emby-plugin-danmu)|emby弹幕插件|114|2024-08-24|2024-07-17|
+|33|[nature2608/SuperFH](https://github.com/nature2608/SuperFH)|一键获取烽火光猫超密|121|2024-05-29|2023-12-04|
+|34|[fengymi/emby-plugin-danmu](https://github.com/fengymi/emby-plugin-danmu)|emby弹幕插件|116|2024-08-24|2024-07-17|
+|35|[LKZMuZiLi/human](https://github.com/LKZMuZiLi/human)|Unity 实时3d数据人|116|2024-10-29|2024-06-24|
 |36|[wenen-creator/FlexiArchiveSystem](https://github.com/wenen-creator/FlexiArchiveSystem)|Flexi Archive是一个满足复杂存档需求，灵活且强大的Unity跨平台数据存档解决方案。  Flexi Archive is a flexible and powerful data archiving solution for complex archiving needs|99|2024-10-24|2024-08-28|
 |37|[GameFrameX/GameFrameX.Unity](https://github.com/GameFrameX/GameFrameX.Unity)|GameFrameX的Unity版本|95|2024-10-17|2024-03-22|
 |38|[MInggongK/Penetration-mining-src](https://github.com/MInggongK/Penetration-mining-src)|一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具|93|2024-07-28|2024-07-21|

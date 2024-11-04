@@ -1,17 +1,17 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Rust
-<sub>数据更新: 2024-11-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|269863|132|2024-10-03|
-|2|[sunface/rust-course](https://github.com/sunface/rust-course)|“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book |25551|11|2024-10-21|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|269867|132|2024-10-03|
+|2|[sunface/rust-course](https://github.com/sunface/rust-course)|“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book |25558|11|2024-10-21|
 |3|[johnlui/PPHC](https://github.com/johnlui/PPHC)|📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com|3798|6|2024-09-06|
-|4|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.|12202|5|2024-10-15|
-|5|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.|13309|4|2024-11-01|
+|4|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.|12206|5|2024-10-15|
+|5|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.|13311|4|2024-11-01|
 |6|[cncases/cases](https://github.com/cncases/cases)|中国裁判文书网本地搜索|596|2|2024-11-02|
-|7|[rust-boom/rust-boom](https://github.com/rust-boom/rust-boom)|Awesome Rust (Rust 资源   学习   书 ). 💥|1321|2|2024-10-23|
+|7|[rust-boom/rust-boom](https://github.com/rust-boom/rust-boom)|Awesome Rust (Rust 资源   学习   书 ). 💥|1322|2|2024-10-23|
 |8|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|2470|2|2024-07-21|
 |9|[alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns)|Magical Rust patterns laid out and simplified|1206|2|2024-05-11|
 |10|[sotrh/learn-wgpu](https://github.com/sotrh/learn-wgpu)|Guide for using gfx-rs's wgpu library.|1504|1|2024-10-17|
@@ -19,7 +19,7 @@
 |12|[Borber/Tran](https://github.com/Borber/Tran)|简洁, 快速, 划词翻译|523|1|2024-10-30|
 |13|[Narukara/std-training-zh-cn](https://github.com/Narukara/std-training-zh-cn)|Embedded Rust on Espressif 简体中文版|81|0|2024-09-02|
 |14|[chuigda/Vulkan-Tutorial-Rust-CN](https://github.com/chuigda/Vulkan-Tutorial-Rust-CN)|Rust 版 Vulkan 教程的中文翻译，基于 vulkanalia|126|0|2024-09-09|
-|15|[jinleili/learn-wgpu-zh](https://github.com/jinleili/learn-wgpu-zh)|Learn wgpu 中文版|361|0|2024-10-31|
+|15|[jinleili/learn-wgpu-zh](https://github.com/jinleili/learn-wgpu-zh)|Learn wgpu 中文版|361|0|2024-11-03|
 |16|[HollowMan6/mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf)|A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)|153|0|2024-08-06|
 |17|[miketang84/jikeshijian](https://github.com/miketang84/jikeshijian)|Practice code for the course of jikeshijian 《Rust语言从入门到实战》|48|0|2024-07-28|
 |18|[the-web3/chaineye-rust](https://github.com/the-web3/chaineye-rust)|rust 中文教程，每周更新 1-3 讲|61|0|2024-09-04|

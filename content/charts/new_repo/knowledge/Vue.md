@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-11-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft)|craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务|55|2024-10-28|2024-04-19|
 |6|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|46|2024-10-28|2024-03-03|
 |7|[qifan777/uni-ai](https://github.com/qifan777/uni-ai)|国内外的ai聚合，统一页面可以选择不同的ai厂家和不同的模型，内置知识库，图片理解，文本对话，预置角色。支持阿里灵积/百度千帆/OpenAI/Kimi/智谱清言|37|2024-10-25|2024-05-29|
-|8|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|32|2024-10-24|2024-03-23|
+|8|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|33|2024-10-24|2024-03-23|
 |9|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|31|2024-06-30|2024-06-30|
 |10|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 Vue3(Web组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器🔨|26|2024-10-17|2024-04-01|
 |11|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|26|2024-07-14|2024-01-26|
@@ -40,13 +40,14 @@
 |33|[wushanglang/ppenglish](https://github.com/wushanglang/ppenglish)|双语外刊阅读 + AI翻译（四六级、考研）|6|2024-08-31|2024-08-05|
 |34|[Azure12355/Medical-QASystem-front-end](https://github.com/Azure12355/Medical-QASystem-front-end)|基于Neo4j的医疗知识图谱的智能问答-Vue前端界面|6|2024-05-21|2024-05-21|
 |35|[Arcticn/KeyBlog](https://github.com/Arcticn/KeyBlog)|A blog website made with ASP .Net core + Vue.js 使用 ASP .Net core + Vue.js 编写的前后端分离的博客网站|6|2024-10-26|2024-05-19|
-|36|[xfxdesk/xfxai](https://github.com/xfxdesk/xfxai)|小飞侠AI解决方案, AI办公, AI辅助, PPT转化, 生产力, 工作流程, 文档处理, 设计和演示应用, 工作效率, 任务管理, 项目管理, 办公自动化, 创意展现, 智能日程管理, 数据驱动决策, 效率提升, 创新工作方案, 实战案例分享, 优化工作流, 提高工作效率, 智能技术应用|5|2024-06-21|2024-05-31|
-|37|[Cookiesukaze/bianlian](https://github.com/Cookiesukaze/bianlian)|AI视频翻译   AI Video Translation|5|2024-05-29|2023-12-09|
-|38|[JiaosSir/kesou-search](https://github.com/JiaosSir/kesou-search)|一个简约美观的搜索页，支持多种搜索集合（支持明亮暗黑模式切换），您可以在下方网址体验本项目|4|2024-07-27|2024-07-27|
-|39|[SoJer1012/tauri-knote](https://github.com/SoJer1012/tauri-knote)|tauri+vue3+vite+naiveui，tauri开发桌面版笔记本+行程计划提醒|4|2024-07-17|2024-07-17|
-|40|[331886820/yg-video](https://github.com/331886820/yg-video)|  1.单独海康威视运行DEMO（gitee3种方案有些基础薄弱朋友反馈看不懂，所以有了这个版本）；  2. 原文地址：https://juejin.cn/post/7369783680425852938         3.三种视频方案合集：或者https://gitee.com/esthergege/live-video|4|2024-10-14|2024-07-11|
-|41|[tangshuang/chattts-newer](https://github.com/tangshuang/chattts-newer)|ChatTTS Newer是专为想要使用ChatTTS的新手准备的入门工具|4|2024-07-11|2024-07-09|
-|42|[Theo-Messi/share.theojs.cn](https://github.com/Theo-Messi/share.theojs.cn)|阿里云盘资源分享 - 热门资源/电视剧/电影/综艺/动漫/大陆/日本/韩国/欧美|4|2024-08-12|2024-05-08|
+|36|[YangYzzzz/2023Autumn-BUAA-DB](https://github.com/YangYzzzz/2023Autumn-BUAA-DB)|2023年秋季北航数据库原理课程|5|2024-09-15|2024-07-12|
+|37|[xfxdesk/xfxai](https://github.com/xfxdesk/xfxai)|小飞侠AI解决方案, AI办公, AI辅助, PPT转化, 生产力, 工作流程, 文档处理, 设计和演示应用, 工作效率, 任务管理, 项目管理, 办公自动化, 创意展现, 智能日程管理, 数据驱动决策, 效率提升, 创新工作方案, 实战案例分享, 优化工作流, 提高工作效率, 智能技术应用|5|2024-06-21|2024-05-31|
+|38|[Cookiesukaze/bianlian](https://github.com/Cookiesukaze/bianlian)|AI视频翻译   AI Video Translation|5|2024-05-29|2023-12-09|
+|39|[JiaosSir/kesou-search](https://github.com/JiaosSir/kesou-search)|一个简约美观的搜索页，支持多种搜索集合（支持明亮暗黑模式切换），您可以在下方网址体验本项目|4|2024-07-27|2024-07-27|
+|40|[SoJer1012/tauri-knote](https://github.com/SoJer1012/tauri-knote)|tauri+vue3+vite+naiveui，tauri开发桌面版笔记本+行程计划提醒|4|2024-07-17|2024-07-17|
+|41|[331886820/yg-video](https://github.com/331886820/yg-video)|  1.单独海康威视运行DEMO（gitee3种方案有些基础薄弱朋友反馈看不懂，所以有了这个版本）；  2. 原文地址：https://juejin.cn/post/7369783680425852938         3.三种视频方案合集：或者https://gitee.com/esthergege/live-video|4|2024-10-14|2024-07-11|
+|42|[tangshuang/chattts-newer](https://github.com/tangshuang/chattts-newer)|ChatTTS Newer是专为想要使用ChatTTS的新手准备的入门工具|4|2024-07-11|2024-07-09|
+|43|[Theo-Messi/share.theojs.cn](https://github.com/Theo-Messi/share.theojs.cn)|阿里云盘资源分享 - 热门资源/电视剧/电影/综艺/动漫/大陆/日本/韩国/欧美|4|2024-08-12|2024-05-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
