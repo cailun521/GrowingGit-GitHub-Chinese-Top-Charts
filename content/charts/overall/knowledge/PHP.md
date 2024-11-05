@@ -1,33 +1,33 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > PHP
-<sub>数据更新: 2024-11-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21872|2024-10-25|
-|2|[Hanson/vbot](https://github.com/Hanson/vbot)|微信，企微，机器人，企业微信，企微机器人，微信机器人，小红书，美团，美团爬虫，聚合聊天，RPA，协议，hook，逆向，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用|4044|2024-08-26|
-|3|[freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|3026|2024-11-02|
-|4|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2881|2024-07-19|
+|2|[Hanson/vbot](https://github.com/Hanson/vbot)|微信，企微，机器人，企业微信，企微机器人，微信机器人，小红书，美团，美团爬虫，聚合聊天，RPA，协议，hook，逆向，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用|4049|2024-08-26|
+|3|[freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|3027|2024-11-04|
+|4|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2883|2024-07-19|
 |5|[wususu/effective-resourses](https://github.com/wususu/effective-resourses)| :book:学习资源整合|2685|2024-05-29|
-|6|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|2261|2024-11-03|
+|6|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|2266|2024-11-04|
 |7|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1822|2024-08-02|
 |8|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1636|2024-06-05|
-|9|[evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)|构建并优化高效的渗透测试字典集合，以提升网络安全从业人员的测试效率和效果。|1572|2024-07-27|
-|10|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.|1107|2024-06-11|
-|11|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|1080|2024-11-03|
+|9|[evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)|构建并优化高效的渗透测试字典集合，以提升网络安全从业人员的测试效率和效果。|1574|2024-07-27|
+|10|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.|1109|2024-06-11|
+|11|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|1079|2024-11-03|
 |12|[duoergun0729/1book](https://github.com/duoergun0729/1book)|《Web安全之机器学习入门》|895|2024-08-29|
 |13|[kevinyan815/Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel)|Laravel核心代码学习|887|2024-10-08|
 |14|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|815|2024-09-30|
-|15|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|683|2024-07-25|
+|15|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|684|2024-07-25|
 |16|[zhuige-com/jiangqie_kafei](https://github.com/zhuige-com/jiangqie_kafei)|酱茄小程序开源版，基于WordPress的微信小程序，适用于博客小程序和新闻资讯小程序。|593|2024-07-17|
 |17|[tsxcw/mtab](https://github.com/tsxcw/mtab)|Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验。|365|2024-10-24|
 |18|[yeszao/fastphp](https://github.com/yeszao/fastphp)|最简洁易懂的PHP MVC框架入门教程|317|2024-05-28|
 |19|[ordylan/OrdylanNote](https://github.com/ordylan/OrdylanNote)|Welcome to ON, a php-based webpage notebook with a variety of games.|274|2024-10-05|
 |20|[lu2ker/PHP-Code](https://github.com/lu2ker/PHP-Code)|通过ThinkPHP框架学习PHP代码审计|239|2024-06-19|
 |21|[ipaperclip/paperclipfans](https://github.com/ipaperclip/paperclipfans)|Hi~ 这里是 回形针 PaperClip 非官方的资料整理仓库，我们迫切的希望您的帮助整理，这将加速我们的网站维护每一期的文字稿及图片内容。|234|2024-09-14|
-|22|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|202|2024-11-01|
-|23|[changbin1997/Facile](https://github.com/changbin1997/Facile)|一个简洁的 Typecho 博客主题|161|2024-10-31|
+|22|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|202|2024-11-04|
+|23|[changbin1997/Facile](https://github.com/changbin1997/Facile)|一个简洁的 Typecho 博客主题|161|2024-11-04|
 |24|[Lete114/Vercel-Typecho](https://github.com/Lete114/Vercel-Typecho)|Vercel 免费部署 Typecho 博客   Vercel Free Deploy Typecho Blog|139|2024-06-10|
 |25|[filhodanuvem/awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs)|🐘A curated list of companies using php |139|2024-09-12|
 |26|[ProbiusOfficial/PHPSerialize-labs](https://github.com/ProbiusOfficial/PHPSerialize-labs)|【Hello-CTF labs】PHPSerialize-labs是一个使用php语言编写的，用于学习CTF中PHP反序列化的入门靶场。旨在帮助大家对PHP的序列化和反序列化有一个全面的了解。|136|2024-07-13|
