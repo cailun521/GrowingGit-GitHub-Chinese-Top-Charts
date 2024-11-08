@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-11-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -20,7 +20,7 @@
 |13|[CocoaJiang/XJButton](https://github.com/CocoaJiang/XJButton)|一个解放你所有烦恼的Button 支持链式调用，支持渐变+各个方向的圆角，支持block回调事件，支持图片和文字的距离调整，支持增加点击范围，支持内边距|3|2024-08-12|2024-06-19|
 |14|[vampire-locker/iOS-Tools-OC](https://github.com/vampire-locker/iOS-Tools-OC)|iOS 常用的工具类|2|2024-09-05|2024-08-20|
 |15|[QuintGao/GKLivePhotoManager](https://github.com/QuintGao/GKLivePhotoManager)|livePhoto处理工具类|2|2024-09-14|2024-06-27|
-|16|[295060456/JobsOCBaseConfigDemo](https://github.com/295060456/JobsOCBaseConfigDemo)|iOS.OC靶场项目|2|2024-11-06|2024-05-11|
+|16|[295060456/JobsOCBaseConfigDemo](https://github.com/295060456/JobsOCBaseConfigDemo)|iOS.OC靶场项目|2|2024-11-07|2024-05-11|
 |17|[AeolusZane/rn-swift-demo](https://github.com/AeolusZane/rn-swift-demo)|RN-Swift混合开发，覆盖大部分开发需求。包含RN使用Swift组件，RN和Swift组件相互通信，RN更新Swift组件状态、Swift更新RN组件状态|2|2024-09-21|2024-03-20|
 |18|[CodeGather/fusion_auth](https://github.com/CodeGather/fusion_auth)|Flutter阿里云号码认证的融合认证|2|2024-06-30|2023-11-28|
 

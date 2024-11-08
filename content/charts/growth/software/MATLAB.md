@@ -1,12 +1,12 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-11-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|85|2024-08-05|
-|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|817|1|2024-09-26|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|84|2024-08-05|
+|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|820|1|2024-09-26|
 |3|[chenzeyuan1/IOrange](https://github.com/chenzeyuan1/IOrange)|一门专门为数字电路设计的编译器。支持简单的语法，可以编译出simulink仿真电路，并进行实时仿真。同时支持化简，生成真值表，卡诺图，计算最大最小项。|7|1|2024-10-27|
 |4|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|6|0|2024-07-08|
 |5|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|0|2024-05-21|
@@ -38,7 +38,7 @@
 |31|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|0|2024-09-04|
 |32|[Kennems/Image_Processing_GUI](https://github.com/Kennems/Image_Processing_GUI)|本项目旨在设计一个基于Matlab的图像去噪GUI系统，通过应用多种图像去噪算法，提高图像的质量和可用性。该系统集成了多种经典和现代的去噪方法，并提供了直观的用户界面，方便用户对图像进行去噪处理和效果评估。|4|0|2024-08-31|
 |33|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|0|2024-07-19|
-|34|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|5|0|2024-11-01|
+|34|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|5|0|2024-11-07|
 |35|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|4|0|2024-05-23|
 |36|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|17|0|2024-09-05|
 |37|[cmjang/DM_Control_Matlab](https://github.com/cmjang/DM_Control_Matlab)|达妙电机matlab库函数，DM motor matlab control library function|3|0|2024-10-08|
@@ -62,8 +62,8 @@
 |55|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|0|2024-07-14|
 |56|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|20|0|2024-09-30|
 |57|[17513146506/dc_motor_pid](https://github.com/17513146506/dc_motor_pid)|伺服电机pid控制|3|0|2024-10-31|
-|58|[HilbertRonAnju/MCM_2021_Problem_B](https://github.com/HilbertRonAnju/MCM_2021_Problem_B)|2021年美国大学生数学建模竞赛B题O奖仓库，西安交通大学队伍，队伍编号2104673。|6|0|2024-10-26|
-|59|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|54|0|2024-06-25|
+|58|[HilbertRonAnju/MCM_2021_Problem_B](https://github.com/HilbertRonAnju/MCM_2021_Problem_B)|2021年美国大学生数学建模竞赛B题O奖仓库，西安交通大学队伍，队伍编号2104673。|7|0|2024-10-26|
+|59|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|55|0|2024-06-25|
 |60|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|0|2024-05-25|
 |61|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|29|0|2024-10-15|
 |62|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Multi-uav track collaborative planning based on improved particle swarm optimization algorithm   基于改进粒子群算法的多无人机航迹协同规划|4|0|2024-10-20|
@@ -84,7 +84,7 @@
 |77|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|0|2024-08-14|
 |78|[InfiLuck-n1ako/Matlab-CoinDetectionCounting](https://github.com/InfiLuck-n1ako/Matlab-CoinDetectionCounting)|硬币检测及计数——白色背景上扔几枚不同面值的硬币，拍摄图像，通过图像处理，获取硬币的数目及金额|3|0|2024-09-12|
 |79|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|0|2024-07-02|
-|80|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|60|0|2024-06-20|
+|80|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|61|0|2024-06-20|
 |81|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|4|0|2024-09-28|
 |82|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|0|2024-09-13|
 |83|[Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis](https://github.com/Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis)|本项目是一个由我个人开发的matlab机器学习项目，基于高斯混合模型（GMM）和主成分分析（PCA）进行疲劳语音的识别，属于无监督学习和降维技术的结合应用。|4|0|2024-05-23|

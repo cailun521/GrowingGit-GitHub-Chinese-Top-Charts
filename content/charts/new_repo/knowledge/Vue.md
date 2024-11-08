@@ -1,20 +1,20 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-11-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)|在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署|2267|2024-11-06|2024-07-17|
+|1|[jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)|在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署|2279|2024-11-06|2024-07-17|
 |2|[srsng/cozy-reader](https://github.com/srsng/cozy-reader)|一款轻量的阅读软件，仅支持ePub格式电子书。 基于Rust+tauri+Vue3|141|2024-10-06|2024-08-12|
 |3|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|110|2024-05-23|2024-01-11|
-|4|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|96|2024-10-17|2024-05-29|
+|4|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|98|2024-10-17|2024-05-29|
 |5|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|66|2024-10-21|2024-06-10|
 |6|[Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft)|craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务|56|2024-11-06|2024-04-19|
 |7|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|46|2024-10-28|2024-03-03|
-|8|[qifan777/uni-ai](https://github.com/qifan777/uni-ai)|国内外的ai聚合，统一页面可以选择不同的ai厂家和不同的模型，内置知识库，图片理解，文本对话，预置角色。支持阿里灵积/百度千帆/OpenAI/Kimi/智谱清言|36|2024-10-25|2024-05-29|
-|9|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|33|2024-10-24|2024-03-23|
-|10|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 Vue3(Web组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器🔨|32|2024-11-05|2024-04-01|
+|8|[qifan777/uni-ai](https://github.com/qifan777/uni-ai)|国内外的ai聚合，统一页面可以选择不同的ai厂家和不同的模型，内置知识库，图片理解，文本对话，预置角色。支持阿里灵积/百度千帆/OpenAI/Kimi/智谱清言|37|2024-10-25|2024-05-29|
+|9|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 Vue3(Web组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器🔨|34|2024-11-05|2024-04-01|
+|10|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|33|2024-10-24|2024-03-23|
 |11|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|31|2024-06-30|2024-06-30|
 |12|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|28|2024-07-14|2024-01-26|
 |13|[Slumhee/Web002VUE-01_vuebasictutorials](https://github.com/Slumhee/Web002VUE-01_vuebasictutorials)|Code and text version of the tutorial on Vue Framework, InkkaPlumChannel.   InkkaPlum频道的Vue框架教程的代码和文字版教程。|23|2024-06-10|2024-06-10|
@@ -38,7 +38,7 @@
 |31|[milkory/anita-terminal](https://github.com/milkory/anita-terminal)|阿妮塔终端 / 雷索纳斯 资料整合站|7|2024-06-22|2024-03-25|
 |32|[BrackRat/BrBlog](https://github.com/BrackRat/BrBlog)|优雅至上的个人博客。 Nuxt3 全栈博客|7|2024-07-06|2024-02-15|
 |33|[CoderXiaoShi/master-talk](https://github.com/CoderXiaoShi/master-talk)|master-talk 大佬说|7|2024-09-03|2024-02-05|
-|34|[sothx/hyper-magic-window-web-ui](https://github.com/sothx/hyper-magic-window-web-ui)|《HyperOS For Pad/Fold 完美横屏应用计划》 Web UI 端，提供可视化修改模块部分配置的能力|6|2024-11-06|2024-10-12|
+|34|[sothx/hyper-magic-window-web-ui](https://github.com/sothx/hyper-magic-window-web-ui)|《HyperOS For Pad/Fold 完美横屏应用计划》 Web UI 端，提供可视化修改模块部分配置的能力|6|2024-11-07|2024-10-12|
 |35|[Azure12355/Medical-QASystem-front-end](https://github.com/Azure12355/Medical-QASystem-front-end)|基于Neo4j的医疗知识图谱的智能问答-Vue前端界面|6|2024-05-21|2024-05-21|
 |36|[Arcticn/KeyBlog](https://github.com/Arcticn/KeyBlog)|A blog website made with ASP .Net core + Vue.js 使用 ASP .Net core + Vue.js 编写的前后端分离的博客网站|6|2024-10-26|2024-05-19|
 |37|[YangYzzzz/2023Autumn-BUAA-DB](https://github.com/YangYzzzz/2023Autumn-BUAA-DB)|2023年秋季北航数据库原理课程|5|2024-09-15|2024-07-12|
