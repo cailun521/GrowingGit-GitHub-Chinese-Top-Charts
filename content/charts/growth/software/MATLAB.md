@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-11-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -20,7 +20,7 @@
 |13|[RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF](https://github.com/RivenSartre/Li-ion-SOC-estimation-based-on-fuzzy-control-and-EKF)|基于模糊控制的扩展卡尔曼滤波SOC估计|3|0|2024-06-19|
 |14|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|0|2024-06-09|
 |15|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|239|0|2024-11-05|
-|16|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|20|0|2024-10-17|
+|16|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|20|0|2024-11-08|
 |17|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|0|2024-07-16|
 |18|[zhyantao/GA-shortest_path](https://github.com/zhyantao/GA-shortest_path)|遗传算法解决最短路径问题（两个出发点）|12|0|2024-07-04|
 |19|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|7|0|2024-05-17|
@@ -42,14 +42,14 @@
 |35|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|4|0|2024-05-23|
 |36|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|17|0|2024-09-05|
 |37|[cmjang/DM_Control_Matlab](https://github.com/cmjang/DM_Control_Matlab)|达妙电机matlab库函数，DM motor matlab control library function|3|0|2024-10-08|
-|38|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|216|0|2024-10-24|
+|38|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|217|0|2024-10-24|
 |39|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|8|0|2024-05-25|
 |40|[SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method](https://github.com/SuperBruceJia/Sonar-Image-Segmentation-through-Entropy-Method)|This is a MATLAB implementation of Sonar Image Segmentation via Entropy Method|20|0|2024-10-10|
 |41|[Walker-rx/Signal-equalization-using-MMSE](https://github.com/Walker-rx/Signal-equalization-using-MMSE)|利用mmse完成光通信信号均衡，源自gen_data_final|6|0|2024-08-22|
 |42|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|8|0|2024-07-26|
 |43|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|0|2024-11-03|
 |44|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|0|2024-08-11|
-|45|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包；MATLAB-based pre-processing and post-processing toolkit for ROMS (Regional Ocean Modeling System)|13|0|2024-09-30|
+|45|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包；MATLAB-based pre-processing and post-processing toolkit for ROMS (Regional Ocean Modeling System)|14|0|2024-09-30|
 |46|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|0|2024-09-26|
 |47|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|0|2024-05-29|
 |48|[Ebola-Chan-bot/Parallel-Computing](https://github.com/Ebola-Chan-bot/Parallel-Computing)|埃博拉酱的并行计算工具箱|4|0|2024-11-02|
@@ -81,15 +81,15 @@
 |74|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|0|2024-05-23|
 |75|[QuincyHoward/ABCDRez](https://github.com/QuincyHoward/ABCDRez)|本代码包（ABCDRez）是基于MATLAB语言的激光光束传输（Laser Beam Propagation）及激光谐振腔仿真（Laser Resonator Simulation）代码包。文章使用高斯光束（Gaussian Beam）描述激光，简单介绍了热效应（Thermal Effect）、腔内非线性变换（Nonlinear Frequency Transformation），主要介绍了光束的 ...|3|0|2024-07-27|
 |76|[dzxxcx/array-doa](https://github.com/dzxxcx/array-doa)|阵列功率空间谱：CBF、MVDR、MUSIC、FSS-MUSIC|3|0|2024-07-16|
-|77|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|0|2024-08-14|
+|77|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|4|0|2024-08-14|
 |78|[InfiLuck-n1ako/Matlab-CoinDetectionCounting](https://github.com/InfiLuck-n1ako/Matlab-CoinDetectionCounting)|硬币检测及计数——白色背景上扔几枚不同面值的硬币，拍摄图像，通过图像处理，获取硬币的数目及金额|3|0|2024-09-12|
-|79|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|0|2024-07-02|
+|79|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|4|0|2024-07-02|
 |80|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|61|0|2024-06-20|
 |81|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|4|0|2024-09-28|
 |82|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|0|2024-09-13|
 |83|[Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis](https://github.com/Heavyapples/Fatigue-Language-Recognition-Based-on-Gaussian-Mixture-Model-and-Principal-Component-Analysis)|本项目是一个由我个人开发的matlab机器学习项目，基于高斯混合模型（GMM）和主成分分析（PCA）进行疲劳语音的识别，属于无监督学习和降维技术的结合应用。|4|0|2024-05-23|
 |84|[hsxie/cppbook](https://github.com/hsxie/cppbook)|计算等离子体物理导论，Introduction to Computational Plasma Physics|3|0|2024-08-25|
-|85|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|122|0|2024-11-05|
+|85|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|123|0|2024-11-05|
 |86|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|0|2024-06-05|
 
 <div align="center">

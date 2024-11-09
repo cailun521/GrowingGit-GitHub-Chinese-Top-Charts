@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-11-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -23,18 +23,18 @@
 |16|[walkerke/idbr](https://github.com/walkerke/idbr)|An R interface to the US Census Bureau International Data Base API|58|0|2024-07-28|
 |17|[futureverse/progressr](https://github.com/futureverse/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|281|0|2024-11-07|
 |18|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|510|0|2024-10-15|
-|19|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|632|0|2024-11-03|
-|20|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|103|0|2024-10-31|
+|19|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|633|0|2024-11-03|
+|20|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|104|0|2024-10-31|
 |21|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|0|2024-08-12|
 |22|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|59|0|2024-06-11|
 |23|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |44|0|2024-09-05|
 |24|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|73|0|2024-09-05|
 |25|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|114|0|2024-08-11|
 |26|[johnlcd/CIRCScan](https://github.com/johnlcd/CIRCScan)|Toolkit for circRNA prediction by machine learning|6|0|2024-09-13|
-|27|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |690|0|2024-10-30|
+|27|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |691|0|2024-10-30|
 |28|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|76|0|2024-09-30|
 |29|[HaobinZhou/Get_MR](https://github.com/HaobinZhou/Get_MR)|A package for running MR In batches and in parallel quickly|284|0|2024-09-30|
-|30|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|204|0|2024-11-07|
+|30|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|204|0|2024-11-08|
 |31|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|212|0|2024-09-16|
 |32|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/; Book: https://lishensuo.github.io/UCSCXenaShiny_Book; App online: https://shiny.hiplot.cn/ucsc-xena-shiny/, htt ...|94|0|2024-11-06|
 |33|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|54|0|2024-10-11|

@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-11-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|341|2024-11-06|
 |4|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|263|2024-09-21|
 |5|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|190|2024-11-01|
-|6|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|133|2024-11-03|
+|6|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|134|2024-11-03|
 |7|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|57|2024-06-21|
 |8|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZNet is supported by future P2P VM, big data, cloud servers, and SAAS systems|53|2024-09-23|
 |9|[huzgd/ezdml](https://github.com/huzgd/ezdml)|Lightweight data modeling and design tool (超轻量级的数据建模表结构设计工具)|52|2024-09-28|
