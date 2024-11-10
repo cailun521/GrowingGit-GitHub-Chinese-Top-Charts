@@ -1,16 +1,16 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|15139|2024-08-03|
-|2|[SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|A handy collection of more than 500 native Swift extensions to boost your productivity.|14074|2024-10-28|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|15140|2024-08-03|
+|2|[SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|A handy collection of more than 500 native Swift extensions to boost your productivity.|14076|2024-10-28|
 |3|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2279|2024-07-12|
-|4|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1639|2024-11-08|
+|4|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1641|2024-11-08|
 |5|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|1497|2024-10-29|
-|6|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|1225|2024-09-10|
+|6|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|1227|2024-09-10|
 |7|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|881|2024-10-01|
 |8|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|491|2024-10-07|
 |9|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|490|2024-10-16|

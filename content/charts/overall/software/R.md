@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -27,8 +27,8 @@
 |20|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|96|2024-09-16|
 |21|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/; Book: https://lishensuo.github.io/UCSCXenaShiny_Book; App online: https://shiny.hiplot.cn/ucsc-xena-shiny/, htt ...|94|2024-11-06|
 |22|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|76|2024-09-30|
-|23|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|73|2024-09-05|
-|24|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|73|2024-11-05|
+|23|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|74|2024-11-05|
+|24|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|73|2024-09-05|
 |25|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|71|2024-09-19|
 |26|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|64|2024-09-24|
 |27|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|59|2024-06-11|
