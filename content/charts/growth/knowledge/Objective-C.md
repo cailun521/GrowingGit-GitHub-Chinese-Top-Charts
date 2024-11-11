@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -16,10 +16,10 @@
 |9|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|iOS Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微 ...|574|0|2024-08-07|
 |10|[gnou/FakeZhihuDaily](https://github.com/gnou/FakeZhihuDaily)|仿知乎日报iOS客户端|127|0|2024-11-02|
 |11|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|18|0|2024-06-04|
-|12|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1815|0|2024-11-08|
+|12|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1820|0|2024-11-08|
 |13|[zhangxistudy11/KnowledgeSummaryOfObjectC](https://github.com/zhangxistudy11/KnowledgeSummaryOfObjectC)|本项目集合了我写的很多Demo，以及封装的工具类，大部分Demo的实现思路、技巧、细节我都会对应一篇简书的文章：http://www.jianshu.com/u/c4d558e26604   |5|0|2024-10-26|
 |14|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|467|0|2024-09-19|
-|15|[HY-Vae/J2MenuViewController](https://github.com/HY-Vae/J2MenuViewController)|浏览器菜单、夸克、百度简单、菜单、弹出菜单、分享菜单、横屏、横屏适配|4|0|2024-09-13|
+|15|[HY-Vae/J2MenuViewController](https://github.com/HY-Vae/J2MenuViewController)|浏览器菜单、夸克、百度简单、菜单、弹出菜单、分享菜单、横屏、横屏适配|5|0|2024-09-13|
 |16|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|0|2024-10-16|
 |17|[zpfate/FlutterCookbook](https://github.com/zpfate/FlutterCookbook)|Flutter初学，各组件学习使用Demo|2|0|2024-05-17|
 |18|[huangchangweng/HLTool](https://github.com/huangchangweng/HLTool)|iOS开发工具类集合|2|0|2024-08-14|

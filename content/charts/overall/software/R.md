@@ -1,14 +1,14 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-11-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1779|2024-09-18|
-|2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1039|2024-11-02|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1778|2024-09-18|
+|2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1038|2024-11-02|
 |3|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |691|2024-10-30|
-|4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|633|2024-11-03|
+|4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|634|2024-11-03|
 |5|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|595|2024-09-10|
 |6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|510|2024-10-15|
 |7|[HaobinZhou/Get_MR](https://github.com/HaobinZhou/Get_MR)|A package for running MR In batches and in parallel quickly|284|2024-09-30|

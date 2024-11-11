@@ -1,14 +1,14 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Assembly
-<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[cynicalight/WHU_COURSES](https://github.com/cynicalight/WHU_COURSES)|武汉大学网安院相关课程作业|3|1|2024-11-06|
-|2|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2284|1|2024-08-20|
+|2|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2287|1|2024-08-20|
 |3|[team-s2/summer_course_2023](https://github.com/team-s2/summer_course_2023)|AAA - 2023 短学期安全攻防实践开源仓库（已整合入 ctf_summer_courses）|34|0|2024-05-21|
-|4|[CuB3y0nd/assembly](https://github.com/CuB3y0nd/assembly)|王爽《汇编语言》（第 4 版）检测点及实验 + 李忠《x86 汇编语言：从实模式到保护模式》（第二版）检测点及章节习题 + pwndbg 速查手册。|4|0|2024-11-08|
+|4|[CuB3y0nd/assembly](https://github.com/CuB3y0nd/assembly)|王爽《汇编语言》（第 4 版）检测点及实验 + 李忠《x86 汇编语言：从实模式到保护模式》（第二版）检测点及章节习题 + pwndbg 速查手册。|4|0|2024-11-10|
 |5|[Jeanhwea/x86-asm-lang](https://github.com/Jeanhwea/x86-asm-lang)|🤖 x86 汇编语言实践课程|4|0|2024-11-02|
 |6|[ZJUIntl-share/zjuintl-icicles](https://github.com/ZJUIntl-share/zjuintl-icicles)|浙大国际校区课程攻略共享计划|17|0|2024-10-14|
 |7|[Tim-xiaofan/win32asm-learn](https://github.com/Tim-xiaofan/win32asm-learn)|win32汇编语言学习|4|0|2024-05-15|

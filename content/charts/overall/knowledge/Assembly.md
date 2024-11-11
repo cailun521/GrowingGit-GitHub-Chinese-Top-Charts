@@ -1,11 +1,11 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Assembly
-<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2284|2024-08-20|
+|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2287|2024-08-20|
 |2|[thu-cs-lab/supervisor-rv](https://github.com/thu-cs-lab/supervisor-rv)|计算机组成原理课程 RISC-V 监控程序，支持 32 位和 64 位|113|2024-09-17|
 |3|[Xzonn/PokemonChineseTranslationRevise](https://github.com/Xzonn/PokemonChineseTranslationRevise)|《宝可梦》第四世代汉化修正|97|2024-11-04|
 |4|[web1992/read](https://github.com/web1992/read)|学习笔记 dubbo,rocketmq 源码解析|49|2024-09-20|
@@ -14,7 +14,7 @@
 |7|[ZJUIntl-share/zjuintl-icicles](https://github.com/ZJUIntl-share/zjuintl-icicles)|浙大国际校区课程攻略共享计划|17|2024-10-14|
 |8|[YMahmoudnia/Windows-PE-Definitive-Guide](https://github.com/YMahmoudnia/Windows-PE-Definitive-Guide)|Rewriting the Chinese book Windows PE权威指南 in Persian.|6|2024-06-14|
 |9|[Jeanhwea/x86-asm-lang](https://github.com/Jeanhwea/x86-asm-lang)|🤖 x86 汇编语言实践课程|4|2024-11-02|
-|10|[CuB3y0nd/assembly](https://github.com/CuB3y0nd/assembly)|王爽《汇编语言》（第 4 版）检测点及实验 + 李忠《x86 汇编语言：从实模式到保护模式》（第二版）检测点及章节习题 + pwndbg 速查手册。|4|2024-11-08|
+|10|[CuB3y0nd/assembly](https://github.com/CuB3y0nd/assembly)|王爽《汇编语言》（第 4 版）检测点及实验 + 李忠《x86 汇编语言：从实模式到保护模式》（第二版）检测点及章节习题 + pwndbg 速查手册。|4|2024-11-10|
 |11|[susudebug/XMU_Assembly](https://github.com/susudebug/XMU_Assembly)|厦门大学信息学院计科汇编资料|4|2024-06-07|
 |12|[Tim-xiaofan/win32asm-learn](https://github.com/Tim-xiaofan/win32asm-learn)|win32汇编语言学习|4|2024-05-15|
 |13|[cynicalight/WHU_COURSES](https://github.com/cynicalight/WHU_COURSES)|武汉大学网安院相关课程作业|3|2024-11-06|

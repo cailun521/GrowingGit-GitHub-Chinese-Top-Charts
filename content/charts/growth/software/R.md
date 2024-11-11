@@ -1,11 +1,11 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-11-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1779|1|2024-09-18|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1778|1|2024-09-18|
 |2|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|64|0|2024-09-24|
 |3|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|41|0|2024-10-08|
 |4|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|49|0|2024-06-05|
@@ -13,7 +13,7 @@
 |6|[ayueme/machine_learning_base_r](https://github.com/ayueme/machine_learning_base_r)|R语言实战机器学习|12|0|2024-11-03|
 |7|[koheiw/LSX](https://github.com/koheiw/LSX)|Semi-supervised algorithm for document scaling|55|0|2024-07-23|
 |8|[koheiw/marimo](https://github.com/koheiw/marimo)|A multi-lingual stopwords lists|15|0|2024-07-22|
-|9|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|73|0|2024-11-05|
+|9|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|74|0|2024-11-05|
 |10|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|214|0|2024-06-15|
 |11|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|23|0|2024-08-21|
 |12|[fragla/eq5d](https://github.com/fragla/eq5d)|-|21|0|2024-09-09|
@@ -23,7 +23,7 @@
 |16|[walkerke/idbr](https://github.com/walkerke/idbr)|An R interface to the US Census Bureau International Data Base API|58|0|2024-07-28|
 |17|[futureverse/progressr](https://github.com/futureverse/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|281|0|2024-11-07|
 |18|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|510|0|2024-10-15|
-|19|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|633|0|2024-11-03|
+|19|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|634|0|2024-11-03|
 |20|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|104|0|2024-10-31|
 |21|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|0|2024-08-12|
 |22|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|59|0|2024-06-11|
@@ -45,7 +45,7 @@
 |38|[majianthu/copent](https://github.com/majianthu/copent)|R package for estimating copula entropy (mutual information), transfer entropy (conditional mutual information), and the statistic for multivariate normality test and two-sample test|40|0|2024-06-07|
 |39|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|142|0|2024-07-27|
 |40|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|595|0|2024-09-10|
-|41|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1039|0|2024-11-02|
+|41|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1038|0|2024-11-02|
 |42|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|168|0|2024-06-16|
 |43|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|145|0|2024-10-12|
 |44|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|16|0|2024-08-15|

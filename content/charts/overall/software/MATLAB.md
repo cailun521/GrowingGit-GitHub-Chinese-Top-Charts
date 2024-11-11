@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-11-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -48,11 +48,11 @@
 |41|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|2024-07-14|
 |42|[Pochestina-zh/Numerical-PDEs-Coding](https://github.com/Pochestina-zh/Numerical-PDEs-Coding)|偏微分方程数值解编程作业|7|2024-09-21|
 |43|[HilbertRonAnju/MCM_2021_Problem_B](https://github.com/HilbertRonAnju/MCM_2021_Problem_B)|2021年美国大学生数学建模竞赛B题O奖仓库，西安交通大学队伍，队伍编号2104673。|7|2024-10-26|
-|44|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|6|2024-07-08|
-|45|[sdpd2333/XJTU-ERMAP](https://github.com/sdpd2333/XJTU-ERMAP)| 西安交通大学实验报告互帮互助项目 Xi'an Jiaotong University Experimental Report Mutual Assistance Project|6|2024-10-24|
-|46|[Walker-rx/Signal-equalization-using-MMSE](https://github.com/Walker-rx/Signal-equalization-using-MMSE)|利用mmse完成光通信信号均衡，源自gen_data_final|6|2024-08-22|
-|47|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|2024-09-13|
-|48|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|5|2024-11-07|
+|44|[WilliamGwok/RP_Balance](https://github.com/WilliamGwok/RP_Balance)|RM2024赛季基于五连杆结构的轮足式机器人建模与仿真代码|6|2024-11-07|
+|45|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|6|2024-07-08|
+|46|[sdpd2333/XJTU-ERMAP](https://github.com/sdpd2333/XJTU-ERMAP)| 西安交通大学实验报告互帮互助项目 Xi'an Jiaotong University Experimental Report Mutual Assistance Project|6|2024-10-24|
+|47|[Walker-rx/Signal-equalization-using-MMSE](https://github.com/Walker-rx/Signal-equalization-using-MMSE)|利用mmse完成光通信信号均衡，源自gen_data_final|6|2024-08-22|
+|48|[tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu](https://github.com/tdcsu/Cluster-simulation-like-birds-using-matlab-tdcsu)| 二阶积分器模型，集群仿真，鸟群 Second order integrator model, swarm simulation, bird swarm|6|2024-09-13|
 |49|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|
 |50|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|4|2024-09-26|
 |51|[Kennems/Image_Processing_GUI](https://github.com/Kennems/Image_Processing_GUI)|本项目旨在设计一个基于Matlab的图像去噪GUI系统，通过应用多种图像去噪算法，提高图像的质量和可用性。该系统集成了多种经典和现代的去噪方法，并提供了直观的用户界面，方便用户对图像进行去噪处理和效果评估。|4|2024-08-31|
@@ -80,16 +80,17 @@
 |73|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|
 |74|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|2024-05-25|
 |75|[Heavyapples/GoDec-algorithm-decomposes-images](https://github.com/Heavyapples/GoDec-algorithm-decomposes-images)|本项目是一个由我个人开发的matlab项目，基于GoDec算法的背景建模方法，主要用于处理视频帧或图像序列，将输入的矩阵分解为低秩矩阵、稀疏矩阵和高频噪声矩阵。|3|2024-05-23|
-|76|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|
-|77|[yssvyss/EV-charging-scheduling-strategy](https://github.com/yssvyss/EV-charging-scheduling-strategy)|毕业设计备份--基于博弈方法的电动汽车充电调度策略研究|3|2024-08-06|
-|78|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
-|79|[InfiLuck-n1ako/Matlab-CoinDetectionCounting](https://github.com/InfiLuck-n1ako/Matlab-CoinDetectionCounting)|硬币检测及计数——白色背景上扔几枚不同面值的硬币，拍摄图像，通过图像处理，获取硬币的数目及金额|3|2024-09-12|
-|80|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
-|81|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-10-11|
-|82|[17513146506/dc_motor_pid](https://github.com/17513146506/dc_motor_pid)|伺服电机pid控制|3|2024-10-31|
-|83|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|2024-05-23|
-|84|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|2024-09-22|
-|85|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|2024-09-04|
+|76|[Heavyapples/Neural-network-PID-system](https://github.com/Heavyapples/Neural-network-PID-system)|本项目是一个由我个人开发的matlab神经网络PID项目，三个代码片段分别实现了PID控制、神经网络控制、PI控制。|3|2024-05-22|
+|77|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|
+|78|[yssvyss/EV-charging-scheduling-strategy](https://github.com/yssvyss/EV-charging-scheduling-strategy)|毕业设计备份--基于博弈方法的电动汽车充电调度策略研究|3|2024-08-06|
+|79|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
+|80|[InfiLuck-n1ako/Matlab-CoinDetectionCounting](https://github.com/InfiLuck-n1ako/Matlab-CoinDetectionCounting)|硬币检测及计数——白色背景上扔几枚不同面值的硬币，拍摄图像，通过图像处理，获取硬币的数目及金额|3|2024-09-12|
+|81|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
+|82|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-10-11|
+|83|[17513146506/dc_motor_pid](https://github.com/17513146506/dc_motor_pid)|伺服电机pid控制|3|2024-10-31|
+|84|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|2024-05-23|
+|85|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|2024-09-22|
+|86|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|2024-09-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
