@@ -1,7 +1,7 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Lua
-<sub>数据更新: 2024-11-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes)|我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～|144|2024-10-12|
 |6|[xuqifzz/hades-mod-tutorial](https://github.com/xuqifzz/hades-mod-tutorial)|Hades (哈迪斯/黑帝斯) 游戏内脚本修改教程|134|2024-06-23|
 |7|[simdsoft/x-studio](https://github.com/simdsoft/x-studio)|This is the issues tracking, roadmap, docs src repo of the x-studio IDE. Copyright © 2014-2024 Simdsoft Limited|118|2024-07-15|
-|8|[d2learn/xlings](https://github.com/d2learn/xlings)|一个用于编程学习、开发和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation |90|2024-11-09|
+|8|[d2learn/xlings](https://github.com/d2learn/xlings)|一个用于编程学习、开发和课程搭建的开发者工具 🛠️ A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation |97|2024-11-11|
 |9|[JealousCat/GGMod](https://github.com/JealousCat/GGMod)|提供GameGuardian的MOD教程和代码，如luajava库、修复os.execute函数、完善String库、添加Canvas等。|86|2024-08-14|
 |10|[generals-space/note-devops](https://github.com/generals-space/note-devops)|linux运维笔记|60|2024-07-25|
 |11|[MsLGXC/GTA-StandAIO](https://github.com/MsLGXC/GTA-StandAIO)|GTAV Stand Mod Menu的All In One多位一体合集储存库,包含了stand的大量优秀脚本、汉化，同时也是MsLGXC线上画质模组的唯一更新地址|30|2024-09-29|
