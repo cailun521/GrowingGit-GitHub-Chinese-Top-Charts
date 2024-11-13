@@ -1,17 +1,17 @@
 <a href="https://gitee.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2024-11-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-11-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|59179|2024-07-11|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10994|2024-08-20|
-|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6925|2024-11-05|
-|4|[espressif/esp-dl](https://github.com/espressif/esp-dl)|Espressif deep-learning library for AIoT applications|569|2024-11-08|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|59310|2024-07-11|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10999|2024-08-20|
+|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6929|2024-11-12|
+|4|[espressif/esp-dl](https://github.com/espressif/esp-dl)|Espressif deep-learning library for AIoT applications|570|2024-11-12|
 |5|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|267|2024-07-20|
 |6|[retro16/acsi2stm](https://github.com/retro16/acsi2stm)|Atari ST ACSI to SD card converter with a STM32|164|2024-11-11|
-|7|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|146|2024-11-10|
+|7|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|147|2024-11-10|
 |8|[team-s2/ctf_summer_courses](https://github.com/team-s2/ctf_summer_courses)|AAA - 短学期安全攻防实践开源仓库|90|2024-07-25|
 |9|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|46|2024-11-08|
 |10|[weipeng2k/hot-wind](https://github.com/weipeng2k/hot-wind)|技术杂文集|33|2024-09-11|
@@ -24,20 +24,19 @@
 |17|[Lazy-Tag/ICS-labs](https://github.com/Lazy-Tag/ICS-labs)|RUC 2022-2023 ICS系列实验|7|2024-08-02|
 |18|[MrAMS/Nagi](https://github.com/MrAMS/Nagi)|基于difftest改进的CPU敏捷开发框架（龙芯杯2024）|6|2024-09-06|
 |19|[Yiipu/HUST-HardwareDesign-RISCv](https://github.com/Yiipu/HUST-HardwareDesign-RISCv)|HUST-2023秋-硬件设计综合训练|6|2024-09-13|
-|20|[DANNHIROAKI/XJTU-COMP400727-ICS](https://github.com/DANNHIROAKI/XJTU-COMP400727-ICS)|西安交通大学COMP400727计算机系统导论课程|6|2024-05-13|
-|21|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|5|2024-06-30|
-|22|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|5|2024-06-17|
-|23|[lxjfzlxj/HUST-ICS-Labs](https://github.com/lxjfzlxj/HUST-ICS-Labs)|华中科技大学计算机系统基础实验|4|2024-11-05|
-|24|[CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim](https://github.com/CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim)|南京大学计算机-2024春季的数字逻辑与计算机组成实验|4|2024-11-02|
-|25|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|2024-10-11|
-|26|[RogaWin/MASM](https://github.com/RogaWin/MASM)|解决MASM在x86环境下编译后的程序能在windows下快捷|3|2024-10-26|
-|27|[Aeternus403/XD2024Fall-EE5000](https://github.com/Aeternus403/XD2024Fall-EE5000)|2024秋数字逻辑与微处理器实验|3|2024-10-22|
-|28|[Nankai-OS-2024/OSLabs](https://github.com/Nankai-OS-2024/OSLabs)|ucore框架操作系统|3|2024-10-26|
-|29|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|2024-08-19|
-|30|[GEJXD/xv6-labs-2021](https://github.com/GEJXD/xv6-labs-2021)|MIT 6.S081 实验代码|3|2024-09-03|
-|31|[Jerry-Terrasse/HITSZ-COMP2012-LAB](https://github.com/Jerry-Terrasse/HITSZ-COMP2012-LAB)|计算机设计与实践（2023夏季）   哈工大（深圳）|3|2024-08-30|
-|32|[MiChuan/ComputerPrincipleDesign](https://github.com/MiChuan/ComputerPrincipleDesign)|华中科技大学计算机组成原理课设|3|2024-08-05|
-|33|[JannLeo/Summary-of-learning-experience](https://github.com/JannLeo/Summary-of-learning-experience)|This repository records the summary of my two stages of study as an undergraduate student in 深圳大学计算机科学与技术专业 and as a Master in Embedded Systems Engineering at the University of Leeds（利兹大学嵌入式系统工程专业研究生） ...|2|2024-05-20|
+|20|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|5|2024-06-30|
+|21|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|5|2024-06-17|
+|22|[lxjfzlxj/HUST-ICS-Labs](https://github.com/lxjfzlxj/HUST-ICS-Labs)|华中科技大学计算机系统基础实验|4|2024-11-05|
+|23|[CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim](https://github.com/CuSO4wyt/NJU-DLCO-2024Spring-lab-logisim)|南京大学计算机-2024春季的数字逻辑与计算机组成实验|4|2024-11-02|
+|24|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|2024-10-11|
+|25|[RogaWin/MASM](https://github.com/RogaWin/MASM)|解决MASM在x86环境下编译后的程序能在windows下快捷|3|2024-10-26|
+|26|[Aeternus403/XD2024Fall-EE5000](https://github.com/Aeternus403/XD2024Fall-EE5000)|2024秋数字逻辑与微处理器实验|3|2024-10-22|
+|27|[Nankai-OS-2024/OSLabs](https://github.com/Nankai-OS-2024/OSLabs)|ucore框架操作系统|3|2024-10-26|
+|28|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|2024-08-19|
+|29|[GEJXD/xv6-labs-2021](https://github.com/GEJXD/xv6-labs-2021)|MIT 6.S081 实验代码|3|2024-09-03|
+|30|[Jerry-Terrasse/HITSZ-COMP2012-LAB](https://github.com/Jerry-Terrasse/HITSZ-COMP2012-LAB)|计算机设计与实践（2023夏季）   哈工大（深圳）|3|2024-08-30|
+|31|[MiChuan/ComputerPrincipleDesign](https://github.com/MiChuan/ComputerPrincipleDesign)|华中科技大学计算机组成原理课设|3|2024-08-05|
+|32|[JannLeo/Summary-of-learning-experience](https://github.com/JannLeo/Summary-of-learning-experience)|This repository records the summary of my two stages of study as an undergraduate student in 深圳大学计算机科学与技术专业 and as a Master in Embedded Systems Engineering at the University of Leeds（利兹大学嵌入式系统工程专业研究生） ...|2|2024-05-20|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
